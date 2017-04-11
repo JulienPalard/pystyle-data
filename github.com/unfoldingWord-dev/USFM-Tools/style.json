@@ -1,21 +1,21 @@
 {
     "has_dir": {
-        "docs/": false,
-        "tests/": false
+        "docs/": true,
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": true,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,

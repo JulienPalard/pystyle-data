@@ -7,7 +7,7 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "MANIFEST.in": false,
@@ -17,7 +17,7 @@
         "README.rst": true,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": true,
+        "setup.py": false,
         "test-requirements.txt": false,
         "tox.ini": false
     }

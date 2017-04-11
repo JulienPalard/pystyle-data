@@ -1,16 +1,16 @@
 {
     "has_dir": {
-        "docs/": false,
-        "tests/": false
+        "docs/": true,
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "MANIFEST.in": false,
+        "LICENSE": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,

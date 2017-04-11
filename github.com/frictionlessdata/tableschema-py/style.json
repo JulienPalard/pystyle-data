@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "docs/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -9,16 +9,16 @@
         "AUTHORS.rst": false,
         "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "MANIFEST.in": false,
-        "Makefile": false,
+        "LICENSE": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     }
 }

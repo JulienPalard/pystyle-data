@@ -9,16 +9,16 @@
         "AUTHORS.rst": false,
         "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "MANIFEST.in": false,
+        "LICENSE": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     }
 }

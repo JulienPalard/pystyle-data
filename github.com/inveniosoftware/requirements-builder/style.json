@@ -1,24 +1,24 @@
 {
     "has_dir": {
-        "docs/": false,
-        "tests/": false
+        "docs/": true,
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
-        "AUTHORS.rst": false,
-        "CONTRIBUTING.md": true,
-        "CONTRIBUTING.rst": false,
+        "AUTHORS.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": true,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     }
 }

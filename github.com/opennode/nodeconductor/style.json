@@ -1,6 +1,6 @@
 {
     "has_dir": {
-        "docs/": false,
+        "docs/": true,
         "tests/": false
     },
     "has_file": {
@@ -9,8 +9,8 @@
         "AUTHORS.rst": false,
         "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "MANIFEST.in": false,
+        "LICENSE": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
