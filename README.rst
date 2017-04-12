@@ -8,7 +8,7 @@ and a lot of crawl time, but that's a start point.
 
 Lots of "style metrics" are to be added like:
 
-- licence
+- license
 - supported Python versions
 - PEP8 complience
 - test engine used
