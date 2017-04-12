@@ -15,7 +15,7 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
@@ -25,9 +25,9 @@
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": "MIT"
 }
