@@ -29,5 +29,5 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "license": "MIT License"
+    "license": null
 }
