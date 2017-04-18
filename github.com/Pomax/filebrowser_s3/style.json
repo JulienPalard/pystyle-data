@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": true,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,

@@ -11,7 +11,7 @@
         ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": true,
+        "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
