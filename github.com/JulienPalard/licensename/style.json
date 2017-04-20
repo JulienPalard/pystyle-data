@@ -29,5 +29,5 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "license": "MITNFA"
+    "license": "MIT"
 }

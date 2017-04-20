@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": true,
