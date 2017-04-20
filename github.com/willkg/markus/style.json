@@ -14,7 +14,7 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
