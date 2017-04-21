@@ -29,5 +29,5 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": "BSD-3-Clause"
 }
