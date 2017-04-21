@@ -25,7 +25,7 @@
         "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
