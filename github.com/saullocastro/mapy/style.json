@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
