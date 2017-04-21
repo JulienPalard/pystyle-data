@@ -1,0 +1,33 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0"
+}
