@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -16,18 +16,18 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
-        "test-requirements.txt": false,
+        "test-requirements.txt": true,
         "tox.ini": false
     },
-    "license": null
+    "license": "MIT"
 }

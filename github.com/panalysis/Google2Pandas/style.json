@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -16,18 +16,18 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
-        "setup.cfg": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": "MIT"
 }

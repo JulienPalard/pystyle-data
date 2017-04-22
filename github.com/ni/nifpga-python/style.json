@@ -1,8 +1,8 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": false,
+        "docs/": true,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": false
@@ -15,7 +15,7 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
@@ -29,5 +29,5 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": "MIT"
 }

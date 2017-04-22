@@ -23,7 +23,7 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,

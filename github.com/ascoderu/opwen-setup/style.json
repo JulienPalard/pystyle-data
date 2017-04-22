@@ -16,18 +16,18 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": true,
+        "setup.py": false,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": "MIT"
 }

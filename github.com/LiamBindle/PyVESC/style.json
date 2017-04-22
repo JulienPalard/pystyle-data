@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -16,15 +16,15 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
