@@ -29,5 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MPL-2.0"
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "html": 140,
+        "md": 66,
+        "py": 260,
+        "txt": 373
+    }
 }

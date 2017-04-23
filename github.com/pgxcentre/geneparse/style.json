@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "bim": 5,
+        "fam": 5,
+        "in": 2,
+        "map": 5,
+        "md": 54,
+        "ped": 5,
+        "py": 2630,
+        "sample": 7,
+        "vcf": 14
+    }
 }

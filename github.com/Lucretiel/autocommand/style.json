@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "LGPL-3.0"
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "in": 1,
+        "md": 10,
+        "py": 1534,
+        "rst": 416,
+        "sh": 12,
+        "sublime-project": 30,
+        "txt": 5
+    }
 }

@@ -29,5 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "ZPL-2.1"
+    "license": "ZPL-2.1",
+    "lines_of_code": {
+        "bat": 170,
+        "c": 3651,
+        "cfg": 27,
+        "h": 270,
+        "in": 22,
+        "ini": 66,
+        "py": 7728,
+        "rst": 1385,
+        "txt": 46,
+        "yml": 38
+    }
 }

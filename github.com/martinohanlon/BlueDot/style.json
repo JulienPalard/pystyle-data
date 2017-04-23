@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 90,
+        "gradle": 54,
+        "java": 333,
+        "pro": 25,
+        "properties": 23,
+        "py": 2100,
+        "rst": 697,
+        "xml": 186
+    }
 }

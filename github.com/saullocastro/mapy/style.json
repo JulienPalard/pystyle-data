@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "bdf": 5060,
+        "md": 63,
+        "py": 4885,
+        "txt": 749
+    }
 }

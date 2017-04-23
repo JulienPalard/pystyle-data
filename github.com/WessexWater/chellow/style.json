@@ -29,5 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "adoc": 998,
+        "cfg": 7,
+        "conf": 21,
+        "css": 3390,
+        "csv": 106084,
+        "df2": 87,
+        "edi": 83,
+        "html": 17762,
+        "in": 3,
+        "ini": 37,
+        "ion": 261,
+        "js": 181,
+        "less": 1724,
+        "map": 1,
+        "mm": 96,
+        "py": 70519,
+        "scss": 1724,
+        "sh": 39,
+        "svg": 685,
+        "txt": 682
+    }
 }

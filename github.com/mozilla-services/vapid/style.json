@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MPL-2.0"
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "cfg": 8,
+        "css": 37,
+        "html": 314,
+        "in": 5,
+        "js": 637,
+        "json": 3,
+        "md": 115,
+        "py": 605,
+        "rst": 85,
+        "sh": 5,
+        "txt": 6
+    }
 }

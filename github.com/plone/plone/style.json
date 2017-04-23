@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "GPL": 280,
+        "ZPL": 44,
+        "in": 3,
+        "py": 43,
+        "rst": 417,
+        "txt": 55
+    }
 }

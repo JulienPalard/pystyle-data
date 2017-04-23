@@ -29,5 +29,36 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "ac": 214,
+        "am": 534,
+        "cbproj": 308,
+        "cc": 53208,
+        "cfg": 10,
+        "cmake": 694,
+        "cpp": 4255,
+        "cppclean": 115,
+        "css": 11,
+        "groupproj": 54,
+        "h": 48373,
+        "in": 671,
+        "m4": 437,
+        "md": 37741,
+        "pbxproj": 1592,
+        "plist": 58,
+        "props": 38,
+        "pump": 3504,
+        "py": 17374,
+        "rst": 4788,
+        "sh": 228,
+        "sln": 186,
+        "svg": 854,
+        "txt": 1931,
+        "vcproj": 1711,
+        "vcxproj": 548,
+        "vsprops": 15,
+        "xcconfig": 146,
+        "yml": 77
+    }
 }

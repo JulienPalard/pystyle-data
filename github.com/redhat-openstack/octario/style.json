@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 52,
+        "in": 28,
+        "ini": 56,
+        "j2": 288,
+        "md": 124,
+        "py": 1134,
+        "repo": 52,
+        "sample": 81,
+        "spec": 18,
+        "txt": 40,
+        "yml": 37310
+    }
 }

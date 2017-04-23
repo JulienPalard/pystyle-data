@@ -29,5 +29,30 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "0": 169268,
+        "br": 49213,
+        "config": 173,
+        "conll": 155,
+        "csv": 401,
+        "dtd": 1782,
+        "feats": 50123,
+        "fex": 629,
+        "iapf": 86,
+        "java": 176138,
+        "lbj": 1217,
+        "md": 2427,
+        "mrg": 51,
+        "pl": 155,
+        "properties": 82,
+        "proto": 149,
+        "reference": 2,
+        "sgm": 109,
+        "sh": 1470,
+        "tab": 188,
+        "txt": 108682,
+        "xml": 7649,
+        "yml": 32
+    }
 }

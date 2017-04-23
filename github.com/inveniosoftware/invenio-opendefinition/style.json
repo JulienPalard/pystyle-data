@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 35,
+        "in": 42,
+        "ini": 26,
+        "json": 1560,
+        "py": 1536,
+        "rst": 500,
+        "sh": 31,
+        "txt": 30
+    }
 }

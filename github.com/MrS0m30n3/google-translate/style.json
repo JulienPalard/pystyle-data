@@ -29,5 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Unlicense"
+    "license": "Unlicense",
+    "lines_of_code": {
+        "css": 709,
+        "diff": 256,
+        "html": 3645,
+        "in": 16,
+        "js": 23427,
+        "md": 29,
+        "py": 4722,
+        "rst": 456,
+        "sh": 101,
+        "svg": 520
+    }
 }

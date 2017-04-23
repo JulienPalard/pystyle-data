@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "ini": 10,
+        "py": 1009,
+        "rst": 195,
+        "txt": 4
+    }
 }

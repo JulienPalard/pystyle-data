@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cfg": 35,
+        "conf": 244,
+        "default": 94,
+        "emu": 22477,
+        "example": 271,
+        "py": 14281,
+        "rst": 152,
+        "txt": 19,
+        "yml": 90
+    }
 }

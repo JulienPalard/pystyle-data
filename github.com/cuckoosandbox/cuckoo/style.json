@@ -29,5 +29,37 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "c": 525,
+        "cfg": 11,
+        "conf": 4942,
+        "css": 23068,
+        "d": 554,
+        "dat": 8,
+        "hbs": 365,
+        "html": 5370,
+        "in": 3,
+        "ini": 96,
+        "jinja2": 50,
+        "js": 81987,
+        "json": 1653,
+        "log": 222,
+        "mako": 47,
+        "pdf": 58,
+        "prop": 116,
+        "py": 58058,
+        "py_": 886,
+        "reference": 72,
+        "rst": 7283,
+        "scss": 10015,
+        "sh": 1957,
+        "sql": 1727,
+        "stp": 79,
+        "svg": 2959,
+        "txt": 277,
+        "xml": 58,
+        "yar": 163,
+        "yml": 582
+    }
 }

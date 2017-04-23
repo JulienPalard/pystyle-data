@@ -29,5 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "fasta": 2,
+        "fastq": 36,
+        "gff": 4,
+        "in": 1,
+        "ini": 30,
+        "py": 3602,
+        "rst": 319,
+        "sam": 9313,
+        "sh": 29,
+        "txt": 31,
+        "xml": 401,
+        "yaml": 60
+    }
 }

@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "bat": 24,
+        "ipynb": 4457,
+        "json": 6115,
+        "md": 590,
+        "py": 1515,
+        "sh": 36,
+        "txt": 20001,
+        "yaml": 193
+    }
 }

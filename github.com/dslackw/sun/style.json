@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "SlackBuild": 99,
+        "conf": 26,
+        "desktop": 9,
+        "py": 832,
+        "rst": 168,
+        "sh": 62,
+        "txt": 114
+    }
 }

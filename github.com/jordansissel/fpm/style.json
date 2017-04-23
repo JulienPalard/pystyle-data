@@ -29,5 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "erb": 1060,
+        "gemspec": 93,
+        "md": 120,
+        "pp": 94,
+        "py": 432,
+        "rb": 9694,
+        "rst": 1740,
+        "sh": 254,
+        "sphinx": 217,
+        "txt": 3
+    }
 }

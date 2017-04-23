@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "APACHE": 177,
+        "BSD": 23,
+        "cfg": 2,
+        "in": 14,
+        "ini": 55,
+        "lock": 39,
+        "py": 438,
+        "rst": 453,
+        "txt": 1
+    }
 }

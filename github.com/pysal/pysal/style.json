@@ -29,5 +29,32 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 6,
+        "cpg": 1,
+        "css": 3,
+        "csv": 14476,
+        "dat": 818,
+        "dbf": 94,
+        "gal": 21660,
+        "geojson": 3310,
+        "gwt": 3648,
+        "html": 636,
+        "in": 2,
+        "ipynb": 59251,
+        "json": 247,
+        "kwt": 67530,
+        "md": 307,
+        "mtx": 826,
+        "prj": 16,
+        "py": 92901,
+        "qpj": 5,
+        "rst": 7227,
+        "sh": 108,
+        "txt": 5996,
+        "wkt": 78,
+        "wmd": 156,
+        "xml": 550
+    }
 }

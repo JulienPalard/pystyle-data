@@ -29,5 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "F03": 980,
+        "F90": 2045,
+        "ac": 485,
+        "am": 470,
+        "bib": 189,
+        "c": 20172,
+        "ctex": 49,
+        "h": 2944,
+        "in": 3880,
+        "m4": 6409,
+        "pl": 380,
+        "rst": 169,
+        "sh": 1856,
+        "tex": 2573
+    }
 }

@@ -29,5 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "bat": 311,
+        "c": 32,
+        "cmd": 120,
+        "cpp": 1618,
+        "freebsd": 18,
+        "h": 36,
+        "in": 6,
+        "ipynb": 573,
+        "linux": 25,
+        "ll": 17,
+        "osx": 17,
+        "patch": 37,
+        "py": 12213,
+        "rst": 2552,
+        "sh": 138,
+        "txt": 35,
+        "yaml": 114,
+        "yml": 53
+    }
 }

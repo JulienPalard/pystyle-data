@@ -21,7 +21,7 @@
         "Makefile": false,
         "README": false,
         "README.md": true,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": true,
@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "IN": 3,
+        "cfg": 9,
+        "ini": 5,
+        "md": 89,
+        "py": 1523,
+        "rst": 105,
+        "txt": 7
+    }
 }

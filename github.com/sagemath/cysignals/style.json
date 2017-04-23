@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "LGPL-3.0"
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "ac": 51,
+        "c": 551,
+        "h": 416,
+        "in": 18,
+        "pxd": 218,
+        "pxi": 10,
+        "py": 731,
+        "pyx": 2202,
+        "rst": 527,
+        "txt": 3,
+        "yml": 8
+    }
 }

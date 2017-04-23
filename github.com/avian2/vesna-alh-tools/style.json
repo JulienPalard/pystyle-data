@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cdf": 338,
+        "gnuplot": 645,
+        "in": 2,
+        "ini": 11,
+        "py": 3322,
+        "rst": 294,
+        "sh": 93,
+        "txt": 2
+    }
 }

@@ -29,5 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "dockerfile": 54,
+        "md": 5,
+        "py": 5569
+    }
 }

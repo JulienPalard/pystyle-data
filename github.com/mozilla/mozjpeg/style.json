@@ -29,5 +29,34 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "1": 1099,
+        "MF": 2,
+        "S": 10818,
+        "ac": 619,
+        "am": 968,
+        "asm": 24314,
+        "c": 57406,
+        "cmake": 34,
+        "config": 16,
+        "css": 1995,
+        "def": 581,
+        "h": 11750,
+        "html": 13230,
+        "ijg": 279,
+        "in": 1841,
+        "inc": 4697,
+        "java": 5371,
+        "jni": 92,
+        "js": 1172,
+        "log": 315,
+        "m4": 254,
+        "md": 1913,
+        "rtf": 38,
+        "sh": 282,
+        "tmpl": 83,
+        "txt": 7696,
+        "xml": 24
+    }
 }

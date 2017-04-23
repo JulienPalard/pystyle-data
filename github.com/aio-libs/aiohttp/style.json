@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bat": 242,
+        "c": 7014,
+        "cfg": 22,
+        "cmd": 21,
+        "crt": 33,
+        "csr": 16,
+        "css": 7,
+        "gyp": 111,
+        "h": 362,
+        "html": 268,
+        "in": 19,
+        "ini": 69,
+        "json": 22,
+        "key": 42,
+        "md": 302,
+        "pxd": 140,
+        "py": 41062,
+        "pyx": 592,
+        "rst": 11670,
+        "sh": 56,
+        "sql": 42,
+        "svg": 487,
+        "txt": 640,
+        "unknown_mime_type": 1,
+        "yaml": 11,
+        "yml": 43
+    }
 }

@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "cfg": 2,
+        "html": 37,
+        "in": 3,
+        "py": 2301,
+        "rst": 207,
+        "sh": 5,
+        "txt": 4
+    }
 }

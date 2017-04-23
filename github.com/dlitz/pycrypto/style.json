@@ -29,5 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "2": 253,
+        "ac": 109,
+        "asc": 98,
+        "c": 12762,
+        "guess": 1530,
+        "h": 4717,
+        "in": 181,
+        "ini": 13,
+        "libtom": 5,
+        "m4": 284,
+        "mbox": 1336,
+        "orig": 15,
+        "py": 26558,
+        "rst": 1188,
+        "sh": 290,
+        "sub": 1773,
+        "txt": 462
+    }
 }

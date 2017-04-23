@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "am": 76,
+        "cabal": 42,
+        "hs": 297,
+        "in": 15,
+        "md": 274,
+        "mk": 22,
+        "mpl": 1882,
+        "mprpc": 10,
+        "rb": 1637
+    }
 }

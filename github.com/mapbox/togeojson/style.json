@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "css": 455,
+        "geojson": 529447,
+        "gpx": 53215,
+        "html": 113,
+        "js": 480,
+        "json": 82,
+        "kml": 124365,
+        "md": 265
+    }
 }

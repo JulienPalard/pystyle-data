@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "in": 4,
+        "jpgl": 96579,
+        "lab": 11270,
+        "md": 29,
+        "multilab": 2809,
+        "py": 544,
+        "txt": 257137
+    }
 }

@@ -29,5 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "base64": 818,
+        "cfg": 2,
+        "crt": 32,
+        "css": 858,
+        "html": 7719,
+        "in": 6,
+        "js": 12404,
+        "json": 643,
+        "key": 61,
+        "md": 1284,
+        "py": 11686,
+        "rc": 108,
+        "txt": 162,
+        "xml": 992,
+        "xsd": 2687
+    }
 }

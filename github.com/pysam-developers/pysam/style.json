@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "1": 261,
+        "5": 334,
+        "ac": 345,
+        "bat": 112,
+        "bed": 100002,
+        "c": 151532,
+        "donottest": 2,
+        "fa": 6596,
+        "fq": 13120,
+        "gtf": 10,
+        "h": 21438,
+        "in": 311,
+        "mk": 230,
+        "obsolete": 1169,
+        "pl": 60,
+        "pxd": 3279,
+        "py": 10279,
+        "pyx": 13700,
+        "pyxbld": 16,
+        "rst": 1724,
+        "sam": 6165,
+        "sh": 471,
+        "txt": 242,
+        "vcf": 10471,
+        "vcf40": 23,
+        "yaml": 29
+    }
 }

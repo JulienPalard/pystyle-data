@@ -29,5 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "bed": 2,
+        "c": 4960,
+        "cfg": 2,
+        "chr21_22_only": 2,
+        "chr21_22_only:50000": 1990,
+        "h": 1623,
+        "in": 2,
+        "md": 724,
+        "pairs": 1004,
+        "pl": 119,
+        "py": 456,
+        "regions": 4,
+        "regions2": 2,
+        "sh": 124,
+        "txt": 3521
+    }
 }

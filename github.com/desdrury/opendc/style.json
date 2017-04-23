@@ -29,5 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "cfg": 17,
+        "in": 7,
+        "j2": 484,
+        "md": 16,
+        "mount": 14,
+        "pem": 23,
+        "pub": 1,
+        "py": 891,
+        "rst": 10,
+        "service": 95,
+        "sh": 38,
+        "socket": 12,
+        "txt": 231,
+        "yaml": 8000,
+        "yml": 779
+    }
 }

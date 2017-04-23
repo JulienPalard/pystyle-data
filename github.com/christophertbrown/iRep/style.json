@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "fna": 2,
+        "md": 53,
+        "py": 2786,
+        "sam": 429346,
+        "tsv": 38,
+        "txt": 7
+    }
 }

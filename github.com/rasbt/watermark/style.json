@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "in": 2,
+        "ipynb": 435,
+        "md": 153,
+        "py": 265
+    }
 }

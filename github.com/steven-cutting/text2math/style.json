@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-1.0"
+    "license": "GPL-1.0",
+    "lines_of_code": {
+        "cfg": 4,
+        "in": 5,
+        "ipynb": 934,
+        "json": 129,
+        "md": 37,
+        "py": 1151,
+        "sh": 45,
+        "txt": 674,
+        "yml": 12
+    }
 }

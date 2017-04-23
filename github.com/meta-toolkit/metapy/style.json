@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cpp": 2212,
+        "h": 346,
+        "in": 16,
+        "ipynb": 6023,
+        "md": 61,
+        "mit": 18,
+        "ncsa": 29,
+        "py": 291,
+        "sh": 125,
+        "toml": 30,
+        "txt": 68
+    }
 }

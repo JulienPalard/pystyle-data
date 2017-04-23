@@ -29,5 +29,16 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 36,
+        "cfg": 13,
+        "in": 1,
+        "ini": 72,
+        "json": 4,
+        "md": 311,
+        "py": 7570,
+        "rst": 300,
+        "txt": 1
+    }
 }

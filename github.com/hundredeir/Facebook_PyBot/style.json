@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 4,
+        "md": 38,
+        "py": 1062,
+        "rst": 38,
+        "txt": 16,
+        "yml": 1
+    }
 }

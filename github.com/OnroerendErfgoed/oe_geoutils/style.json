@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "geojson": 134823,
+        "in": 3,
+        "ini": 263,
+        "json": 18520,
+        "md": 10,
+        "py": 4481,
+        "rst": 123,
+        "txt": 52
+    }
 }

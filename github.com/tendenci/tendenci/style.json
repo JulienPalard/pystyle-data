@@ -29,5 +29,30 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "bat": 190,
+        "css": 41427,
+        "htm": 4714,
+        "html": 82481,
+        "in": 9,
+        "js": 85849,
+        "json": 47631,
+        "json~refs_heads_master": 574,
+        "less": 4877,
+        "map": 4,
+        "markdown": 44,
+        "md": 1035,
+        "old": 3537,
+        "orig": 89,
+        "php": 97,
+        "po": 1337953,
+        "py": 147050,
+        "scss": 969,
+        "sh": 118,
+        "sql": 51,
+        "svg": 943,
+        "tsv": 87,
+        "txt": 5792
+    }
 }

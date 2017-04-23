@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "dockerfile": 52,
+        "md": 5,
+        "py": 3274
+    }
 }

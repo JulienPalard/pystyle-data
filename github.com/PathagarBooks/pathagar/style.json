@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cfg": 7,
+        "conf": 284,
+        "css": 891,
+        "html": 619,
+        "js": 141,
+        "json": 38,
+        "mkd": 181,
+        "pip": 6,
+        "py": 10844,
+        "spec": 56,
+        "txt": 74
+    }
 }

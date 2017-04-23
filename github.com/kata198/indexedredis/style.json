@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "LGPL-2.1"
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "html": 11256,
+        "in": 16,
+        "md": 429,
+        "py": 6287,
+        "rst": 448,
+        "txt": 2
+    }
 }

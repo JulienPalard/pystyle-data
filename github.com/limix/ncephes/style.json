@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "387": 170,
+        "688": 35,
+        "87": 208,
+        "MAK": 39,
+        "amd64": 84,
+        "ans": 578,
+        "asm": 323,
+        "bat": 283,
+        "c": 24717,
+        "cfg": 5,
+        "doc": 139,
+        "h": 638,
+        "in": 14,
+        "mak": 902,
+        "md": 74,
+        "mms": 129,
+        "opt": 30,
+        "orig": 203,
+        "patch": 746,
+        "py": 912,
+        "que": 46,
+        "rsp": 23,
+        "rst": 745,
+        "sh": 23,
+        "txt": 27,
+        "yml": 51
+    }
 }

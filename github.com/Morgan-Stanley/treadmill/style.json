@@ -29,5 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "conf": 21,
+        "data": 252,
+        "finish": 28,
+        "json": 720,
+        "md": 203,
+        "py": 55303,
+        "run": 60,
+        "run_no_log": 7,
+        "run_sys": 12,
+        "save": 224,
+        "sh": 332,
+        "shared_network": 13,
+        "yml": 459
+    }
 }

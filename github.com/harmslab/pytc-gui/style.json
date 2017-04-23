@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Unlicense"
+    "license": "Unlicense",
+    "lines_of_code": {
+        "bat": 36,
+        "cfg": 2,
+        "md": 13,
+        "py": 1925,
+        "pyw": 19,
+        "qss": 3,
+        "rst": 403
+    }
 }

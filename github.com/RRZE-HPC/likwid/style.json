@@ -29,5 +29,28 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "1": 1671,
+        "F90": 239,
+        "S": 44,
+        "agent": 66,
+        "c": 71897,
+        "cb": 1546,
+        "cc": 294,
+        "conf": 52,
+        "f90": 123,
+        "h": 45574,
+        "in": 201,
+        "lua": 7285,
+        "md": 14023,
+        "mk": 461,
+        "pl": 905,
+        "pm": 29489,
+        "ptt": 2622,
+        "py": 1642,
+        "sh": 96,
+        "tt": 225,
+        "txt": 49440
+    }
 }

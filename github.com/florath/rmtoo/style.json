@@ -29,5 +29,36 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "1": 1226,
+        "5": 1338,
+        "7": 630,
+        "Debian": 26,
+        "csv": 118,
+        "ctr": 35,
+        "doc-base": 12,
+        "dot": 462,
+        "el": 101,
+        "est": 4,
+        "examples": 1,
+        "html": 1127,
+        "in": 6,
+        "inc": 25,
+        "ini": 22,
+        "json": 1617,
+        "properties": 16,
+        "py": 15690,
+        "req": 4222,
+        "rst": 292,
+        "sh": 128,
+        "tec": 14,
+        "tex": 1831,
+        "tic": 217,
+        "tlp": 32,
+        "txt": 2222,
+        "xml": 744,
+        "xsl": 13,
+        "yaml": 750
+    }
 }

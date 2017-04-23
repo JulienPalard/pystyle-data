@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 1,
+        "ini": 12,
+        "json": 703,
+        "md": 48,
+        "py": 886,
+        "sh": 7,
+        "txt": 17
+    }
 }

@@ -29,5 +29,32 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "1": 497,
+        "Debian": 10,
+        "bat": 218,
+        "cfg": 6,
+        "dirs": 1,
+        "docs": 2,
+        "dot": 20,
+        "el": 269,
+        "emacsen-install": 45,
+        "emacsen-remove": 14,
+        "emacsen-startup": 17,
+        "examples": 2,
+        "in": 10,
+        "ini": 60,
+        "manpages": 2,
+        "postinst": 6,
+        "postrm": 8,
+        "prerm": 6,
+        "ps1": 27,
+        "py": 59128,
+        "rc": 262,
+        "rst": 3325,
+        "source": 4,
+        "txt": 1776,
+        "yml": 38
+    }
 }

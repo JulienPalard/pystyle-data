@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "NET35": 10,
+        "c": 7988,
+        "cmake": 711,
+        "cmd": 8,
+        "config": 248,
+        "cpp": 347068,
+        "cs": 19755,
+        "csproj": 1184,
+        "dox": 2941,
+        "filters": 22,
+        "h": 138680,
+        "in": 205,
+        "java": 16101,
+        "json": 22,
+        "md": 631,
+        "ml": 2424,
+        "mli": 3479,
+        "pre": 482,
+        "py": 21054,
+        "pyg": 568,
+        "sh": 11,
+        "sln": 173,
+        "smt": 325,
+        "smt2": 332,
+        "txt": 3223,
+        "vcxproj": 137
+    }
 }

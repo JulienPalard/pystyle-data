@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "contra": 16,
+        "java": 157,
+        "md": 14,
+        "properties": 2,
+        "sbt": 186,
+        "scala": 10522,
+        "txt": 26
+    }
 }

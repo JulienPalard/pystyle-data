@@ -29,5 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cfg": 2,
+        "cmake": 556,
+        "cmd": 18,
+        "cpp": 17773,
+        "css": 54,
+        "gpl3": 674,
+        "h": 15134,
+        "hpp": 43726,
+        "html": 409,
+        "in": 2858,
+        "lgpl3": 165,
+        "md": 17,
+        "py": 5664,
+        "rst": 2954,
+        "sh": 274,
+        "txt": 377,
+        "yml": 105
+    }
 }

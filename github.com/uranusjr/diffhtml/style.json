@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "ISC"
+    "license": "ISC",
+    "lines_of_code": {
+        "cfg": 26,
+        "html": 168,
+        "in": 10,
+        "ini": 18,
+        "py": 392,
+        "rst": 169,
+        "txt": 15
+    }
 }

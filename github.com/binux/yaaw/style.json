@@ -29,5 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "appcache": 20,
+        "css": 565,
+        "html": 509,
+        "js": 4637,
+        "md": 48
+    }
 }

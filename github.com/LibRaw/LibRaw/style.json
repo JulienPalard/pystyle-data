@@ -29,5 +29,31 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "CDDL": 340,
+        "LGPL": 458,
+        "ac": 215,
+        "am": 99,
+        "c": 21119,
+        "cmake": 9,
+        "cmd": 4,
+        "cpp": 39358,
+        "demosaic-packs": 46,
+        "devel": 180,
+        "dist": 158,
+        "h": 2826,
+        "html": 1778,
+        "in": 22,
+        "m4": 99,
+        "mingw": 119,
+        "msvc": 152,
+        "patch": 298,
+        "pl": 174,
+        "pro": 146,
+        "sh": 82,
+        "sln": 82,
+        "txt": 1851,
+        "vcproj": 1481
+    }
 }

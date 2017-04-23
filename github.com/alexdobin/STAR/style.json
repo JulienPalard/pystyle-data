@@ -29,5 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-1.0"
+    "license": "GPL-1.0",
+    "lines_of_code": {
+        "1": 132,
+        "5": 265,
+        "awk": 321,
+        "c": 27853,
+        "cpp": 13342,
+        "h": 9887,
+        "md": 639,
+        "mk": 147,
+        "profile": 33,
+        "sh": 49,
+        "tex": 1163,
+        "xxd": 2590
+    }
 }

@@ -29,5 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "aux": 149,
+        "bbl": 119,
+        "bib": 387,
+        "bst": 1681,
+        "cfg": 0,
+        "cls": 5513,
+        "csv": 72927,
+        "eps": 7535,
+        "in": 3,
+        "ipynb": 397,
+        "log": 940,
+        "md": 769,
+        "py": 13638,
+        "rst": 186,
+        "tex": 398,
+        "txt": 1348,
+        "yml": 1
+    }
 }

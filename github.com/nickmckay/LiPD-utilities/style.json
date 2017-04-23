@@ -29,5 +29,23 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "R": 203,
+        "css": 1257,
+        "csv": 237,
+        "dat": 26,
+        "html": 305,
+        "in": 21,
+        "ipynb": 106244,
+        "js": 13089,
+        "json": 161,
+        "m": 13925,
+        "matlab": 820,
+        "md": 109,
+        "m~": 629,
+        "py": 13174,
+        "rst": 294,
+        "txt": 1717
+    }
 }

@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "css": 708,
+        "csv": 7,
+        "html": 17505,
+        "in": 2,
+        "ini": 4,
+        "js": 13135,
+        "py": 4187,
+        "rst": 2643,
+        "svg": 685,
+        "tsv": 3,
+        "txt": 2616
+    }
 }

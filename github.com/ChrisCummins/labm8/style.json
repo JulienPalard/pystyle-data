@@ -29,5 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "arff": 872,
+        "c": 1,
+        "cfg": 2,
+        "csv": 769,
+        "csv2arff": 781,
+        "in": 1,
+        "json": 3,
+        "py": 6443,
+        "rst": 162,
+        "sh": 156,
+        "sql": 0,
+        "template": 6,
+        "txt": 682
+    }
 }

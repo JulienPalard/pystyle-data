@@ -29,5 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "ar": 4,
+        "conf": 73,
+        "crt": 32,
+        "csr": 28,
+        "eml": 162,
+        "html": 118,
+        "in": 6,
+        "init": 156,
+        "key": 105,
+        "license": 38,
+        "mbox": 113,
+        "md": 27,
+        "message": 48,
+        "out": 2,
+        "private": 30,
+        "pw": 2,
+        "py": 18027,
+        "py__": 0,
+        "rst": 27,
+        "txt": 6
+    }
 }

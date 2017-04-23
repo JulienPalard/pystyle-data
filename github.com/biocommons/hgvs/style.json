@@ -29,5 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "acs": 709,
+        "cfg": 27,
+        "clog": 291,
+        "faa": 9,
+        "fai": 6,
+        "fna": 15862,
+        "html": 2431,
+        "ini": 41,
+        "ipynb": 2209,
+        "pl": 1172,
+        "py": 9782,
+        "pymeta": 213,
+        "reqs": 13,
+        "rst": 3598,
+        "sh": 78,
+        "sql": 40,
+        "svg": 4434,
+        "tsv": 22898,
+        "txt": 457,
+        "vcf": 25
+    }
 }

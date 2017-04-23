@@ -29,5 +29,14 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bat": 281,
+        "cfg": 28,
+        "in": 5,
+        "ini": 31,
+        "py": 4528,
+        "rst": 420,
+        "txt": 209
+    }
 }

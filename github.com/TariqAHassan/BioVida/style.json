@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "csv": 1273,
+        "ipynb": 7739,
+        "json": 1,
+        "md": 397,
+        "py": 15152,
+        "rst": 570
+    }
 }

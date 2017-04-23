@@ -29,5 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bat": 278,
+        "cfg": 21,
+        "css": 61,
+        "go": 590,
+        "html": 672,
+        "ipynb": 354,
+        "js": 11689,
+        "md": 795,
+        "proto": 295,
+        "py": 16199,
+        "rst": 53,
+        "sh": 182,
+        "txt": 28,
+        "xml": 69,
+        "yml": 70
+    }
 }

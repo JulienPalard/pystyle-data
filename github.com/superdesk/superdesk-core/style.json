@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "bat": 281,
+        "cfg": 4,
+        "com,0000:newsml_ISS149709:1618095828": 148,
+        "com,0000:newsml_L4N1FL0N0:1132689232": 200,
+        "com_0000_newsml_GM1EA7M13RP01_version_484616934": 108,
+        "com_2014_newsml_KBN0FL0NM_version_10": 193,
+        "com_2014_newsml_KBN0FL0NN_version_5": 151,
+        "com_2014_newsml_KBN0FL0ZP_version_2": 140,
+        "com_2014_newsml_LYNXMPEA6F0MS_version_2": 102,
+        "com_2014_newsml_LYNXMPEA6F0MT_version_2": 102,
+        "com_2014_newsml_LYNXMPEA6F13M_version_1": 105,
+        "com_2016_newsml_L1N14N0FF_version_1542761538": 154,
+        "com_2016_newsml_L1N14N0FF_version_978556838": 217,
+        "css": 11,
+        "feature": 38799,
+        "html": 88,
+        "in": 7,
+        "json": 75825,
+        "md": 391,
+        "py": 62680,
+        "rst": 1635,
+        "sh": 10,
+        "svg": 41,
+        "tst": 707,
+        "txt": 2124,
+        "xml": 3060
+    }
 }

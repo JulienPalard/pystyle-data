@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "DurationTier": 14,
+        "KlattGrid": 7390,
+        "PitchTier": 224,
+        "PointProcess": 107,
+        "TextGrid": 748,
+        "praat": 412,
+        "py": 5370,
+        "rst": 236
+    }
 }

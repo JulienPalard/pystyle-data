@@ -29,5 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "broken": 3,
+        "groups": 3,
+        "identmap_wrong_identifier": 7,
+        "ini": 3,
+        "jinja2": 75,
+        "json": 4,
+        "log": 11,
+        "py": 1250,
+        "rst": 254,
+        "stopped": 4,
+        "txt": 4,
+        "utf8": 2
+    }
 }

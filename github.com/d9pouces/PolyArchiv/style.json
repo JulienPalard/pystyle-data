@@ -29,5 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "backup": 22,
+        "bat": 155,
+        "collect": 47,
+        "in": 3,
+        "ini": 25,
+        "ldif": 816,
+        "md": 272,
+        "pem": 5689,
+        "py": 36128,
+        "rst": 684,
+        "sh": 235,
+        "sql": 5507
+    }
 }

@@ -29,5 +29,33 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "c": 1351,
+        "cc": 210823,
+        "cmake": 42,
+        "dmp": 1,
+        "gyp": 25,
+        "h": 75263,
+        "html": 1013,
+        "in": 4,
+        "inc": 265,
+        "ini": 143,
+        "java": 31356,
+        "js": 124,
+        "lock": 145,
+        "markdown": 2122,
+        "md": 1743,
+        "mk": 373,
+        "php": 1283,
+        "pom": 145,
+        "ps1": 456,
+        "py": 6826,
+        "scss": 2074,
+        "sh": 3446,
+        "svg": 252,
+        "txt": 1002,
+        "xml": 30,
+        "yml": 202
+    }
 }

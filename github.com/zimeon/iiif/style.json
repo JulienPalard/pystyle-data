@@ -29,5 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "conf": 14,
+        "html": 804,
+        "in": 3,
+        "js": 52462,
+        "json": 465,
+        "map": 5,
+        "md": 376,
+        "py": 9660,
+        "rng": 126,
+        "rst": 198,
+        "sh": 101,
+        "txt": 2161,
+        "wsgi": 24,
+        "xml": 107,
+        "xsd": 75
+    }
 }

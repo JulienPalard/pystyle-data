@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "CC-BY-NC-4.0"
+    "license": "CC-BY-NC-4.0",
+    "lines_of_code": {
+        "bat": 281,
+        "csv": 61,
+        "ebnf": 64,
+        "in": 4,
+        "mkd": 54,
+        "py": 8047,
+        "rst": 317,
+        "txt": 406
+    }
 }

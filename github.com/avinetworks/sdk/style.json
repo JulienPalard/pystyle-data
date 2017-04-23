@@ -29,5 +29,30 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cert": 67,
+        "cfg": 1952,
+        "conf": 3978,
+        "crl": 19,
+        "crt": 40,
+        "css": 4022,
+        "html": 40988,
+        "in": 36,
+        "ini": 17,
+        "js": 36901,
+        "json": 14246,
+        "key": 99,
+        "md": 113,
+        "my": 1774,
+        "pem": 104,
+        "py": 20090,
+        "rst": 331,
+        "sh": 185,
+        "svg": 57,
+        "txt": 228,
+        "xml": 126,
+        "yaml": 48338,
+        "yml": 12
+    }
 }

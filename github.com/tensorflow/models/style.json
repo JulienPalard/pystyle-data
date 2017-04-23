@@ -29,5 +29,34 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bzl": 1057,
+        "c": 2703,
+        "cc": 25172,
+        "conll": 431866,
+        "h": 8603,
+        "html": 3826,
+        "ipynb": 1537,
+        "js": 756,
+        "json": 20,
+        "jsx": 325,
+        "label-map": 94,
+        "map": 52,
+        "master-spec": 278,
+        "master_spec": 187,
+        "md": 7654,
+        "min": 66,
+        "mk": 158,
+        "pbtxt": 2044,
+        "proto": 739,
+        "prototext": 90,
+        "py": 66643,
+        "rc": 26,
+        "sh": 1474,
+        "tag-map": 146,
+        "textproto": 880,
+        "txt": 73457,
+        "word-map": 8
+    }
 }

@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "abnf": 219,
+        "md": 6071,
+        "toml": 555,
+        "yaml": 58
+    }
 }

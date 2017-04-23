@@ -29,5 +29,30 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "1": 74,
+        "README": 24,
+        "buildbot": 24,
+        "cfg": 16,
+        "conf": 84,
+        "csv": 12,
+        "docs": 2,
+        "html": 118,
+        "in": 15,
+        "ini": 104,
+        "install": 2,
+        "lintian-overrides": 2,
+        "manpages": 1,
+        "md": 80,
+        "pem": 122,
+        "py": 34977,
+        "rst": 20293,
+        "sh": 7,
+        "tar": 101,
+        "tmpl": 241,
+        "txt": 51,
+        "types": 750,
+        "xml": 300
+    }
 }

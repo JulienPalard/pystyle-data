@@ -29,5 +29,31 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "Debug": 268,
+        "Release": 40,
+        "bat": 10,
+        "c": 105858,
+        "cpp": 78,
+        "css": 16,
+        "dox": 390,
+        "h": 5629,
+        "i": 9869,
+        "in": 1,
+        "md": 65,
+        "pl": 265,
+        "pm": 1022,
+        "py": 3320,
+        "rb": 297,
+        "sh": 21,
+        "style": 8,
+        "sublime-project": 47,
+        "yu": 1490,
+        "yu-c": 1003,
+        "yu-dox": 385,
+        "yu-h": 799,
+        "yu-i": 147,
+        "yu-py": 11
+    }
 }

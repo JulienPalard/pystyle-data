@@ -29,5 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "jinja2": 48,
+        "py": 307,
+        "rst": 72
+    }
 }

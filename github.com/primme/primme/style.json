@@ -29,5 +29,31 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "F": 1468,
+        "LGPL": 165,
+        "R": 910,
+        "Rd": 350,
+        "Rmd": 328,
+        "bat": 242,
+        "bib": 20,
+        "c": 23842,
+        "cpp": 3046,
+        "cxx": 21603,
+        "eps": 1884,
+        "f": 5448,
+        "h": 4861,
+        "i": 3930,
+        "inc": 163,
+        "m": 1535,
+        "m4": 1924,
+        "md": 461,
+        "mtx": 16642,
+        "py": 3389,
+        "rst": 4705,
+        "svg": 104,
+        "swg": 126,
+        "txt": 5531
+    }
 }

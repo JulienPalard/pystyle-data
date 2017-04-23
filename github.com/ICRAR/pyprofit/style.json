@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cl": 1517,
+        "cpp": 3979,
+        "h": 2218,
+        "hpp": 9678,
+        "in": 1,
+        "md": 13,
+        "py": 649,
+        "rst": 18
+    }
 }

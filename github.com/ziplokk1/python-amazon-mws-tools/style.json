@@ -29,5 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Unlicense"
+    "license": "Unlicense",
+    "lines_of_code": {
+        "cfg": 2,
+        "md": 119,
+        "py": 7127,
+        "txt": 30
+    }
 }

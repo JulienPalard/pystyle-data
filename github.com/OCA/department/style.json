@@ -29,5 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "csv": 6,
+        "md": 36,
+        "po": 502,
+        "pot": 264,
+        "py": 2211,
+        "rst": 244,
+        "txt": 4,
+        "xml": 1442,
+        "yml": 14
+    }
 }

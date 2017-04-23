@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "1": 84,
+        "h": 116,
+        "m": 1000,
+        "md": 213,
+        "pbxproj": 281,
+        "pch": 9
+    }
 }

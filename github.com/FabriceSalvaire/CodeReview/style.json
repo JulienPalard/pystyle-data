@@ -29,5 +29,26 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "c": 1247,
+        "conf": 15,
+        "cpp": 477,
+        "css": 26,
+        "css_t": 310,
+        "h": 90,
+        "html": 490,
+        "in": 73,
+        "ps": 3926,
+        "py": 9668,
+        "pyqt": 31,
+        "rst": 1531,
+        "sh": 209,
+        "sphinx": 139,
+        "svg": 779,
+        "tex": 0,
+        "txt": 980,
+        "ui": 283,
+        "yml": 72
+    }
 }

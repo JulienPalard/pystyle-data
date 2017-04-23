@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "ISC"
+    "license": "ISC",
+    "lines_of_code": {
+        "AT2": 13216,
+        "bbp": 4101,
+        "cfg": 38,
+        "csv": 234,
+        "ipynb": 259,
+        "out": 38,
+        "py": 549,
+        "rst": 287,
+        "smc": 732,
+        "txt": 40,
+        "yml": 6
+    }
 }

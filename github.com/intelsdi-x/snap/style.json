@@ -29,5 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "asc": 11,
+        "go": 62229,
+        "gpg": 37,
+        "json": 419,
+        "lock": 131,
+        "md": 5234,
+        "proto": 406,
+        "sh": 658,
+        "yaml": 251,
+        "yml": 148
+    }
 }

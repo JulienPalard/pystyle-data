@@ -29,5 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MPL-2.0"
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "MD": 19,
+        "c": 73,
+        "config": 6,
+        "cpp": 1505,
+        "cs": 289,
+        "csproj": 63,
+        "css": 134,
+        "go": 51,
+        "h": 764,
+        "html": 593,
+        "in": 1,
+        "ini": 64,
+        "ipynb": 2337,
+        "js": 6,
+        "md": 27,
+        "py": 4079,
+        "sublime-project": 176,
+        "user": 9
+    }
 }

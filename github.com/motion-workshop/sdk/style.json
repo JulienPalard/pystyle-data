@@ -29,5 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "bat": 16,
+        "c": 239,
+        "cbp": 120,
+        "cbproj": 245,
+        "cpp": 2389,
+        "cs": 1652,
+        "csproj": 187,
+        "groupproj": 46,
+        "hpp": 1979,
+        "html": 72,
+        "java": 2218,
+        "jnlp": 18,
+        "js": 131,
+        "md": 16,
+        "py": 1453,
+        "sln": 65,
+        "vcxproj": 862
+    }
 }

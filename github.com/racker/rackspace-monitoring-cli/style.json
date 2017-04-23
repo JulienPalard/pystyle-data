@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "in": 2,
+        "md": 235,
+        "pem": 3849,
+        "py": 1693,
+        "sh": 57,
+        "txt": 1
+    }
 }

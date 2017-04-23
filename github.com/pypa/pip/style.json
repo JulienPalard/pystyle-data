@@ -29,5 +29,28 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT"
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 253,
+        "bugfix": 24,
+        "cfg": 113,
+        "dat": 1,
+        "feature": 24,
+        "gz": 0,
+        "html": 54,
+        "in": 35,
+        "ini": 39,
+        "patch": 114,
+        "pem": 5689,
+        "pending": 14,
+        "py": 105704,
+        "removal": 22,
+        "rst": 4244,
+        "toml": 39,
+        "txt": 526,
+        "vendor": 11,
+        "whl": 0,
+        "yml": 16,
+        "zip": 0
+    }
 }

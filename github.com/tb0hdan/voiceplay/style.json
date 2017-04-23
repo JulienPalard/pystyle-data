@@ -29,5 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Unlicense"
+    "license": "Unlicense",
+    "lines_of_code": {
+        "centos7": 81,
+        "css": 276,
+        "html": 41,
+        "ini": 0,
+        "js": 44,
+        "md": 322,
+        "py": 7841,
+        "rst": 46,
+        "sample": 16,
+        "svg": 40,
+        "txt": 37
+    }
 }

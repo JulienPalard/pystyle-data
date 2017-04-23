@@ -29,5 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "cfg": 2,
+        "mk": 6,
+        "py": 13085,
+        "rst": 254,
+        "txt": 46,
+        "yaml": 19017
+    }
 }

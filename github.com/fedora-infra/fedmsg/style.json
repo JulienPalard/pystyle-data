@@ -29,5 +29,29 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "license": "LGPL-2.1"
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "attr": 2,
+        "cfg": 5,
+        "cnf": 2780,
+        "cnf-old-copy": 570,
+        "conf": 703,
+        "crt": 6760,
+        "csr": 1256,
+        "css": 17,
+        "db": 1,
+        "html": 22,
+        "in": 14,
+        "ini": 18,
+        "init": 345,
+        "key": 1472,
+        "old": 92,
+        "pem": 6800,
+        "php": 267,
+        "py": 9984,
+        "rst": 4996,
+        "service": 56,
+        "sh": 21,
+        "txt": 203
+    }
 }

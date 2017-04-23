@@ -29,5 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "clj": 46,
+        "coffee": 5,
+        "go": 7661,
+        "gradle": 58,
+        "groovy": 18,
+        "java": 96,
+        "js": 458,
+        "json": 347,
+        "json_stub": 8,
+        "md": 1917,
+        "py": 32,
+        "rs": 32,
+        "sh": 60,
+        "toml": 9,
+        "txt": 1,
+        "xml": 50,
+        "yml": 16
+    }
 }

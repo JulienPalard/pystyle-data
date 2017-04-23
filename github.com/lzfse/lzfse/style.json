@@ -29,5 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "c": 3551,
+        "cmake": 53,
+        "h": 1845,
+        "md": 73,
+        "pbxproj": 517,
+        "txt": 137,
+        "yml": 20
+    }
 }

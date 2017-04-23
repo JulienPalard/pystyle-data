@@ -29,5 +29,32 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 8,
+        "cnf": 51,
+        "css": 25681,
+        "dot": 37,
+        "dtd": 1515,
+        "glade": 6573,
+        "html": 34930,
+        "in": 11,
+        "ini": 17,
+        "js": 72603,
+        "json": 8332,
+        "less": 10460,
+        "mako": 336,
+        "map": 8,
+        "md": 242,
+        "py": 110184,
+        "rst": 1526,
+        "scss": 3980,
+        "sh": 53,
+        "sql": 27189,
+        "svg": 23517,
+        "txt": 433,
+        "wsgi": 36,
+        "xml": 62760,
+        "yml": 17
+    }
 }

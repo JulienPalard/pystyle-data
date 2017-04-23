@@ -29,5 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "bash": 142,
+        "guidance": 5,
+        "hosts": 2,
+        "md": 50,
+        "playbooks": 1,
+        "py": 985,
+        "txt": 218,
+        "yaml": 14
+    }
 }

@@ -29,5 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "css": 1395,
+        "html": 1412,
+        "js": 12962,
+        "md": 64,
+        "py": 2279,
+        "rst": 113,
+        "sh": 91,
+        "svg": 2200,
+        "txt": 134,
+        "yaml": 15,
+        "yaml_include": 7,
+        "yml": 273,
+        "yml_call": 408,
+        "yml_include": 48
+    }
 }

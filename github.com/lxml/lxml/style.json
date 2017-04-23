@@ -29,5 +29,34 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "BROKEN": 16,
+        "asc": 36,
+        "css": 669,
+        "data": 425,
+        "dtd": 11,
+        "h": 435,
+        "htc": 42,
+        "html": 526,
+        "in": 19,
+        "ini": 17,
+        "js": 552,
+        "mgp": 122,
+        "pxd": 2528,
+        "pxi": 14433,
+        "py": 35195,
+        "pyx": 5565,
+        "rnc": 8,
+        "rng": 1238,
+        "rst": 67,
+        "sch": 8,
+        "sh": 76,
+        "supp": 471,
+        "txt": 19704,
+        "xml": 40,
+        "xsd": 28,
+        "xsl": 4047,
+        "xslt": 27
+    }
 }

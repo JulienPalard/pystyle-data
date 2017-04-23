@@ -29,5 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null
+    "license": null,
+    "lines_of_code": {
+        "bat": 137,
+        "c": 23941,
+        "cmd": 14,
+        "h": 6412,
+        "in": 44,
+        "lua": 19018,
+        "m": 783,
+        "md": 259,
+        "plist": 32,
+        "rc": 193,
+        "sh": 13,
+        "txt": 320,
+        "xib": 1642,
+        "xml": 346
+    }
 }
