@@ -18,7 +18,7 @@ TODO
 Lots of "style metrics" are to be added like:
 
 - supported Python versions
-- PEP8 complience
+- PEP8 compliance
 - test engine used
 - last commit
 - number of github stars and forks
