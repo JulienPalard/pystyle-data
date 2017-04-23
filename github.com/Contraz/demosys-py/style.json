@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -29,5 +29,5 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT"
+    "license": "ISC"
 }

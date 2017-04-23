@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
