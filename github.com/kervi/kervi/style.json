@@ -38,5 +38,6 @@
         "rst": 1242,
         "sql": 14,
         "txt": 9
-    }
+    },
+    "pep8_infringement": 900
 }

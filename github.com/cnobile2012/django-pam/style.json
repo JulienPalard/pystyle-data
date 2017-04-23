@@ -42,5 +42,6 @@
         "sh": 7,
         "txt": 52,
         "wsgi": 20
-    }
+    },
+    "pep8_infringement": 120
 }

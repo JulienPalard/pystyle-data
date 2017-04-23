@@ -42,5 +42,6 @@
         "sample": 16,
         "svg": 40,
         "txt": 37
-    }
+    },
+    "pep8_infringement": 657
 }

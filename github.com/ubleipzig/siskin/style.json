@@ -49,5 +49,6 @@
         "tex": 515,
         "tsv": 1588,
         "xml": 1244
-    }
+    },
+    "pep8_infringement": 563
 }

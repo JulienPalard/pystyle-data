@@ -52,5 +52,6 @@
         "whl": 0,
         "yml": 16,
         "zip": 0
-    }
+    },
+    "pep8_infringement": 93335
 }

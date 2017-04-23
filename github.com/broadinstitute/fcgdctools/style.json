@@ -35,5 +35,6 @@
         "md": 102,
         "py": 823,
         "tsv": 33
-    }
+    },
+    "pep8_infringement": 339
 }

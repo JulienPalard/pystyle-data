@@ -53,5 +53,6 @@
         "wsgi": 19,
         "yaml": 8,
         "yml": 11
-    }
+    },
+    "pep8_infringement": 2327
 }

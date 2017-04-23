@@ -39,5 +39,6 @@
         "py": 2999,
         "rst": 170,
         "svg": 769
-    }
+    },
+    "pep8_infringement": 261
 }

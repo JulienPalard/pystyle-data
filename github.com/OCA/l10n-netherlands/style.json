@@ -40,5 +40,6 @@
         "txt": 2,
         "xml": 1258,
         "xsd": 2344
-    }
+    },
+    "pep8_infringement": 0
 }

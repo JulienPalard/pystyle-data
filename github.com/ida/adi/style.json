@@ -45,5 +45,6 @@
         "txt": 366,
         "xml": 1278,
         "zcml": 490
-    }
+    },
+    "pep8_infringement": 133
 }

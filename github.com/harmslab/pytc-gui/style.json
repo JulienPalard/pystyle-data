@@ -38,5 +38,6 @@
         "pyw": 19,
         "qss": 3,
         "rst": 403
-    }
+    },
+    "pep8_infringement": 150
 }

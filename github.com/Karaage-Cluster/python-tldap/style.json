@@ -39,5 +39,6 @@
         "schema": 2119,
         "sh": 40,
         "txt": 713
-    }
+    },
+    "pep8_infringement": 13
 }

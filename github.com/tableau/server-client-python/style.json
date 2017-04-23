@@ -44,5 +44,6 @@
         "tds": 93,
         "xml": 611,
         "yml": 17
-    }
+    },
+    "pep8_infringement": 2
 }

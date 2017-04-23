@@ -47,5 +47,6 @@
         "svg": 1520,
         "ts": 84436,
         "yml": 69
-    }
+    },
+    "pep8_infringement": 105
 }

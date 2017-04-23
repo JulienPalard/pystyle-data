@@ -46,5 +46,6 @@
         "ts": 802,
         "xcconfig": 7,
         "xml": 130
-    }
+    },
+    "pep8_infringement": 4
 }

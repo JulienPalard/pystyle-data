@@ -38,5 +38,6 @@
         "less": 50,
         "py": 226,
         "rst": 83
-    }
+    },
+    "pep8_infringement": 18
 }

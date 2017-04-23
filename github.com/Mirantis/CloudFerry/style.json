@@ -43,5 +43,6 @@
         "template": 200,
         "txt": 54,
         "yaml": 1099
-    }
+    },
+    "pep8_infringement": 1
 }

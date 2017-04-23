@@ -34,5 +34,6 @@
         "csv": 28001,
         "md": 1,
         "py": 549
-    }
+    },
+    "pep8_infringement": 66
 }

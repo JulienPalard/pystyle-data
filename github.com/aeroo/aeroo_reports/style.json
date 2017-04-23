@@ -38,5 +38,6 @@
         "pot": 909,
         "py": 9910,
         "xml": 930
-    }
+    },
+    "pep8_infringement": 3231
 }

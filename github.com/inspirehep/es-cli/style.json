@@ -35,5 +35,6 @@
         "rst": 310,
         "sh": 35,
         "txt": 81
-    }
+    },
+    "pep8_infringement": 55
 }

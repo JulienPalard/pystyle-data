@@ -40,5 +40,6 @@
         "scss": 10046,
         "sh": 435,
         "svg": 1097
-    }
+    },
+    "pep8_infringement": 0
 }

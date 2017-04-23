@@ -63,5 +63,6 @@
         "yml": 92,
         "yz": 1,
         "zsh": 40
-    }
+    },
+    "pep8_infringement": 2551
 }

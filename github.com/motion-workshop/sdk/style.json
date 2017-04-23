@@ -48,5 +48,6 @@
         "py": 1453,
         "sln": 65,
         "vcxproj": 862
-    }
+    },
+    "pep8_infringement": 56
 }

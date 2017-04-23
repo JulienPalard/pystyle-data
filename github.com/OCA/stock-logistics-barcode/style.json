@@ -44,5 +44,6 @@
         "txt": 2,
         "xml": 3308,
         "yml": 22
-    }
+    },
+    "pep8_infringement": 55
 }

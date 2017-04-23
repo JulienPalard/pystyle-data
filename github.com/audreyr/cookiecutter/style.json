@@ -47,5 +47,6 @@
         "txt{% endif %}": 1,
         "yaml": 19,
         "yml": 64
-    }
+    },
+    "pep8_infringement": 93
 }

@@ -49,5 +49,6 @@
         "service": 11,
         "sh": 58,
         "txt": 2
-    }
+    },
+    "pep8_infringement": 257
 }

@@ -32,5 +32,6 @@
     "license": null,
     "lines_of_code": {
         "py": 90
-    }
+    },
+    "pep8_infringement": 3
 }

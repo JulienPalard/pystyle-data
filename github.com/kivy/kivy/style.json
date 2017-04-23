@@ -60,5 +60,6 @@
         "vim": 38,
         "vs": 23,
         "yml": 221
-    }
+    },
+    "pep8_infringement": 932
 }

@@ -40,5 +40,6 @@
         "rst": 1060,
         "txt": 12,
         "yaml": 126093
-    }
+    },
+    "pep8_infringement": 700
 }

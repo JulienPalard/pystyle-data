@@ -40,5 +40,6 @@
         "rst": 15,
         "txt": 9,
         "ui": 324
-    }
+    },
+    "pep8_infringement": 4967
 }

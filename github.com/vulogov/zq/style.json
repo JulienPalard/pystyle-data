@@ -44,5 +44,6 @@
         "txt": 87,
         "yml": 1,
         "zql": 133
-    }
+    },
+    "pep8_infringement": 66
 }

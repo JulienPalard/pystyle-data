@@ -44,5 +44,6 @@
         "scss": 450,
         "ts": 4880,
         "txt": 9
-    }
+    },
+    "pep8_infringement": 23
 }

@@ -42,5 +42,6 @@
         "tex": 45,
         "txt": 25,
         "xml": 11
-    }
+    },
+    "pep8_infringement": 30315
 }

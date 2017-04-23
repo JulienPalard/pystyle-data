@@ -38,5 +38,6 @@
         "pyf": 41,
         "pyx": 190,
         "txt": 1
-    }
+    },
+    "pep8_infringement": 0
 }

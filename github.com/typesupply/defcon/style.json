@@ -41,5 +41,6 @@
         "rst": 1168,
         "txt": 30632,
         "yml": 52
-    }
+    },
+    "pep8_infringement": 1669
 }

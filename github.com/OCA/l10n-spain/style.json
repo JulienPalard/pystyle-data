@@ -43,5 +43,6 @@
         "svg": 6231,
         "txt": 15,
         "xml": 513252
-    }
+    },
+    "pep8_infringement": 6
 }

@@ -43,5 +43,6 @@
         "stopped": 4,
         "txt": 4,
         "utf8": 2
-    }
+    },
+    "pep8_infringement": 0
 }

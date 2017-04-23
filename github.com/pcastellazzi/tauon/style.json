@@ -38,5 +38,6 @@
         "md": 38,
         "py": 986,
         "sh": 8
-    }
+    },
+    "pep8_infringement": 18
 }

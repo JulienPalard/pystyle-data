@@ -38,5 +38,6 @@
         "rst": 22,
         "scss": 4,
         "svg": 1
-    }
+    },
+    "pep8_infringement": 15
 }

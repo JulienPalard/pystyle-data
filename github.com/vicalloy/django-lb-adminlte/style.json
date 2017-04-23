@@ -39,5 +39,6 @@
         "js": 418,
         "py": 360,
         "rst": 15
-    }
+    },
+    "pep8_infringement": 6
 }

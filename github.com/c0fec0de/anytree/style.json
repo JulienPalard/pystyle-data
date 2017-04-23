@@ -37,5 +37,6 @@
         "py": 2881,
         "rst": 452,
         "sublime-project": 28
-    }
+    },
+    "pep8_infringement": 108
 }

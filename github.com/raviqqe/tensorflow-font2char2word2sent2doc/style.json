@@ -37,5 +37,6 @@
         "rb": 65,
         "txt": 45,
         "yml": 26
-    }
+    },
+    "pep8_infringement": 3
 }

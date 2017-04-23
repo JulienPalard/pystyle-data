@@ -57,5 +57,6 @@
         "smt2": 332,
         "txt": 3223,
         "vcxproj": 137
-    }
+    },
+    "pep8_infringement": 4110
 }

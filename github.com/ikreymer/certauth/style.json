@@ -34,5 +34,6 @@
         "ini": 14,
         "py": 386,
         "rst": 64
-    }
+    },
+    "pep8_infringement": 15
 }

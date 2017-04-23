@@ -35,5 +35,6 @@
         "cfg": 3,
         "py": 7161,
         "rst": 721
-    }
+    },
+    "pep8_infringement": 377
 }

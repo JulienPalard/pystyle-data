@@ -40,5 +40,6 @@
         "sh": 42,
         "txt": 5,
         "yaml": 42
-    }
+    },
+    "pep8_infringement": 162
 }

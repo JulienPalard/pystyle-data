@@ -48,5 +48,6 @@
         "txt": 220,
         "vcxproj": 1567,
         "yml": 180
-    }
+    },
+    "pep8_infringement": 94
 }

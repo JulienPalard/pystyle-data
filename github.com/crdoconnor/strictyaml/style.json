@@ -37,5 +37,6 @@
         "settings": 16,
         "test": 1437,
         "txt": 97
-    }
+    },
+    "pep8_infringement": 73
 }

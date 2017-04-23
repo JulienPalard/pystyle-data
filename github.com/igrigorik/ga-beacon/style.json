@@ -36,5 +36,6 @@
         "md": 53,
         "svg": 33,
         "yaml": 14
-    }
+    },
+    "pep8_infringement": 0
 }

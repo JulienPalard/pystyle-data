@@ -36,5 +36,6 @@
         "pem": 192,
         "py": 1062,
         "txt": 30
-    }
+    },
+    "pep8_infringement": 64
 }

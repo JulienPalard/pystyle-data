@@ -35,5 +35,6 @@
         "js": 9,
         "md": 81,
         "py": 334
-    }
+    },
+    "pep8_infringement": 44
 }

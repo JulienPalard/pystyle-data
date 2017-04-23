@@ -101,5 +101,6 @@
         "yaml": 63,
         "yml": 54,
         "zimwiki": 695
-    }
+    },
+    "pep8_infringement": 0
 }

@@ -37,5 +37,6 @@
         "pem": 30,
         "py": 794,
         "xsd": 8188
-    }
+    },
+    "pep8_infringement": 76
 }

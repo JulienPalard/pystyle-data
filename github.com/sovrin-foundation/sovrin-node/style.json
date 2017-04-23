@@ -42,5 +42,6 @@
         "sh": 123,
         "sql": 6,
         "txt": 1
-    }
+    },
+    "pep8_infringement": 179
 }

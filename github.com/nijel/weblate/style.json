@@ -62,5 +62,6 @@
         "xliff": 13,
         "xml": 8,
         "yml": 58
-    }
+    },
+    "pep8_infringement": 353
 }

@@ -51,5 +51,6 @@
         "txt": 21,
         "validPairs": 182602,
         "yaml": 42
-    }
+    },
+    "pep8_infringement": 537
 }

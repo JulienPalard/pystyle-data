@@ -38,5 +38,6 @@
         "thrift": 3,
         "txt": 4,
         "yaml": 2
-    }
+    },
+    "pep8_infringement": 0
 }

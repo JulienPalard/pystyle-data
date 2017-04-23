@@ -37,5 +37,6 @@
         "py": 3006,
         "rst": 6,
         "sh": 226
-    }
+    },
+    "pep8_infringement": 358
 }

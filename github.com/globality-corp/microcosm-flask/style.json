@@ -36,5 +36,6 @@
         "md": 48,
         "py": 8027,
         "yml": 35
-    }
+    },
+    "pep8_infringement": 260
 }

@@ -39,5 +39,6 @@
         "rst": 279,
         "template": 25,
         "txt": 21
-    }
+    },
+    "pep8_infringement": 106
 }

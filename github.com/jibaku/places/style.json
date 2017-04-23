@@ -38,5 +38,6 @@
         "po": 75,
         "py": 1138,
         "rst": 68
-    }
+    },
+    "pep8_infringement": 279
 }

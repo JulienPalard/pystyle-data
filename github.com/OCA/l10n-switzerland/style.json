@@ -42,5 +42,6 @@
         "v11": 8,
         "xml": 2767,
         "xsd": 3797
-    }
+    },
+    "pep8_infringement": 16
 }

@@ -39,5 +39,6 @@
         "rst": 402,
         "tex": 293,
         "txt": 687
-    }
+    },
+    "pep8_infringement": 2688
 }

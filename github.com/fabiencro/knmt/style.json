@@ -41,5 +41,6 @@
         "sample": 122,
         "txt": 1323,
         "voc": 1340
-    }
+    },
+    "pep8_infringement": 2060
 }

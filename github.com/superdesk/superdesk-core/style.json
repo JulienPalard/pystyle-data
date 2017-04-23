@@ -57,5 +57,6 @@
         "tst": 707,
         "txt": 2124,
         "xml": 3060
-    }
+    },
+    "pep8_infringement": 5475
 }

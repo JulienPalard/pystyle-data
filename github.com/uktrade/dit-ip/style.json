@@ -37,5 +37,6 @@
         "py": 472,
         "rst": 102,
         "yml": 12
-    }
+    },
+    "pep8_infringement": 0
 }

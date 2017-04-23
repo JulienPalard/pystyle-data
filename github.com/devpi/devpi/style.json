@@ -46,5 +46,6 @@
         "svg": 4,
         "template": 64,
         "txt": 67
-    }
+    },
+    "pep8_infringement": 1943
 }

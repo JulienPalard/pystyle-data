@@ -36,5 +36,6 @@
         "pxd": 240,
         "py": 327,
         "pyx": 265
-    }
+    },
+    "pep8_infringement": 189
 }

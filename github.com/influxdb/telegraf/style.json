@@ -54,5 +54,6 @@
         "use_hierarchy": 1,
         "yaml": 34,
         "yml": 18
-    }
+    },
+    "pep8_infringement": 167
 }

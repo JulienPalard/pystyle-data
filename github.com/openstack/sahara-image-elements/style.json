@@ -41,5 +41,6 @@
         "stamp": 0,
         "txt": 14,
         "yaml": 80
-    }
+    },
+    "pep8_infringement": 0
 }

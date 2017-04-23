@@ -43,5 +43,6 @@
         "rst": 622,
         "svg": 2959,
         "txt": 56
-    }
+    },
+    "pep8_infringement": 26
 }

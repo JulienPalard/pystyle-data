@@ -42,5 +42,6 @@
         "script": 407,
         "sh": 6,
         "txt": 210
-    }
+    },
+    "pep8_infringement": 365
 }

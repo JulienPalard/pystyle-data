@@ -41,5 +41,6 @@
         "rst": 601,
         "tpl": 23,
         "txt": 3
-    }
+    },
+    "pep8_infringement": 0
 }

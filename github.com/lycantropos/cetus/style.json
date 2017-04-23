@@ -36,5 +36,6 @@
         "py": 2209,
         "sh": 6,
         "yml": 56
-    }
+    },
+    "pep8_infringement": 6
 }

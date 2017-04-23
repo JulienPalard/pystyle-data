@@ -44,5 +44,6 @@
         "sql": 2,
         "txt": 66,
         "yml": 28
-    }
+    },
+    "pep8_infringement": 1192
 }

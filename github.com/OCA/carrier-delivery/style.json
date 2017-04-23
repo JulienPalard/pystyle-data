@@ -44,5 +44,6 @@
         "xml": 1584,
         "xsd": 3523,
         "yml": 293
-    }
+    },
+    "pep8_infringement": 8
 }

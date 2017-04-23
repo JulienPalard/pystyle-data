@@ -38,5 +38,6 @@
         "rst": 156,
         "sample": 49,
         "txt": 28
-    }
+    },
+    "pep8_infringement": 74
 }

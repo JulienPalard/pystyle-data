@@ -34,5 +34,6 @@
         "in": 4,
         "md": 54,
         "py": 197
-    }
+    },
+    "pep8_infringement": 3
 }

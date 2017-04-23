@@ -38,5 +38,6 @@
         "json": 12,
         "py": 2034,
         "rst": 544
-    }
+    },
+    "pep8_infringement": 167
 }

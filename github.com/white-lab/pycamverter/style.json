@@ -40,5 +40,6 @@
         "spec": 72,
         "txt": 5,
         "yml": 39
-    }
+    },
+    "pep8_infringement": 3
 }

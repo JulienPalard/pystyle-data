@@ -38,5 +38,6 @@
         "pxd": 77,
         "py": 1088,
         "pyx": 631
-    }
+    },
+    "pep8_infringement": 8
 }

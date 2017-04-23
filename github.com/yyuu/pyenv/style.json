@@ -87,5 +87,6 @@
         "sh": 26,
         "txt": 78,
         "zsh": 18
-    }
+    },
+    "pep8_infringement": 0
 }

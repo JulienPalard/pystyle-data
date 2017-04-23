@@ -43,5 +43,6 @@
         "sh": 12,
         "txt": 46949,
         "xml": 559
-    }
+    },
+    "pep8_infringement": 5537
 }

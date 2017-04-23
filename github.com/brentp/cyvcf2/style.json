@@ -46,5 +46,6 @@
         "sh": 20,
         "txt": 2,
         "vcf": 1335
-    }
+    },
+    "pep8_infringement": 180
 }

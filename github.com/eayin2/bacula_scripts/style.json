@@ -36,5 +36,6 @@
         "py#": 1,
         "rules": 1,
         "txt": 51
-    }
+    },
+    "pep8_infringement": 317
 }

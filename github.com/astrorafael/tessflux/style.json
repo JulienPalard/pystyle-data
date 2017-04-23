@@ -37,5 +37,6 @@
         "md": 165,
         "py": 4217,
         "service": 21
-    }
+    },
+    "pep8_infringement": 511
 }

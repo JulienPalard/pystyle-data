@@ -48,5 +48,6 @@
         "xml": 656,
         "zcml": 1220,
         "zpt": 147
-    }
+    },
+    "pep8_infringement": 366
 }

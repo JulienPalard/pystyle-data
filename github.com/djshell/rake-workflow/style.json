@@ -35,5 +35,6 @@
         "py": 1176,
         "rst": 16,
         "yaml": 27
-    }
+    },
+    "pep8_infringement": 182
 }

@@ -35,5 +35,6 @@
         "md": 25,
         "py": 93,
         "txt": 2
-    }
+    },
+    "pep8_infringement": 1
 }

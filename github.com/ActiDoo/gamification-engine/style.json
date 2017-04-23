@@ -44,5 +44,6 @@
         "svg": 5188,
         "txt": 77,
         "uwsgi": 21
-    }
+    },
+    "pep8_infringement": 2586
 }

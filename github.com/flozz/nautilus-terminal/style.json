@@ -36,5 +36,6 @@
         "py": 601,
         "sh": 76,
         "xml": 25
-    }
+    },
+    "pep8_infringement": 67
 }

@@ -35,5 +35,6 @@
         "py": 1241,
         "txt": 2,
         "yaml": 118
-    }
+    },
+    "pep8_infringement": 89
 }

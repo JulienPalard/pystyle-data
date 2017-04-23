@@ -40,5 +40,6 @@
         "py": 110,
         "pyx": 143,
         "txt": 22
-    }
+    },
+    "pep8_infringement": 66
 }

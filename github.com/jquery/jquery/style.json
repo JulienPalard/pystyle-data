@@ -41,5 +41,6 @@
         "php": 241,
         "txt": 477,
         "xml": 36
-    }
+    },
+    "pep8_infringement": 0
 }

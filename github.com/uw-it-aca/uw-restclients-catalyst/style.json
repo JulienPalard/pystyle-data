@@ -34,5 +34,6 @@
         "conf": 1,
         "md": 2,
         "py": 287
-    }
+    },
+    "pep8_infringement": 1
 }

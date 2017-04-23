@@ -60,5 +60,6 @@
         "xml": 744,
         "xsl": 13,
         "yaml": 750
-    }
+    },
+    "pep8_infringement": 10
 }

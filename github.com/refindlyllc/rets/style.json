@@ -40,5 +40,6 @@
         "py": 1737,
         "txt": 8,
         "xml": 4916
-    }
+    },
+    "pep8_infringement": 189
 }

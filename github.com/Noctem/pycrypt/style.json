@@ -38,5 +38,6 @@
         "rb": 405,
         "rst": 4,
         "sh": 64
-    }
+    },
+    "pep8_infringement": 26
 }

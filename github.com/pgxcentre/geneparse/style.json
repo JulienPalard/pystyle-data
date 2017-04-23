@@ -40,5 +40,6 @@
         "py": 2630,
         "sample": 7,
         "vcf": 14
-    }
+    },
+    "pep8_infringement": 3
 }

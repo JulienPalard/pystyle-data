@@ -78,5 +78,6 @@
         "xml": 392,
         "xsd": 139,
         "yml": 28
-    }
+    },
+    "pep8_infringement": 4
 }

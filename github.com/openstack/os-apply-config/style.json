@@ -43,5 +43,6 @@
         "sh": 30,
         "txt": 22,
         "uid": 1
-    }
+    },
+    "pep8_infringement": 2
 }

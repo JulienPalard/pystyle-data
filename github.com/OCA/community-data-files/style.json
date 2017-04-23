@@ -39,5 +39,6 @@
         "rst": 590,
         "txt": 1,
         "xml": 2320
-    }
+    },
+    "pep8_infringement": 0
 }

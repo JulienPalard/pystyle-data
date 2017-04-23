@@ -44,5 +44,6 @@
         "tsv": 4,
         "txt": 951,
         "yaml": 2
-    }
+    },
+    "pep8_infringement": 76
 }

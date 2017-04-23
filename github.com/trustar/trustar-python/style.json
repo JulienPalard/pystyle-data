@@ -35,5 +35,6 @@
         "example": 17,
         "md": 48,
         "py": 964
-    }
+    },
+    "pep8_infringement": 139
 }

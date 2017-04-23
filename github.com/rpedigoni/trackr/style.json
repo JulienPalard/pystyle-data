@@ -41,5 +41,6 @@
         "wsdl": 64,
         "xsd": 125,
         "yaml": 164
-    }
+    },
+    "pep8_infringement": 49
 }

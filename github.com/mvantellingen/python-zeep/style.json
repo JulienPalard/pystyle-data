@@ -43,5 +43,6 @@
         "wsdl": 978,
         "xsd": 916,
         "yml": 49
-    }
+    },
+    "pep8_infringement": 453
 }

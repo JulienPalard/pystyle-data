@@ -43,5 +43,6 @@
         "svg": 568,
         "tmpl": 46,
         "txt": 3
-    }
+    },
+    "pep8_infringement": 801
 }

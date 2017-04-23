@@ -37,7 +37,8 @@
         "pro": 25,
         "properties": 23,
         "py": 2100,
-        "rst": 697,
+        "rst": 711,
         "xml": 186
-    }
+    },
+    "pep8_infringement": 584
 }

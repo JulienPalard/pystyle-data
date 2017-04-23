@@ -36,5 +36,6 @@
         "html": 509,
         "js": 4637,
         "md": 48
-    }
+    },
+    "pep8_infringement": 0
 }

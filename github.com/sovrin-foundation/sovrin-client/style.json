@@ -43,5 +43,6 @@
         "sovrin": 74,
         "toml": 17,
         "txt": 1
-    }
+    },
+    "pep8_infringement": 558
 }

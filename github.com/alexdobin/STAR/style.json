@@ -43,5 +43,6 @@
         "sh": 49,
         "tex": 1163,
         "xxd": 2590
-    }
+    },
+    "pep8_infringement": 0
 }

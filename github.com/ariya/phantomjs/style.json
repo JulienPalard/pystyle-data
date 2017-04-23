@@ -66,5 +66,6 @@
         "xhtml": 112,
         "xml": 16,
         "xsl": 37
-    }
+    },
+    "pep8_infringement": 151
 }

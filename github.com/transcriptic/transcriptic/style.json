@@ -41,5 +41,6 @@
         "sh": 8,
         "svg": 60,
         "txt": 10
-    }
+    },
+    "pep8_infringement": 387
 }

@@ -56,5 +56,6 @@
         "wkt": 78,
         "wmd": 156,
         "xml": 550
-    }
+    },
+    "pep8_infringement": 25838
 }

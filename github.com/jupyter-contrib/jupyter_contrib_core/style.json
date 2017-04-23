@@ -39,5 +39,6 @@
         "txt": 34,
         "yaml": 50,
         "yml": 77
-    }
+    },
+    "pep8_infringement": 0
 }

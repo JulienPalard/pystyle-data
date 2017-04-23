@@ -35,5 +35,6 @@
         "org": 114,
         "py": 119,
         "txt": 661
-    }
+    },
+    "pep8_infringement": 1
 }

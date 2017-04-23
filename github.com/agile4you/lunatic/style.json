@@ -35,5 +35,6 @@
         "rst": 10,
         "sql": 6,
         "txt": 11
-    }
+    },
+    "pep8_infringement": 24
 }

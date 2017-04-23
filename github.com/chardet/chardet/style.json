@@ -41,5 +41,6 @@
         "srt": 35,
         "txt": 120,
         "xml": 1712
-    }
+    },
+    "pep8_infringement": 61037
 }

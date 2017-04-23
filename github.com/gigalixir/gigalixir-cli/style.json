@@ -36,5 +36,6 @@
         "md": 23,
         "py": 1775,
         "rst": 919
-    }
+    },
+    "pep8_infringement": 409
 }

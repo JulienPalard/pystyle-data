@@ -35,5 +35,6 @@
         "py": 8616,
         "sh": 3,
         "txt": 9
-    }
+    },
+    "pep8_infringement": 2750
 }

@@ -35,5 +35,6 @@
         "md": 4,
         "patch": 70,
         "py": 490
-    }
+    },
+    "pep8_infringement": 170
 }

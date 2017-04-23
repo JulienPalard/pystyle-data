@@ -34,5 +34,6 @@
         "md": 26,
         "py": 217,
         "sample": 5
-    }
+    },
+    "pep8_infringement": 10
 }

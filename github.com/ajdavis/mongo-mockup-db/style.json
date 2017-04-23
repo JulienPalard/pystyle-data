@@ -41,5 +41,6 @@
         "pem": 34,
         "py": 5423,
         "rst": 656
-    }
+    },
+    "pep8_infringement": 113
 }

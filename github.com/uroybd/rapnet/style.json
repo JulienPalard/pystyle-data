@@ -33,5 +33,6 @@
     "lines_of_code": {
         "py": 311,
         "rst": 88
-    }
+    },
+    "pep8_infringement": 5
 }

@@ -41,5 +41,6 @@
         "sh": 658,
         "yaml": 251,
         "yml": 148
-    }
+    },
+    "pep8_infringement": 0
 }

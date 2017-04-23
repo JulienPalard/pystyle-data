@@ -42,5 +42,6 @@
         "smc": 732,
         "txt": 40,
         "yml": 6
-    }
+    },
+    "pep8_infringement": 0
 }

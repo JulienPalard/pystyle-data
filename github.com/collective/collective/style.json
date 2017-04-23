@@ -33,5 +33,6 @@
     "lines_of_code": {
         "rst": 110,
         "sh": 75
-    }
+    },
+    "pep8_infringement": 0
 }

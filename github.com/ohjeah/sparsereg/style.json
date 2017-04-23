@@ -34,5 +34,6 @@
         "py": 598,
         "rst": 22,
         "txt": 4
-    }
+    },
+    "pep8_infringement": 40
 }

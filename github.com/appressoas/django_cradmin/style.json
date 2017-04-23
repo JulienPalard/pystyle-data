@@ -48,5 +48,6 @@
         "sql": 380,
         "svg": 1166,
         "txt": 76
-    }
+    },
+    "pep8_infringement": 2492
 }

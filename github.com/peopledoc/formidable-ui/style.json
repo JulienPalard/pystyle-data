@@ -39,5 +39,6 @@
         "scss": 408,
         "yaml": 635,
         "yml": 15
-    }
+    },
+    "pep8_infringement": 0
 }

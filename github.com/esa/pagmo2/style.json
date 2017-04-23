@@ -48,5 +48,6 @@
         "sh": 274,
         "txt": 377,
         "yml": 105
-    }
+    },
+    "pep8_infringement": 231
 }

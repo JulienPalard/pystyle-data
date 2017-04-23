@@ -36,5 +36,6 @@
         "py": 2023,
         "rst": 231,
         "xsl": 173
-    }
+    },
+    "pep8_infringement": 190
 }

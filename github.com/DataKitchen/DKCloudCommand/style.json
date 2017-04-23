@@ -40,5 +40,6 @@
         "sql": 5,
         "template": 8,
         "txt": 689
-    }
+    },
+    "pep8_infringement": 987
 }

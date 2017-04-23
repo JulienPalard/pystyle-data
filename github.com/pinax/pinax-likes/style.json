@@ -35,5 +35,6 @@
         "ini": 28,
         "md": 531,
         "py": 1215
-    }
+    },
+    "pep8_infringement": 48
 }

@@ -34,5 +34,6 @@
         "json": 9081,
         "md": 49,
         "py": 544
-    }
+    },
+    "pep8_infringement": 3
 }

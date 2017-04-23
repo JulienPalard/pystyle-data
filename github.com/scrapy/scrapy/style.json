@@ -54,5 +54,6 @@
         "txt": 51,
         "types": 750,
         "xml": 300
-    }
+    },
+    "pep8_infringement": 2772
 }

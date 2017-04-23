@@ -73,5 +73,6 @@
         "xsd": 49,
         "yaml": 1560,
         "yml": 76
-    }
+    },
+    "pep8_infringement": 0
 }

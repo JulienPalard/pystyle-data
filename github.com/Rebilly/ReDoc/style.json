@@ -41,5 +41,6 @@
         "ts": 7548,
         "yaml": 860,
         "yml": 863
-    }
+    },
+    "pep8_infringement": 0
 }

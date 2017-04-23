@@ -32,9 +32,10 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 3,
-        "praat": 118,
-        "py": 1704,
+        "praat": 160,
+        "py": 1712,
         "rst": 2,
         "sh": 6
-    }
+    },
+    "pep8_infringement": 135
 }

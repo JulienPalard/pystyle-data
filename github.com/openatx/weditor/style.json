@@ -40,5 +40,6 @@
         "rst": 41,
         "txt": 4,
         "xml": 20
-    }
+    },
+    "pep8_infringement": 47
 }

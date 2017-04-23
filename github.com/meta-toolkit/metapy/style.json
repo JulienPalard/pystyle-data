@@ -42,5 +42,6 @@
         "sh": 125,
         "toml": 30,
         "txt": 68
-    }
+    },
+    "pep8_infringement": 63
 }

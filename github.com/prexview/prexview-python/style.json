@@ -34,5 +34,6 @@
         "cfg": 2,
         "md": 179,
         "py": 248
-    }
+    },
+    "pep8_infringement": 59
 }

@@ -34,5 +34,6 @@
         "jinja2": 48,
         "py": 307,
         "rst": 72
-    }
+    },
+    "pep8_infringement": 48
 }

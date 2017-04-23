@@ -36,5 +36,6 @@
         "md": 2,
         "py": 452,
         "xhtml": 106
-    }
+    },
+    "pep8_infringement": 5
 }

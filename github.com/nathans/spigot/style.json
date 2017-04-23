@@ -38,5 +38,6 @@
         "sh": 16,
         "sql": 18,
         "txt": 3
-    }
+    },
+    "pep8_infringement": 8
 }

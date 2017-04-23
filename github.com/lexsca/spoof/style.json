@@ -35,5 +35,6 @@
         "ini": 12,
         "py": 812,
         "rst": 123
-    }
+    },
+    "pep8_infringement": 201
 }

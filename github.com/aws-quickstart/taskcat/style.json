@@ -39,5 +39,6 @@
         "srcme": 5,
         "txt": 223,
         "yml": 21
-    }
+    },
+    "pep8_infringement": 128
 }

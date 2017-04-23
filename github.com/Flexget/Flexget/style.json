@@ -184,5 +184,6 @@
         "xml": 76,
         "yml": 12,
         "zip": 1
-    }
+    },
+    "pep8_infringement": 0
 }

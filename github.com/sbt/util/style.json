@@ -38,5 +38,6 @@
         "sbt": 186,
         "scala": 10522,
         "txt": 26
-    }
+    },
+    "pep8_infringement": 0
 }

@@ -40,5 +40,6 @@
         "sh": 12,
         "template": 30,
         "txt": 16
-    }
+    },
+    "pep8_infringement": 70
 }

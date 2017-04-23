@@ -48,5 +48,6 @@
         "txt": 2,
         "warc": 401,
         "yaml": 863
-    }
+    },
+    "pep8_infringement": 2022
 }

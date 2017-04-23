@@ -42,5 +42,6 @@
         "svg": 685,
         "txt": 6,
         "yml": 108
-    }
+    },
+    "pep8_infringement": 1354
 }

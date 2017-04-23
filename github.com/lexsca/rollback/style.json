@@ -30,5 +30,6 @@
         "tox.ini": false
     },
     "license": null,
-    "lines_of_code": {}
+    "lines_of_code": {},
+    "pep8_infringement": 0
 }

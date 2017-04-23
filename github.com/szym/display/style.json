@@ -40,5 +40,6 @@
         "py": 182,
         "rockspec": 35,
         "sh": 72
-    }
+    },
+    "pep8_infringement": 72
 }

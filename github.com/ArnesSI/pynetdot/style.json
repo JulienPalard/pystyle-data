@@ -36,5 +36,6 @@
         "rst": 245,
         "tmpl": 38,
         "txt": 170
-    }
+    },
+    "pep8_infringement": 482
 }

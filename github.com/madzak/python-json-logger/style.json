@@ -35,5 +35,6 @@
         "markdown": 122,
         "py": 361,
         "txt": 3
-    }
+    },
+    "pep8_infringement": 34
 }

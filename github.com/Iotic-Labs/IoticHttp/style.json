@@ -45,5 +45,6 @@
         "sh": 275,
         "sql": 12,
         "tmpl": 6
-    }
+    },
+    "pep8_infringement": 257
 }

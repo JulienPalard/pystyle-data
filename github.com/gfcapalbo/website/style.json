@@ -46,5 +46,6 @@
         "svg": 1454,
         "txt": 41,
         "xml": 13834
-    }
+    },
+    "pep8_infringement": 2
 }

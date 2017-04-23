@@ -43,5 +43,6 @@
         "rst": 684,
         "sh": 235,
         "sql": 5507
-    }
+    },
+    "pep8_infringement": 90548
 }

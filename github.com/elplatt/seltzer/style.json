@@ -40,5 +40,6 @@
         "rb": 197,
         "sql": 743,
         "yml": 21
-    }
+    },
+    "pep8_infringement": 0
 }

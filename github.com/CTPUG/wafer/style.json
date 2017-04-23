@@ -42,5 +42,6 @@
         "sh": 24,
         "txt": 46,
         "xml": 124
-    }
+    },
+    "pep8_infringement": 208
 }
