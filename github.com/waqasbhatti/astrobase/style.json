@@ -36,13 +36,13 @@
         "dat": 40,
         "html": 746,
         "in": 8,
-        "ipynb": 2279,
+        "ipynb": 2476,
         "js": 1969,
         "json": 3,
         "md": 238,
-        "py": 18122,
+        "py": 18220,
         "rst": 61,
         "txt": 9
     },
-    "pep8_infringement": 6413
+    "pep8_infringement": 6418
 }

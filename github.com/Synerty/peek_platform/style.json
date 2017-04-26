@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 2,
         "json": 8,
-        "py": 2855,
+        "py": 3006,
         "rst": 5,
         "sh": 89
     },
-    "pep8_infringement": 177
+    "pep8_infringement": 199
 }

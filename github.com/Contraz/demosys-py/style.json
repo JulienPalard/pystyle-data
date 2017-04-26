@@ -36,11 +36,11 @@
         "glsl": 34,
         "in": 3,
         "ini": 42,
-        "md": 34,
-        "py": 3735,
-        "rst": 1118,
+        "md": 32,
+        "py": 3829,
+        "rst": 2162,
         "sh": 4,
         "txt": 23
     },
-    "pep8_infringement": 183
+    "pep8_infringement": 185
 }

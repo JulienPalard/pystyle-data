@@ -34,11 +34,11 @@
         "cfg": 52,
         "ini": 37,
         "meta": 9,
-        "py": 12959,
+        "py": 13009,
         "rst": 147,
         "sh": 474,
         "txt": 50,
-        "yaml": 6648,
+        "yaml": 6674,
         "zip": 1
     },
     "pep8_infringement": 6

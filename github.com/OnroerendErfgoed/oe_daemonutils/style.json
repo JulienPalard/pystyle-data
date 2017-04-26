@@ -34,10 +34,10 @@
         "in": 3,
         "ini": 10,
         "md": 3,
-        "py": 1854,
-        "rst": 109,
+        "py": 1845,
+        "rst": 114,
         "txt": 54,
         "xml": 134
     },
-    "pep8_infringement": 231
+    "pep8_infringement": 233
 }

@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -31,9 +31,15 @@
     },
     "license": null,
     "lines_of_code": {
+        "bat": 36,
         "cfg": 2,
+        "css": 1395,
+        "html": 311,
+        "js": 12962,
         "md": 39,
-        "py": 564
+        "py": 783,
+        "rst": 412,
+        "txt": 20
     },
-    "pep8_infringement": 75
+    "pep8_infringement": 78
 }

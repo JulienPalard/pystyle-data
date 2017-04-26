@@ -33,10 +33,10 @@
     "lines_of_code": {
         "adoc": 37,
         "cfg": 2,
-        "po": 51,
-        "pot": 49,
-        "py": 161,
+        "po": 79,
+        "pot": 77,
+        "py": 176,
         "txt": 27
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 2
 }

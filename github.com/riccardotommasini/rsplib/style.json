@@ -32,12 +32,10 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "apib": 290,
-        "ipynb": 884,
-        "json": 31,
+        "ipynb": 1735,
+        "json": 739,
         "md": 5,
-        "py": 1199,
-        "sh": 30,
-        "txt": 2
+        "py": 463
     },
-    "pep8_infringement": 673
+    "pep8_infringement": 248
 }

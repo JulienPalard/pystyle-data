@@ -34,10 +34,10 @@
         "in": 7,
         "ini": 112,
         "md": 59,
-        "py": 19785,
+        "py": 19885,
         "rst": 373,
         "txt": 17,
         "yaml": 827
     },
-    "pep8_infringement": 373
+    "pep8_infringement": 374
 }

@@ -33,9 +33,9 @@
     "lines_of_code": {
         "in": 3,
         "praat": 160,
-        "py": 1712,
+        "py": 1762,
         "rst": 2,
         "sh": 6
     },
-    "pep8_infringement": 135
+    "pep8_infringement": 141
 }

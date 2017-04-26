@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 19,
         "ini": 25,
-        "py": 801,
-        "rst": 84,
+        "py": 756,
+        "rst": 86,
         "txt": 9
     },
-    "pep8_infringement": 28
+    "pep8_infringement": 21
 }

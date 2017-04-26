@@ -31,18 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "c": 1285,
+        "c": 1300,
         "cpp": 720,
         "fa": 290498,
         "fq": 4016,
         "h": 417,
+        "md": 18,
         "mk": 19,
         "nw": 20,
-        "py": 3427,
+        "py": 3540,
         "rst": 388,
         "sh": 77,
         "txt": 1201,
         "yml": 4
     },
-    "pep8_infringement": 3472
+    "pep8_infringement": 3537
 }

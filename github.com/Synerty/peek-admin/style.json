@@ -35,12 +35,12 @@
         "css": 16,
         "html": 626,
         "js": 74,
-        "json": 268,
+        "json": 272,
         "md": 27,
         "py": 66,
         "rst": 31,
         "sh": 54,
-        "ts": 1500
+        "ts": 1503
     },
     "pep8_infringement": 4
 }

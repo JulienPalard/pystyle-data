@@ -34,10 +34,10 @@
         "cfg": 2,
         "in": 1,
         "inc": 82,
-        "py": 355,
-        "rst": 595,
-        "sh": 148,
+        "py": 468,
+        "rst": 607,
+        "sh": 1633,
         "txt": 2
     },
-    "pep8_infringement": 17
+    "pep8_infringement": 23
 }

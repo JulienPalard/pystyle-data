@@ -37,19 +37,19 @@
         "html": 7595,
         "in": 5,
         "ini": 77,
-        "js": 13478,
+        "js": 13483,
         "json": 17322,
         "md": 172,
         "mst": 29,
         "po": 108358,
-        "py": 79624,
-        "rst": 19266,
+        "py": 79620,
+        "rst": 19335,
         "sample": 150,
         "scss": 8800,
         "sh": 226,
         "svg": 188,
-        "txt": 1084,
-        "yml": 20
+        "txt": 1107,
+        "yml": 21
     },
-    "pep8_infringement": 6453
+    "pep8_infringement": 6457
 }

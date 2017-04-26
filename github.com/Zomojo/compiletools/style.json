@@ -37,10 +37,10 @@
         "conf": 39,
         "cpp": 197,
         "hpp": 100,
-        "py": 5101,
+        "py": 5106,
         "rst": 193,
         "spec": 78,
         "txt": 675
     },
-    "pep8_infringement": 388
+    "pep8_infringement": 391
 }

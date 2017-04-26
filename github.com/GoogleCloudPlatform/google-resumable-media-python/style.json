@@ -32,15 +32,15 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
-        "css": 1416,
+        "css": 2832,
         "enc": 52,
-        "html": 5258,
-        "js": 26270,
-        "py": 4802,
+        "html": 10557,
+        "js": 52540,
+        "py": 5289,
         "rst": 55,
         "sh": 87,
-        "svg": 1371,
-        "txt": 71
+        "svg": 2741,
+        "txt": 141
     },
     "pep8_infringement": 1
 }

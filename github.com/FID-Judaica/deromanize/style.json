@@ -31,10 +31,10 @@
     },
     "license": null,
     "lines_of_code": {
-        "py": 1026,
+        "py": 1191,
         "rst": 449,
         "txt": 714,
-        "yml": 407
+        "yml": 415
     },
     "pep8_infringement": 1
 }

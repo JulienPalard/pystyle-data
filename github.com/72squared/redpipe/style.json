@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -34,10 +34,10 @@
         "cfg": 5,
         "in": 5,
         "ini": 29,
-        "py": 2221,
-        "rst": 344,
+        "py": 3178,
+        "rst": 630,
         "sh": 35,
-        "txt": 8
+        "txt": 9
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 1
 }

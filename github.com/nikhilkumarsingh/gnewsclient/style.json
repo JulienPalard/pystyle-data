@@ -33,9 +33,9 @@
     "lines_of_code": {
         "in": 1,
         "md": 147,
-        "py": 326,
+        "py": 330,
         "rst": 158,
         "txt": 21
     },
-    "pep8_infringement": 395
+    "pep8_infringement": 404
 }

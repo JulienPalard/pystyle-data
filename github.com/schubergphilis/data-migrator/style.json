@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 5,
         "in": 7,
-        "ini": 13,
-        "md": 97,
-        "py": 1861,
-        "rst": 68,
-        "txt": 1195,
-        "yml": 8
+        "ini": 28,
+        "md": 103,
+        "py": 1935,
+        "rst": 79,
+        "txt": 1327,
+        "yml": 29
     },
-    "pep8_infringement": 254
+    "pep8_infringement": 269
 }

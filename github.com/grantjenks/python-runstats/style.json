@@ -35,10 +35,10 @@
         "html": 5,
         "in": 1,
         "ini": 5,
-        "py": 1174,
+        "py": 1180,
         "pyx": 359,
         "rst": 469,
         "txt": 4
     },
-    "pep8_infringement": 59
+    "pep8_infringement": 63
 }

@@ -32,10 +32,10 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 1,
-        "md": 100,
-        "py": 2059,
+        "md": 193,
+        "py": 4486,
         "rst": 22,
-        "svg": 107
+        "svg": 950
     },
-    "pep8_infringement": 140
+    "pep8_infringement": 413
 }

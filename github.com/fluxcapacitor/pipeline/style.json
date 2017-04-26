@@ -75,7 +75,7 @@
         "pl": 1199,
         "properties": 6775,
         "proto": 16738,
-        "py": 7332,
+        "py": 7357,
         "rules": 509,
         "s": 607,
         "sbt": 582,
@@ -89,8 +89,8 @@
         "worker": 95,
         "xml": 7151,
         "xsl": 2496,
-        "yaml": 8949,
+        "yaml": 8969,
         "yml": 1187
     },
-    "pep8_infringement": 1654
+    "pep8_infringement": 1663
 }

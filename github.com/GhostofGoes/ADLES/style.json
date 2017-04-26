@@ -34,10 +34,10 @@
         "cfg": 5,
         "in": 8,
         "json": 81,
-        "py": 5201,
+        "py": 5318,
         "rst": 237,
         "txt": 261,
         "yaml": 1067
     },
-    "pep8_infringement": 596
+    "pep8_infringement": 608
 }

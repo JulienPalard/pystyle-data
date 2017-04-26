@@ -31,13 +31,13 @@
     },
     "license": null,
     "lines_of_code": {
-        "conf": 211,
-        "in": 63,
+        "conf": 216,
+        "in": 61,
         "json": 37,
-        "md": 641,
-        "py": 13668,
+        "md": 648,
+        "py": 13907,
         "sh": 198,
         "txt": 26
     },
-    "pep8_infringement": 949
+    "pep8_infringement": 982
 }

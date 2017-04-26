@@ -32,16 +32,18 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 48,
-        "cmd": 46,
+        "cmd": 43,
         "in": 20,
         "ini": 63,
-        "md": 866,
+        "json": 460,
+        "md": 1028,
         "ps1": 146,
-        "py": 2706,
+        "py": 2845,
         "rst": 1,
-        "txt": 20,
+        "template": 4162,
+        "txt": 22,
         "yaml": 50,
-        "yml": 63
+        "yml": 89
     },
     "pep8_infringement": 1
 }

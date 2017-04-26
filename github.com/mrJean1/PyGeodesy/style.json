@@ -32,13 +32,13 @@
     "license": null,
     "lines_of_code": {
         "css": 322,
-        "html": 31485,
+        "html": 31570,
         "in": 5,
         "js": 293,
         "md": 72,
-        "py": 27836,
+        "py": 27914,
         "rst": 64,
-        "txt": 5824
+        "txt": 5884
     },
-    "pep8_infringement": 960
+    "pep8_infringement": 973
 }

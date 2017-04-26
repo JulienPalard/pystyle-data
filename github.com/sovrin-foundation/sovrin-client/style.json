@@ -36,13 +36,13 @@
         "key": 13,
         "lock": 112,
         "log": 0,
-        "md": 989,
-        "py": 14396,
+        "md": 990,
+        "py": 14283,
         "rs": 749,
         "sh": 110,
         "sovrin": 74,
         "toml": 17,
         "txt": 1
     },
-    "pep8_infringement": 558
+    "pep8_infringement": 550
 }

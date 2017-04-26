@@ -32,12 +32,20 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "bed": 238669,
+        "coffee": 641,
+        "css": 1022,
         "cwl": 368,
+        "fai": 3889,
+        "html": 294,
         "in": 21,
-        "md": 94,
-        "py": 4069,
+        "js": 5019,
+        "json": 74,
+        "map": 34,
+        "md": 115,
+        "py": 11148,
+        "sass": 496,
         "sh": 3,
-        "txt": 571689
+        "txt": 571688
     },
-    "pep8_infringement": 836
+    "pep8_infringement": 1872
 }

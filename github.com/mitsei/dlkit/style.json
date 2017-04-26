@@ -33,15 +33,15 @@
     "lines_of_code": {
         "ini": 10,
         "json": 9,
-        "md": 192,
+        "md": 215,
         "meta": 8,
         "old": 2620,
-        "py": 559015,
+        "py": 559677,
         "rst": 63,
         "skel": 483,
         "tex": 45,
         "txt": 25,
         "xml": 11
     },
-    "pep8_infringement": 30315
+    "pep8_infringement": 30354
 }

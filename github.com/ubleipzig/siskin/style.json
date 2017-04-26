@@ -34,21 +34,24 @@
         "bib": 90,
         "bst": 1258,
         "cfg": 22,
+        "csv": 4695,
         "dat": 24,
         "dot": 157,
-        "flux": 146,
+        "flux": 194,
         "gp": 9,
         "gz": 0,
-        "ini": 130,
+        "ini": 132,
         "js": 136,
         "json": 164,
-        "md": 2115,
-        "py": 8970,
+        "ldj": 1000,
+        "md": 2120,
+        "py": 10068,
         "sh": 385,
         "template": 0,
         "tex": 515,
-        "tsv": 1588,
-        "xml": 1244
+        "tsv": 1795,
+        "txt": 8,
+        "xml": 2157
     },
-    "pep8_infringement": 563
+    "pep8_infringement": 707
 }

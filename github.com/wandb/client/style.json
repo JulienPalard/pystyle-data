@@ -31,17 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "bat": 242,
         "cfg": 19,
+        "css": 53,
         "h5": 1,
         "in": 8,
         "ini": 26,
-        "md": 34,
-        "py": 1694,
-        "rst": 148,
+        "md": 197,
+        "py": 1768,
         "sh": 19,
-        "txt": 18,
+        "svg": 18,
+        "txt": 19,
         "yml": 14
     },
-    "pep8_infringement": 312
+    "pep8_infringement": 315
 }

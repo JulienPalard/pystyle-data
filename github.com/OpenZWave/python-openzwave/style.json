@@ -41,7 +41,7 @@
         "js": 52105,
         "map": 2,
         "pxd": 723,
-        "py": 17588,
+        "py": 17644,
         "pyx": 4909,
         "rst": 2048,
         "scss": 149,
@@ -49,5 +49,5 @@
         "txt": 507,
         "yml": 21
     },
-    "pep8_infringement": 4319
+    "pep8_infringement": 4356
 }
