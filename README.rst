@@ -9,7 +9,8 @@ and a lot of crawl time, but that's a start point.
 Stats
 -----
 
-.. image:: licenses.png
+.. image:: plots/licenses.png
+.. image:: plots/readme.png
 
 
 TODO
