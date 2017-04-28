@@ -20,8 +20,8 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": true,
@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 3,
-        "md": 63,
-        "py": 276,
+        "py": 232,
+        "rst": 74,
         "txt": 2
     },
-    "pep8_infringement": 25
+    "pep8_infringement": 17
 }

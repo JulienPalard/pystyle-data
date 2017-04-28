@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": true,
@@ -31,15 +31,15 @@
     },
     "license": null,
     "lines_of_code": {
-        "css": 42,
-        "html": 805,
+        "css": 51,
+        "html": 844,
         "in": 2,
         "js": 408,
         "map": 1,
-        "md": 99,
-        "py": 1152,
+        "md": 134,
+        "py": 1551,
         "svg": 5189,
-        "txt": 18
+        "txt": 19
     },
-    "pep8_infringement": 110
+    "pep8_infringement": 132
 }

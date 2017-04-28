@@ -38,11 +38,11 @@
         "js": 24,
         "json": 898,
         "md": 1475,
-        "py": 33140,
-        "rst": 728,
+        "py": 33157,
+        "rst": 741,
         "svg": 568,
         "tmpl": 46,
         "txt": 3
     },
-    "pep8_infringement": 805
+    "pep8_infringement": 808
 }

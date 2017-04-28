@@ -34,7 +34,7 @@
         "bash": 12,
         "cf": 47,
         "cfg": 112,
-        "conf": 1014,
+        "conf": 1015,
         "config": 191,
         "cookie": 1,
         "in": 5,
@@ -43,7 +43,7 @@
         "md": 332,
         "messages": 750,
         "pub": 1,
-        "py": 20565,
+        "py": 20937,
         "rc": 352,
         "rules": 35,
         "sh": 61,
@@ -54,5 +54,5 @@
         "yaml": 8,
         "yml": 11
     },
-    "pep8_infringement": 2327
+    "pep8_infringement": 2365
 }

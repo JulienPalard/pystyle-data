@@ -33,11 +33,11 @@
     "lines_of_code": {
         "cfg": 5,
         "cwl": 137,
-        "json": 1968,
+        "json": 2002,
         "md": 493,
-        "py": 31680,
+        "py": 31696,
         "rst": 3155,
-        "sh": 686,
+        "sh": 702,
         "txt": 32
     },
     "pep8_infringement": 5420

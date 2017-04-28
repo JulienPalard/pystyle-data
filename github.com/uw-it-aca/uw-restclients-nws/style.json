@@ -32,11 +32,11 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 1,
-        "edu": 528,
+        "edu": 546,
         "in": 2,
         "json": 9,
         "md": 2,
-        "py": 1109
+        "py": 1117
     },
     "pep8_infringement": 1
 }

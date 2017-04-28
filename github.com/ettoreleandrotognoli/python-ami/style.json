@@ -32,10 +32,10 @@
     "license": null,
     "lines_of_code": {
         "in": 0,
-        "py": 1239,
+        "py": 1727,
         "rst": 219,
         "txt": 0,
         "yml": 2
     },
-    "pep8_infringement": 53
+    "pep8_infringement": 521
 }

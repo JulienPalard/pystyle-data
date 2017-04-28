@@ -40,9 +40,9 @@
         "js": 13196,
         "json": 37,
         "md": 37,
-        "py": 3089,
-        "rst": 1674,
+        "py": 3184,
+        "rst": 1686,
         "txt": 1271
     },
-    "pep8_infringement": 119
+    "pep8_infringement": 120
 }

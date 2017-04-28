@@ -14,7 +14,7 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": false,
         "LICENSE.txt": true,
         "MANIFEST.in": false,
@@ -24,17 +24,17 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": true,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 61,
-        "py": 835,
-        "rst": 151,
-        "txt": 20030
+        "ini": 22,
+        "py": 959,
+        "rst": 211,
+        "txt": 20802
     },
-    "pep8_infringement": 144
+    "pep8_infringement": 124
 }

@@ -3,7 +3,7 @@
         "doc/": false,
         "docs/": false,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
         "tests/": false
     },

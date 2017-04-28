@@ -38,15 +38,15 @@
         "in": 11,
         "ini": 3,
         "ipynb": 534,
-        "js": 705,
+        "js": 697,
         "json": 3913,
         "md": 2183,
-        "py": 2011,
+        "py": 2009,
         "rst": 39,
         "sh": 162,
         "svg": 1520,
-        "ts": 84436,
+        "ts": 84427,
         "yml": 69
     },
-    "pep8_infringement": 105
+    "pep8_infringement": 104
 }

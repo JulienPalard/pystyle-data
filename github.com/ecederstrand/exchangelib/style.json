@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 3,
         "md": 11,
-        "py": 12708,
-        "rst": 681,
+        "py": 12910,
+        "rst": 702,
         "sample": 5,
         "yml": 15
     },
-    "pep8_infringement": 2461
+    "pep8_infringement": 2510
 }

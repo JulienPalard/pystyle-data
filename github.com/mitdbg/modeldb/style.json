@@ -31,24 +31,24 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "conf": 39,
+        "conf": 46,
         "css": 2885,
         "csv": 95277,
         "ejs": 924,
         "html": 7751,
-        "java": 10029,
+        "java": 10791,
         "js": 33584,
         "json": 79,
         "md": 1099,
-        "py": 4837,
-        "sbt": 36,
+        "py": 4884,
+        "sbt": 37,
         "scala": 6607,
-        "sh": 494,
+        "sh": 519,
         "sql": 527,
-        "thrift": 1407,
+        "thrift": 1490,
         "txt": 13,
-        "xml": 236,
+        "xml": 241,
         "yaml": 24
     },
-    "pep8_infringement": 69
+    "pep8_infringement": 81
 }

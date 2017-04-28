@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 3,
         "in": 6,
-        "ipynb": 5609,
-        "py": 3584,
-        "rst": 1084,
+        "ipynb": 6010,
+        "py": 3627,
+        "rst": 1088,
         "txt": 79
     },
     "pep8_infringement": 124

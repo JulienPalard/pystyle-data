@@ -31,9 +31,9 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "bat": 3,
+        "bat": 6,
         "md": 3,
-        "py": 4007
+        "py": 4364
     },
-    "pep8_infringement": 304
+    "pep8_infringement": 291
 }

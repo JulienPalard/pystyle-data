@@ -36,11 +36,11 @@
         "in": 1,
         "ini": 2,
         "ipynb": 473,
-        "md": 68,
-        "py": 2141,
+        "md": 71,
+        "py": 2204,
         "rst": 96,
         "sh": 172,
         "txt": 683
     },
-    "pep8_infringement": 135
+    "pep8_infringement": 137
 }

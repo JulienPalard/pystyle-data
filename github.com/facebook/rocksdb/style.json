@@ -32,11 +32,11 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "c": 1351,
-        "cc": 210823,
+        "cc": 210855,
         "cmake": 42,
         "dmp": 1,
         "gyp": 25,
-        "h": 75263,
+        "h": 75330,
         "html": 1013,
         "in": 4,
         "inc": 265,

@@ -33,9 +33,11 @@
     "lines_of_code": {
         "in": 1,
         "md": 193,
-        "py": 4486,
+        "py": 5061,
+        "rs": 139,
         "rst": 22,
-        "svg": 950
+        "svg": 950,
+        "toml": 7
     },
-    "pep8_infringement": 413
+    "pep8_infringement": 469
 }

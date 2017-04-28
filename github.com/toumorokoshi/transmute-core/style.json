@@ -35,9 +35,9 @@
         "cfg": 1,
         "html": 106,
         "in": 3,
-        "py": 3082,
+        "py": 3074,
         "rst": 574,
         "txt": 2
     },
-    "pep8_infringement": 102
+    "pep8_infringement": 100
 }

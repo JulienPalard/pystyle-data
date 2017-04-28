@@ -34,9 +34,9 @@
         "css": 36,
         "html": 153,
         "in": 5,
-        "md": 84,
-        "py": 191,
+        "md": 94,
+        "py": 231,
         "txt": 4
     },
-    "pep8_infringement": 6
+    "pep8_infringement": 15
 }

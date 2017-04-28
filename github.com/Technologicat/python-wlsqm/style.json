@@ -31,10 +31,10 @@
     },
     "license": null,
     "lines_of_code": {
-        "md": 249,
-        "pxd": 718,
-        "py": 2449,
-        "pyx": 8342
+        "md": 246,
+        "pxd": 734,
+        "py": 2409,
+        "pyx": 8345
     },
-    "pep8_infringement": 1357
+    "pep8_infringement": 1615
 }

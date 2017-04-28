@@ -31,17 +31,12 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "MD5": 3,
-        "SHA1": 3,
-        "SHA256": 3,
         "cfg": 2,
-        "html": 272,
-        "js": 30985,
         "json": 30,
         "md": 22,
-        "py": 411,
+        "py": 447,
         "rst": 86,
         "txt": 32
     },
-    "pep8_infringement": 26
+    "pep8_infringement": 30
 }

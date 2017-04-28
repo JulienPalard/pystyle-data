@@ -32,8 +32,8 @@
     "license": null,
     "lines_of_code": {
         "md": 14,
-        "py": 400,
+        "py": 403,
         "yaml": 95
     },
-    "pep8_infringement": 88
+    "pep8_infringement": 93
 }

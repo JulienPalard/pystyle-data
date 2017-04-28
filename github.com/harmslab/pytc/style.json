@@ -31,12 +31,12 @@
     },
     "license": "Unlicense",
     "lines_of_code": {
-        "DH": 808,
+        "DH": 846,
         "bat": 36,
-        "ipynb": 1813,
-        "md": 35,
+        "ipynb": 1412,
+        "md": 36,
         "py": 2735,
-        "rst": 1367
+        "rst": 1363
     },
-    "pep8_infringement": 580
+    "pep8_infringement": 579
 }

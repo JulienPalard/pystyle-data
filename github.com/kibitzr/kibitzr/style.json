@@ -37,10 +37,10 @@
         "in": 15,
         "ini": 22,
         "json": 1,
-        "md": 31,
-        "py": 2219,
-        "rst": 1146,
+        "md": 179,
+        "py": 2437,
+        "rst": 1197,
         "txt": 16
     },
-    "pep8_infringement": 6
+    "pep8_infringement": 9
 }

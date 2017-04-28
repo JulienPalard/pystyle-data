@@ -38,17 +38,17 @@
         "html": 1168,
         "in": 81,
         "js": 19234,
-        "json": 569,
+        "json": 585,
         "map": 1,
         "md": 83,
-        "py": 329026,
+        "py": 331962,
         "pyproj": 2695,
-        "rst": 10034,
+        "rst": 10049,
         "sln": 60,
         "svg": 228,
         "txt": 52,
         "yaml": 2599958,
         "yml": 20
     },
-    "pep8_infringement": 26016
+    "pep8_infringement": 26175
 }

@@ -35,23 +35,23 @@
         "conf": 14,
         "css": 13311,
         "eot": 0,
-        "html": 9378,
+        "html": 10303,
         "in": 18,
         "ini": 21,
-        "js": 14461,
+        "js": 14460,
         "json": 61,
         "map": 14,
         "otf": 0,
         "po": 344,
-        "py": 1863,
-        "rst": 739,
+        "py": 1952,
+        "rst": 1139,
         "sass": 1110,
         "svg": 1370,
         "ttf": 0,
-        "txt": 1007,
+        "txt": 1227,
         "woff": 0,
         "woff2": 0,
-        "xml": 313
+        "xml": 314
     },
-    "pep8_infringement": 81
+    "pep8_infringement": 133
 }

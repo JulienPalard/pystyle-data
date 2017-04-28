@@ -48,7 +48,7 @@
         "erb": 7781,
         "example": 429,
         "gemspec": 97,
-        "go": 35802,
+        "go": 35832,
         "html": 1712,
         "in": 17,
         "io": 4,
@@ -64,9 +64,9 @@
         "pl": 46,
         "pm": 476,
         "properties": 11,
-        "py": 38747,
+        "py": 38846,
         "rake": 94,
-        "rb": 51656,
+        "rb": 51689,
         "rc": 213,
         "repo": 5,
         "report": 83,
@@ -83,5 +83,5 @@
         "xml": 106,
         "yml": 6972
     },
-    "pep8_infringement": 3396
+    "pep8_infringement": 3399
 }

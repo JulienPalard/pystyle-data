@@ -34,11 +34,11 @@
         "bat": 281,
         "cfg": 2,
         "html": 858,
-        "json": 327387,
-        "md": 552,
-        "py": 12097,
+        "json": 333480,
+        "md": 566,
+        "py": 12332,
         "rst": 1145,
         "yml": 26
     },
-    "pep8_infringement": 130
+    "pep8_infringement": 98
 }

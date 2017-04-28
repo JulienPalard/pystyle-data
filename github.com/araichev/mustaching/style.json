@@ -15,8 +15,8 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "LICENSE.txt": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
@@ -35,9 +35,9 @@
         "html": 248,
         "ipynb": 896,
         "js": 12961,
-        "py": 813,
-        "rst": 154,
-        "txt": 45
+        "py": 814,
+        "rst": 159,
+        "txt": 66
     },
-    "pep8_infringement": 163
+    "pep8_infringement": 165
 }

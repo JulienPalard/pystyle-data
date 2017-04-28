@@ -31,15 +31,16 @@
     },
     "license": null,
     "lines_of_code": {
-        "csv": 1530,
+        "csv": 1544,
         "md": 35,
-        "po": 136695,
-        "pot": 941,
-        "py": 2932,
-        "rst": 1108,
-        "txt": 5,
-        "xml": 683,
+        "po": 140287,
+        "pot": 4409,
+        "py": 5690,
+        "rst": 1340,
+        "txt": 6,
+        "xml": 2003,
+        "xsd": 544,
         "yml": 1758
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 2
 }

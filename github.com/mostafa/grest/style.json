@@ -31,8 +31,8 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "md": 122,
-        "py": 863
+        "md": 136,
+        "py": 873
     },
-    "pep8_infringement": 126
+    "pep8_infringement": 128
 }

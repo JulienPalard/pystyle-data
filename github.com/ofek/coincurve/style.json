@@ -36,8 +36,8 @@
         "in": 3,
         "ini": 9,
         "json": 2748,
-        "py": 1583,
-        "rst": 218
+        "py": 1634,
+        "rst": 230
     },
-    "pep8_infringement": 40
+    "pep8_infringement": 47
 }

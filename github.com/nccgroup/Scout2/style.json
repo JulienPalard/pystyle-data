@@ -17,11 +17,11 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": false,
@@ -31,14 +31,14 @@
     },
     "license": "GPL-2.0",
     "lines_of_code": {
-        "css": 168,
-        "html": 2113,
-        "js": 4878,
-        "json": 3168,
-        "md": 109,
-        "py": 3377,
-        "svg": 229,
-        "txt": 3
+        "css": 165,
+        "html": 2363,
+        "in": 8,
+        "js": 1106,
+        "json": 3280,
+        "py": 5135,
+        "rst": 129,
+        "txt": 7
     },
-    "pep8_infringement": 931
+    "pep8_infringement": 1207
 }

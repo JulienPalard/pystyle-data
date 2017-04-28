@@ -31,12 +31,12 @@
     },
     "license": "GPL-2.0",
     "lines_of_code": {
-        "csv": 4,
+        "csv": 11,
         "in": 4,
-        "json": 4878,
-        "py": 2094,
+        "json": 5667,
+        "py": 2120,
         "rst": 39,
-        "txt": 5
+        "txt": 10
     },
-    "pep8_infringement": 547
+    "pep8_infringement": 651
 }
