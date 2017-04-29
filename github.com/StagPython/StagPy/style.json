@@ -23,7 +23,7 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -33,9 +33,8 @@
     "lines_of_code": {
         "bat": 263,
         "dat": 9939,
-        "py": 3959,
-        "rst": 811,
-        "txt": 8
+        "py": 4056,
+        "rst": 821
     },
-    "pep8_infringement": 77
+    "pep8_infringement": 64
 }

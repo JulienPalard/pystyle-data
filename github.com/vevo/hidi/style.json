@@ -12,13 +12,13 @@
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": false,
+        "CHANGELOG.rst": true,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
@@ -34,9 +34,10 @@
         "cfg": 2,
         "csv": 9519,
         "ini": 11,
-        "py": 1073,
-        "rst": 201,
-        "txt": 12
+        "py": 1300,
+        "rst": 221,
+        "txt": 15,
+        "yml": 8
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 0
 }

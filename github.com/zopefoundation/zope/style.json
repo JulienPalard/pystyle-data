@@ -32,7 +32,7 @@
     "license": "ZPL-2.1",
     "lines_of_code": {
         "bat": 100,
-        "cfg": 349,
+        "cfg": 350,
         "css": 1,
         "dtml": 3866,
         "htm": 8,
@@ -42,11 +42,11 @@
         "po": 73,
         "pot": 48,
         "pt": 239,
-        "py": 45500,
-        "rst": 1021,
+        "py": 45574,
+        "rst": 1028,
         "txt": 4428,
         "xml": 656,
-        "zcml": 1220,
+        "zcml": 1231,
         "zpt": 147
     },
     "pep8_infringement": 366

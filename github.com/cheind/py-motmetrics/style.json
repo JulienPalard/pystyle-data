@@ -31,10 +31,10 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 386,
-        "py": 1408,
+        "md": 391,
+        "py": 1433,
         "txt": 2498,
         "yml": 10
     },
-    "pep8_infringement": 470
+    "pep8_infringement": 469
 }

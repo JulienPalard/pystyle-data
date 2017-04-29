@@ -32,12 +32,14 @@
     "license": null,
     "lines_of_code": {
         "bat": 4,
-        "dpfl": 32,
+        "dpfl": 128,
         "md": 2,
-        "py": 3136,
-        "qss": 459,
-        "txt": 11,
-        "ui": 869
+        "py": 7456,
+        "qrc": 46,
+        "qss": 18249,
+        "svg": 364,
+        "txt": 1579,
+        "ui": 1491
     },
-    "pep8_infringement": 398
+    "pep8_infringement": 533
 }

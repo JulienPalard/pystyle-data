@@ -34,12 +34,14 @@
         "cfg": 2,
         "html": 74,
         "in": 2,
+        "ipynb": 159,
         "json": 90,
-        "md": 199,
-        "py": 4391,
-        "rst": 1060,
-        "txt": 12,
-        "yaml": 126093
+        "md": 215,
+        "py": 6009,
+        "rst": 1224,
+        "txt": 43,
+        "yaml": 135649,
+        "yml": 1
     },
-    "pep8_infringement": 700
+    "pep8_infringement": 1324
 }

@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 2,
         "md": 10,
-        "py": 1251,
-        "rst": 153,
+        "py": 1254,
+        "rst": 150,
         "txt": 86
     },
-    "pep8_infringement": 79
+    "pep8_infringement": 86
 }

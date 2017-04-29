@@ -40,13 +40,13 @@
         "html": 15,
         "in": 14,
         "ini": 14,
-        "py": 22121,
-        "rst": 3361,
+        "py": 22199,
+        "rst": 3368,
         "tmpl": 8,
         "toml": 9,
         "txt": 7801,
         "xml": 15,
         "yml": 20
     },
-    "pep8_infringement": 200
+    "pep8_infringement": 201
 }

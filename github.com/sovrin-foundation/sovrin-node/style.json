@@ -37,11 +37,11 @@
         "in": 2,
         "list": 200,
         "md": 347,
-        "py": 4671,
+        "py": 4380,
         "service": 17,
         "sh": 123,
         "sql": 6,
         "txt": 1
     },
-    "pep8_infringement": 168
+    "pep8_infringement": 163
 }

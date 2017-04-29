@@ -11,7 +11,7 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
@@ -33,10 +33,10 @@
     "lines_of_code": {
         "bat": 36,
         "cfg": 2,
-        "md": 31,
+        "md": 47,
         "py": 2016,
-        "rst": 436,
+        "rst": 438,
         "txt": 4
     },
-    "pep8_infringement": 146
+    "pep8_infringement": 145
 }

@@ -36,10 +36,10 @@
         "css": 1395,
         "html": 311,
         "js": 12962,
-        "md": 39,
-        "py": 787,
-        "rst": 412,
+        "md": 23,
+        "py": 860,
+        "rst": 468,
         "txt": 20
     },
-    "pep8_infringement": 78
+    "pep8_infringement": 94
 }

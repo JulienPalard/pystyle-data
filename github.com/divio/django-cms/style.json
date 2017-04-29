@@ -39,14 +39,14 @@
         "json": 16375,
         "md": 99,
         "po": 199144,
-        "py": 59202,
-        "rst": 16456,
+        "py": 59374,
+        "rst": 16480,
         "scss": 5045,
         "sh": 16,
         "svg": 705,
         "svgz": 5,
         "template": 20,
-        "txt": 1055
+        "txt": 1060
     },
-    "pep8_infringement": 4750
+    "pep8_infringement": 4757
 }

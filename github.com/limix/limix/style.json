@@ -36,12 +36,12 @@
         "csv": 8,
         "gen": 22,
         "in": 13,
-        "md": 62,
-        "py": 9382,
+        "md": 60,
+        "py": 9327,
         "rst": 54,
         "sample": 14,
         "txt": 1652,
         "yml": 73
     },
-    "pep8_infringement": 237
+    "pep8_infringement": 232
 }

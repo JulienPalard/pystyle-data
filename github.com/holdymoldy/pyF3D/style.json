@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
@@ -32,11 +32,12 @@
     "license": null,
     "lines_of_code": {
         "cl": 692,
-        "py": 2159,
-        "rst": 115,
+        "in": 4,
+        "py": 2163,
+        "rst": 121,
         "sh": 1,
         "txt": 22,
         "yaml": 23
     },
-    "pep8_infringement": 291
+    "pep8_infringement": 292
 }

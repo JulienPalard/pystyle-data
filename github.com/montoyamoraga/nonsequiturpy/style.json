@@ -31,9 +31,9 @@
     },
     "license": null,
     "lines_of_code": {
-        "py": 53,
-        "rst": 8,
-        "txt": 3580
+        "py": 320,
+        "rst": 36,
+        "txt": 13
     },
-    "pep8_infringement": 22
+    "pep8_infringement": 52
 }

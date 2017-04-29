@@ -34,10 +34,10 @@
         "in": 2,
         "json": 339,
         "md": 393,
-        "py": 1779,
+        "py": 1819,
         "rst": 42,
         "txt": 12,
         "yml": 14
     },
-    "pep8_infringement": 2
+    "pep8_infringement": 0
 }

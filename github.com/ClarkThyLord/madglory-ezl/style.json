@@ -20,7 +20,7 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
@@ -31,10 +31,9 @@
     },
     "license": null,
     "lines_of_code": {
-        "json": 10,
-        "md": 21,
-        "py": 680,
-        "txt": 1
+        "json": 12413,
+        "md": 51,
+        "py": 716
     },
-    "pep8_infringement": 78
+    "pep8_infringement": 91
 }

@@ -33,11 +33,12 @@
     "lines_of_code": {
         "cfg": 2,
         "example": 8,
-        "ipynb": 14512,
-        "md": 53,
+        "html": 63,
+        "ipynb": 12865,
+        "md": 59,
         "pl": 65,
-        "py": 683,
+        "py": 862,
         "txt": 3746
     },
-    "pep8_infringement": 193
+    "pep8_infringement": 224
 }

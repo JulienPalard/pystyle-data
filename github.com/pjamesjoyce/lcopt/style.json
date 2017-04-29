@@ -31,16 +31,16 @@
     },
     "license": null,
     "lines_of_code": {
-        "bat": 36,
+        "bat": 39,
         "cfg": 7,
         "css": 1653,
         "html": 577,
-        "in": 9,
+        "in": 13,
         "js": 13121,
-        "md": 106,
-        "py": 5947,
+        "md": 163,
+        "py": 2635,
         "rst": 65,
-        "txt": 153
+        "txt": 209
     },
-    "pep8_infringement": 2770
+    "pep8_infringement": 1186
 }

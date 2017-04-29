@@ -32,12 +32,12 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 5,
-        "md": 633,
-        "py": 2645,
+        "md": 634,
+        "py": 2694,
         "rst": 39,
         "sh": 6,
         "tpl": 200,
         "txt": 24
     },
-    "pep8_infringement": 502
+    "pep8_infringement": 510
 }

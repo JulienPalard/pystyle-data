@@ -31,18 +31,18 @@
     },
     "license": null,
     "lines_of_code": {
-        "css": 23384,
+        "css": 32920,
         "html": 2050,
-        "jinja2": 764,
-        "js": 39944,
+        "jinja2": 562,
+        "js": 113368,
         "json": 91,
-        "less": 355,
-        "map": 5,
-        "md": 9330,
-        "py": 22803,
-        "svg": 3086,
+        "less": 365,
+        "map": 2,
+        "md": 9342,
+        "py": 23049,
+        "svg": 3072,
         "txt": 46,
-        "yml": 877
+        "yml": 886
     },
-    "pep8_infringement": 1166
+    "pep8_infringement": 1198
 }

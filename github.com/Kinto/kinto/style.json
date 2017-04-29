@@ -39,8 +39,8 @@
         "js": 29,
         "json": 51,
         "md": 24,
-        "py": 28088,
-        "rst": 14129,
+        "py": 28126,
+        "rst": 14131,
         "sql": 928,
         "svg": 2872,
         "tpl": 166,
@@ -48,5 +48,5 @@
         "wsgi": 20,
         "yml": 18
     },
-    "pep8_infringement": 471
+    "pep8_infringement": 480
 }

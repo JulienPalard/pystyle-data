@@ -34,12 +34,10 @@
         "bat": 281,
         "cfg": 5,
         "in": 4,
-        "json": 148,
         "md": 40,
-        "py": 3680,
+        "py": 3654,
         "rst": 75,
-        "sh": 38,
         "yml": 35
     },
-    "pep8_infringement": 37
+    "pep8_infringement": 35
 }

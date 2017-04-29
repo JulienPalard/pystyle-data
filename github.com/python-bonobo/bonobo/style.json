@@ -42,11 +42,11 @@
         "map": 2,
         "md": 19,
         "ps1": 229,
-        "py": 3365,
-        "rst": 948,
+        "py": 3585,
+        "rst": 1239,
         "sh": 9,
-        "txt": 347,
+        "txt": 360,
         "yml": 127
     },
-    "pep8_infringement": 165
+    "pep8_infringement": 186
 }

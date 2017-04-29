@@ -2,7 +2,7 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": false
@@ -32,9 +32,9 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
-        "md": 60,
-        "py": 218,
-        "rst": 63
+        "md": 52,
+        "py": 298,
+        "rst": 55
     },
-    "pep8_infringement": 23
+    "pep8_infringement": 36
 }

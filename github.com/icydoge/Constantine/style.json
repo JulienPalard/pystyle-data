@@ -33,10 +33,10 @@
     "lines_of_code": {
         "in": 4,
         "json": 32,
-        "md": 54,
-        "py": 450,
+        "md": 75,
+        "py": 456,
         "tex": 192,
         "txt": 69
     },
-    "pep8_infringement": 72
+    "pep8_infringement": 75
 }

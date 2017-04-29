@@ -39,13 +39,13 @@
         "html": 4,
         "in": 23,
         "ipynb": 201,
-        "json": 372131,
+        "json": 372172,
         "md": 64,
-        "py": 7773,
+        "py": 7849,
         "rst": 139,
         "sh": 39,
         "txt": 38,
         "xml": 314163
     },
-    "pep8_infringement": 4
+    "pep8_infringement": 3
 }

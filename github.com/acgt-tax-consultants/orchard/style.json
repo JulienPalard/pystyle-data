@@ -35,9 +35,9 @@
         "cpp": 254,
         "h": 13,
         "md": 37,
-        "py": 1446,
+        "py": 1480,
         "txt": 3,
         "yaml": 783
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 0
 }

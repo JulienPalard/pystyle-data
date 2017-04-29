@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 2,
         "css": 18,
-        "html": 76,
-        "in": 2,
+        "html": 37,
+        "in": 3,
         "md": 14,
-        "py": 60
+        "py": 73
     },
     "pep8_infringement": 3
 }

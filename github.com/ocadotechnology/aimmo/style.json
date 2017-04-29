@@ -35,14 +35,14 @@
         "cfg": 17,
         "conf": 15,
         "css": 12,
-        "html": 161,
+        "html": 197,
         "in": 2,
-        "js": 348,
+        "js": 363,
         "md": 143,
-        "py": 7072,
+        "py": 8214,
         "sh": 28,
-        "txt": 9,
-        "yaml": 64
+        "txt": 10,
+        "yaml": 66
     },
     "pep8_infringement": 0
 }

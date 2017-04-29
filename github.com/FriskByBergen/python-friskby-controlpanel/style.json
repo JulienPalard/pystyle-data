@@ -32,12 +32,12 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
-        "css": 279,
-        "html": 198,
+        "css": 287,
+        "html": 262,
         "in": 5,
         "js": 14,
         "md": 6,
-        "py": 957
+        "py": 1102
     },
-    "pep8_infringement": 4
+    "pep8_infringement": 3
 }

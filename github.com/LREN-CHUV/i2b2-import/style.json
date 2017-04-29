@@ -32,10 +32,10 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 3,
-        "csv": 273,
+        "csv": 274,
         "json": 1,
         "md": 98,
-        "py": 961,
+        "py": 1013,
         "rst": 109,
         "sh": 134,
         "sql": 21,
@@ -43,5 +43,5 @@
         "xml": 108,
         "yml": 99
     },
-    "pep8_infringement": 135
+    "pep8_infringement": 145
 }

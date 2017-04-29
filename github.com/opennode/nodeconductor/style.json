@@ -41,14 +41,14 @@
         "js": 9256,
         "md": 36,
         "po": 2160,
-        "py": 31105,
+        "py": 31083,
         "rst": 3568,
         "service": 75,
         "sh": 32,
-        "spec": 783,
+        "spec": 786,
         "svg": 520,
         "txt": 6,
         "xml": 1427
     },
-    "pep8_infringement": 3071
+    "pep8_infringement": 3070
 }

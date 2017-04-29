@@ -38,12 +38,12 @@
         "ini": 21,
         "json": 47,
         "md": 270,
-        "py": 4529,
-        "rst": 1021,
+        "py": 4553,
+        "rst": 1060,
         "sh": 496,
         "txt": 50,
         "yaml": 26,
-        "yml": 2546
+        "yml": 2658
     },
-    "pep8_infringement": 491
+    "pep8_infringement": 500
 }

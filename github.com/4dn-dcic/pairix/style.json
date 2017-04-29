@@ -32,20 +32,20 @@
     "license": "MIT",
     "lines_of_code": {
         "bed": 2,
-        "c": 4960,
+        "c": 4984,
         "cfg": 2,
         "chr21_22_only": 2,
         "chr21_22_only:50000": 1990,
-        "h": 1623,
+        "h": 1625,
         "in": 2,
-        "md": 724,
+        "md": 728,
         "pairs": 1004,
         "pl": 119,
-        "py": 456,
+        "py": 467,
         "regions": 4,
         "regions2": 2,
         "sh": 124,
         "txt": 3521
     },
-    "pep8_infringement": 96
+    "pep8_infringement": 109
 }

@@ -34,9 +34,9 @@
         "bat": 36,
         "cfg": 2,
         "ini": 14,
-        "md": 140,
-        "py": 564,
-        "rst": 154
+        "md": 126,
+        "py": 704,
+        "rst": 135
     },
-    "pep8_infringement": 42
+    "pep8_infringement": 30
 }

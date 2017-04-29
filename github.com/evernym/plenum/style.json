@@ -37,9 +37,9 @@
         "in": 1,
         "ini": 0,
         "md": 540,
-        "py": 32593,
+        "py": 32897,
         "rst": 59,
         "xml": 24
     },
-    "pep8_infringement": 1208
+    "pep8_infringement": 1234
 }

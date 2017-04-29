@@ -33,13 +33,13 @@
     "lines_of_code": {
         "csv": 2,
         "md": 38,
-        "po": 7565,
+        "po": 7659,
         "pot": 323,
-        "py": 2546,
+        "py": 2534,
         "rml": 158,
-        "rst": 419,
+        "rst": 502,
         "txt": 4,
-        "xml": 493,
+        "xml": 522,
         "yml": 110
     },
     "pep8_infringement": 6

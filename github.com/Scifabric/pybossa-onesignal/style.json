@@ -32,9 +32,9 @@
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 9,
-        "md": 175,
-        "py": 661,
+        "md": 220,
+        "py": 696,
         "txt": 5
     },
-    "pep8_infringement": 52
+    "pep8_infringement": 51
 }

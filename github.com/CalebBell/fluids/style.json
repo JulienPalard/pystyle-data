@@ -37,11 +37,11 @@
         "in": 5,
         "ini": 2,
         "ipynb": 906,
-        "py": 29088,
+        "py": 29191,
         "pyf": 629,
-        "rst": 294,
+        "rst": 321,
         "txt": 2968,
-        "yml": 51
+        "yml": 41
     },
-    "pep8_infringement": 5189
+    "pep8_infringement": 5204
 }

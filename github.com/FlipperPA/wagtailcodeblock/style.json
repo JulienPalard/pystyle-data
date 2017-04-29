@@ -32,8 +32,10 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
-        "html": 104,
+        "css": 1,
+        "html": 89,
         "in": 2,
+        "js": 127,
         "md": 38,
         "py": 97
     },

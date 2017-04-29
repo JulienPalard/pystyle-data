@@ -31,14 +31,14 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 9,
+        "cfg": 15,
         "ini": 45,
         "json": 5,
-        "py": 2252,
-        "rst": 729,
+        "py": 2633,
+        "rst": 732,
         "sh": 331,
         "txt": 4,
-        "yaml": 74
+        "yaml": 80
     },
     "pep8_infringement": 0
 }

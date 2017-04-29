@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": true,
         "src/": false,
         "test/": true,
@@ -31,13 +31,14 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "bat": 36,
         "cfg": 5,
         "in": 8,
         "json": 81,
-        "py": 4958,
-        "rst": 237,
-        "txt": 192,
+        "py": 4774,
+        "rst": 257,
+        "txt": 268,
         "yaml": 1067
     },
-    "pep8_infringement": 571
+    "pep8_infringement": 548
 }

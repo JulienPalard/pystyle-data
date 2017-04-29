@@ -23,16 +23,18 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "py": 398,
-        "rst": 71
+        "cfg": 2,
+        "py": 425,
+        "rst": 80,
+        "txt": 2
     },
     "pep8_infringement": 0
 }

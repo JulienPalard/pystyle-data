@@ -45,18 +45,18 @@
         "com_2016_newsml_L1N14N0FF_version_1542761538": 154,
         "com_2016_newsml_L1N14N0FF_version_978556838": 217,
         "css": 11,
-        "feature": 38914,
+        "feature": 39180,
         "html": 88,
         "in": 7,
         "json": 75825,
         "md": 391,
-        "py": 62786,
+        "py": 63745,
         "rst": 1635,
         "sh": 10,
         "svg": 41,
         "tst": 707,
         "txt": 2124,
-        "xml": 3060
+        "xml": 3149
     },
-    "pep8_infringement": 5483
+    "pep8_infringement": 5576
 }

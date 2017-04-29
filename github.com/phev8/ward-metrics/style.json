@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": true,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -31,8 +31,13 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 10,
-        "py": 936
+        "bib": 12,
+        "html": 391,
+        "md": 13,
+        "py": 1475,
+        "rst": 119,
+        "sh": 2,
+        "txt": 1
     },
-    "pep8_infringement": 157
+    "pep8_infringement": 232
 }

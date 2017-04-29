@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
@@ -31,9 +31,10 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "in": 1,
         "md": 7,
-        "py": 286,
+        "py": 354,
         "rst": 52
     },
-    "pep8_infringement": 12
+    "pep8_infringement": 15
 }

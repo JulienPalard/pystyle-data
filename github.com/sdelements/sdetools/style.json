@@ -34,14 +34,14 @@
         "bat": 255,
         "conf": 411,
         "crt": 3621,
-        "csv": 8661,
+        "csv": 11974,
         "example": 1798,
         "fvdl": 8043,
         "html": 7,
         "in": 5,
         "json": 7724,
         "md": 29,
-        "py": 61049,
+        "py": 61204,
         "raw": 130,
         "repr": 1,
         "rst": 110,
@@ -52,5 +52,5 @@
         "xsl": 34,
         "yml": 31
     },
-    "pep8_infringement": 8235
+    "pep8_infringement": 8239
 }

@@ -35,14 +35,14 @@
         "cert": 22,
         "file": 1,
         "go": 30,
-        "html": 29,
+        "html": 39,
         "ini": 26,
         "key": 27,
-        "md": 1580,
-        "py": 8795,
-        "rst": 196,
-        "txt": 24,
+        "md": 1708,
+        "py": 8972,
+        "rst": 199,
+        "txt": 32,
         "yml": 27
     },
-    "pep8_infringement": 191
+    "pep8_infringement": 189
 }

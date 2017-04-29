@@ -36,13 +36,13 @@
         "gff": 4,
         "in": 1,
         "ini": 30,
-        "py": 3632,
-        "rst": 330,
+        "py": 3526,
+        "rst": 352,
         "sam": 9313,
         "sh": 29,
         "txt": 31,
         "xml": 401,
-        "yaml": 60
+        "yaml": 59
     },
-    "pep8_infringement": 452
+    "pep8_infringement": 443
 }

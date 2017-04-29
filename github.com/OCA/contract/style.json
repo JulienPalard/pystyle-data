@@ -32,13 +32,13 @@
     "license": "AGPL-3.0",
     "lines_of_code": {
         "csv": 16,
-        "md": 35,
+        "md": 36,
         "po": 63890,
-        "py": 1622,
-        "rst": 444,
+        "py": 1970,
+        "rst": 576,
         "svg": 602,
         "txt": 15,
-        "xml": 840
+        "xml": 898
     },
     "pep8_infringement": 0
 }

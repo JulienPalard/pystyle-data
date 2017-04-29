@@ -52,15 +52,15 @@
         "filters": 849,
         "gemspec": 34,
         "h": 22887,
-        "html": 56758,
+        "html": 56804,
         "idl": 817,
         "iml": 256,
         "in": 22,
         "ini": 37,
         "inl": 1965,
         "jar": 6333,
-        "java": 130524,
-        "js": 619137,
+        "java": 130513,
+        "js": 619222,
         "json": 169,
         "manifest": 93,
         "md": 2164,
@@ -71,8 +71,8 @@
         "production": 49,
         "properties": 227,
         "ps1": 395,
-        "py": 18317,
-        "rb": 26090,
+        "py": 18320,
+        "rb": 26092,
         "rdf": 331,
         "rl": 127,
         "rst": 561,
@@ -92,5 +92,5 @@
         "xul": 1425,
         "yml": 25
     },
-    "pep8_infringement": 673
+    "pep8_infringement": 674
 }

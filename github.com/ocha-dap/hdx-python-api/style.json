@@ -36,11 +36,11 @@
         "in": 20,
         "ini": 2,
         "json": 197,
-        "py": 6055,
+        "py": 6156,
         "rst": 982,
         "sh": 3,
         "txt": 20,
-        "yml": 1112
+        "yml": 1974
     },
-    "pep8_infringement": 849
+    "pep8_infringement": 865
 }

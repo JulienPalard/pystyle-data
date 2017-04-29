@@ -23,7 +23,7 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 2,
         "csv": 498,
-        "md": 124,
+        "md": 116,
         "prj": 2,
-        "py": 1664,
+        "py": 1104,
         "qpj": 2,
-        "txt": 1,
-        "yml": 41
+        "txt": 8,
+        "yml": 13
     },
-    "pep8_infringement": 109
+    "pep8_infringement": 79
 }

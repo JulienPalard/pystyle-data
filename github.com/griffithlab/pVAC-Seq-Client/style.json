@@ -32,14 +32,14 @@
     "license": null,
     "lines_of_code": {
         "css": 2981,
-        "html": 729,
+        "html": 786,
         "js": 70,
         "json": 294,
         "map": 7,
         "md": 31,
-        "scss": 10605,
+        "scss": 10635,
         "svg": 885,
-        "ts": 1988
+        "ts": 2512
     },
     "pep8_infringement": 0
 }
