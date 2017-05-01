@@ -83,5 +83,13 @@
         "txtt": 212,
         "xml": 30667
     },
-    "pep8_infringement": 699599
+    "pep8_infringement": 699599,
+    "shebang": {
+        "#! /usr/bin/env python": 11,
+        "#!/usr/bin/env python": 271,
+        "#!/usr/bin/env python ": 1,
+        "#!/usr/bin/env python                                                                                            ": 2,
+        "#!/usr/bin/env pythonw": 17,
+        "#!/usr/bin/env/python": 1
+    }
 }

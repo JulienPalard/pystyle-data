@@ -43,5 +43,6 @@
         "sh": 15,
         "tsv": 4
     },
-    "pep8_infringement": 59
+    "pep8_infringement": 59,
+    "shebang": {}
 }

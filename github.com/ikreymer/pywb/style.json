@@ -49,5 +49,9 @@
         "warc": 401,
         "yaml": 863
     },
-    "pep8_infringement": 2022
+    "pep8_infringement": 2022,
+    "shebang": {
+        "#!/usr/bin/env python": 6,
+        "#!/usr/bin/python": 1
+    }
 }

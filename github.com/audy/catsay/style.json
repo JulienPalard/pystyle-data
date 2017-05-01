@@ -37,5 +37,6 @@
         "pem": 20,
         "rb": 247
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

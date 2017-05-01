@@ -36,5 +36,6 @@
         "toml": 555,
         "yaml": 58
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

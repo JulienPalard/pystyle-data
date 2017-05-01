@@ -39,5 +39,6 @@
         "txt": 4,
         "usfm": 14433
     },
-    "pep8_infringement": 1212
+    "pep8_infringement": 1212,
+    "shebang": {}
 }

@@ -47,5 +47,11 @@
         "xml": 69,
         "yml": 70
     },
-    "pep8_infringement": 2007
+    "pep8_infringement": 2007,
+    "shebang": {
+        "#! /usr/bin/env python": 9,
+        "#!/usr/bin/env monkeyrunner": 2,
+        "#!/usr/bin/env python": 48,
+        "#!/usr/bin/python": 1
+    }
 }

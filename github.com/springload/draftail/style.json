@@ -41,5 +41,6 @@
         "snap": 744,
         "svg": 80
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

@@ -48,5 +48,9 @@
         "tab": 3718,
         "txt": 199
     },
-    "pep8_infringement": 996
+    "pep8_infringement": 996,
+    "shebang": {
+        "#!/usr/bin/env python": 19,
+        "#!/usr/bin/python": 1
+    }
 }

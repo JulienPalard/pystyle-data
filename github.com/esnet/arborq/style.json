@@ -38,5 +38,6 @@
         "txt": 1,
         "xml": 1252
     },
-    "pep8_infringement": 28
+    "pep8_infringement": 28,
+    "shebang": {}
 }

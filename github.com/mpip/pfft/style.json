@@ -46,5 +46,6 @@
         "sh": 1856,
         "tex": 2573
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

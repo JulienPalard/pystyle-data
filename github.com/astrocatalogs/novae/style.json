@@ -41,5 +41,8 @@
         "txt": 15,
         "xml": 4438
     },
-    "pep8_infringement": 2583
+    "pep8_infringement": 2583,
+    "shebang": {
+        "#!/usr/local/bin/python3.5": 16
+    }
 }

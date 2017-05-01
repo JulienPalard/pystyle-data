@@ -68,5 +68,9 @@
         "url": 2,
         "xml": 171
     },
-    "pep8_infringement": 8389
+    "pep8_infringement": 8389,
+    "shebang": {
+        "#!/usr/bin/env python": 46,
+        "#!/usr/bin/env python2.7": 8
+    }
 }

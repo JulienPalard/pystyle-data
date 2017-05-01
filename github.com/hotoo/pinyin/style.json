@@ -35,5 +35,6 @@
         "json": 70,
         "md": 658
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

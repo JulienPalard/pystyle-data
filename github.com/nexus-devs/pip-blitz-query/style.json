@@ -34,5 +34,6 @@
         "py": 487,
         "rst": 9
     },
-    "pep8_infringement": 22
+    "pep8_infringement": 22,
+    "shebang": {}
 }

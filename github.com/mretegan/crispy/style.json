@@ -41,5 +41,8 @@
         "txt": 7,
         "ui": 1034
     },
-    "pep8_infringement": 14
+    "pep8_infringement": 14,
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

@@ -22,6 +22,10 @@ What kind of languages, as a percentage by project, are used:
 
 .. image:: plots/loc.png
 
+What shebang are used:
+
+.. image:: plots/shebang.png
+
 
 TODO
 ----

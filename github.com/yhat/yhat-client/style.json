@@ -39,5 +39,6 @@
         "yaml": 2,
         "yml": 40
     },
-    "pep8_infringement": 289
+    "pep8_infringement": 289,
+    "shebang": {}
 }

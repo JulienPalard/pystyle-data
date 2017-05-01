@@ -33,5 +33,6 @@
     "lines_of_code": {
         "py": 36
     },
-    "pep8_infringement": 2
+    "pep8_infringement": 2,
+    "shebang": {}
 }

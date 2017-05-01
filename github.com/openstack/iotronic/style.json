@@ -43,5 +43,8 @@
         "txt": 46,
         "wsgi": 36
     },
-    "pep8_infringement": 6
+    "pep8_infringement": 6,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

@@ -62,5 +62,6 @@
         "xsd": 21900,
         "xsl": 3272
     },
-    "pep8_infringement": 604
+    "pep8_infringement": 604,
+    "shebang": {}
 }

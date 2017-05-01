@@ -39,5 +39,8 @@
         "svg": 950,
         "toml": 24
     },
-    "pep8_infringement": 483
+    "pep8_infringement": 483,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

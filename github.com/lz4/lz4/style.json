@@ -49,5 +49,9 @@
         "vcxproj": 1567,
         "yml": 180
     },
-    "pep8_infringement": 94
+    "pep8_infringement": 94,
+    "shebang": {
+        "#! /usr/bin/env python3": 1,
+        "#!/usr/bin/env python3": 1
+    }
 }

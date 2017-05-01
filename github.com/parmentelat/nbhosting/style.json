@@ -46,5 +46,8 @@
         "sh": 133,
         "xfs+overlay2": 40
     },
-    "pep8_infringement": 250
+    "pep8_infringement": 250,
+    "shebang": {
+        "#!/usr/bin/env python3": 9
+    }
 }

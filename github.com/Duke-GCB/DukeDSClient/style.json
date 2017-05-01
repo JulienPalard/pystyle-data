@@ -38,5 +38,8 @@
         "tar": 9,
         "txt": 6
     },
-    "pep8_infringement": 744
+    "pep8_infringement": 744,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

@@ -35,5 +35,6 @@
         "py": 714,
         "txt": 15
     },
-    "pep8_infringement": 118
+    "pep8_infringement": 118,
+    "shebang": {}
 }

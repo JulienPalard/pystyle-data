@@ -79,5 +79,8 @@
         "xsd": 139,
         "yml": 28
     },
-    "pep8_infringement": 4
+    "pep8_infringement": 4,
+    "shebang": {
+        "#!/usr/bin/env python2.7": 1
+    }
 }

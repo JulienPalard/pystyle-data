@@ -43,5 +43,6 @@
         "tpl": 64,
         "txt": 14
     },
-    "pep8_infringement": 73
+    "pep8_infringement": 73,
+    "shebang": {}
 }

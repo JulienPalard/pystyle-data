@@ -61,5 +61,8 @@
         "xsl": 13,
         "yaml": 750
     },
-    "pep8_infringement": 10
+    "pep8_infringement": 10,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

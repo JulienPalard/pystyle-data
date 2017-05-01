@@ -39,5 +39,6 @@
         "scala": 28635,
         "yml": 293
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

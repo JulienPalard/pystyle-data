@@ -37,5 +37,6 @@
         "tmpl": 15,
         "txt": 4
     },
-    "pep8_infringement": 54
+    "pep8_infringement": 54,
+    "shebang": {}
 }

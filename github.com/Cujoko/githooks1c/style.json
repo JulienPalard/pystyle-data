@@ -36,5 +36,8 @@
         "py": 201,
         "sample": 3
     },
-    "pep8_infringement": 7
+    "pep8_infringement": 7,
+    "shebang": {
+        "#! python3": 4
+    }
 }

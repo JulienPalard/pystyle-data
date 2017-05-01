@@ -39,5 +39,6 @@
         "rst": 1785,
         "svg": 63
     },
-    "pep8_infringement": 88
+    "pep8_infringement": 88,
+    "shebang": {}
 }

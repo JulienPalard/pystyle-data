@@ -46,5 +46,9 @@
         "xml": 13760,
         "yml": 105
     },
-    "pep8_infringement": 2831
+    "pep8_infringement": 2831,
+    "shebang": {
+        "#!/usr/bin/env python3": 1,
+        "#!C:\\Python32\\python.exe": 1
+    }
 }

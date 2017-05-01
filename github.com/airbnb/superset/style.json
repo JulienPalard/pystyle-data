@@ -51,5 +51,8 @@
         "svg": 282,
         "txt": 249
     },
-    "pep8_infringement": 658
+    "pep8_infringement": 658,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

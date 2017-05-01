@@ -39,5 +39,8 @@
         "sql": 14,
         "txt": 9
     },
-    "pep8_infringement": 900
+    "pep8_infringement": 900,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

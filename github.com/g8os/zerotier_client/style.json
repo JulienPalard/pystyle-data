@@ -37,5 +37,6 @@
         "raml": 583,
         "sh": 1
     },
-    "pep8_infringement": 55
+    "pep8_infringement": 55,
+    "shebang": {}
 }

@@ -48,5 +48,6 @@
         "wsgi": 20,
         "yml": 18
     },
-    "pep8_infringement": 480
+    "pep8_infringement": 480,
+    "shebang": {}
 }

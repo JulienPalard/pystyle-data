@@ -44,5 +44,10 @@
         "tnt": 356,
         "txt": 794
     },
-    "pep8_infringement": 910
+    "pep8_infringement": 910,
+    "shebang": {
+        "#! encoding: utf-8": 1,
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
 }

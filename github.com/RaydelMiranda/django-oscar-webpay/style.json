@@ -38,5 +38,8 @@
         "py": 1670,
         "txt": 2
     },
-    "pep8_infringement": 312
+    "pep8_infringement": 312,
+    "shebang": {
+        "#! -*- coding: utf-8 -*-": 1
+    }
 }

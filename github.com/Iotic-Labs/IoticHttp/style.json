@@ -46,5 +46,9 @@
         "sql": 12,
         "tmpl": 6
     },
-    "pep8_infringement": 257
+    "pep8_infringement": 257,
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 2
+    }
 }

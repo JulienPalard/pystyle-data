@@ -57,5 +57,12 @@
         "wmd": 156,
         "xml": 550
     },
-    "pep8_infringement": 25838
+    "pep8_infringement": 25838,
+    "shebang": {
+        "#!/usr/bin/env python": 3,
+        "#!/usr/bin/env python3": 1,
+        "#!/usr/bin/python": 3,
+        "#!/usr/env python": 1,
+        "#!python": 1
+    }
 }

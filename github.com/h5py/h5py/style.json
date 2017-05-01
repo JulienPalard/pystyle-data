@@ -46,5 +46,8 @@
         "txt": 920,
         "yml": 115
     },
-    "pep8_infringement": 1325
+    "pep8_infringement": 1325,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

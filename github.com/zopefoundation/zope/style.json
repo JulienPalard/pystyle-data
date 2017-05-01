@@ -49,5 +49,6 @@
         "zcml": 1231,
         "zpt": 147
     },
-    "pep8_infringement": 366
+    "pep8_infringement": 366,
+    "shebang": {}
 }

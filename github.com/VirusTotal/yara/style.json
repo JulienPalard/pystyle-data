@@ -58,5 +58,6 @@
         "yar": 1,
         "yml": 15
     },
-    "pep8_infringement": 58
+    "pep8_infringement": 58,
+    "shebang": {}
 }

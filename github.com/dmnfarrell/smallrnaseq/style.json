@@ -41,5 +41,8 @@
         "py": 4840,
         "sam": 6895
     },
-    "pep8_infringement": 2452
+    "pep8_infringement": 2452,
+    "shebang": {
+        "#!/usr/bin/env python": 13
+    }
 }

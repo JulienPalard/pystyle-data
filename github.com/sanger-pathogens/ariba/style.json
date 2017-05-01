@@ -78,5 +78,6 @@
         "vcf": 134,
         "xml": 101
     },
-    "pep8_infringement": 3548
+    "pep8_infringement": 3548,
+    "shebang": {}
 }

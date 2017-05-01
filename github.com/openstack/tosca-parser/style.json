@@ -41,5 +41,8 @@
         "yaml": 6674,
         "zip": 1
     },
-    "pep8_infringement": 6
+    "pep8_infringement": 6,
+    "shebang": {
+        "#!/usr/bin/python": 8
+    }
 }

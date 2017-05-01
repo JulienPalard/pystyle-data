@@ -35,5 +35,6 @@
         "h": 842,
         "md": 72
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

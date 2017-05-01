@@ -44,5 +44,6 @@
         "xml": 401,
         "yaml": 59
     },
-    "pep8_infringement": 443
+    "pep8_infringement": 443,
+    "shebang": {}
 }

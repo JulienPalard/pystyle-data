@@ -43,5 +43,6 @@
         "svg": 91,
         "xml": 2055
     },
-    "pep8_infringement": 8
+    "pep8_infringement": 8,
+    "shebang": {}
 }

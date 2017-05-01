@@ -41,5 +41,8 @@
         "str": 50592,
         "txt": 5445
     },
-    "pep8_infringement": 374
+    "pep8_infringement": 374,
+    "shebang": {
+        "#!/usr/bin/env python3": 10
+    }
 }

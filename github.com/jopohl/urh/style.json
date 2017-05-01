@@ -52,5 +52,9 @@
         "ui": 8948,
         "yml": 79
     },
-    "pep8_infringement": 4158
+    "pep8_infringement": 4158,
+    "shebang": {
+        "#!/usr/bin/env python2": 10,
+        "#!/usr/bin/env python3": 2
+    }
 }

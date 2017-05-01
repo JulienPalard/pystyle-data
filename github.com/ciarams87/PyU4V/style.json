@@ -37,5 +37,8 @@
         "md": 62,
         "py": 2950
     },
-    "pep8_infringement": 135
+    "pep8_infringement": 135,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

@@ -38,5 +38,6 @@
         "test": 1437,
         "txt": 97
     },
-    "pep8_infringement": 73
+    "pep8_infringement": 73,
+    "shebang": {}
 }

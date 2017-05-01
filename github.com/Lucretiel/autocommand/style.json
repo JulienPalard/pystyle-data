@@ -39,5 +39,6 @@
         "sublime-project": 30,
         "txt": 5
     },
-    "pep8_infringement": 2
+    "pep8_infringement": 2,
+    "shebang": {}
 }

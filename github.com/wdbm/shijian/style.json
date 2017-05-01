@@ -35,5 +35,9 @@
         "md": 174,
         "py": 2209
     },
-    "pep8_infringement": 1124
+    "pep8_infringement": 1124,
+    "shebang": {
+        "#!/usr/bin/env python": 11,
+        "#!/usr/bin/python": 1
+    }
 }

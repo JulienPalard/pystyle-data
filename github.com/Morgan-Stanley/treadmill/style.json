@@ -45,5 +45,6 @@
         "shared_network": 13,
         "yml": 459
     },
-    "pep8_infringement": 69
+    "pep8_infringement": 69,
+    "shebang": {}
 }

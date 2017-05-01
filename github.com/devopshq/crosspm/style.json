@@ -38,5 +38,9 @@
         "rst": 718,
         "sh": 469
     },
-    "pep8_infringement": 380
+    "pep8_infringement": 380,
+    "shebang": {
+        "#!/usr/bin/env python": 3,
+        "#!/usr/bin/env python3": 1
+    }
 }

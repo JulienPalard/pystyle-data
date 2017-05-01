@@ -38,5 +38,6 @@
         "rst": 177,
         "txt": 66
     },
-    "pep8_infringement": 843
+    "pep8_infringement": 843,
+    "shebang": {}
 }

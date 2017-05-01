@@ -39,5 +39,8 @@
         "sh": 62,
         "txt": 114
     },
-    "pep8_infringement": 8
+    "pep8_infringement": 8,
+    "shebang": {
+        "#!/usr/bin/python": 7
+    }
 }

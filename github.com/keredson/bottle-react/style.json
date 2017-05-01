@@ -36,5 +36,6 @@
         "py": 1200,
         "tpl": 26
     },
-    "pep8_infringement": 497
+    "pep8_infringement": 497,
+    "shebang": {}
 }

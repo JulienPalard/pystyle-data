@@ -61,5 +61,8 @@
         "vs": 23,
         "yml": 221
     },
-    "pep8_infringement": 932
+    "pep8_infringement": 932,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

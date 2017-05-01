@@ -47,5 +47,10 @@
         "wsgi": 38,
         "yml": 9
     },
-    "pep8_infringement": 48614
+    "pep8_infringement": 48614,
+    "shebang": {
+        "#!/usr/bin/env python": 332,
+        "#!/usr/bin/env python2": 3,
+        "#!/usr/bin/python": 2
+    }
 }

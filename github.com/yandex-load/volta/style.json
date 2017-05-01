@@ -50,5 +50,8 @@
         "sublime-project": 176,
         "user": 9
     },
-    "pep8_infringement": 360
+    "pep8_infringement": 360,
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

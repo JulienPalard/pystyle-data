@@ -47,5 +47,6 @@
         "txt": 2,
         "vcf": 1335
     },
-    "pep8_infringement": 180
+    "pep8_infringement": 180,
+    "shebang": {}
 }

@@ -34,5 +34,6 @@
         "markdown": 211,
         "py": 731
     },
-    "pep8_infringement": 14
+    "pep8_infringement": 14,
+    "shebang": {}
 }

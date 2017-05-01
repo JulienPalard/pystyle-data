@@ -40,5 +40,9 @@
         "sh": 93,
         "txt": 2
     },
-    "pep8_infringement": 2244
+    "pep8_infringement": 2244,
+    "shebang": {
+        "#!/usr/bin/bpython -i": 1,
+        "#!/usr/bin/python": 1
+    }
 }

@@ -63,5 +63,9 @@
         "xcworkspacedata": 7,
         "xml": 1840
     },
-    "pep8_infringement": 5567
+    "pep8_infringement": 5567,
+    "shebang": {
+        "#!/usr/bin/env python": 25,
+        "#!/usr/bin/python": 2
+    }
 }

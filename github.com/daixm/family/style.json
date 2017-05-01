@@ -39,5 +39,8 @@
         "py_tmpl": 412,
         "txt_tmpl": 26
     },
-    "pep8_infringement": 10
+    "pep8_infringement": 10,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

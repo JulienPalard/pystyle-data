@@ -48,5 +48,8 @@
         "swc": 15122,
         "xml": 36
     },
-    "pep8_infringement": 11922
+    "pep8_infringement": 11922,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

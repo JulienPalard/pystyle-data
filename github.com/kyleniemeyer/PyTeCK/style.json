@@ -42,5 +42,8 @@
         "yaml": 381,
         "yml": 35
     },
-    "pep8_infringement": 103
+    "pep8_infringement": 103,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

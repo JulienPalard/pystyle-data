@@ -42,5 +42,8 @@
         "sol": 288,
         "txt": 28
     },
-    "pep8_infringement": 375
+    "pep8_infringement": 375,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

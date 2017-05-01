@@ -41,5 +41,6 @@
         "txt": 21,
         "ui": 106
     },
-    "pep8_infringement": 84
+    "pep8_infringement": 84,
+    "shebang": {}
 }

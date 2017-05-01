@@ -40,5 +40,6 @@
         "py": 8812,
         "svg": 20
     },
-    "pep8_infringement": 541
+    "pep8_infringement": 541,
+    "shebang": {}
 }

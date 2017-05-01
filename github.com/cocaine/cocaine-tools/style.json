@@ -50,5 +50,8 @@
         "txt": 10,
         "upstart": 26
     },
-    "pep8_infringement": 544
+    "pep8_infringement": 544,
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
 }

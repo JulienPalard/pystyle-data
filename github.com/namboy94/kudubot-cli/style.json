@@ -36,5 +36,8 @@
         "rst": 17,
         "svg": 114
     },
-    "pep8_infringement": 11
+    "pep8_infringement": 11,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

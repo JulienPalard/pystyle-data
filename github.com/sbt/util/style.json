@@ -39,5 +39,6 @@
         "scala": 10522,
         "txt": 26
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

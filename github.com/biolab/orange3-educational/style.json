@@ -44,5 +44,9 @@
         "txt": 16,
         "updating": 2
     },
-    "pep8_infringement": 137
+    "pep8_infringement": 137,
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
 }

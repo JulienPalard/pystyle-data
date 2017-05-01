@@ -38,5 +38,6 @@
         "md": 2,
         "py": 1134
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 1,
+    "shebang": {}
 }

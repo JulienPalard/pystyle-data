@@ -38,5 +38,6 @@
         "sql": 65,
         "txt": 19
     },
-    "pep8_infringement": 125
+    "pep8_infringement": 125,
+    "shebang": {}
 }

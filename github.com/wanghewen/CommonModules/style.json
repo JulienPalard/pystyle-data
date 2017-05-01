@@ -37,5 +37,6 @@
         "pyproj": 143,
         "txt": 8
     },
-    "pep8_infringement": 266
+    "pep8_infringement": 266,
+    "shebang": {}
 }

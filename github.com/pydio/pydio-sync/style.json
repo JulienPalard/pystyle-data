@@ -47,5 +47,6 @@
         "txt": 217,
         "wflow": 217
     },
-    "pep8_infringement": 1466
+    "pep8_infringement": 1466,
+    "shebang": {}
 }

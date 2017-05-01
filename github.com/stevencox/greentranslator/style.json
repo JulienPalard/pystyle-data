@@ -43,5 +43,8 @@
         "sparql": 125,
         "txt": 21
     },
-    "pep8_infringement": 577
+    "pep8_infringement": 577,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

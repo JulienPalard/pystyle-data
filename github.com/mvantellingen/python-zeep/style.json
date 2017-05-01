@@ -44,5 +44,6 @@
         "xsd": 916,
         "yml": 49
     },
-    "pep8_infringement": 453
+    "pep8_infringement": 453,
+    "shebang": {}
 }

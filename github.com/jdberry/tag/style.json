@@ -38,5 +38,6 @@
         "pbxproj": 281,
         "pch": 9
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

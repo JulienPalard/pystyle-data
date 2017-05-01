@@ -41,5 +41,6 @@
         "rst": 5832,
         "sh": 476
     },
-    "pep8_infringement": 1253
+    "pep8_infringement": 1253,
+    "shebang": {}
 }

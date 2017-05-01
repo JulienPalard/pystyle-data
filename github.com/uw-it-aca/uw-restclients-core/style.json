@@ -39,5 +39,8 @@
         "py": 1571,
         "sh": 16
     },
-    "pep8_infringement": 17
+    "pep8_infringement": 17,
+    "shebang": {
+        "#!/usr/bin/python": 1
+    }
 }

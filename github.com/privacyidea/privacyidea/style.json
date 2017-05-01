@@ -73,5 +73,9 @@
         "yaml": 9,
         "yml": 67
     },
-    "pep8_infringement": 3390
+    "pep8_infringement": 3390,
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/python": 1
+    }
 }

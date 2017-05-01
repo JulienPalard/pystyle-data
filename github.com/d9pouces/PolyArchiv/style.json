@@ -44,5 +44,9 @@
         "sh": 235,
         "sql": 5507
     },
-    "pep8_infringement": 90548
+    "pep8_infringement": 90548,
+    "shebang": {
+        "#!/usr/bin/env python": 2,
+        "#!/usr/bin/python": 1
+    }
 }

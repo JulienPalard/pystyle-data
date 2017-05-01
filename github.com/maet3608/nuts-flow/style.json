@@ -43,5 +43,6 @@
         "tsv": 3,
         "txt": 2616
     },
-    "pep8_infringement": 55
+    "pep8_infringement": 55,
+    "shebang": {}
 }

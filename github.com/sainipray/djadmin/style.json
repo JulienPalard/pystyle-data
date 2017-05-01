@@ -40,5 +40,8 @@
         "rst": 170,
         "svg": 769
     },
-    "pep8_infringement": 261
+    "pep8_infringement": 261,
+    "shebang": {
+        "#!/usr/bin/python": 4
+    }
 }

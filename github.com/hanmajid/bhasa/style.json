@@ -37,5 +37,6 @@
         "txt": 128458,
         "yml": 29
     },
-    "pep8_infringement": 67
+    "pep8_infringement": 67,
+    "shebang": {}
 }

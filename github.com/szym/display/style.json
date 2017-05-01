@@ -41,5 +41,8 @@
         "rockspec": 35,
         "sh": 72
     },
-    "pep8_infringement": 72
+    "pep8_infringement": 72,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

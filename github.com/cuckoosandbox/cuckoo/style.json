@@ -62,5 +62,8 @@
         "yar": 163,
         "yml": 582
     },
-    "pep8_infringement": 2239
+    "pep8_infringement": 2239,
+    "shebang": {
+        "#!/usr/bin/env python": 32
+    }
 }

@@ -45,5 +45,6 @@
         "template": 6,
         "txt": 682
     },
-    "pep8_infringement": 127
+    "pep8_infringement": 127,
+    "shebang": {}
 }

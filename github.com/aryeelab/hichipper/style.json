@@ -52,5 +52,6 @@
         "validPairs": 182602,
         "yaml": 42
     },
-    "pep8_infringement": 537
+    "pep8_infringement": 537,
+    "shebang": {}
 }

@@ -51,5 +51,8 @@
         "xdc": 790,
         "yml": 688
     },
-    "pep8_infringement": 340
+    "pep8_infringement": 340,
+    "shebang": {
+        "#!/usr/bin/env python": 18
+    }
 }

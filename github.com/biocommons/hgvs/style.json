@@ -52,5 +52,8 @@
         "txt": 457,
         "vcf": 25
     },
-    "pep8_infringement": 1372
+    "pep8_infringement": 1372,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

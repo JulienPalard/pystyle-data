@@ -42,5 +42,8 @@
         "rss": 17,
         "txt": 3
     },
-    "pep8_infringement": 1408
+    "pep8_infringement": 1408,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

@@ -37,5 +37,6 @@
         "install": 14,
         "py": 4138
     },
-    "pep8_infringement": 32
+    "pep8_infringement": 32,
+    "shebang": {}
 }

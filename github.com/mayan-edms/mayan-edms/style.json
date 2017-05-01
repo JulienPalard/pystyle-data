@@ -54,5 +54,8 @@
         "textile": 121,
         "txt": 91
     },
-    "pep8_infringement": 549
+    "pep8_infringement": 549,
+    "shebang": {
+        "#!/usr/bin/env python": 4
+    }
 }

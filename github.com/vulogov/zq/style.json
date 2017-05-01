@@ -45,5 +45,6 @@
         "yml": 1,
         "zql": 133
     },
-    "pep8_infringement": 66
+    "pep8_infringement": 66,
+    "shebang": {}
 }

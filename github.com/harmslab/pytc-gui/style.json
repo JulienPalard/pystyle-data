@@ -39,5 +39,8 @@
         "qss": 3,
         "rst": 403
     },
-    "pep8_infringement": 150
+    "pep8_infringement": 150,
+    "shebang": {
+        "#!/usr/bin/env python3": 2
+    }
 }

@@ -55,5 +55,9 @@
         "tsv": 87,
         "txt": 5792
     },
-    "pep8_infringement": 21533
+    "pep8_infringement": 21533,
+    "shebang": {
+        "#!/usr/bin/env python": 5,
+        "#!/usr/bin/python": 4
+    }
 }

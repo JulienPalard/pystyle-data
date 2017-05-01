@@ -54,5 +54,6 @@
         "yu-py": 27,
         "yuconfig": 120
     },
-    "pep8_infringement": 5517
+    "pep8_infringement": 5517,
+    "shebang": {}
 }

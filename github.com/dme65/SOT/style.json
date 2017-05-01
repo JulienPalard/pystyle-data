@@ -37,5 +37,6 @@
         "md": 163,
         "txt": 202
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

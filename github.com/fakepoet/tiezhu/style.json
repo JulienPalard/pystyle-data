@@ -36,5 +36,9 @@
         "out": 1627,
         "py": 537
     },
-    "pep8_infringement": 6
+    "pep8_infringement": 6,
+    "shebang": {
+        "#!/usr/bin/env python": 10,
+        "#!/usr/env/bin python": 3
+    }
 }

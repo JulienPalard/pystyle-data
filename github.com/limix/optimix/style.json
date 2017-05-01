@@ -40,5 +40,6 @@
         "sh": 4,
         "yml": 34
     },
-    "pep8_infringement": 29
+    "pep8_infringement": 29,
+    "shebang": {}
 }

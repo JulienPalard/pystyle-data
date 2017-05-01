@@ -59,5 +59,9 @@
         "toc": 7,
         "txt": 84
     },
-    "pep8_infringement": 253
+    "pep8_infringement": 253,
+    "shebang": {
+        "#!/usr/bin/env python": 2,
+        "#!python": 1
+    }
 }

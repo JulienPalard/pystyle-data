@@ -38,5 +38,6 @@
         "rst": 190,
         "yaml": 51
     },
-    "pep8_infringement": 324
+    "pep8_infringement": 324,
+    "shebang": {}
 }

@@ -43,5 +43,8 @@
         "toml": 30,
         "txt": 68
     },
-    "pep8_infringement": 63
+    "pep8_infringement": 63,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

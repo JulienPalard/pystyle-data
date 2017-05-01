@@ -88,5 +88,6 @@
         "txt": 78,
         "zsh": 18
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

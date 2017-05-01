@@ -36,5 +36,6 @@
         "py": 832,
         "tsv": 33
     },
-    "pep8_infringement": 347
+    "pep8_infringement": 347,
+    "shebang": {}
 }

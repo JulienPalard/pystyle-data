@@ -35,5 +35,11 @@
         "md": 74,
         "py": 8221
     },
-    "pep8_infringement": 694
+    "pep8_infringement": 694,
+    "shebang": {
+        "#! /usr/bin/env python": 2,
+        "#!/usr/bin/env jython": 1,
+        "#!/usr/bin/env python": 63,
+        "#!/usr/bin/env python2.5": 1
+    }
 }

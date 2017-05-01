@@ -39,5 +39,8 @@
         "tpl": 200,
         "txt": 24
     },
-    "pep8_infringement": 510
+    "pep8_infringement": 510,
+    "shebang": {
+        "#!/usr/bin/env python3": 4
+    }
 }

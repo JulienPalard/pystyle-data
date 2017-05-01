@@ -43,5 +43,8 @@
         "tsv": 40666,
         "txt": 18119
     },
-    "pep8_infringement": 1221
+    "pep8_infringement": 1221,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

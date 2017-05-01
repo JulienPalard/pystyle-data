@@ -50,5 +50,8 @@
         "sh": 58,
         "txt": 2
     },
-    "pep8_infringement": 257
+    "pep8_infringement": 257,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

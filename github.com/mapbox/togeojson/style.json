@@ -40,5 +40,6 @@
         "kml": 124365,
         "md": 265
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

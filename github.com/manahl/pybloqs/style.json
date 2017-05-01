@@ -43,5 +43,8 @@
         "svg": 481,
         "yml": 39
     },
-    "pep8_infringement": 647
+    "pep8_infringement": 647,
+    "shebang": {
+        "#!/bin/env python": 1
+    }
 }

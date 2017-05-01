@@ -42,5 +42,8 @@
         "xsd": 125,
         "yaml": 164
     },
-    "pep8_infringement": 49
+    "pep8_infringement": 49,
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

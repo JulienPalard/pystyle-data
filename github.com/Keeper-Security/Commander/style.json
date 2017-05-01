@@ -37,5 +37,6 @@
         "sample": 10,
         "txt": 16
     },
-    "pep8_infringement": 721
+    "pep8_infringement": 721,
+    "shebang": {}
 }

@@ -38,5 +38,8 @@
         "xml": 59,
         "xode": 4390
     },
-    "pep8_infringement": 6853
+    "pep8_infringement": 6853,
+    "shebang": {
+        "#! /usr/bin/env python": 2
+    }
 }

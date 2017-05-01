@@ -41,5 +41,6 @@
         "sh": 435,
         "svg": 1097
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

@@ -43,5 +43,8 @@
         "xml": 710,
         "yml": 181
     },
-    "pep8_infringement": 5
+    "pep8_infringement": 5,
+    "shebang": {
+        "#! /usr/bin/python": 2
+    }
 }

@@ -48,5 +48,6 @@
         "xcconfig": 7,
         "xml": 130
     },
-    "pep8_infringement": 4
+    "pep8_infringement": 4,
+    "shebang": {}
 }

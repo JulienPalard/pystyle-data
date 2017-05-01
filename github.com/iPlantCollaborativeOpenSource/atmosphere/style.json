@@ -57,5 +57,8 @@
         "uwsgi+nginx": 142,
         "yaml": 140
     },
-    "pep8_infringement": 3552
+    "pep8_infringement": 3552,
+    "shebang": {
+        "#!/usr/bin/env python": 24
+    }
 }

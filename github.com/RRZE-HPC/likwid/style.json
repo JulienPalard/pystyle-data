@@ -53,5 +53,8 @@
         "tt": 225,
         "txt": 49440
     },
-    "pep8_infringement": 338
+    "pep8_infringement": 338,
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

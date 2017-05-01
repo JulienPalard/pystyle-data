@@ -53,5 +53,8 @@
         "woff2": 0,
         "xml": 314
     },
-    "pep8_infringement": 133
+    "pep8_infringement": 133,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

@@ -38,5 +38,6 @@
         "whalebrew": 16,
         "yml": 13
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

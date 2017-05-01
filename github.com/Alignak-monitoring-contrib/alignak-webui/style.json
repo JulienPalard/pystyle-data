@@ -61,5 +61,10 @@
         "trig": 13,
         "txt": 37
     },
-    "pep8_infringement": 2022
+    "pep8_infringement": 2022,
+    "shebang": {
+        "#!/usr/bin/env python": 43,
+        "#!/usr/bin/python": 67,
+        "\ufeff#!/usr/bin/env python": 1
+    }
 }

@@ -48,5 +48,9 @@
         "txt": 756,
         "xml": 201100
     },
-    "pep8_infringement": 14609
+    "pep8_infringement": 14609,
+    "shebang": {
+        "#!/usr/bin/env python": 12,
+        "#!/usr/bin/env runaiida": 29
+    }
 }

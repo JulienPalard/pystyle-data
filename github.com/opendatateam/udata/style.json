@@ -51,5 +51,8 @@
         "vue": 14906,
         "yml": 104
     },
-    "pep8_infringement": 116
+    "pep8_infringement": 116,
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

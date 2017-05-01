@@ -50,5 +50,10 @@
         "xcscheme": 154,
         "xcworkspacedata": 7
     },
-    "pep8_infringement": 5878
+    "pep8_infringement": 5878,
+    "shebang": {
+        "#!/bin/python3": 27,
+        "#!/usr/bin/python": 22,
+        "#!/usr/bin/python3": 2
+    }
 }

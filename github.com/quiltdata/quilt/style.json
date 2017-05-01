@@ -37,5 +37,6 @@
         "tsv": 10001,
         "yml": 56
     },
-    "pep8_infringement": 185
+    "pep8_infringement": 185,
+    "shebang": {}
 }

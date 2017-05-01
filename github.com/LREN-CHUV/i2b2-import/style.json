@@ -43,5 +43,6 @@
         "xml": 108,
         "yml": 99
     },
-    "pep8_infringement": 145
+    "pep8_infringement": 145,
+    "shebang": {}
 }

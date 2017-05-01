@@ -38,5 +38,8 @@
         "sublime-project": 19,
         "txt": 3
     },
-    "pep8_infringement": 35
+    "pep8_infringement": 35,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

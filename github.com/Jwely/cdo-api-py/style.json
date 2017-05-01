@@ -38,5 +38,6 @@
         "sh": 9,
         "txt": 21
     },
-    "pep8_infringement": 72
+    "pep8_infringement": 72,
+    "shebang": {}
 }

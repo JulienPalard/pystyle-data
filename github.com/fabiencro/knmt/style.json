@@ -42,5 +42,10 @@
         "txt": 1323,
         "voc": 1340
     },
-    "pep8_infringement": 2060
+    "pep8_infringement": 2060,
+    "shebang": {
+        "#!/usr/bin/env python": 29,
+        "#!/usr/bin/env python -O": 1,
+        "#!/usr/bin/python": 2
+    }
 }

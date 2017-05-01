@@ -36,5 +36,6 @@
         "h": 324,
         "md": 421
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

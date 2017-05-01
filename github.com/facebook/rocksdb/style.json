@@ -58,5 +58,10 @@
         "xml": 30,
         "yml": 202
     },
-    "pep8_infringement": 1619
+    "pep8_infringement": 1619,
+    "shebang": {
+        "#! /usr/bin/env python": 2,
+        "#!/usr/bin/python": 2,
+        "#!/usr/local/fbcode/gcc-4.9-glibc-2.20-fb/bin/python2.7": 1
+    }
 }

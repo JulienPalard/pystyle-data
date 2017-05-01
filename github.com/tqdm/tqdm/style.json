@@ -40,5 +40,8 @@
         "rst": 789,
         "yml": 8
     },
-    "pep8_infringement": 17
+    "pep8_infringement": 17,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

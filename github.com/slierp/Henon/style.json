@@ -44,5 +44,6 @@
         "rc2": 13,
         "txt": 94
     },
-    "pep8_infringement": 1439
+    "pep8_infringement": 1439,
+    "shebang": {}
 }

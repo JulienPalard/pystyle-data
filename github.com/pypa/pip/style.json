@@ -53,5 +53,8 @@
         "yml": 16,
         "zip": 0
     },
-    "pep8_infringement": 93335
+    "pep8_infringement": 93335,
+    "shebang": {
+        "#!/usr/bin/env python": 8
+    }
 }

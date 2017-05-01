@@ -39,5 +39,6 @@
         "xml": 443,
         "yml": 9
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

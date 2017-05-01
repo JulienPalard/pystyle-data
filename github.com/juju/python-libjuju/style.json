@@ -39,5 +39,8 @@
         "txt": 5,
         "yaml": 50
     },
-    "pep8_infringement": 9195
+    "pep8_infringement": 9195,
+    "shebang": {
+        "#!/usr/bin/env python3.5": 1
+    }
 }

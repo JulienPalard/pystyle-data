@@ -41,5 +41,8 @@
         "template": 30,
         "txt": 16
     },
-    "pep8_infringement": 70
+    "pep8_infringement": 70,
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

@@ -44,5 +44,6 @@
         "vcxproj": 135,
         "xml": 42
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

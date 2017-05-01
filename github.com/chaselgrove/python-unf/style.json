@@ -36,5 +36,6 @@
         "rounding": 27,
         "rst": 5
     },
-    "pep8_infringement": 35
+    "pep8_infringement": 35,
+    "shebang": {}
 }

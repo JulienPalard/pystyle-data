@@ -41,5 +41,6 @@
         "mprpc": 10,
         "rb": 1637
     },
-    "pep8_infringement": 0
+    "pep8_infringement": 0,
+    "shebang": {}
 }

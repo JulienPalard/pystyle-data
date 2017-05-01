@@ -38,5 +38,8 @@
         "rst": 452,
         "sublime-project": 28
     },
-    "pep8_infringement": 108
+    "pep8_infringement": 108,
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

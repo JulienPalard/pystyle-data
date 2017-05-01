@@ -41,5 +41,8 @@
         "vert": 18,
         "xml": 6382
     },
-    "pep8_infringement": 11814
+    "pep8_infringement": 11814,
+    "shebang": {
+        "#!/bin/env python": 1
+    }
 }

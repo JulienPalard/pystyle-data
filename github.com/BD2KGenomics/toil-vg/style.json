@@ -37,5 +37,8 @@
         "sh": 312,
         "template": 55
     },
-    "pep8_infringement": 1706
+    "pep8_infringement": 1706,
+    "shebang": {
+        "#!/usr/bin/env python2.7": 10
+    }
 }

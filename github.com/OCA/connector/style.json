@@ -42,5 +42,8 @@
         "rst": 4550,
         "xml": 1314
     },
-    "pep8_infringement": 50
+    "pep8_infringement": 50,
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

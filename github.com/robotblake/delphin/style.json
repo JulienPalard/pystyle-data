@@ -34,5 +34,6 @@
         "json": 1097,
         "py": 81
     },
-    "pep8_infringement": 7
+    "pep8_infringement": 7,
+    "shebang": {}
 }

@@ -45,5 +45,8 @@
         "tac": 51,
         "txt": 38
     },
-    "pep8_infringement": 462
+    "pep8_infringement": 462,
+    "shebang": {
+        "#!/usr/bin/env python": 11
+    }
 }

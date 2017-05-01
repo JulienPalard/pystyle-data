@@ -46,5 +46,9 @@
         "tabix": 155,
         "txt": 383
     },
-    "pep8_infringement": 37213
+    "pep8_infringement": 37213,
+    "shebang": {
+        "#!/usr/bin/env python": 94,
+        "#!/usr/bin/env python ": 1
+    }
 }

@@ -35,5 +35,6 @@
         "pkl": 6978,
         "py": 1847
     },
-    "pep8_infringement": 609
+    "pep8_infringement": 609,
+    "shebang": {}
 }

@@ -56,5 +56,9 @@
         "swg": 126,
         "txt": 5531
     },
-    "pep8_infringement": 1120
+    "pep8_infringement": 1120,
+    "shebang": {
+        "#! /usr/bin/env python": 1,
+        "#!/usr/bin/env python": 2
+    }
 }

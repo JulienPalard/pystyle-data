@@ -33,5 +33,8 @@
     "lines_of_code": {
         "py": 278
     },
-    "pep8_infringement": 1
+    "pep8_infringement": 1,
+    "shebang": {
+        "#!/usr/bin/python2": 1
+    }
 }

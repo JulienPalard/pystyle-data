@@ -38,5 +38,6 @@
         "py": 794,
         "xsd": 8188
     },
-    "pep8_infringement": 76
+    "pep8_infringement": 76,
+    "shebang": {}
 }

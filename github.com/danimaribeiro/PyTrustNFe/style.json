@@ -39,5 +39,6 @@
         "xml": 2491,
         "xsd": 7878
     },
-    "pep8_infringement": 87
+    "pep8_infringement": 87,
+    "shebang": {}
 }
