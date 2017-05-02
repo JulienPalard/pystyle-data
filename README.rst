@@ -10,24 +10,32 @@ of ``Python`` projects publicly available in ``pypi``.
 Stats
 -----
 
-What kind of licenses are used by Python projects:
+Licenses
+~~~~~~~~
 
 .. image:: plots/licenses.png
 
-What kind of extensions are used in README files:
+
+README extensions
+~~~~~~~~~~~~~~~~~
 
 .. image:: plots/readme.png
 
-What kind of languages, as a percentage by project, are used:
+
+Languages (pct in each project)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: plots/loc.png
 
-What shebang are used:
+
+Shebangs
+~~~~~~~~
 
 .. image:: plots/shebang.png
 
 
-Top 50 requirements:
+Top 50 requirements
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: plots/requirements.png
 
