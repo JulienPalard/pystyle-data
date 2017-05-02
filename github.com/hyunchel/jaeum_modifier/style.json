@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "hangulize<=0.0.7"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 531,

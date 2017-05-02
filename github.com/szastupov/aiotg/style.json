@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiohttp>=1.0.0",
+        "watchdog>=0.8.3"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,

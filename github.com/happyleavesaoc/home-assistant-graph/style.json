@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "homeassistant>=0.37",
+        "networkx==1.11",
+        "pygraphviz>=1.4rc1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 15,

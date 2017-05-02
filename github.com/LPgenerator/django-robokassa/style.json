@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django==1.6.8",
+        "flake8>=2.2.2",
+        "flake8==2.2.2",
+        "south>=1.0",
+        "tox>=1.8.0",
+        "wheel==0.24.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "python-dateutil>=2.6.0",
+        "ruamel.yaml>=0.14.2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,

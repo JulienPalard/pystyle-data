@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "archetypes.multilingual",
+        "plone.app.caching",
+        "plone.app.dexterity",
+        "plone.app.iterate",
+        "plone.app.upgrade",
+        "products.archetypes",
+        "products.atcontenttypes>=2.1.3",
+        "products.cmfplacefulworkflow",
+        "products.cmfplone",
+        "setuptools"
+    ],
     "license": null,
     "lines_of_code": {
         "GPL": 280,

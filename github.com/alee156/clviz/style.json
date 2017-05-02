@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "networkx",
+        "nibabel>=2.1.0",
+        "numpy>=1.10.4",
+        "pandas",
+        "plotly",
+        "scikit-image>=0.12.3",
+        "seaborn>=0.7.1"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 0,

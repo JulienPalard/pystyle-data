@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ioflo==1.5.4",
+        "portalocker==0.5.7",
+        "psutil",
+        "pyzmq",
+        "raet",
+        "ujson"
+    ],
     "license": null,
     "lines_of_code": {
         "dockerfile": 54,

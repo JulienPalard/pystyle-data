@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "json-encoder>=0.4.4",
+        "python-status>=1.0.1",
+        "requests>=2.13.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 2,

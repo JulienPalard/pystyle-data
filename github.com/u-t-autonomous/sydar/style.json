@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "pyparsing",
+        "scipy"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bib": 17,

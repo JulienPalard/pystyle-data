@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "croniter==0.3.10",
+        "future==0.15.2",
+        "monotonic==0.4",
+        "psutil==5.0.0",
+        "python-dateutil<3.0.0,>=2.1",
+        "pyzmq==15.4.0",
+        "redis==2.10.3",
+        "six==1.10.0"
+    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "bat": 263,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django>=1.8.0",
+        "django-cms>=3.3.0",
+        "unidecode"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 3,

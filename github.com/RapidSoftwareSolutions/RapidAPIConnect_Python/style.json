@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "requests>=2.8.1",
+        "six>=1.10.0",
+        "websocket-client>=0.40.0"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

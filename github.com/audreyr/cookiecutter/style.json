@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "binaryornot>=0.2.0",
+        "click>=5.0",
+        "future>=0.15.2",
+        "jinja2>=2.7",
+        "jinja2-time>=0.1.0",
+        "poyo>=0.1.0",
+        "whichcraft>=0.4.0"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,

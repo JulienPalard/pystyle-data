@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "bson",
+        "coveralls",
+        "maasclient",
+        "nose",
+        "nose-cov",
+        "pep8>=1.5.6",
+        "pyflakes>=0.8.1",
+        "pyyaml==3.10",
+        "requests-oauthlib",
+        "setuptools",
+        "sphinx-rtd-theme",
+        "tox",
+        "ubuntui",
+        "urwid"
+    ],
     "license": null,
     "lines_of_code": {
         "ini": 34,

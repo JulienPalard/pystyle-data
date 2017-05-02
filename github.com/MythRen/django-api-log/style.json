@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django==1.10.3"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 22,

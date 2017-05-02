@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jupyter",
+        "jupyter-core",
+        "lesscpy>=0.12.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,

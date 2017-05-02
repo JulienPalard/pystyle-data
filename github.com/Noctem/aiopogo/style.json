@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiohttp<2.1,>=2.0.7",
+        "cyrandom>=0.1.2",
+        "gpsoauth>=0.4.0",
+        "protobuf>=3.0.0",
+        "protobuf3-to-dict>=0.1.4",
+        "pycrypt>=0.5.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 40,

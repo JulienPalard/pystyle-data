@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django>=1.7",
+        "django-classy-tags>=0.4",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 1064,

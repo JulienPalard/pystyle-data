@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "psutil",
+        "pudb",
+        "pycurl",
+        "pyzmq",
+        "webob"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

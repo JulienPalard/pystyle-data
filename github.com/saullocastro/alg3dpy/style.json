@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 950,

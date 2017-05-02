@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flask>=0.10.1",
+        "pyldap"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 19,

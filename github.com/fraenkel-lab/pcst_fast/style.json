@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pybind11>=2.1.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ac": 214,

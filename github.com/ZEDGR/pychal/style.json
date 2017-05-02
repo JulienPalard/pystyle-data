@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "iso8601",
+        "pytz",
+        "requests",
+        "tzlocal"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "ini": 10,

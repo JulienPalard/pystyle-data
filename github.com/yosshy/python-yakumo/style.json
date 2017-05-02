@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "os-client-config>=1.13.0",
+        "pbr",
+        "python-dateutil",
+        "simplejson",
+        "six"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 30,

@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "flake8",
+        "matplotlib",
+        "matplotlib==1.4.3",
+        "numpy",
+        "numpydoc",
+        "pyopengl",
+        "pyqt5",
+        "pyqtgraph-dev (git+https://github.com/pyqtgraph/pyqtgraph@develop)",
+        "pyside",
+        "scipy",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "sphinxcontrib-bibtex",
+        "tox",
+        "virtualenv",
+        "wheel"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,

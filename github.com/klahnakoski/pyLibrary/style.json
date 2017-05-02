@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto",
+        "mo-collections",
+        "mo-dots",
+        "mo-files",
+        "mo-json",
+        "mo-json-config",
+        "mo-kwargs",
+        "mo-logs",
+        "mo-math",
+        "mo-testing",
+        "mo-threads",
+        "mo-times",
+        "pymysql",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 9,

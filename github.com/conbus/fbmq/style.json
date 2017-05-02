@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flask",
+        "requests>=2.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 34,

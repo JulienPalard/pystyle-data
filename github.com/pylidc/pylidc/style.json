@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "matplotlib>=2.0.0",
+        "numpy>=1.12.0",
+        "pydicom>=0.9.9",
+        "scikit-image>=0.12.3",
+        "scipy>=0.18.1",
+        "sqlalchemy>=1.1.5"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 186,

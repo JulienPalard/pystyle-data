@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy>=1.10.1",
+        "pandas>=0.18.0",
+        "python-decouple>=3.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 9,

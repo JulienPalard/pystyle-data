@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cppheaderparser==2.7.4",
+        "jinja2==2.9.6",
+        "numpy==1.12.1",
+        "pytest==3.0.7",
+        "pyyaml==3.12"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 115,

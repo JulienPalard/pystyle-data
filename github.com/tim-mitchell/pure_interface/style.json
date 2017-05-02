@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 1380,

@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "h5py",
+        "matplotlib",
+        "mpl-toolkits",
+        "numpy",
+        "pandas",
+        "plotly",
+        "scikit-image",
+        "scipy",
+        "statsmodels"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,

@@ -29,6 +29,18 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "arrow",
+        "arrow",
+        "blinker",
+        "flask",
+        "flask-classful",
+        "flask-login",
+        "flask-marshmallow",
+        "marshmallow",
+        "marshmallow-jsonschema",
+        "pendulum"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 36,

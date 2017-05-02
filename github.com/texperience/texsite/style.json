@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django-bootstrap-ui<0.3,>=0.2",
+        "wagtail<1.10,>=1.9",
+        "wagtailmenus<2.3,>=2.2"
+    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bs4",
+        "selenium",
+        "time",
+        "tqdm",
+        "webbrowser"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 6,

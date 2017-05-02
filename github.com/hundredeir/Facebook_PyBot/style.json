@@ -29,6 +29,23 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cheroot==5.3.0",
+        "cherrypy==10.2.0",
+        "click==6.7",
+        "enum-compat==0.0.2",
+        "flask==0.12",
+        "itsdangerous==0.24",
+        "jinja2==2.9.5",
+        "markupsafe",
+        "paste==2.0.3",
+        "portend==1.8",
+        "pytz==2016.10",
+        "requests==2.13.0",
+        "six==1.10.0",
+        "tempora==1.6.1",
+        "werkzeug"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,

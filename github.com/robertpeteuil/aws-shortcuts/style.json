@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto3>=1.4",
+        "future>=0.14"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 479,

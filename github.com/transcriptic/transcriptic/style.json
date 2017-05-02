@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click>=5.1",
+        "future>=0.15",
+        "matplotlib>=1.4",
+        "numpy>=1.10",
+        "pandas>=0.18",
+        "pillow>=3.1.0",
+        "plotly==1.9.6",
+        "python-magic>=0.4.13",
+        "requests>=2.0",
+        "scipy>=0.16"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 5,

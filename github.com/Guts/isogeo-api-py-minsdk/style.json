@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future",
+        "requests>=2.9.1"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 5,

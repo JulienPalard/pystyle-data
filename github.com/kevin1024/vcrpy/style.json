@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "pyyaml",
+        "six>=1.5",
+        "wrapt"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click==6.2",
+        "pychromecast==0.8.0",
+        "pylast==1.7.0",
+        "toml==0.9.1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 237,

@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cmd2",
+        "memoized-property",
+        "mmh3",
+        "pyyaml"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

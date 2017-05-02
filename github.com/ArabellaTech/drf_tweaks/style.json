@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django-filter>=1.0.1",
+        "djangorestframework>=3.5.3",
+        "flake8>=3.3.0",
+        "isort>=4.2.5",
+        "pep8>=1.7.0",
+        "pytest>=3.0.6",
+        "pytest-cov>=2.4.0",
+        "pytest-django>=3.1.2",
+        "six>=1.10"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,

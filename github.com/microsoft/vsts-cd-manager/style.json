@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "msrest>=0.2.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 2429,

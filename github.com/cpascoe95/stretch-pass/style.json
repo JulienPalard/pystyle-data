@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argon2-cffi==16.3.0",
+        "pyperclip==1.5.27"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 96,

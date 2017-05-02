@@ -29,6 +29,14 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "arrow",
+        "cryptography",
+        "kitchen",
+        "pyzmq",
+        "requests",
+        "six"
+    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "attr": 2,

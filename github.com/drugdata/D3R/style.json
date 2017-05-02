@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "argparse",
+        "biopython==1.68",
+        "easywebdav",
+        "ftpretty",
+        "lockfile",
+        "psutil",
+        "python-dateutil",
+        "xlsxwriter"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 242,

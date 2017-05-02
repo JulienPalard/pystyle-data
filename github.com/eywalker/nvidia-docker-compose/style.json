@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "docker-compose",
+        "jinja2",
+        "pyyaml"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 145,

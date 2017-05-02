@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pyaml>=15.03.1",
+        "six>=1.7.2",
+        "validate-email"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

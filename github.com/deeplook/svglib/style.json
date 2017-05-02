@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "lxml",
+        "reportlab"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 5,

@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "coveralls",
+        "cryptography",
+        "flake8",
+        "jinja2",
+        "matplotlib",
+        "numpy",
+        "pre-commit",
+        "pytest-cov",
+        "pytest-flake8",
+        "pytest-runner",
+        "rstcheck",
+        "setuptools",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "watchdog",
+        "wheel",
+        "yapf"
+    ],
     "license": "ISC",
     "lines_of_code": {
         "AT2": 13216,

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click",
+        "cryptography",
+        "pyscard",
+        "pyusb",
+        "six"
+    ],
     "license": null,
     "lines_of_code": {
         "adoc": 108,

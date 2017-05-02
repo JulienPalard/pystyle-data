@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "affine",
+        "cachetools",
+        "click>=5.0",
+        "dask",
+        "gdal>=1.9",
+        "jsonschema",
+        "netcdf4",
+        "numpy",
+        "pathlib",
+        "psycopg2",
+        "pypeg2",
+        "python-dateutil",
+        "pyyaml",
+        "rasterio>=0.34",
+        "singledispatch",
+        "sqlalchemy",
+        "xarray"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 12,

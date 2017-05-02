@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "elasticsearch",
+        "opentracing<1.2,>=1.1"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 454,

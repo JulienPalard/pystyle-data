@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "acme-tiny",
+        "fdb",
+        "ipy",
+        "pysftp",
+        "python-ldap",
+        "sqlalchemy",
+        "unidecode",
+        "validate-email"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "conf": 71,

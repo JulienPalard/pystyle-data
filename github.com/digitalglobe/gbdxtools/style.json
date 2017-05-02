@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto==2.39.0",
+        "cloudpickle",
+        "dask",
+        "ephem",
+        "future==0.15.2",
+        "gbdx-auth==0.2.4",
+        "geomet==0.1.1",
+        "ndg-httpsclient==0.4.2",
+        "numpy",
+        "pycurl",
+        "pygeoif==0.6",
+        "pyproj",
+        "rasterio>=1.0a3",
+        "requests==2.12.1",
+        "shapely",
+        "six==1.10.0",
+        "toolz"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

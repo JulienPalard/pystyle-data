@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "blinker",
+        "redis",
+        "tqdm"
+    ],
     "license": null,
     "lines_of_code": {
         "markdown": 211,

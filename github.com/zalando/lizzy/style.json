@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "connexion==1.1.5",
+        "decorator",
+        "environmental>=1.1",
+        "flask==0.11.1",
+        "metricz==0.1.4",
+        "pytz",
+        "pyyaml",
+        "raven",
+        "stups-senza>=1.0.40",
+        "uwsgi"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 1,

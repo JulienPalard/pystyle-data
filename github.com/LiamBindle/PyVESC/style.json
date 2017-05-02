@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pycrc"
+    ],
     "license": "CC-BY-4.0",
     "lines_of_code": {
         "MD": 34,

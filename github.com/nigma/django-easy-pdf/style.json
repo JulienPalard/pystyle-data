@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django>=1.8",
+        "reportlab>=3",
+        "xhtml2pdf>=0.2b1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

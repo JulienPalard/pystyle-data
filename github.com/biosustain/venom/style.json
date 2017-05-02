@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "blinker>=1.4.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "json": 69,

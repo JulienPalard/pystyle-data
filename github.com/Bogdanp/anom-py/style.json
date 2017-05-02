@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "google-cloud-datastore~=1.0",
+        "msgpack-python==0.4.8",
+        "python-dateutil==2.6.0"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 11,

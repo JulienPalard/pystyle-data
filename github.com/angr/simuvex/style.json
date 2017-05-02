@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ana",
+        "archinfo",
+        "bintrees",
+        "cachetools",
+        "claripy",
+        "cooldict",
+        "dpkt-fix",
+        "enum34",
+        "pyvex",
+        "unicorn"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "c": 150,

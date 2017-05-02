@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "autopep8~=1.2",
+        "flake8~=3.0",
+        "ipython~=5.2",
+        "pytest~=3.0",
+        "pytest-cov~=2.3",
+        "pytest-xdist~=1.15",
+        "twine~=1.8",
+        "wheel~=0.29"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bak": 217,

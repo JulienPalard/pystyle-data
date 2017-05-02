@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "anoncreds-dev==0.3.8",
+        "sovrin-common-dev==0.2.51"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "dockerfile": 37,

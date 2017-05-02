@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "decorator",
+        "nbformat>=4.2",
+        "pytz",
+        "requests",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 8,

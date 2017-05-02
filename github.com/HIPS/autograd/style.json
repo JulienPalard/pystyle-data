@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future>=0.15.2",
+        "numpy>=1.12",
+        "scipy>=0.17"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

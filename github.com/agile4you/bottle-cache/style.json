@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bottle",
+        "coverage",
+        "coveralls",
+        "hiredis",
+        "pytest",
+        "pytest-cov",
+        "redis",
+        "six",
+        "ujson"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 547,

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click",
+        "colorama",
+        "pycryptodomex",
+        "requests",
+        "tabulate"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 2,

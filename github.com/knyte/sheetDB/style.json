@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "gspread>=0.6.2",
+        "oauth2client>=4.0.0",
+        "pyopenssl"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

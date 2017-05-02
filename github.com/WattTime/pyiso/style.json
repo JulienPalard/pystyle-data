@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4==4.5.0",
+        "celery>=3.1",
+        "html5lib",
+        "lxml==3.6.1",
+        "mock",
+        "pandas>=0.18",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "xlrd"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 242,

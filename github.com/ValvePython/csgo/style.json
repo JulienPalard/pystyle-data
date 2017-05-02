@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "gevent>=1.1",
+        "gevent-eventemitter>=2.0",
+        "protobuf>=3.0.0",
+        "six>=1.10",
+        "steam>=0.8.13"
+    ],
     "license": null,
     "lines_of_code": {
         "proto": 3378,

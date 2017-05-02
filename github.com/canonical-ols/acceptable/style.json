@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flask",
+        "jsonschema"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "md": 75,

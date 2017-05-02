@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "dill",
+        "h5py",
+        "numpy",
+        "pandas",
+        "pathos",
+        "python-dateutil",
+        "scikit-learn",
+        "scipy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,

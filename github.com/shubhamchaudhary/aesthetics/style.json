@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click",
+        "numpy",
+        "opencv-python",
+        "pandas",
+        "requests",
+        "scipy",
+        "sklearn"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,

@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "funcy",
+        "grequests",
+        "pymongo",
+        "python-dateutil",
+        "requests",
+        "steem==0.18.1",
+        "werkzeug"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 13,

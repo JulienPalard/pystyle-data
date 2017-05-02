@@ -29,6 +29,14 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "dictdiffer",
+        "jinja2",
+        "kubernetes~=1.0.0",
+        "python-string-utils",
+        "ruamel.yaml",
+        "six"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 23,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "theano>=0.8.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,

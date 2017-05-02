@@ -29,6 +29,17 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "certifi",
+        "ipaddress",
+        "oauth2client",
+        "python-dateutil",
+        "pyyaml",
+        "setuptools",
+        "six",
+        "urllib3!=1.21",
+        "websocket-client"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 7,

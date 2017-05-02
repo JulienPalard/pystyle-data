@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "angr",
+        "grandalf",
+        "ipython",
+        "pygments",
+        "pygraphviz",
+        "pyqode.core",
+        "pyqode.python",
+        "pyside",
+        "pyzmq",
+        "qtconsole",
+        "websocket-client"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 66,

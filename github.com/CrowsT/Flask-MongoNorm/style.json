@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flask>=0.10",
+        "mongonorm>=2.0"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "py": 40,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "numpy>=1.6.1",
+        "scipy>=0.9",
+        "sklearn"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 3,

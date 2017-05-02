@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "attrs",
+        "boto3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,

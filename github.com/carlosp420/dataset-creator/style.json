@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "degenerate-dna==0.0.9",
+        "seqrecord-expanded==0.2.6",
+        "six==1.10.0"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 40,

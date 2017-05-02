@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "aio-service-client>=0.5.4",
+        "dirty-loader",
+        "dirty-models>=0.9.1"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "ini": 5,

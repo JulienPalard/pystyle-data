@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "requests>=2.5",
+        "six>=1.0.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,

@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argparse",
+        "functools32",
+        "jsonschema",
+        "jsonschema",
+        "pbkdf2",
+        "pydes",
+        "repoze.lru",
+        "requests",
+        "simplejson"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,

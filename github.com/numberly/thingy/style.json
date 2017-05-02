@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pytest",
+        "pytest-cov"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [],
     "license": "ISC",
     "lines_of_code": {
         "bash": 159,

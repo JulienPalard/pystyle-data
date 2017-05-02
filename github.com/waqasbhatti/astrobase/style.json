@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "astropy",
+        "astroquery",
+        "jplephem",
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "pyeebls",
+        "scipy",
+        "tornado"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 25,

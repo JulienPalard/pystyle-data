@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django-appconf>=1.0.1"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 3,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future==0.16.0",
+        "timeout-decorator==0.3.3",
+        "wheel==0.24.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "csv": 59415,

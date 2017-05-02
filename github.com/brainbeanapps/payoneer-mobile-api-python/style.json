@@ -29,6 +29,12 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "certifi",
+        "python-dateutil",
+        "six>=1.10",
+        "urllib3>=1.15"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 10,

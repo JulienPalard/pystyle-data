@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4",
+        "pyclamd",
+        "pypdf2",
+        "python-magic"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "ar": 4,

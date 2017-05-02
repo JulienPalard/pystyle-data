@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto",
+        "django<1.10,>=1.6.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 12,

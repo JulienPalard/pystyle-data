@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "numpy",
+        "pandas",
+        "scipy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

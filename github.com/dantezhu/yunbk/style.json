@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "grandfatherson",
+        "paramiko",
+        "sh"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 11,

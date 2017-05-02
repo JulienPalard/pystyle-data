@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cherrypy>=7.1.0",
+        "h5py",
+        "keras<2,>=1.0.6",
+        "numpy",
+        "pillow>=4.0.0",
+        "psutil",
+        "py-cpuinfo==0.2.3",
+        "requests",
+        "scipy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

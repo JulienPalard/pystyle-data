@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2",
+        "lxml==3.7.1",
+        "mock",
+        "uw-restclients-core>0.8,<1.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 1,

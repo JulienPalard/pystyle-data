@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiohttp~=2.0.7",
+        "namedlist",
+        "python-dateutil>=2.5",
+        "requests",
+        "simplejson"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 14,

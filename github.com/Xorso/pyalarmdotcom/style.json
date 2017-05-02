@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiohttp",
+        "async-timeout",
+        "bs4",
+        "coverage",
+        "nose",
+        "pypi-publisher",
+        "sphinx",
+        "sphinx-rtd-theme"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,

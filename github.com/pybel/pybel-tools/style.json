@@ -29,6 +29,23 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click",
+        "flask",
+        "flask-basicauth",
+        "flask-bootstrap",
+        "flask-wtf",
+        "fuzzywuzzy",
+        "ipython",
+        "networkx",
+        "numpy",
+        "pandas",
+        "pybel",
+        "pygments",
+        "requests",
+        "scipy",
+        "sqlalchemy"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,

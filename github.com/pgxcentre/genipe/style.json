@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2>=2.7.3",
+        "numpy>=1.9.2",
+        "pandas>=0.17.0",
+        "setuptools>=12.0.5"
+    ],
     "license": "CC-BY-NC-4.0",
     "lines_of_code": {
         "R": 89,

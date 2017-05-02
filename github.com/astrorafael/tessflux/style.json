@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "requests",
+        "twisted==16.6.0",
+        "twisted-mqtt"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,

@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future",
+        "futures",
+        "ipyparallel",
+        "ipython",
+        "jpype1",
+        "jupyter",
+        "matplotlib",
+        "mpld3",
+        "numpy",
+        "pandas",
+        "pysd",
+        "pyzmq",
+        "salib",
+        "scikit-learn",
+        "scipy",
+        "seaborn"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 171,

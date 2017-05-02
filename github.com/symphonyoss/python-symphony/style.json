@@ -29,6 +29,16 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "bs4",
+        "configparser",
+        "httpretty",
+        "lxml",
+        "pip",
+        "pyopenssl",
+        "pytz",
+        "requests"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 32,

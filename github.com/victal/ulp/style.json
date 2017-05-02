@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pyperclip",
+        "urwid"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 52,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "helga",
+        "requests"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 326,

@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "appdirs",
+        "lxml",
+        "pyyaml",
+        "schema",
+        "sqlalchemy>=1.0.8",
+        "toposort==1.4",
+        "wheezy.template==0.1.167"
+    ],
     "license": null,
     "lines_of_code": {
         "c": 2319,

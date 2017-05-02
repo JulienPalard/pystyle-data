@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "pyparsing",
+        "pyyaml",
+        "scikit-learn",
+        "scipy",
+        "tensorflow"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 85,

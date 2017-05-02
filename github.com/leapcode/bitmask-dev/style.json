@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "colorama",
+        "leap.common",
+        "service-identity",
+        "srp",
+        "twisted>=14.0.0",
+        "zope.interface"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "ADD": 2,

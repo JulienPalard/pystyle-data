@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "aioredis"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 3,

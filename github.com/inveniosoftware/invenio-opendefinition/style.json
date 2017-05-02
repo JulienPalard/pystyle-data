@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click>=6.4",
+        "flask>=0.11.1",
+        "flask-celeryext>=0.2.0",
+        "invenio-indexer>=1.0.0a9",
+        "invenio-jsonschemas>=1.0.0a3",
+        "invenio-pidstore>=1.0.0b1",
+        "invenio-records>=1.0.0b1",
+        "invenio-records-rest>=1.0.0a18",
+        "invenio-search>=1.0.0a9",
+        "jsonref>=0.1",
+        "jsonresolver>=0.2.1",
+        "jsonschema>=2.5.1",
+        "requests>=2.9.1"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "bat": 263,

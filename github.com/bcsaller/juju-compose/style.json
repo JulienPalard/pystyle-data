@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "blessings",
+        "bundletester",
+        "nose",
+        "otherstuf",
+        "path.py",
+        "pathspec",
+        "requests",
+        "responses",
+        "ruamel.yaml"
+    ],
     "license": null,
     "lines_of_code": {
         "bash": 8,

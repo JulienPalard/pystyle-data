@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "python-dateutil",
+        "sqlalchemy"
+    ],
     "license": null,
     "lines_of_code": {
         "config": 7,

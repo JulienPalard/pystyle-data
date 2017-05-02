@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "docopt>=0.6",
+        "numpy",
+        "pymer>=0.3.3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cc": 243,

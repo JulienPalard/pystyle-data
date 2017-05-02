@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "beautifulsoup4",
+        "cchardet",
+        "docopt",
+        "ordered-set-minghu6",
+        "pillow",
+        "requests",
+        "wheel"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 22,

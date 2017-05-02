@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4==4.5.3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 2,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "elasticsearch>=5.0.0,<6.0.0",
+        "python-dateutil",
+        "six"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 7,

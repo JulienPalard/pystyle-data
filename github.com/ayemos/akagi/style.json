@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "boto3>=1.4.4",
+        "psycopg2>=2.7"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 19,

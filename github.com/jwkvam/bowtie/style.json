@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click",
+        "codecov",
+        "eventlet",
+        "flask-socketio",
+        "future",
+        "jinja2",
+        "markdown",
+        "msgpack-python",
+        "numpy",
+        "pandas",
+        "plotlywrapper",
+        "pydocstyle",
+        "pylint",
+        "pytest",
+        "pytest-cov",
+        "pytest-pylint",
+        "selenium"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 23,

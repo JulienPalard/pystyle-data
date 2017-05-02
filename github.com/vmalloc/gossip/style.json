@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "logbook>=0.12.0",
+        "sentinels",
+        "vintage"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 3,

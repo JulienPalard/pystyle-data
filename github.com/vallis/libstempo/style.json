@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cython>=0.22",
+        "numpy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "h": 57,

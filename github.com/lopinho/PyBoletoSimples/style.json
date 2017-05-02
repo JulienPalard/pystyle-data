@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "requests==2.7.0",
+        "tox==2.1.1"
+    ],
     "license": null,
     "lines_of_code": {
         "ini": 14,

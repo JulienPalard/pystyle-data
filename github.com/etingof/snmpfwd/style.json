@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pycryptodome",
+        "pysnmp>=4.3.0"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ffmpy>=0.2.2",
+        "le-utils>=0.0.9rc13",
+        "matplotlib==2.0.0",
+        "numpy==1.12.1",
+        "pillow>=3.3.1",
+        "wand==0.4.4"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 11,

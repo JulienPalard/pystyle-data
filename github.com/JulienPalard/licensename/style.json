@@ -29,6 +29,9 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "textunwrap"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 22,

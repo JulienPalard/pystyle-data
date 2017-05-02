@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "affine",
+        "appdirs",
+        "mapkit>=1.2.0",
+        "psycopg2",
+        "pyyaml",
+        "rapidpy",
+        "sqlalchemy",
+        "timezonefinder",
+        "utm",
+        "wrf-python"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "asc": 4182,

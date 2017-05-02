@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pyramid",
+        "setuptools>=18"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 2,

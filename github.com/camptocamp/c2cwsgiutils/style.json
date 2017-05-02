@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cee-syslog-handler==0.3.4",
+        "cornice==2.4.0",
+        "flake8==3.3.0",
+        "gunicorn==19.7.1",
+        "junit2html",
+        "lxml==3.7.3",
+        "netifaces==0.10.5",
+        "psycopg2==2.7.1",
+        "pyramid==1.8.3",
+        "pyramid-tm==1.1.1",
+        "pytest==3.0.7",
+        "requests==2.13.0",
+        "sqlalchemy==1.1.6",
+        "twine",
+        "zope.interface==4.3.3",
+        "zope.sqlalchemy==0.7.7"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "asc": 75,

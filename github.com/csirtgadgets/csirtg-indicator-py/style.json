@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "arrow>=0.7.0",
+        "faker",
+        "ipaddress>=1.0.16",
+        "pendulum>=0.5.2",
+        "prettytable>=0.7.2",
+        "pytricia>=0.9.0"
+    ],
     "license": "MPL-2.0",
     "lines_of_code": {
         "cfg": 10,

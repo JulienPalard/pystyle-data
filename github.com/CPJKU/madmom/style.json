@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cython>=0.22.1",
+        "numpy>=1.8.1",
+        "scipy>=0.14"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "beats": 5,

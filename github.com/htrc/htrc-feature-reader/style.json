@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "pandas",
+        "pysolr",
+        "six",
+        "ujson"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 24,

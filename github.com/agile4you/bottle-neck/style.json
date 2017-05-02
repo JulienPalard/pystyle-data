@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bottle",
+        "coverage",
+        "coveralls",
+        "pytest",
+        "pytest-cov",
+        "six"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "py": 1572,

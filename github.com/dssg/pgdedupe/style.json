@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click>=6.0",
+        "dedupe>=1.6.0",
+        "dedupe-variable-name",
+        "numpy",
+        "pandas",
+        "psycopg2",
+        "pyyaml"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

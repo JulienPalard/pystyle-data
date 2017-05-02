@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click>=6.6",
+        "requests>=2.10.0",
+        "shapely>=1.5.16"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "css": 1715,

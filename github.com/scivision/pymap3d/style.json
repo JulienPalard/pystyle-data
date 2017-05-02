@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "astropy",
+        "nose",
+        "numpy",
+        "python-dateutil",
+        "pytz"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "ini": 2,

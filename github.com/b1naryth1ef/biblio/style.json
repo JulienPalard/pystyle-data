@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2==2.9.6",
+        "pyyaml==3.12",
+        "six==1.10.0"
+    ],
     "license": null,
     "lines_of_code": {
         "css": 81,

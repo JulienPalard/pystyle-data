@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "docopt>=0.6.2"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 43,

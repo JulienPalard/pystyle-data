@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "pyramid>=1.9.dev0",
+        "zope.interface"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

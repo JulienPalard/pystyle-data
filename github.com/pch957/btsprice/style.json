@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "aiohttp",
+        "bts",
+        "btspusher",
+        "prettytable"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 191,

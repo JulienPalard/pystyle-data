@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "astunparse",
+        "autopep8",
+        "colorama",
+        "typed-ast",
+        "typed-astunparse"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 127,

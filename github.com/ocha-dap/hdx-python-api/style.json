@@ -29,6 +29,21 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "install_requires": [
+        "ckanapi",
+        "colorlog",
+        "geonamescache",
+        "ndg-httpsclient",
+        "pyaml",
+        "pyasn1",
+        "pyopenssl",
+        "python-dateutil",
+        "requests",
+        "scraperwiki",
+        "six",
+        "tabulator",
+        "typing"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 10,

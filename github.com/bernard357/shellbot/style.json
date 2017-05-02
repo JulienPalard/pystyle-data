@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "bottle",
+        "ciscosparkapi",
+        "colorlog",
+        "paste",
+        "pyyaml"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,

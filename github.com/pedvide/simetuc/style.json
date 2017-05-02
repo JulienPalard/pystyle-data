@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ase>=3.9",
+        "colorama",
+        "h5py>=2.6",
+        "matplotlib>=1.5",
+        "numba",
+        "numpy>=1.11",
+        "pyyaml>=3.12",
+        "scipy>=0.18",
+        "tqdm>=4.8"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "c": 8938,

@@ -29,6 +29,10 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "futures<=2.2.0",
+        "six>=1.6"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 190,

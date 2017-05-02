@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flask-cache>=0.11.1",
+        "pylibmc>=1.2.3",
+        "redis>=2.7.2"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 2,

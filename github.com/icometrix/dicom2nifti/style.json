@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future",
+        "nibabel",
+        "numpy",
+        "pydicom",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 281,

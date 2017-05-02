@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "gevent>=1.2.1",
+        "takumi-config",
+        "takumi-thrift",
+        "thriftpy>=0.3.9"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argon2-cffi",
+        "autopep8>=1.2.4",
+        "bumpversion==0.5.3",
+        "django-formtools",
+        "django-polymorphic==1.1",
+        "django-ratelimit==1.0.1",
+        "django-wizard-builder==0.0.7",
+        "environ",
+        "pynacl==1.1.2",
+        "pypandoc==1.4",
+        "python-gnupg==0.4.0",
+        "pytz==2017.2",
+        "reportlab==3.4.0",
+        "six",
+        "wheel==0.29.0",
+        "zxcvbn-py3"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 242,

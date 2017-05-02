@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "gevent>=1.1.2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "222885490Z--ae71658b3ab452f7e4f03bda6f777b860b2e2ff2": 2,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "google-api-python-client==1.5.5"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

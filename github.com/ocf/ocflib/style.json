@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "cached-property",
+        "cracklib",
+        "dnspython",
+        "jinja2",
+        "ldap3",
+        "paramiko",
+        "pexpect",
+        "pycrypto",
+        "pymysql",
+        "pysnmp<=4.3.2",
+        "pyyaml",
+        "redis",
+        "requests",
+        "sqlalchemy"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,

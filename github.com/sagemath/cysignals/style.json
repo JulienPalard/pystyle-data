@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "Unknown (git+https://github.com/sphinx-doc/sphinx.git)",
+        "cython",
+        "setuptools"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "ac": 51,

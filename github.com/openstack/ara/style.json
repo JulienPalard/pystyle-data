@@ -29,6 +29,21 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "ansible>=2.1.0.0",
+        "cliff",
+        "debtcollector>=1.2.0",
+        "decorator>=4.0.0",
+        "flask==0.11.1",
+        "flask-migrate",
+        "flask-script",
+        "flask-sqlalchemy",
+        "frozen-flask",
+        "junit-xml>=1.7",
+        "pbr!=2.1.0,>=2.0.0",
+        "pygments",
+        "setuptools>=11.3"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 74,

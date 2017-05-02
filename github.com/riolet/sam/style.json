@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "mysql-python>=1.2",
+        "requests>=2.13",
+        "web.py>=0.38"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 54,

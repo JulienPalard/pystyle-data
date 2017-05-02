@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "capacity",
+        "click",
+        "emport",
+        "python-dateutil",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "ini": 7,

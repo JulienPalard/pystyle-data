@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "js2py>=0.43",
+        "requests<3.0.0,>=2.0.0",
+        "tld>=0.7.3,<1.0.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 36,

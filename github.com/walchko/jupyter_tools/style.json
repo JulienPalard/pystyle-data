@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "build-utils",
+        "jupyter",
+        "matplotlib",
+        "numpy"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 149,

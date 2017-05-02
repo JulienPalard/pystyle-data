@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click<7.0,>=6.7",
+        "fuzzywuzzy>=0.15.0,<0.20",
+        "parse>=1.8.0,<2.0",
+        "prompt-toolkit<1.1,==1.0.14",
+        "pybloom-live<2.3,>=2.2.0",
+        "pygments<2.3,>=2.2.0",
+        "sortedcontainers<1.6,>=1.5.7"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 35,

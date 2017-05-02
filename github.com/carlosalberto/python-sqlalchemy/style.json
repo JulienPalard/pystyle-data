@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "opentracing<1.2,>=1.1",
+        "sqlalchemy"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

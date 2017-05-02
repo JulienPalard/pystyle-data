@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "phonenumbers",
+        "py-asterisk",
+        "soappy"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "css": 52,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "addict",
+        "http-parser",
+        "six"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 11,

@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2>=2.8",
+        "lxml<3.7,>=3.6.0",
+        "reportlab",
+        "signxml==2.2.6",
+        "suds>=0.4",
+        "suds-requests>=0.3"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click",
+        "flask-admin",
+        "redis",
+        "structlog",
+        "tasktiger>=0.4"
+    ],
     "license": null,
     "lines_of_code": {
         "html": 113,

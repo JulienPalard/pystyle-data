@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bitstring",
+        "click",
+        "numpy",
+        "python-dateutil",
+        "testfixtures"
+    ],
     "license": null,
     "lines_of_code": {
         "ais": 10000,

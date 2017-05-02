@@ -29,6 +29,26 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "argparse",
+        "boto==2.40.0",
+        "boto3",
+        "delfick-app==0.9.4",
+        "dnslib==0.9.4",
+        "filechunkio==1.6",
+        "humanize",
+        "input-algorithms==0.5.9",
+        "option-merge==1.5",
+        "paramiko==1.16.0",
+        "pyrelic==0.8.0",
+        "pytz",
+        "pyyaml==3.10",
+        "radssh==1.0.5",
+        "requests",
+        "six",
+        "slacker",
+        "ultra-rest-client==0.1.4"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 2,

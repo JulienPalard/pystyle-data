@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cartopy",
+        "decorator",
+        "geographiclib",
+        "matplotlib",
+        "numpy",
+        "obspy>=1.0.3",
+        "scipy",
+        "setuptools",
+        "shapely",
+        "toeplitz",
+        "tqdm"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 190,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "pylu"
+    ],
     "license": null,
     "lines_of_code": {
         "lyx": 8969,

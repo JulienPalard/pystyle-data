@@ -29,6 +29,10 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "cython>=0.22,!=0.25.1",
+        "numpy>=1.7,<2.0"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cmd": 88,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "future<0.17,>=0.16"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 6,

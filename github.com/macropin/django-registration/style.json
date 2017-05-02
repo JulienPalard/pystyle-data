@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "coveralls",
+        "django>1.8",
+        "docutils==0.12",
+        "flake8",
+        "invoke==0.12.2",
+        "sphinx",
+        "twine"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 112,

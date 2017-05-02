@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "biopython>=1.64",
+        "cython>=0.22",
+        "matplotlib>=1.4.0",
+        "numpy>=1.9.4",
+        "pandas>=0.17.0",
+        "pysam>=0.8.4",
+        "scipy>=0.15.1",
+        "termcolor",
+        "twobitreader>=3.0.0"
+    ],
     "license": null,
     "lines_of_code": {
         "bib": 282,

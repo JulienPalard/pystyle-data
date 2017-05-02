@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "grequests",
+        "requests",
+        "simplejson",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,

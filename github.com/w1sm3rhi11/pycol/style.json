@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "codeclimate-test-reporter",
+        "pytest-cov"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 70,

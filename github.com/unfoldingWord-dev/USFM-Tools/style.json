@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future==0.16.0",
+        "pyparsing==2.1.10"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 55,

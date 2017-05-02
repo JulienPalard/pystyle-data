@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "coverage",
+        "foster",
+        "jinja2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 5,

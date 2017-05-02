@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "mako",
+        "numpy",
+        "scipy"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "BATCH": 12737,

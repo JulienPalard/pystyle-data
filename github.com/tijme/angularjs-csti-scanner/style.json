@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4==4.5.3",
+        "colorama==0.3.7",
+        "nyawc==1.4.1",
+        "requests==2.13.0",
+        "selenium==3.0.2"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 4,

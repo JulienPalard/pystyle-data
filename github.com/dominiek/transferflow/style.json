@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "nnpack>=0.1.0",
+        "numpy>=1.12.0",
+        "scipy>=0.18.1",
+        "tensorflow>=0.12.1"
+    ],
     "license": null,
     "lines_of_code": {
         "cc": 755,

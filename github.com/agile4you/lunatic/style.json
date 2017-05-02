@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "gevent",
+        "psycogreen",
+        "psycogreen",
+        "psycopg2",
+        "snaql",
+        "sqlalchemy",
+        "ujson"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 961,

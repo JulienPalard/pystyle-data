@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "coverage",
+        "green>=2.5.0",
+        "networkx==1.11",
+        "recommonmark>=0.4.0",
+        "requests>=2.4.2",
+        "six",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "sphinxcontrib-napoleon"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 8,

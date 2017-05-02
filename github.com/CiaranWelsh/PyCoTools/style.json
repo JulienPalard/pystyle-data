@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argparse",
+        "lxml",
+        "lxml",
+        "matplotlib",
+        "matplotlib.pyplot",
+        "numpy",
+        "numpy",
+        "pandas",
+        "pandas",
+        "scipy",
+        "scipy"
+    ],
     "license": null,
     "lines_of_code": {
         "conf": 65,

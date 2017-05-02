@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "docopt",
+        "gevent>=1.2.1",
+        "gunicorn",
+        "schema",
+        "takumi",
+        "takumi-config",
+        "takumi-ext",
+        "thriftpy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 3,

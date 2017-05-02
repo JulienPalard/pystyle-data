@@ -29,6 +29,12 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "python-dateutil>=2.0.0",
+        "pytz",
+        "requests>=1.0.3",
+        "six>=1.9.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

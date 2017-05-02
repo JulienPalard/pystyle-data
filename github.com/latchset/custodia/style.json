@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "cryptography",
+        "jwcrypto",
+        "requests",
+        "six"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "7": 10,

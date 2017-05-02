@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django<2,>=1.7",
+        "django-cors-headers",
+        "djangorestframework",
+        "faker",
+        "inflection",
+        "jsondiff",
+        "requests",
+        "simplejson",
+        "urllib3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 156,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "wagtail>=1.8"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,

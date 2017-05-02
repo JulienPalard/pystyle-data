@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django>=1.8",
+        "django-annoying>=0.8.0",
+        "icalendar>=3.8.4",
+        "python-dateutil>=2.1",
+        "pytz>=2013.9"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 6,

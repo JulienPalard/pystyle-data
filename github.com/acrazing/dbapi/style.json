@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "lxml==3.7.3",
+        "requests==2.13.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "falcon",
+        "matrix-client>=0.0.6",
+        "requests"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 3,

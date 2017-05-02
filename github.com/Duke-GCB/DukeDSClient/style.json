@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future",
+        "pyyaml",
+        "requests",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,

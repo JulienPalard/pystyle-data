@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "langdetect>=1.0.6",
+        "matplotlib>=2.0.0",
+        "networkx>=1.11",
+        "pandas>=0.18.1",
+        "pymongo>=3.2.2",
+        "pytz>=2016.4",
+        "smappdragon==0.0.43",
+        "stop-words>=2015.2.23.1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "csv": 2,

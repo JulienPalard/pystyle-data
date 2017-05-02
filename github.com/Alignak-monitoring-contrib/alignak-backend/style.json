@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "configparser",
+        "docopt",
+        "eve>=0.5",
+        "eve-swagger",
+        "flask-apscheduler",
+        "flask-bootstrap",
+        "future",
+        "influxdb",
+        "jsonschema",
+        "python-dateutil>=2.4.2",
+        "statsd",
+        "uwsgi"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "attr": 1,

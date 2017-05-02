@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "colorama",
+        "colorlog"
+    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "cfg": 85,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4",
+        "future",
+        "requests"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 242,

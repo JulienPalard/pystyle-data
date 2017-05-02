@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "decorator>=4.0.10",
+        "numpy>=1.7",
+        "scipy",
+        "six"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 10,

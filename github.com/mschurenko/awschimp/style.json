@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto3",
+        "botocore"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 49,

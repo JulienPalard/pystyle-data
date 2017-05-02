@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "flask",
+        "pyjwt",
+        "simplekv"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

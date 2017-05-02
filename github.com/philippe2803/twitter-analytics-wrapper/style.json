@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "python-dateutil",
+        "pyvirtualdisplay",
+        "selenium"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 45,

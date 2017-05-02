@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2",
+        "pyyaml",
+        "schematics>=2.0.0.dev2",
+        "six",
+        "swagger-schema"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 272,

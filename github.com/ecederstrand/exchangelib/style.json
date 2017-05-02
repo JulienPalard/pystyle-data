@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cached-property",
+        "dnspython>=1.14.0",
+        "future",
+        "lxml",
+        "pytz",
+        "requests>=2.7",
+        "requests-ntlm>=0.2.0",
+        "six",
+        "tzlocal"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,

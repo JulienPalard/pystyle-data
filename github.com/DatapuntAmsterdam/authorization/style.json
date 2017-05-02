@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click>=6.7",
+        "crayons",
+        "datapunt-authorization-levels",
+        "psycopg2>=2.6.2"
+    ],
     "license": "MPL-2.0",
     "lines_of_code": {
         "py": 732,

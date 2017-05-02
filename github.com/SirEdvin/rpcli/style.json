@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click>=6.6",
+        "formaller>=0.1.2",
+        "gitpython>=2.0.0",
+        "profig>=0.4.1",
+        "six"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 847

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "celery>=4.0",
+        "pyyaml>=3.0"
+    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "cfg": 77,

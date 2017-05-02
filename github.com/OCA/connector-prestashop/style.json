@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bs4",
+        "freezegun",
+        "html2text",
+        "prestapyt>=0.7.0",
+        "unidecode",
+        "vcrpy"
+    ],
     "license": null,
     "lines_of_code": {
         "csv": 47,

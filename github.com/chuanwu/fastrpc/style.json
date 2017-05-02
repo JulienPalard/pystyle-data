@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "requests==2.7.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "postman_collection_v1": 75,

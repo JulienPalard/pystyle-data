@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "libsass",
+        "markdown-code-blocks>=1.1.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

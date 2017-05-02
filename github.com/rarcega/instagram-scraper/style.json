@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "futures==2.2.0",
+        "nose",
+        "requests>=1.0.4",
+        "requests-mock",
+        "tqdm>=3.8.0"
+    ],
     "license": "Unlicense",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django",
+        "markdown",
+        "pillow",
+        "pip"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 4,

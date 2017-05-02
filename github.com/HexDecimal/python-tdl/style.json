@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "libtcod-cffi>=2.3.0,<3"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 281,

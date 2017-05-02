@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "certifi",
+        "elasticsearch==5.1.0",
+        "jinja2==2.9.5",
+        "jsonschema==2.5.1",
+        "psutil==4.1.0",
+        "py-cpuinfo==0.2.7",
+        "tabulate==0.7.5",
+        "thespian==3.6.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,

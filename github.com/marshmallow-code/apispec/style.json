@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "pyyaml>=3.10"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "django"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 190,

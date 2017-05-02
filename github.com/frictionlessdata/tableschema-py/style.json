@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click>=3.3,<7.0a",
+        "future<1.0a,>=0.15",
+        "isodate<1.0a,>=0.5.4",
+        "jsonschema<3.0a,>=2.5",
+        "python-dateutil>=2.4,<3.0a",
+        "requests<3.0a,>=2.5",
+        "rfc3986<1.0a,>=0.4",
+        "six>=1.9,<2.0a",
+        "tabulator<1.0a,>=0.7",
+        "unicodecsv<1.0a,>=0.14"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

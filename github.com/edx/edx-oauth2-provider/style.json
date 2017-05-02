@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django<1.9,>=1.8.7",
+        "edx-django-oauth2-provider>=1.2.0,<2.0.0",
+        "pyjwt<2.0.0,>=1.4.0"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "html": 37,

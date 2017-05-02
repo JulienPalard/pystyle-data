@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "logbook==1.0.0",
+        "raven>=6.0.0",
+        "rqalpha>=2.1.1"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 1,

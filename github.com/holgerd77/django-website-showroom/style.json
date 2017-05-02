@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django>=1.11,<2.0",
+        "django-haystack<2.7,>=2.6",
+        "pillow",
+        "whoosh>=2.7,<2.8"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 263,

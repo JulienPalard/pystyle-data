@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "eve==0.5.3",
+        "jinja2==2.8",
+        "pytest==2.7.2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

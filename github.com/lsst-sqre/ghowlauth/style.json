@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "oauthenticator>=0.5.1",
+        "tornado>=4.1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,

@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "click==6.6",
+        "flask==0.10.1",
+        "flask-login==0.3.2",
+        "flask-uploads==0.2.0",
+        "itsdangerous==0.24",
+        "jinja2==2.8",
+        "markupsafe==0.23",
+        "pysocks==1.5.7",
+        "sqlalchemy==1.0.14",
+        "werkzeug==0.11.10",
+        "wheel==0.26.0",
+        "xmltodict==0.10.2"
+    ],
     "license": null,
     "lines_of_code": {
         "cmd": 110,

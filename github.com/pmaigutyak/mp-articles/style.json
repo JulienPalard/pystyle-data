@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django-ckeditor==5.2.1",
+        "django-pure-pagination==0.3.0"
+    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 3,

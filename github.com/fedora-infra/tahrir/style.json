@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "docutils",
+        "dogpile.cache",
+        "moksha.wsgi>=1.2.1",
+        "pyramid",
+        "pyramid-mako",
+        "pyramid-tm",
+        "python-dateutil",
+        "qrcode",
+        "rdflib<=4.1.2",
+        "requests",
+        "sqlalchemy>=0.9.1",
+        "tahrir-api",
+        "transaction",
+        "velruse",
+        "weberror",
+        "webhelpers",
+        "zope.sqlalchemy"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 27,

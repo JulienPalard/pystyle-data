@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "astropy>=1.3",
+        "future",
+        "numpy",
+        "pandas",
+        "requests>=2.4.0",
+        "scipy"
+    ],
     "license": null,
     "lines_of_code": {
         "aux": 149,

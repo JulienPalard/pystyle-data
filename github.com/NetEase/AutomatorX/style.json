@@ -29,6 +29,23 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aircv==1.4.5",
+        "atx-androguard==3.0",
+        "atx-uiautomator==0.2.12.dev5",
+        "colorama==0.3.7",
+        "facebook-wda==0.1.1.dev1",
+        "futures==3.0.5",
+        "imageio==1.5",
+        "maproxy==0.0.12",
+        "numpy>=1.11.0",
+        "pillow>=2.7.0",
+        "pyyaml==3.11",
+        "requests>=2.9.1",
+        "subprocess32==3.2.7",
+        "tornado>=4.4",
+        "tqdm==4.5.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 278,

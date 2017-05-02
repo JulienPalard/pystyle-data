@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django>=1.10,<1.11",
+        "requests",
+        "setuptools"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "glade": 4519,

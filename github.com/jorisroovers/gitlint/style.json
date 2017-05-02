@@ -29,6 +29,11 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "install_requires": [
+        "arrow==0.10.0",
+        "click==6.6",
+        "ordereddict==1.1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

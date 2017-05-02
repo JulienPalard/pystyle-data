@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ansicolors",
+        "backports.lzma",
+        "humanize",
+        "txsocksx>=1.15.0.2",
+        "txtorcon>=0.19.1"
+    ],
     "license": "Unlicense",
     "lines_of_code": {
         "asc": 2318,

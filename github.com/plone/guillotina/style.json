@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiocache",
+        "aioconsole",
+        "aiohttp>=2.0.0<3.0.0",
+        "asyncpg",
+        "cffi",
+        "jsonschema",
+        "pycrypto",
+        "pyjwt",
+        "python-dateutil",
+        "setuptools",
+        "ujson",
+        "zope.interface"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "c": 113,

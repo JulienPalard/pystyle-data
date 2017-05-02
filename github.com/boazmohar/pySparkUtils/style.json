@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future==0.16.0",
+        "numpy==1.12.1",
+        "scipy==0.19.0",
+        "thunder-python==1.4.2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 6,

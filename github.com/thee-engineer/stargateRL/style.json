@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pyglet==1.2.4"
+    ],
     "license": null,
     "lines_of_code": {
         "html": 253,

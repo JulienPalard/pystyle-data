@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "requests-toolbelt>=0.7.0"
+    ],
     "license": null,
     "lines_of_code": {
         "Dockerfile": 21,

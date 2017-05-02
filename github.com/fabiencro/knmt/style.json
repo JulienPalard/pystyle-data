@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bokeh",
+        "chainer>=1.18.0",
+        "numpy>=1.10.0",
+        "plotly"
+    ],
     "license": null,
     "lines_of_code": {
         "config": 650,

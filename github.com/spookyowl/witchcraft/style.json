@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "hy>=0.11.1",
+        "psycopg2>=2.6.1",
+        "pyparsing>=2.1.1",
+        "sqlalchemy>=1.0.6"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,

@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "cloudmesh.common",
+        "coverage",
+        "detox",
+        "eve",
+        "flake8",
+        "psutil",
+        "pygments",
+        "tox"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,

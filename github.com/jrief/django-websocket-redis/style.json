@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "gevent",
+        "greenlet",
+        "redis",
+        "setuptools",
+        "six"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 274,

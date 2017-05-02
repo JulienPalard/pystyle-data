@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4",
+        "docutils",
+        "html5lib",
+        "ipython",
+        "jinja2",
+        "lxml",
+        "markdown",
+        "matplotlib",
+        "nbsphinx",
+        "pandas",
+        "pyyaml",
+        "pyyaml",
+        "sphinx"
+    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "cfg": 10,

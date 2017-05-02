@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "lxml"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 18,

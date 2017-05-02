@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future>=0.15.2",
+        "rdflib>=4.2.0",
+        "rdflib-sqlalchemy>=0.3.8",
+        "requests>=2.5.1",
+        "setuptools>=18.5",
+        "six>=1.10.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 2,

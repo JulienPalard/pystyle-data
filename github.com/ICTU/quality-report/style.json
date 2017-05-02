@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4==4.5.3",
+        "coverage==4.3.4",
+        "lxml==3.7.3",
+        "python-dateutil==2.6.0",
+        "setuptools==35.0.0",
+        "xmlrunner==1.7.7"
+    ],
     "license": null,
     "lines_of_code": {
         "css": 91,

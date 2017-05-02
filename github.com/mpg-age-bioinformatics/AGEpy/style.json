@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "biomart",
+        "matplotlib",
+        "numpy>=1.9.2",
+        "pandas>=0.15.2",
+        "pybedtools",
+        "requests==2.10.0",
+        "rpy2",
+        "suds",
+        "xlrd",
+        "xlsxwriter"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 900,

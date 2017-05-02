@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "flake8",
+        "pep8",
+        "pytest-cov",
+        "scipy",
+        "sphinx",
+        "tox",
+        "wheel"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 10,

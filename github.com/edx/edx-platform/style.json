@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "setuptools"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "as": 118,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "inflection"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,

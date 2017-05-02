@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django",
+        "django-annoying",
+        "premailer"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

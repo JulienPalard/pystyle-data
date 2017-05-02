@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "flake8",
+        "jupyter",
+        "matplotlib",
+        "notebook",
+        "pandas",
+        "pep8",
+        "plotnine-examples",
+        "pytest-cov",
+        "scipy",
+        "sphinx",
+        "statsmodels",
+        "wheel"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 15,

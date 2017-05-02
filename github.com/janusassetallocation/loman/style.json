@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "dill",
+        "graphviz",
+        "networkx",
+        "pandas",
+        "six"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 36,

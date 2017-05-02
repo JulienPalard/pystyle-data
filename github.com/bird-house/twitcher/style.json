@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argcomplete",
+        "flake8",
+        "mock",
+        "pymongo",
+        "pyramid>=1.7.3",
+        "pyramid-rpc",
+        "pytest",
+        "pywps>=4.0.0",
+        "requests",
+        "requests-oauthlib",
+        "sphinx>=1.3",
+        "sphinx-autoapi",
+        "webob",
+        "webtest"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 235,

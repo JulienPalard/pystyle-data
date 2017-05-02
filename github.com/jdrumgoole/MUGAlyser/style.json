@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "nose",
+        "pymongo",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "html": 26,

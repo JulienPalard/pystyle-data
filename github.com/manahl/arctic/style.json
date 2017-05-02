@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "decorator",
+        "enum34",
+        "lz4<=0.8.2",
+        "mockextras",
+        "pandas",
+        "pymongo>=3.0",
+        "python-dateutil",
+        "pytz",
+        "tzlocal"
+    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "c": 2139,

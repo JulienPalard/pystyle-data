@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "configparser",
+        "future",
+        "pdfminer",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "unicodecsv"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

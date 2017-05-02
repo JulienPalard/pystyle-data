@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django-model-search",
+        "natsort"
+    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 3,

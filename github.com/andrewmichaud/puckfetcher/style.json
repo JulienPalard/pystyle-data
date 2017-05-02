@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "appdirs<2.0.0,>=1.4.0",
+        "clint>=0.5.1,<0.6.0",
+        "feedparser>=5.2.1,<6.0.0",
+        "pyyaml>=3.12,<4.0.0",
+        "requests<3.0.0,>=2.13.0",
+        "u-msgpack-python<3.0.0,>=2.4.1"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,

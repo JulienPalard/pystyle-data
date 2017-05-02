@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "psycopg2",
+        "sqlalchemy"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 5,

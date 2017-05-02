@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "daemonize==2.4.7",
+        "requests==2.13.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,

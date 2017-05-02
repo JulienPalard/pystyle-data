@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy>=1.4.1",
+        "pillow",
+        "pykdtree",
+        "pyresample>=1.4.0",
+        "pyyaml",
+        "six",
+        "trollimage",
+        "trollsift"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 289,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "futures",
+        "inflection==0.3.1",
+        "ws4py"
+    ],
     "license": null,
     "lines_of_code": {
         "bash": 4,

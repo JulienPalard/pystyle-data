@@ -29,6 +29,16 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "install_requires": [
+        "appdirs",
+        "docopt",
+        "envmgr-lib==0.2.1",
+        "future",
+        "progressbar2",
+        "semver",
+        "simplejson",
+        "tabulate"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,

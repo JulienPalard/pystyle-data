@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cryptography",
+        "hawkauthlib",
+        "pybrowserid",
+        "requests>=2.4.2",
+        "six"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 8,

@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "bcbio-gff",
+        "biopython",
+        "cached-property",
+        "click",
+        "contextlib2",
+        "futures",
+        "pysam",
+        "scipy",
+        "six",
+        "temporary"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "fasta": 2,

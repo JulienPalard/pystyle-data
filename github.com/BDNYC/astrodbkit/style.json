@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "astropy",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "requests"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,

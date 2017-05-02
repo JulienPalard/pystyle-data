@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "orange3",
+        "pandas",
+        "scipy>=0.17",
+        "statsmodels>=0.6.1"
+    ],
     "license": null,
     "lines_of_code": {
         "csv": 147,

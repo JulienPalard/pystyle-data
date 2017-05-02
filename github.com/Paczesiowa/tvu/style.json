@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "enum34==1.1.6",
+        "nose==1.3.7"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,

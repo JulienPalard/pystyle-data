@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ovirt-engine-sdk-python<=4.0",
+        "prettytable",
+        "pyparsing",
+        "pyyaml",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "ini": 48,

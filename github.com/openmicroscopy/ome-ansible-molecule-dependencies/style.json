@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ansible==2.2.1.0",
+        "docker",
+        "molecule==1.23"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "in": 2,

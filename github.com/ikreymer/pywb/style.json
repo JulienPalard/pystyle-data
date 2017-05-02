@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "brotlipy",
+        "chardet",
+        "jinja2<2.9",
+        "pyyaml",
+        "redis",
+        "requests",
+        "six",
+        "surt>=0.3.0",
+        "watchdog",
+        "webencodings"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "arc": 80,

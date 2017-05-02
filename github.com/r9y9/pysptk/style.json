@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy>=1.8.0",
+        "six"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 1,

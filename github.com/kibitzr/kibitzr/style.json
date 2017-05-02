@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "bs4",
+        "click>=6.0",
+        "lazy-object-proxy",
+        "lxml",
+        "python-telegram-bot",
+        "pyyaml",
+        "requests",
+        "schedule",
+        "selenium",
+        "sh",
+        "six",
+        "xvfbwrapper"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

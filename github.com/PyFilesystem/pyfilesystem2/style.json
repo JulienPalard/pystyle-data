@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "appdirs~=1.4.0",
+        "enum34~=1.1.6",
+        "pytz",
+        "setuptools",
+        "six~=1.10.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 281,

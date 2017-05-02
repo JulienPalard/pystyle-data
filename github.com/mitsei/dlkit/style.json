@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto",
+        "bs4",
+        "inflection",
+        "lxml",
+        "numpy",
+        "pymongo",
+        "python-memcached",
+        "sympy"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 5,

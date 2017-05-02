@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "base58",
+        "ioflo==1.5.4",
+        "jsonpickle",
+        "ledger-dev==0.2.4",
+        "orderedset",
+        "pip",
+        "portalocker==0.5.7",
+        "prompt-toolkit==0.57",
+        "psutil",
+        "pygments",
+        "pyorient",
+        "semver",
+        "sortedcontainers==1.5.7",
+        "stp-dev==0.1.43"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,

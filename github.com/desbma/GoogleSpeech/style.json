@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "appdirs>=1.4.0",
+        "requests>=2.6.0",
+        "web-cache>=1.0.2"
+    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "in": 1,

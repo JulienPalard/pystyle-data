@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "configobj>=4.0.0",
+        "jinja2>=2.7",
+        "mopidy>=0.19",
+        "pykka>=1.1",
+        "setuptools"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 6,

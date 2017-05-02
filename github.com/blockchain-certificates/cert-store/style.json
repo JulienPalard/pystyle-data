@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "cert-core>=0.0.17",
+        "configargparse==0.10.0",
+        "connexion>=1.0.109",
+        "flask-pymongo>=0.4.1",
+        "simplekv>=0.10.0",
+        "swagger-parser>=0.1.10",
+        "tox>=2.3.1"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 28,

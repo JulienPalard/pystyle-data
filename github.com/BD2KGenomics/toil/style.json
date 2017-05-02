@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bd2k-python-lib>=1.14a1.dev35",
+        "dill==0.2.5",
+        "six>=1.10.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,

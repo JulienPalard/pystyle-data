@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argh",
+        "blist",
+        "celery",
+        "eventsourcing==0.9.4",
+        "filelock",
+        "mock==1.0.1",
+        "python-dateutil==2.2",
+        "pytz",
+        "requests",
+        "scipy",
+        "six==1.7.3"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bbl": 26,

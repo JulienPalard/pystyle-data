@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cssselect",
+        "lxml",
+        "pyyaml"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 281,

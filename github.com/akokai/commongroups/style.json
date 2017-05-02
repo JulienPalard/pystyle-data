@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ashes",
+        "boltons",
+        "gspread",
+        "oauth2client",
+        "pandas",
+        "psycopg2",
+        "sqlalchemy",
+        "xlrd",
+        "xlsxwriter"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

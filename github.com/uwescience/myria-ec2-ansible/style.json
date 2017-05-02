@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ansible==2.1.2.0",
+        "boto>=2.40.0",
+        "click-uwescience>=6.6",
+        "pyyaml>=3.11",
+        "requests>=2.10.0"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 4,

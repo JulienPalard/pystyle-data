@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "apscheduler",
+        "bs4",
+        "cssselect",
+        "html5lib",
+        "lxml",
+        "pandas",
+        "requests",
+        "rqopen-client",
+        "six",
+        "tushare"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

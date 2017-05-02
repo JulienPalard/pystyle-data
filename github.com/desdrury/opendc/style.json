@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ansible==2.2.1.0",
+        "docopt>=0.6.2",
+        "flake8>=3.0.4",
+        "jinja2>=2.8",
+        "pprintpp>=0.2.3"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 17,

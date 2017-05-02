@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "wagtail>=1.9"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 15,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "atx>=1.1.1.dev47",
+        "futures==3.0.5",
+        "tornado>=4.3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 17,

@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "colorama",
+        "coverage",
+        "detox",
+        "flake8",
+        "nose",
+        "prettytable",
+        "psutil",
+        "pytest",
+        "ruamel.yaml",
+        "simplejson",
+        "six",
+        "tox"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "plyplus>=0.7.2",
+        "python-dateutil>=2.6.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,

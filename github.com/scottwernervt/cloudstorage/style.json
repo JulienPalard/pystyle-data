@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "boto3",
+        "filelock",
+        "google-cloud-storage",
+        "inflection",
+        "itsdangerous",
+        "python-dateutil",
+        "python-magic",
+        "rackspacesdk",
+        "requests!=2.13.0,>=2.10.0,!=2.12.2",
+        "rfc6266-parser",
+        "xattr"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,

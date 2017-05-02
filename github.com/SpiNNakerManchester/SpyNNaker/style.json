@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "lxml",
+        "numpy",
+        "pynn>=0.7,<0.8",
+        "scipy",
+        "six",
+        "spinnfrontendcommon<4.0.0,>=3.0.0"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 36,

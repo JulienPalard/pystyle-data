@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "netifaces",
+        "psutil",
+        "supervisor>=3.0.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 3,

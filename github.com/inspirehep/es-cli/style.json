@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "autosemver",
+        "click",
+        "elasticsearch"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 1127,

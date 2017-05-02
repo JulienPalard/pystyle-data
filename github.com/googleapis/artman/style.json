@@ -29,6 +29,22 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "colorlog<3.0.0,>=2.6.1",
+        "gcloud>=0.15.0",
+        "github3.py>=0.9.6",
+        "google-api-python-client>=1.6.2",
+        "google-apitools",
+        "grpcio-tools>=1.0.2",
+        "kazoo>=2.2.1",
+        "oslo.utils>=3.4.0",
+        "pbr==2.0.0",
+        "requests>=2.10.0,<3.0.0",
+        "ruamel.yaml>=0.14.5",
+        "six>=1.10.0",
+        "taskflow==1.25.0",
+        "yapf>=0.6.2"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "baseline": 303,

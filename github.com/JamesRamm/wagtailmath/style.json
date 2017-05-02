@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bumpversion==0.5.3",
+        "wagtail>=1.7",
+        "wheel==0.29.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

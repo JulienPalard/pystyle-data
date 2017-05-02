@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "ansi",
+        "bottle",
+        "colorlog",
+        "dnspython3",
+        "jinja2",
+        "markdown",
+        "pygments>=2.0.2",
+        "pygments-markdown-lexer>=0.1.0.dev39",
+        "pyopenssl",
+        "requests",
+        "rocket-errbot",
+        "setuptools",
+        "webtest",
+        "yapsy>=1.11"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 7,

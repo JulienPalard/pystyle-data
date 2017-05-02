@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "beautifulsoup4",
+        "coverage",
+        "cython",
+        "gffutils",
+        "ipyparallel",
+        "ipython<5.0.0,>=4.0.0",
+        "ipython-cluster-helper",
+        "joblib",
+        "lxml",
+        "nose",
+        "numpy",
+        "pandas",
+        "pip",
+        "pybedtools",
+        "pysam",
+        "setuptools>=18.5",
+        "tempita"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "bed": 238669,

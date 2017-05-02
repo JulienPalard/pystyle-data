@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "mbstrdecoder>=0.2.2",
+        "path.py",
+        "pytest",
+        "pytest-cov",
+        "python-dateutil>=2.6.0",
+        "pytz>=2017.2",
+        "readmemaker>=0.3.0",
+        "six>=1.10",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "tox"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 51,

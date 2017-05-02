@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pyyaml"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 2,

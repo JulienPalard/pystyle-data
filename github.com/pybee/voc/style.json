@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "apipkg==1.4",
+        "execnet==1.4.1",
+        "py==1.4.31",
+        "pytest==2.9.2",
+        "pytest-xdist==1.14"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 190,

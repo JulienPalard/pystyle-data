@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "abtools>=0.1.4",
+        "biopython",
+        "celery",
+        "nwalign",
+        "pymongo",
+        "scikit-bio<=0.4.2"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,

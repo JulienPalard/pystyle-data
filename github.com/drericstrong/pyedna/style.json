@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "matplotlib",
+        "numba",
+        "numpy",
+        "pandas"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,

@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "feedparser",
+        "oe-geoutils",
+        "oe-utils",
+        "pytz",
+        "requests",
+        "sqlalchemy",
+        "transaction",
+        "zope.sqlalchemy"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 3,

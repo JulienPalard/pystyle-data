@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django-content-editor",
+        "django-cte-forest"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 16,

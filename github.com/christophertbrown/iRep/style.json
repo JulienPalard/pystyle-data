@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "lmfit",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "scipy",
+        "seaborn"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "fna": 2,

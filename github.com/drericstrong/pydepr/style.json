@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pyedna",
+        "scikit-fuzzy",
+        "scikit-learn",
+        "scipy",
+        "seaborn",
+        "statsmodels",
+        "sympy"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,

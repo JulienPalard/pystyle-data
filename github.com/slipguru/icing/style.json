@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "matplotlib>=1.5.1",
+        "numpy>=1.10.1",
+        "scipy>=0.16.1",
+        "seaborn>=0.7.0",
+        "sklearn>=0.17"
+    ],
     "license": null,
     "lines_of_code": {
         "c": 15239,

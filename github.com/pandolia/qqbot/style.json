@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "apscheduler",
+        "certifi",
+        "flask",
+        "prettytable",
+        "requests"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "MD": 587,

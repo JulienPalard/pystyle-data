@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bx-python>=0.5",
+        "forgi>=0.4",
+        "htseq>=0.6",
+        "numpy>=1.10",
+        "pandas>=0.17",
+        "pybedtools>=0.7.9",
+        "scikit-learn>=0.18",
+        "seaborn>=0.7"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "R": 35,

@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "astropy",
+        "h5py",
+        "matplotlib",
+        "nose",
+        "numpy",
+        "pillow",
+        "python-dateutil",
+        "pytz",
+        "scikit-image",
+        "scipy",
+        "seaborn"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "m": 89,

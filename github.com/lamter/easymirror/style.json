@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "arrow",
+        "logbook",
+        "redis",
+        "zmq"
+    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "conf": 377,

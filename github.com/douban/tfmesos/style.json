@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "addict",
+        "pymesos>=0.2.10",
+        "six"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "ini": 8,

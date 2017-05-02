@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "access-points",
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "tqdm"
+    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 5,

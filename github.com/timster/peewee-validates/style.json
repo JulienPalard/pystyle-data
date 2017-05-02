@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "peewee>=2.8.2",
+        "python-dateutil>=2.5.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 13,

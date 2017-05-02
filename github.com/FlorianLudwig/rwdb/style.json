@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "motor>=1.0.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "ini": 10,

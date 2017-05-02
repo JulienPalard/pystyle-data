@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "argparse",
+        "defusedxml",
+        "ipython>=4.0.0",
+        "ordereddict",
+        "pbr",
+        "requests>=2.10.0",
+        "requests-oauthlib>=0.6.1",
+        "requests-toolbelt",
+        "setuptools>=20.10.1",
+        "six>=1.10.0"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 89,

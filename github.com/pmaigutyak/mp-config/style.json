@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "django-modeltranslation==0.11"
+    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 3,

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "google-api-python-client",
+        "imagecolor>=1.0.0",
+        "py-bing-search",
+        "py-ms-cognitive",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "md": 21,

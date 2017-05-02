@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "pycosat>=0.6.1",
+        "requests>=2.12.4",
+        "ruamel.yaml>=0.11.14"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "awk": 178,

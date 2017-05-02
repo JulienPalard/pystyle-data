@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy>=1.11.0",
+        "pint>=0.7.2",
+        "pyked>=0.1.4",
+        "pyyaml>=3.12,<4.0",
+        "tables"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 8,

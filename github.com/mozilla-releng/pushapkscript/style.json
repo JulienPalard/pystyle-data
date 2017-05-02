@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "google-api-python-client",
+        "mozapkpublisher",
+        "oauth2client",
+        "pyopenssl",
+        "scriptworker",
+        "taskcluster"
+    ],
     "license": null,
     "lines_of_code": {
         "cer": 17,

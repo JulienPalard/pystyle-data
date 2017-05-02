@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "chardet>=2.3.0",
+        "ftfy>=4.0.0",
+        "toolz>=0.7.4",
+        "unidecode>=0.04.19"
+    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "cfg": 4,

@@ -29,6 +29,18 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "install_requires": [
+        "dogpile.cache",
+        "fedmsg",
+        "fedmsg",
+        "fedmsg",
+        "modulemd",
+        "packagedb-cli",
+        "pdc-client",
+        "python-fedora",
+        "requests",
+        "six"
+    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "in": 7,

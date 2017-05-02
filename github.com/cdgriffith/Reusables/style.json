@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "rarfile",
+        "scandir"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,

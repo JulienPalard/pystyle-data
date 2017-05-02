@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "adal>=0.4.2",
+        "cffi",
+        "msrest~=0.4.5"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ipywidgets>=5.0.0",
+        "jupyter",
+        "notebook>=4.2.0"
+    ],
     "license": null,
     "lines_of_code": {
         "css": 93,

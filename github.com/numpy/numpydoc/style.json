@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "jinja2>=2.3",
+        "sphinx>=1.2.3"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 8,

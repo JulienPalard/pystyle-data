@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "python-mimeparse>=1.5.2",
+        "six>=1.4.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "Dockerfile": 21,

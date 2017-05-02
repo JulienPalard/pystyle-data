@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "packaging",
+        "plumbum",
+        "python-dateutil",
+        "pyxdg",
+        "requests"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 1,

@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "argcomplete",
+        "f90nml",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "scipy",
+        "seaborn",
+        "setuptools-scm"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "bat": 263,

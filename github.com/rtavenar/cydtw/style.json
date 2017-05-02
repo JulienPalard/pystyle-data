@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "cython",
+        "numpy",
+        "scipy"
+    ],
     "license": null,
     "lines_of_code": {
         "in": 1,

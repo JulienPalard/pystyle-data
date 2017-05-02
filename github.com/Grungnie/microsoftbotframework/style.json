@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "celery",
+        "cryptography",
+        "flask",
+        "pyyaml",
+        "redis",
+        "requests"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "example": 4,

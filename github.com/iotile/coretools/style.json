@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "cmdln>=2.0.0",
+        "pip",
+        "requests>=2.4.2",
+        "setuptools>=30.2.0",
+        "tox",
+        "twine>=1.8.1",
+        "wheel"
+    ],
     "license": null,
     "lines_of_code": {
         "c": 1865,

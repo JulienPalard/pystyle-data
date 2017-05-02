@@ -29,6 +29,13 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "anyjson>=0.3.3",
+        "pbr>=2.0.0",
+        "pystache",
+        "pyyaml>=3.10.0",
+        "six>=1.9.0"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 31,

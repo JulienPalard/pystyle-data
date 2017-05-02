@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "colored",
+        "emoji",
+        "future",
+        "geopy",
+        "mr-logger",
+        "python-telegram-bot",
+        "termcolor",
+        "urllib3"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 3,

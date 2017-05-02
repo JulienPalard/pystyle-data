@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "geneparse>=0.1.0",
+        "genetest>=0.1.0",
+        "matplotlib>=2.0",
+        "scipy>=0.18"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,

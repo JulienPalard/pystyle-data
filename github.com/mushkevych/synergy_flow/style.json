@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "boto",
+        "mock",
+        "psycopg2",
+        "pymongo",
+        "subprocess32",
+        "synergy-odm",
+        "synergy-scheduler"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "D3": 26,

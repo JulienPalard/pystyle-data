@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "datetime",
+        "numpy>=1.10.2",
+        "pandas>=0.16.2",
+        "pylogit",
+        "scipy>=0.16.1"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "csv": 3648,

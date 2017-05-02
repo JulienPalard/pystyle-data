@@ -29,6 +29,9 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
+    "install_requires": [
+        "aiohttp==2.0.1"
+    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,

@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "story>=1.1.5"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 18,

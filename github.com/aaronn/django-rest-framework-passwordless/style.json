@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "flake8==3.3.0",
+        "pandoc==1.0.0b2",
+        "pep8==1.7.0",
+        "pytest==3.0.7",
+        "pytest-cov==2.4.0",
+        "pytest-django==3.1.2",
+        "setuptools-markdown==0.2",
+        "twilio==5.7.0",
+        "twine==1.8.1",
+        "wheel==0.29.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,

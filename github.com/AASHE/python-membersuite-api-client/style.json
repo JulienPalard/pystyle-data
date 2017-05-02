@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "future==0.16.0",
+        "retrying>=1.3.3",
+        "zeep>=0.26"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 4,

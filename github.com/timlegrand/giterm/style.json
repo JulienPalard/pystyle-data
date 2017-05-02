@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "six==1.10.0",
+        "watchdog==0.8.3"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 5,

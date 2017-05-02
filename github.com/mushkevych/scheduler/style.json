@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "amqp",
+        "jinja2",
+        "mock",
+        "psutil",
+        "pylint",
+        "pymongo",
+        "setproctitle",
+        "six",
+        "synergy-flow",
+        "synergy-odm",
+        "werkzeug",
+        "xmlrunner"
+    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "css": 3343,

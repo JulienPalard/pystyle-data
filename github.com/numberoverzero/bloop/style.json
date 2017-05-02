@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "blinker==1.4",
+        "boto3==1.4.4",
+        "declare==0.9.11"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,

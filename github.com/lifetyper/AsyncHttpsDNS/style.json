@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiodns",
+        "aiohttp>=2.0",
+        "aiosocks",
+        "argparse",
+        "dnslib",
+        "dnspython"
+    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,

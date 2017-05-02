@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "ashes==17.0.0",
+        "boltons==17.1.0",
+        "gevent==1.2.1",
+        "progressbar==2.3",
+        "pytumblr==0.0.6",
+        "pyyaml==3.11"
+    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "md": 19,

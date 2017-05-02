@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "bottle",
+        "coverage",
+        "coveralls",
+        "pytest",
+        "pytest-cov",
+        "ujson",
+        "webtest"
+    ],
     "license": null,
     "lines_of_code": {
         "py": 200,

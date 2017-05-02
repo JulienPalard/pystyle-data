@@ -29,6 +29,9 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy>=1.9"
+    ],
     "license": null,
     "lines_of_code": {
         "c": 20755,

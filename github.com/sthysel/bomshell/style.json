@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "install_requires": [
+        "click",
+        "dataset",
+        "dbfread",
+        "ftputil",
+        "pyxdg",
+        "requests",
+        "tabulate"
+    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 51,

@@ -29,6 +29,10 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "numpy",
+        "scipy"
+    ],
     "license": null,
     "lines_of_code": {
         "bat": 170,

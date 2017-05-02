@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "biopython>=1.65",
+        "ete3",
+        "matplotlib>=1.5.1",
+        "numpy>=1.8.2",
+        "pandas",
+        "pyyaml",
+        "scikit-learn==0.17",
+        "scipy>=0.16.1",
+        "weasyprint"
+    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "F90": 1987,

@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "envparse==0.2.0",
+        "kanboard==1.0.1",
+        "python-gitlab==0.20"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "adoc": 37,

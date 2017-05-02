@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "aiohttp==2.0.7",
+        "async-timeout==1.2.0",
+        "chardet==3.0.2",
+        "multidict==2.1.4",
+        "yarl==0.10.0"
+    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 59,

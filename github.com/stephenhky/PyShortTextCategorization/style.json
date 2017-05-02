@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "install_requires": [
+        "gensim",
+        "keras",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy",
+        "spacy",
+        "stemming"
+    ],
     "license": null,
     "lines_of_code": {
         "csv": 46,
