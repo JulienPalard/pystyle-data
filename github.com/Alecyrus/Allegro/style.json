@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "aiofiles>=0.3.1",
         "appdirs>=1.4.3",
         "httptools>=0.0.9",

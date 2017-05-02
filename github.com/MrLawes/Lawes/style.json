@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pymongo>=2.8"
     ],
     "license": null,

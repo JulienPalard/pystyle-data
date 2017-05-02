@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "kafka-python",
         "robotframework>=2.6.0"
     ],

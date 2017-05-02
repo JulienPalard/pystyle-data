@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "bitcoin>=1.1.42",
         "protocoin>=0.2",
         "pybitcoin>=0.9.8",

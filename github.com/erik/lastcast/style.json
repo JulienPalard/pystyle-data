@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click==6.2",
         "pychromecast==0.8.0",
         "pylast==1.7.0",

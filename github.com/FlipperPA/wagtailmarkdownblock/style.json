@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "markdown>=2.5",
         "wagtail>=1.8"
     ],

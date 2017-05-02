@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "argparse>=1.0",
         "feedparser>=5.0",
         "pypump==0.6"

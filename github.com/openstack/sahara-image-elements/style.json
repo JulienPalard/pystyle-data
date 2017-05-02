@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "dib-utils",
         "diskimage-builder!=1.7.1,>=1.1.2,!=1.7.0,!=1.6.0",
         "pbr!=2.1.0,>=2.0.0"

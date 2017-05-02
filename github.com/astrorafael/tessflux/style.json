@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "requests",
         "twisted==16.6.0",
         "twisted-mqtt"

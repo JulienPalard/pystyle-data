@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "basicrpc>=0.0.2",
         "blockstack-profiles>=0.14.1",
         "blockstack-zones>=0.14.1",

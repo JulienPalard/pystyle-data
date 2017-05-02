@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "ansible>=2.1.0.0",
         "cliff",
         "debtcollector>=1.2.0",

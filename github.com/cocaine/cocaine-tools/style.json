@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "cerberus==0.9.1",
         "click>=5.0",
         "cocaine>=0.12.6.0,<0.13",

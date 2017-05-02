@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "yaclifw>=0.1.1"
     ],
     "license": "GPL-2.0",

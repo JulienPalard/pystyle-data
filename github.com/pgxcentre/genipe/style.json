@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "jinja2>=2.7.3",
         "numpy>=1.9.2",
         "pandas>=0.17.0",

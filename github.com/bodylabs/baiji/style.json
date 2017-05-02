@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "bltest<2,>=1.0.0",
         "boto<3,>=2.38.0",
         "mock>=1.3.0",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "bumpversion==0.5.3",
         "click==6.7",
         "colorama==0.3.8",

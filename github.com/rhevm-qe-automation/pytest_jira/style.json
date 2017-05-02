@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "jira>=0.43",
         "ordereddict",
         "pytest>=2.2.4",

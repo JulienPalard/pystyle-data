@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "backports.functools-lru-cache==1.2.1",
         "bottle==0.12.9",
         "bottle-rest==0.4.1",

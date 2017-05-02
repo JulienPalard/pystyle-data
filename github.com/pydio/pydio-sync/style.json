@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "appdirs==1.4.0",
         "argh==0.24.1",
         "cffi==0.8.6",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "ipywidgets>=5.0.0",
         "jupyter",
         "notebook>=4.2.0"

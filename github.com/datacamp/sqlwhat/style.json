@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "antlr-plsql>=0.1.0",
         "antlr-tsql>=0.1.0",
         "markdown2"

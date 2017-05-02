@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "ansible>=2.2.0",
         "click>=6.0",
         "click-log>=0.1.8",

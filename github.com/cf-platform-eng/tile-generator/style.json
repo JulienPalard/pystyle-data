@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click>=6.2",
         "docker-py>=1.6.0",
         "jinja2>=2.8",

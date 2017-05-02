@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "daemonize==2.4.7",
         "requests==2.13.0"
     ],

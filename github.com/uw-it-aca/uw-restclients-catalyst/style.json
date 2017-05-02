@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "mock",
         "uw-restclients-core>0.8.2,<1.0",
         "uw-restclients-pws<1.0,>=0.5",

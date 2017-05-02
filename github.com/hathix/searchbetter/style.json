@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "alabaster>=0.7.9",
         "anaconda-clean>=1.0",
         "anaconda-client>=1.5.1",

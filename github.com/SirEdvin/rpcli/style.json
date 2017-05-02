@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click>=6.6",
         "formaller>=0.1.2",
         "gitpython>=2.0.0",

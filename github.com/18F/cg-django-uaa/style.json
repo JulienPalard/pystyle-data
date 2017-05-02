@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "django<2,>=1.8",
         "pyjwt>=1.4.2",
         "requests>=2.11.0"

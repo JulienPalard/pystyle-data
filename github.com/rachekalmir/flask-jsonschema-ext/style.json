@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "flask>=0.11.0",
         "jsonschema>=2.6.0",
         "sqlalchemy>=1.0.0"

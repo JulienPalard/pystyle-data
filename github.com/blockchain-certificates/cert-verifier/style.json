@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "cert-core>=0.0.17",
         "cert-schema>=2.0b1",
         "chainpoint==0.0.2",

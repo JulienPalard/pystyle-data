@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "observable>=0.3.1",
         "pubnub==4.*",
         "pycryptodome>=3.4.4",

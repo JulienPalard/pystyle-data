@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "ads>=0.11.3",
         "argparse>=1.4.0",
         "astropy>=1.2.1",

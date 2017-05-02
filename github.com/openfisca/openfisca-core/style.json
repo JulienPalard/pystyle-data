@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "babel>=0.9.4",
         "biryani>=0.10.4",
         "numpy>=1.11",

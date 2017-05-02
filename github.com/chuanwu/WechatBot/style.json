@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "anyjson==0.3.3",
         "beautifulsoup4==4.5.1",
         "editdistance==0.3.1",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "biopython>=1.64",
         "cython>=0.22",
         "matplotlib>=1.4.0",

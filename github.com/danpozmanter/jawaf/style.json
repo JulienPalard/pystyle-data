@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aiohttp>=2.0.5",
         "argon2-cffi>=16.3.0",
         "asyncio-redis>=0.14.3",

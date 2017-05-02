@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aiohttp~=2.0.7",
         "namedlist",
         "python-dateutil>=2.5",

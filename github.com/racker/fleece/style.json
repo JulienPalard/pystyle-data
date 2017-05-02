@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "boto3>=1.0.0",
         "coverage==4.0.3",
         "flake8==2.5.1",

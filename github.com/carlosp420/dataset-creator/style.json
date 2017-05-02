@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "degenerate-dna==0.0.9",
         "seqrecord-expanded==0.2.6",
         "six==1.10.0"

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "jupyter",
         "jupyter-core",
         "lesscpy>=0.12.0"

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "django>=1.8",
         "django-annoying>=0.8.0",
         "icalendar>=3.8.4",

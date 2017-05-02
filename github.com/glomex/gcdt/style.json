@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "awacs==0.6.0",
         "aws-mfa>=0.0.8",
         "awscli>=1.11.80",

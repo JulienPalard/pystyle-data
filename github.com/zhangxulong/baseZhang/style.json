@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "h5py==2.7.0",
         "keras==1.2.2",
         "librosa==0.5.0",

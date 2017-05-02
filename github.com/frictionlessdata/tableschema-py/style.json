@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "click<7.0a,>=3.3",
         "future<1.0a,>=0.15",
         "isodate>=0.5.4,<1.0a",

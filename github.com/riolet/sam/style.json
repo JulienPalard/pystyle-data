@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "mysql-python>=1.2",
         "requests>=2.13",
         "web.py>=0.38"

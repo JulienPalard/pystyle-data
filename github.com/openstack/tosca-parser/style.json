@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "babel>=2.3.4,!=2.4.0",
         "cliff>=2.3.0",
         "pbr!=2.1.0,>=2.0.0",

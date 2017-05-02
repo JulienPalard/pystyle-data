@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aiohttp==2.0.7",
         "async-timeout==1.2.0",
         "chardet==3.0.2",

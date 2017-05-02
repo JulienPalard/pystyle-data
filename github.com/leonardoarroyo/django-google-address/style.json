@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "codecov==2.0.5",
         "coverage==4.3.4",
         "django>=1.8",

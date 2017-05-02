@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "click>=5.1",
         "future>=0.15",
         "matplotlib>=1.4",

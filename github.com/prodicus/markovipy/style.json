@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "bumpversion==0.5.3",
         "coverage==4.1",
         "flake8==2.6.0",

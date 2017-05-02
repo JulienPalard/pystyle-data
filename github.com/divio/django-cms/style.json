@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "django>=1.8,<1.11",
         "django-classy-tags>=0.7.2",
         "django-formtools>=1.0",

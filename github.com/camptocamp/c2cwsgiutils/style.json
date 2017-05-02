@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "cee-syslog-handler==0.3.4",
         "cornice==2.4.0",
         "flake8==3.3.0",

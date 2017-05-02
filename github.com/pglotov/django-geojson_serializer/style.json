@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [],
+    "requirements": [],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 3,

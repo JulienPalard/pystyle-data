@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "configparser==3.5.0b2",
         "pika==0.10.0",
         "six"

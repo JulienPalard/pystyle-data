@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "alabaster==0.7.6",
         "babel==2.0",
         "cov-core==1.15.0",

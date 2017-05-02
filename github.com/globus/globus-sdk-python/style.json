@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "requests<3.0.0,>=2.0.0",
         "six<2.0.0,>=1.10.0"
     ],

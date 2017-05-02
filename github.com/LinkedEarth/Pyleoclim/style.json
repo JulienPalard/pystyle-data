@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "basemap>=1.0.7",
         "lipd>=0.2.0.2,<0.2.0.3",
         "matplotlib>=2.0.0",

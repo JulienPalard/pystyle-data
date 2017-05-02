@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "bleach \\ (https://github.com/jsocol/bleach/archive/f9fc1c5e70463d5ca91efaa6f19f82d56ff346d8.tar.gz)",
         "commonware \\ (https://github.com/jsocol/commonware/archive/b5544185b2d24adc1eb512735990752400ce9cbd.tar.gz)",
         "django-appconf \\ (https://github.com/jezdez/django-appconf/archive/d7ff3bb0c35a0c2ec83afdb31f7bb79e0f1b222c.tar.gz)",

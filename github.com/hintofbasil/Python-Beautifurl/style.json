@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "appdirs==1.4.3",
         "packaging==16.8",
         "py==1.4.33",

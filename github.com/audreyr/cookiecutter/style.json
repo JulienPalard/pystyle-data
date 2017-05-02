@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "binaryornot>=0.2.0",
         "click>=5.0",
         "future>=0.15.2",

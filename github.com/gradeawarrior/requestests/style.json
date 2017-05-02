@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "jsonstruct>=0.2a1",
         "requests>=2.7.0"
     ],

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "catkin-pkg",
         "catkin-sphinx",
         "catkin-tools>=0.4.4",

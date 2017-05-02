@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "flask>=0.12",
         "flask-sqlalchemy>=2.2",
         "psycopg2>=2.7.1",

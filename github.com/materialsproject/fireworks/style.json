@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "flask>=0.11.1",
         "flask-paginate>=0.4.5",
         "gunicorn>=19.6.0",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "arrow==0.7.0",
         "attrdict==2.0.0",
         "colorama==0.3.7",

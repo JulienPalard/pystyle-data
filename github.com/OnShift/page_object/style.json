@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pyvirtualdisplay==0.2",
         "selenium==3.4.0"
     ],

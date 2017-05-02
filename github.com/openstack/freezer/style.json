@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "Unknown (setuptools!=24.0.0,!=34.0.0,!=34.0.1,!=34.0.2,!=34.0.3,!=34.1.0,!=34.1.1,!=34.2.0,!=34.3.0,!=34.3.1,!=34.3.2,>=16.0 )",
         "apscheduler",
         "keystoneauth1>=2.18.0",

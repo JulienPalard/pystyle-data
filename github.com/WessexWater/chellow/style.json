@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "flask==0.12",
         "ftputil==3.2",
         "odio==0.0.15",

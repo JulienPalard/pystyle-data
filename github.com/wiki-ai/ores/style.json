@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "celery<3.1.999,>=3.1.18",
         "docopt<0.6.999,>=0.6.2",
         "flask>=0.10.1,<0.10.999",

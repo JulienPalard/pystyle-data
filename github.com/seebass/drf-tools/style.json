@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "chardet>=2.3.0",
         "django>=1.8",
         "django-filter>=0.10.0",

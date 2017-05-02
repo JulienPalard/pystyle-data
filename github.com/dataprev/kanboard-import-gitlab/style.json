@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "envparse==0.2.0",
         "kanboard==1.0.1",
         "python-gitlab==0.20"

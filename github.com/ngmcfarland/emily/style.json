@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "flask>=0.12",
         "flask-cors>=3.0.2",
         "fuzzywuzzy>=0.15.0",

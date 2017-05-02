@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "cryptography>=1.7.1",
         "django>=1.8",
         "python-magic==0.4.12",

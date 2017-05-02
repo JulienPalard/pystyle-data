@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "python-mimeparse>=1.5.2",
         "six>=1.4.0"
     ],

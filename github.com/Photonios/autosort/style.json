@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "prospector==0.12.4",
         "pyinstaller==3.2.1",
         "pylint==1.6.5",

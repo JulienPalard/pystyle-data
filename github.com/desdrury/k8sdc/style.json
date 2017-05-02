@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "ansible==2.1.2.0",
         "docopt>=0.6.2",
         "flake8>=3.0.4",

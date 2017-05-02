@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "plyplus>=0.7.2",
         "python-dateutil>=2.6.0"
     ],

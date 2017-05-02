@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "jsonpath-rw",
         "lxml",
         "requests>=2.11.1"

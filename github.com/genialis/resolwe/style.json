@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "django~=1.10.5",
         "django-autoslug==1.9.4-dev",
         "django-guardian>=1.4.2",

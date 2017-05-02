@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "baiji>=2.2.9",
         "cached-property<1.4,>=1.3.0",
         "env-flag<2.0.0,>=1.0.0",

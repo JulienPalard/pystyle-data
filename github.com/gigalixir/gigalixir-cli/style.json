@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click~=6.7",
         "requests~=2.13.0",
         "rollbar~=0.13.11",

@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "alembic>=0.8.10",
         "neutron-lib>=1.4.0",
         "oslo.i18n>=2.1.0",

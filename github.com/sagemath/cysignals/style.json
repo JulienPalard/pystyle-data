@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "Unknown (git+https://github.com/sphinx-doc/sphinx.git)",
         "cython",
         "setuptools"

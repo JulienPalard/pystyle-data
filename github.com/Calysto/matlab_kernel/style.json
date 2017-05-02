@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "backports.tempfile",
         "ipython>=4.0.0",
         "ipython>=4.0.0",

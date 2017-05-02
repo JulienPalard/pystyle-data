@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "arrow>=0.10.0",
         "ckanapi>=4.0",
         "httmock==1.2.6",

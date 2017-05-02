@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "autosemver~=0.2",
         "celery>=3.1.23",
         "ftputil>=3.3.1",

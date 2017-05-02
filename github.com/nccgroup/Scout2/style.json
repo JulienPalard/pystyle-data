@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "netaddr>=0.7.11",
         "opinel>=3.0.9,<4.0.0",
         "python-dateutil>=2.2"

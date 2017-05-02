@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aniso8601==0.82",
         "argparse==1.2.1",
         "babel==1.3",

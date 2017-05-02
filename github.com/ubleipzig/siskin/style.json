@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "argparse>=1.2",
         "astroid>=1.1.1",
         "backoff>=1.3.1",

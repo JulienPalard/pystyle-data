@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "matplotlib>=1.4.2",
         "networkx>=1.11",
         "pydot>=1.0.32",

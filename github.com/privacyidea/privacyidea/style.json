@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "alembic>=0.6.7",
         "argparse>=1.2.1",
         "bcrypt>=1.1.0",

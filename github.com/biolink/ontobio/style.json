@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "jsonpath-rw>=0.0",
         "jsonpickle>=0.0",
         "pip>=9.0.1",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "celery<3.2,>=3.1.23",
         "croniter<0.3.6,>=0.3.4",
         "django<1.10,>=1.9",

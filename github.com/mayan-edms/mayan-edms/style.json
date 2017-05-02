@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "celery==3.1.19",
         "codecov==1.4.1",
         "coverage==3.7.1",

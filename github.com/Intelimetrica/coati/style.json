@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click==6.6",
         "colorlog==2.10.0",
         "decorator==4.0.9",

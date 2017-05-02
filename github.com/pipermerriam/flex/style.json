@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "click>=3.3",
         "iso8601>=0.1.10",
         "jsonpointer>=1.7",

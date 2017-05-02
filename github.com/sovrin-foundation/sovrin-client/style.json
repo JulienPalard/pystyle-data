@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "anoncreds-dev==0.3.8",
         "sovrin-common-dev==0.2.51"
     ],

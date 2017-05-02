@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "aiohttp>=2.0.0",
         "dirty-loader>=0.2.2"
     ],

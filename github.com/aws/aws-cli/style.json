@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "botocore (git+git://github.com/boto/botocore.git@develop)",
         "colorama<=0.3.7,>=0.2.5",
         "docutils>=0.10",

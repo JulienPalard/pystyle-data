@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aenum==1.4.5",
         "coapthon==4.0.2",
         "linux-metrics==0.1.4",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "libtcod-cffi>=2.3.0,<3"
     ],
     "license": "BSD-2-Clause",

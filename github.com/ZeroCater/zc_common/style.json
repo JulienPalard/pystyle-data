@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "django==1.9",
         "djangorestframework==3.3.3",
         "djangorestframework-jwt==1.8.0",

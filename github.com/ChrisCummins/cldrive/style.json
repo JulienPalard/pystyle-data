@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "numpy>=1.12.1",
         "pycparser>=2.17",
         "pycparserext>=2016.2",

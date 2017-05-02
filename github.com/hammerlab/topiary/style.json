@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "gtfparse>=0.0.4",
         "mhcnames",
         "mhctools>=1.0.0",

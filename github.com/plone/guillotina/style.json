@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aiocache",
         "aioconsole",
         "aiohttp>=2.0.0<3.0.0",

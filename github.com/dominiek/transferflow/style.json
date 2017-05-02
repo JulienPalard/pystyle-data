@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "nnpack>=0.1.0",
         "numpy>=1.12.0",
         "scipy>=0.18.1",

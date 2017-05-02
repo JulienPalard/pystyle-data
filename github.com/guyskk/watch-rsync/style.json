@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click>=5.0",
         "sh>=1.0",
         "watchdog>=0.6"

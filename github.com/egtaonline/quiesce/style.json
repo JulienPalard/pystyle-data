@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "autopep8~=1.2",
         "flake8~=3.0",
         "ipython~=5.2",

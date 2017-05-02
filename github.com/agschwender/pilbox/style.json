@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pillow==2.9.0",
         "sphinx-me==0.2.1",
         "tornado==4.5.1"

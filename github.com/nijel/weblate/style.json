@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "defusedxml>=0.4",
         "django>=1.10",
         "django-appconf>=1.0",

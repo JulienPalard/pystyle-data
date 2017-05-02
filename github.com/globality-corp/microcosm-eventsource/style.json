@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "microcosm>=0.17.2",
         "microcosm-flask>=0.70.0",
         "microcosm-logging>=0.13.0",

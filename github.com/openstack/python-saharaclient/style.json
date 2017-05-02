@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "babel>=2.3.4,!=2.4.0",
         "keystoneauth1>=2.18.0",
         "osc-lib>=1.2.0",

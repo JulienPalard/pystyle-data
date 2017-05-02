@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "eventlet==0.21.0"
     ],
     "license": "GPL-3.0",

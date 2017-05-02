@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "future>=0.15.2",
         "rdflib>=4.2.0",
         "rdflib-sqlalchemy>=0.3.8",

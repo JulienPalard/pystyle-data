@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "requests>=2.11.1",
         "setuptools>=35.0.0",
         "themis.finals.attack.result<1.4.0,>=1.3.0"

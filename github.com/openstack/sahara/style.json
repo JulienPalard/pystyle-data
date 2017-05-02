@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "alembic>=0.8.10",
         "babel>=2.3.4",
         "castellan>=0.4.0",

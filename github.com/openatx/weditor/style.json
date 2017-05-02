@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "atx>=1.1.1.dev47",
         "futures==3.0.5",
         "tornado>=4.3"

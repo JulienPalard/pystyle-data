@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "requests<2.12.0a0,>=2.11"
     ],
     "license": "MIT",

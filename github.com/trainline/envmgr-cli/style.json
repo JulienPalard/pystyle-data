@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "appdirs",
         "docopt",
         "envmgr-lib==0.2.1",

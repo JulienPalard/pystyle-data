@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "google-api-python-client",
         "imagecolor>=1.0.0",
         "py-bing-search",

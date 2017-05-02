@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "junit-xml==1.7"
     ],
     "license": "GPL-3.0",

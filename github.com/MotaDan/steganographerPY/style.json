@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pillow"
     ],
     "license": "MIT",

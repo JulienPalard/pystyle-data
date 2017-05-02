@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "adal>=0.4.2",
         "cffi",
         "msrest~=0.4.5"

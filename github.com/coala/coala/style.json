@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "appdirs~=1.4",
         "coala-utils~=0.6.2",
         "colorlog~=2.7",

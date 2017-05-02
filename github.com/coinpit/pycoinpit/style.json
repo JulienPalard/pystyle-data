@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pybitcointools",
         "pyelliptic==1.5.7",
         "requests"

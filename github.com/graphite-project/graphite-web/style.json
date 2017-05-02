@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "cairocffi",
         "django<1.9.99,>=1.9",
         "django-tagging==0.4.3",

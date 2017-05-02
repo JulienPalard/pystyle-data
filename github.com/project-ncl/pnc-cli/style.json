@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "argh>=0.26.1",
         "certifi>=2015.04.28",
         "pytest>=2.0",

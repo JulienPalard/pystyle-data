@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "fabric3>=1.11.1.post1",
         "pycrypto>=2.6.1"
     ],

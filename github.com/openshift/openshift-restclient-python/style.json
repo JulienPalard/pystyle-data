@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "dictdiffer",
         "jinja2",
         "kubernetes~=1.0.0",

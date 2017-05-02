@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "botstory==0.0.63",
         "emoji==0.4.5",
         "gunicorn==19.7.1",

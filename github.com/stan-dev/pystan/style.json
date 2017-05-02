@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "cython>=0.22,!=0.25.1",
         "numpy>=1.7,<2.0"
     ],

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click>=3.3",
         "humanfriendly>=2.0",
         "mysql-connector>=2.0.2",

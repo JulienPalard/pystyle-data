@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "cachetools",
         "carbon (git+https://github.com/graphite-project/carbon.git@1.0.x)",
         "cassandra-driver",

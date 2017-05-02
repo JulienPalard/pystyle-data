@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "cryptography==1.8.1",
         "pyopenssl==16.2.0",
         "requests==2.13.0",

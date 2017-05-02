@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "croniter==0.3.10",
         "future==0.15.2",
         "monotonic==0.4",

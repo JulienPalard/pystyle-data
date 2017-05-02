@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "bx-python>=0.5",
         "forgi>=0.4",
         "htseq>=0.6",

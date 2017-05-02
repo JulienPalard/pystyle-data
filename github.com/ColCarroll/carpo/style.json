@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "appdirs==1.4.3",
         "appnope==0.1.0",
         "astroid==1.4.9",

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "beautifulsoup4>=4.5.3",
         "httmock>=1.2.6",
         "psutil>=5.1.3",

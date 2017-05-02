@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "blist>=1.3.6",
         "configargparse>=0.10.0",
         "enum34>=1.1.6",

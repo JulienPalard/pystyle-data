@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "mhcnames",
         "numpy>=1.7",
         "pandas>=0.13.1",

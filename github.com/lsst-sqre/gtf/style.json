@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "gitpython==1.0.1",
         "mapgitconfig==1.1",
         "sqre-codekit",

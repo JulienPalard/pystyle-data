@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "celery==3.1.23",
         "chardet==2.3.0",
         "clamd==1.0.2",

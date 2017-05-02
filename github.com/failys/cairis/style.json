@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "argparse>=1.4.0",
         "coverage>=4.2",
         "coveralls>=1.1",

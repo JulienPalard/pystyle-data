@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "configobj>=5.0.6",
         "mopidy>=2.0",
         "mopidy-local-images>=1.0",

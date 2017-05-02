@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "google-cloud-datastore~=1.0",
         "msgpack-python==0.4.8",
         "python-dateutil==2.6.0"

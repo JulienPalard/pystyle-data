@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "autobahn>=0.10.1",
         "eventlet>=0.18.2,!=0.18.3",
         "keystonemiddleware!=4.5.0,>=4.2.0",

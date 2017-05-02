@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "google-api-python-client==1.6.2",
         "httplib2==0.10.3",
         "keyring==8.7",

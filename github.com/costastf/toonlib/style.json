@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "betamax==0.8.0",
         "cachetools==2.0.0",
         "coverage==4.3.4",

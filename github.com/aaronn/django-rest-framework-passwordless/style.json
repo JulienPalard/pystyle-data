@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "flake8==3.3.0",
         "pandoc==1.0.0b2",
         "pep8==1.7.0",

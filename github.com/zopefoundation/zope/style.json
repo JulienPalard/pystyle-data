@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "accesscontrol>=4.0a4",
         "acquisition",
         "btrees",

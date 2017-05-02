@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "python-dateutil>=2.0.0",
         "pytz",
         "requests>=1.0.3",

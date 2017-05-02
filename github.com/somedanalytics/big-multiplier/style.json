@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "appdirs==1.4.3",
         "decorator==4.0.11",
         "networkx==1.11",

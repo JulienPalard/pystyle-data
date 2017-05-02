@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "amqp==2.1.4",
         "ansible==2.3.0.0",
         "apache-libcloud==0.20.1",

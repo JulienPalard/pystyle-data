@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "nose",
         "numpy>=1.12.1",
         "tensorflow>=1.0.0"

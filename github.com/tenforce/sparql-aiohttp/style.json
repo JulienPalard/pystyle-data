@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "aiohttp==2.0.1"
     ],
     "license": "Apache-2.0",

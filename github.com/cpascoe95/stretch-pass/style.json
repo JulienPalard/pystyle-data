@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "argon2-cffi==16.3.0",
         "pyperclip==1.5.27"
     ],

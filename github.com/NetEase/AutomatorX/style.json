@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "aircv==1.4.5",
         "atx-androguard==3.0",
         "atx-uiautomator==0.2.12.dev5",

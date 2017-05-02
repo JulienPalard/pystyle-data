@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "colorlog<3.0.0,>=2.6.1",
         "gcloud>=0.15.0",
         "github3.py>=0.9.6",

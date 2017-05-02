@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "click<7.0,>=6.7",
         "fuzzywuzzy>=0.15.0,<0.20",
         "parse>=1.8.0,<2.0",

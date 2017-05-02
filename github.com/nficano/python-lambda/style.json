@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "boto3==1.4.1",
         "botocore==1.4.61",
         "click==6.6",

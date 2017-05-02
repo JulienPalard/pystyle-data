@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "arrow==0.5.4",
         "coverage>=3.7.1",
         "mock>=1.0.1",

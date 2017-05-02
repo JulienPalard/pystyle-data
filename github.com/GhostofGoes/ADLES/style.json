@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "colorlog>=2.10.0",
         "docker>=2.2.1",
         "docopt==0.6.2",

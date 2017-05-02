@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "mock",
         "python-dateutil",
         "uw-restclients-core>0.8,<1.0"

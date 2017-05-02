@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "boto3>=1.4.4",
         "iampoliciesgonewild>=1.0.6.2",
         "netaddr>=0.7.11",

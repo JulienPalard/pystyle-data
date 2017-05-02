@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "apscheduler==3.2.0",
         "flask==0.11.1",
         "inflect==0.2.5",

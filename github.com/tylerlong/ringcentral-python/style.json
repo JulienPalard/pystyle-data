@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pubnub>=4.0.6",
         "pycrypto>=2.6.1",
         "requests>=2.13.0"

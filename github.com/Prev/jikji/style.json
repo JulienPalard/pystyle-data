@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "click>=5.0",
         "flask>=0.10",
         "jinja2>=2.4",

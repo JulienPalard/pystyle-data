@@ -29,7 +29,7 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "pamqp>=1.6.1,<2.0"
     ],
     "license": "MIT",

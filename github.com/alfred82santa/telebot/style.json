@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "aio-service-client>=0.5.4",
         "dirty-loader",
         "dirty-models>=0.9.1"

@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "install_requires": [
+    "requirements": [
         "click==4.0",
         "python-easyconfig==0.1.6",
         "six==1.9.0",

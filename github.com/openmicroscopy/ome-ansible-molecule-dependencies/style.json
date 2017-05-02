@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "ansible==2.2.1.0",
         "docker",
         "molecule==1.23"

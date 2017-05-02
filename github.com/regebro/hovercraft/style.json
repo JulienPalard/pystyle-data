@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "install_requires": [
+    "requirements": [
         "docutils>=0.9",
         "lxml>=3.1.0",
         "pygments",
