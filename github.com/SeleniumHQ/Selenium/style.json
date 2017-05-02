@@ -93,7 +93,7 @@
         "xul": 1425,
         "yml": 25
     },
-    "pep8_infringement": 674,
+    "pep8_infringement": 672,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -50,7 +50,7 @@
         "sub": 1773,
         "txt": 462
     },
-    "pep8_infringement": 4858,
+    "pep8_infringement": 5094,
     "shebang": {
         "#! /usr/bin/env python": 1,
         "#!/usr/bin/env python": 1

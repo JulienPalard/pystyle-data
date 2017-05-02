@@ -70,7 +70,7 @@
         "svg": 685,
         "txt": 682
     },
-    "pep8_infringement": 955,
+    "pep8_infringement": 908,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

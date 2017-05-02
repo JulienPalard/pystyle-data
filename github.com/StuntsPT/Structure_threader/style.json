@@ -42,10 +42,10 @@
         "csv": 72158,
         "in": 1,
         "log": 154,
-        "md": 695,
+        "md": 703,
         "meanP": 3000,
         "meanQ": 1200,
-        "py": 3490,
+        "py": 3506,
         "sh": 654,
         "spec": 28,
         "structure": 339,
@@ -54,7 +54,7 @@
         "xml": 776,
         "yml": 12
     },
-    "pep8_infringement": 410,
+    "pep8_infringement": 407,
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1,

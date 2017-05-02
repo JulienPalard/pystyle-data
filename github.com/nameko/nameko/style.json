@@ -31,7 +31,7 @@
     },
     "install_requires": [
         "eventlet>=0.16.1",
-        "kombu<4,>=3.0.1",
+        "kombu>=3.0.1,<4",
         "mock>=1.2",
         "path.py>=6.2",
         "pyyaml>=3.10",
@@ -50,7 +50,7 @@
         "rst": 954,
         "txt": 181
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 17,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

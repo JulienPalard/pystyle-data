@@ -52,14 +52,14 @@
         "in": 3,
         "ini": 5,
         "json": 439,
-        "py": 5760,
+        "py": 5765,
         "rst": 2145,
         "sh": 12,
         "svg": 1,
         "txt": 16808,
         "yaml": 858
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 12,
     "shebang": {
         "#!/usr/bin/env python": 2
     }

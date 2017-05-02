@@ -40,7 +40,7 @@
         "sql": 57,
         "txt": 1
     },
-    "pep8_infringement": 167,
+    "pep8_infringement": 177,
     "shebang": {
         "#!/usr/bin/python": 1
     }

@@ -36,8 +36,9 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 4,
-        "py": 861,
+        "py": 890,
         "rst": 43,
+        "txt": 27,
         "yaml": 11
     },
     "pep8_infringement": 0,
