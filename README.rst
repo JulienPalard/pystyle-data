@@ -27,6 +27,11 @@ What shebang are used:
 .. image:: plots/shebang.png
 
 
+Top 50 requirements:
+
+.. image:: plots/requirements.png
+
+
 TODO
 ----
 
