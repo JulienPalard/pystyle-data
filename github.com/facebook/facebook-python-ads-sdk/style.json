@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "requests>=2.3.0",
-        "six>=1.7.3"
-    ],
     "license": null,
     "lines_of_code": {
         "crt": 3920,
@@ -46,5 +42,9 @@
         "xml": 118
     },
     "pep8_infringement": 685,
+    "requirements": [
+        "requests>=2.3.0",
+        "six>=1.7.3"
+    ],
     "shebang": {}
 }

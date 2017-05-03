@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pylu"
-    ],
     "license": null,
     "lines_of_code": {
         "lyx": 8969,
@@ -43,5 +39,9 @@
         "sh": 4
     },
     "pep8_infringement": 1596,
+    "requirements": [
+        "numpy",
+        "pylu"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "babel>=0.9.4",
-        "biryani>=0.10.4",
-        "numpy>=1.11",
-        "pyyaml>=3.10"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 42,
@@ -48,7 +42,13 @@
         "sh": 36,
         "txt": 4
     },
-    "pep8_infringement": 3216,
+    "pep8_infringement": 3211,
+    "requirements": [
+        "babel>=0.9.4",
+        "biryani>=0.10.4",
+        "numpy>=1.11",
+        "pyyaml>=3.10"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 4
     }

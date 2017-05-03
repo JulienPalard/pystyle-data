@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 9,
+        "htm": 123,
+        "in": 14,
+        "py": 3854,
+        "rst": 288,
+        "txt": 17
+    },
+    "pep8_infringement": 47,
     "requirements": [
         "arrow==0.9.0",
         "beautifulsoup4==4.5.3",
@@ -42,16 +52,6 @@
         "six==1.10.0",
         "sortedcontainers==1.5.4"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 9,
-        "htm": 123,
-        "in": 14,
-        "py": 3854,
-        "rst": 288,
-        "txt": 17
-    },
-    "pep8_infringement": 47,
     "shebang": {
         "#! /usr/bin/env python": 1
     }

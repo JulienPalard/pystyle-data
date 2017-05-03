@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click>=6.1.0",
-        "mock>=1.3.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 27,
@@ -44,6 +40,10 @@
         "txt": 42
     },
     "pep8_infringement": 47,
+    "requirements": [
+        "click>=6.1.0",
+        "mock>=1.3.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

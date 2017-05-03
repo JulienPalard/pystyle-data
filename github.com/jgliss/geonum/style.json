@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "latlon",
-        "srtm.py"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "bat": 263,
@@ -41,6 +37,10 @@
         "rst": 276,
         "txt": 2
     },
-    "pep8_infringement": 1688,
+    "pep8_infringement": 1671,
+    "requirements": [
+        "latlon",
+        "srtm.py"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "scipy"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 170,
@@ -47,7 +43,11 @@
         "tab": 14,
         "txt": 410
     },
-    "pep8_infringement": 792,
+    "pep8_infringement": 818,
+    "requirements": [
+        "numpy",
+        "scipy"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 100,
         "#!/usr/bin/env python": 3

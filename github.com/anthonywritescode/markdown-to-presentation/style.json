@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "libsass",
-        "markdown-code-blocks>=1.1.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -40,6 +36,10 @@
         "py": 438
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "libsass",
+        "markdown-code-blocks>=1.1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3.6": 1
     }

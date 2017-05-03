@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp",
-        "babel",
-        "speaklater"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 279,
         "rst": 45
     },
     "pep8_infringement": 25,
+    "requirements": [
+        "aiohttp",
+        "babel",
+        "speaklater"
+    ],
     "shebang": {}
 }

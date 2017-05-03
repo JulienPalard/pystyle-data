@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "retrying",
-        "tabulate"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,
@@ -41,7 +36,12 @@
         "py": 1573,
         "txt": 4
     },
-    "pep8_infringement": 286,
+    "pep8_infringement": 279,
+    "requirements": [
+        "requests",
+        "retrying",
+        "tabulate"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "ashes>=17.0.0",
-        "boltons>=17.1.0",
-        "html5lib==0.999999",
-        "lithoxyl>=0.4.1",
-        "markdown==2.6.2",
-        "pygments==1.6",
-        "python-dateutil==2.2",
-        "pyyaml==3.11"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "css": 1120,
@@ -53,6 +43,16 @@
         "xml": 69,
         "yaml": 36
     },
-    "pep8_infringement": 22,
+    "pep8_infringement": 20,
+    "requirements": [
+        "ashes>=17.0.0",
+        "boltons>=17.1.0",
+        "html5lib==0.999999",
+        "lithoxyl>=0.4.1",
+        "markdown==2.6.2",
+        "pygments==1.6",
+        "python-dateutil==2.2",
+        "pyyaml==3.11"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "simplejson"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
@@ -40,6 +36,10 @@
         "py": 1250,
         "txt": 87
     },
-    "pep8_infringement": 291,
+    "pep8_infringement": 289,
+    "requirements": [
+        "requests",
+        "simplejson"
+    ],
     "shebang": {}
 }

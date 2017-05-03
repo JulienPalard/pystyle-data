@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "h5py",
-        "matplotlib",
-        "mpl-toolkits",
-        "numpy",
-        "pandas",
-        "plotly",
-        "scikit-image",
-        "scipy",
-        "statsmodels"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,
@@ -54,6 +43,17 @@
         "txt": 394
     },
     "pep8_infringement": 1116,
+    "requirements": [
+        "h5py",
+        "matplotlib",
+        "mpl-toolkits",
+        "numpy",
+        "pandas",
+        "plotly",
+        "scikit-image",
+        "scipy",
+        "statsmodels"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.10,<1.11",
-        "django-sekizai>=0.10"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 9257,
@@ -45,6 +41,10 @@
         "svg": 853
     },
     "pep8_infringement": 180,
+    "requirements": [
+        "django>=1.10,<1.11",
+        "django-sekizai>=0.10"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

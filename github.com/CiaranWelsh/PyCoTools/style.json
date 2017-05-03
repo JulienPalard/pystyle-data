@@ -29,19 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argparse",
-        "lxml",
-        "lxml",
-        "matplotlib",
-        "matplotlib.pyplot",
-        "numpy",
-        "numpy",
-        "pandas",
-        "pandas",
-        "scipy",
-        "scipy"
-    ],
     "license": null,
     "lines_of_code": {
         "conf": 65,
@@ -55,6 +42,19 @@
         "txt": 2804,
         "xml": 1601
     },
-    "pep8_infringement": 17341,
+    "pep8_infringement": 17337,
+    "requirements": [
+        "argparse",
+        "lxml",
+        "lxml",
+        "matplotlib",
+        "matplotlib.pyplot",
+        "numpy",
+        "numpy",
+        "pandas",
+        "pandas",
+        "scipy",
+        "scipy"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "setuptools>=0.7",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 1,
@@ -48,6 +44,10 @@
         "yml": 31
     },
     "pep8_infringement": 258,
+    "requirements": [
+        "setuptools>=0.7",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

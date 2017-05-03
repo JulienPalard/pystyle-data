@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "c": 150,
+        "cpp": 1238,
+        "def": 29,
+        "h": 75,
+        "in": 3,
+        "md": 5,
+        "py": 24669,
+        "txt": 9
+    },
+    "pep8_infringement": 5116,
     "requirements": [
         "ana",
         "archinfo",
@@ -41,18 +53,6 @@
         "pyvex",
         "unicorn"
     ],
-    "license": "BSD-2-Clause",
-    "lines_of_code": {
-        "c": 150,
-        "cpp": 1238,
-        "def": 29,
-        "h": 75,
-        "in": 3,
-        "md": 5,
-        "py": 24669,
-        "txt": 9
-    },
-    "pep8_infringement": 5117,
     "shebang": {
         "#!/usr/bin/env python": 12,
         "#!/usr/bin/python env": 1

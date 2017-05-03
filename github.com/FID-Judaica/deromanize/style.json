@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "py": 1191,
@@ -38,6 +37,7 @@
         "yml": 415
     },
     "pep8_infringement": 1,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env pytest": 1
     }

@@ -29,6 +29,23 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 190,
+        "css": 21,
+        "html": 389,
+        "in": 3,
+        "ini": 255,
+        "js": 216,
+        "mako": 24,
+        "md": 95,
+        "py": 6973,
+        "rst": 464,
+        "svg": 5188,
+        "txt": 77,
+        "uwsgi": 21
+    },
+    "pep8_infringement": 2572,
     "requirements": [
         "alembic",
         "dogpile.cache",
@@ -52,23 +69,6 @@
         "waitress",
         "zope.sqlalchemy"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "bat": 190,
-        "css": 21,
-        "html": 389,
-        "in": 3,
-        "ini": 255,
-        "js": 216,
-        "mako": 24,
-        "md": 95,
-        "py": 6973,
-        "rst": 464,
-        "svg": 5188,
-        "txt": 77,
-        "uwsgi": 21
-    },
-    "pep8_infringement": 2586,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

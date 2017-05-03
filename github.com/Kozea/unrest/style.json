@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil",
-        "sqlalchemy"
-    ],
     "license": null,
     "lines_of_code": {
         "config": 7,
@@ -41,6 +37,10 @@
         "yml": 22
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "python-dateutil",
+        "sqlalchemy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

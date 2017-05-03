@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "enum34"
-    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "cfg": 2,
@@ -39,7 +36,10 @@
         "md": 36,
         "py": 1053
     },
-    "pep8_infringement": 1142,
+    "pep8_infringement": 1136,
+    "requirements": [
+        "enum34"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

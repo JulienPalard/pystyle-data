@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "in": 1,
+        "py": 1757,
+        "rst": 700,
+        "txt": 2
+    },
+    "pep8_infringement": 248,
     "requirements": [
         "requests>=2.2.1",
         "xmltodict"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "in": 1,
-        "py": 1700,
-        "rst": 689,
-        "txt": 2
-    },
-    "pep8_infringement": 244,
     "shebang": {
         "#!/usr/bin/env python": 3
     }

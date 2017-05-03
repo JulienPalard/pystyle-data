@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flask"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 155,
@@ -45,7 +42,10 @@
         "rst": 438,
         "txt": 2
     },
-    "pep8_infringement": 314,
+    "pep8_infringement": 325,
+    "requirements": [
+        "flask"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib>=1.5.1",
-        "numpy>=1.11.0",
-        "scikit-learn>=0.17",
-        "scipy>=0.17.0"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,
@@ -45,6 +39,12 @@
         "txt": 3,
         "yml": 5
     },
-    "pep8_infringement": 98,
+    "pep8_infringement": 106,
+    "requirements": [
+        "matplotlib>=1.5.1",
+        "numpy>=1.11.0",
+        "scikit-learn>=0.17",
+        "scipy>=0.17.0"
+    ],
     "shebang": {}
 }

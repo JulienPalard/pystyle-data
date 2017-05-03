@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docopt>=0.6.2",
-        "graphviz>=0.5.2",
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -47,6 +42,11 @@
         "txt": 5445
     },
     "pep8_infringement": 374,
+    "requirements": [
+        "docopt>=0.6.2",
+        "graphviz>=0.5.2",
+        "numpy"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 10
     }

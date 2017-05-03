@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "NET35": 10,
@@ -59,7 +58,8 @@
         "txt": 3223,
         "vcxproj": 137
     },
-    "pep8_infringement": 4110,
+    "pep8_infringement": 4089,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 9
     }

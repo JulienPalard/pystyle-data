@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "exifread",
-        "pyqt5"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 96,
@@ -43,6 +39,10 @@
         "wpr": 56
     },
     "pep8_infringement": 36,
+    "requirements": [
+        "exifread",
+        "pyqt5"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 3
     }

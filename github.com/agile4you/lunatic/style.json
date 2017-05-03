@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 961,
+        "rst": 10,
+        "sql": 6,
+        "txt": 11
+    },
+    "pep8_infringement": 49,
     "requirements": [
         "gevent",
         "psycogreen",
@@ -38,13 +46,5 @@
         "sqlalchemy",
         "ujson"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 961,
-        "rst": 10,
-        "sql": 6,
-        "txt": 11
-    },
-    "pep8_infringement": 24,
     "shebang": {}
 }

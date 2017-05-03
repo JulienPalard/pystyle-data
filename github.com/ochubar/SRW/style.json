@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "001": 172,
@@ -77,6 +76,7 @@
         "vcxproj": 1994,
         "xslt": 232
     },
-    "pep8_infringement": 14048,
+    "pep8_infringement": 14035,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "setuptools",
-        "sphinx",
-        "sphinxcontrib-plantuml"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 54,
@@ -48,5 +43,10 @@
         "txt": 265
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "setuptools",
+        "sphinx",
+        "sphinxcontrib-plantuml"
+    ],
     "shebang": {}
 }

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "biopython",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "pysam"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 2,
@@ -45,6 +38,13 @@
         "sh": 1,
         "yaml": 64
     },
-    "pep8_infringement": 959,
+    "pep8_infringement": 958,
+    "requirements": [
+        "biopython",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pysam"
+    ],
     "shebang": {}
 }

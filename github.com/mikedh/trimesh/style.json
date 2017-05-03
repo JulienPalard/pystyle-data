@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "networkx",
-        "numpy",
-        "scipy"
-    ],
     "license": null,
     "lines_of_code": {
         "DXF": 55766,
@@ -53,7 +48,12 @@
         "txt": 5,
         "xaml": 76
     },
-    "pep8_infringement": 457,
+    "pep8_infringement": 449,
+    "requirements": [
+        "networkx",
+        "numpy",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

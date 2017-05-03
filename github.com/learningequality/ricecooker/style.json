@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 242,
+        "cfg": 18,
+        "in": 14,
+        "ini": 22,
+        "json": 289,
+        "md": 263,
+        "py": 5080,
+        "rst": 411
+    },
+    "pep8_infringement": 988,
     "requirements": [
         "beautifulsoup4==4.5.1",
         "cachecontrol==0.12.0",
@@ -47,18 +59,6 @@
         "validators",
         "youtube-dl"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "bat": 242,
-        "cfg": 18,
-        "in": 14,
-        "ini": 22,
-        "json": 289,
-        "md": 263,
-        "py": 5080,
-        "rst": 411
-    },
-    "pep8_infringement": 989,
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1

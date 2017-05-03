@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "setuptools>=35.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,5 +36,8 @@
         "py": 63
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "setuptools>=35.0.0"
+    ],
     "shebang": {}
 }

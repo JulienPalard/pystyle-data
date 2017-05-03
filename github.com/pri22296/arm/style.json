@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifultable"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -41,6 +38,9 @@
         "txt": 21
     },
     "pep8_infringement": 12,
+    "requirements": [
+        "beautifultable"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

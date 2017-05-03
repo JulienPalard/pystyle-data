@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ansible>=2.0"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 8,
@@ -45,7 +42,10 @@
         "txt": 1350,
         "yml": 2686
     },
-    "pep8_infringement": 2476,
+    "pep8_infringement": 2454,
+    "requirements": [
+        "ansible>=2.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

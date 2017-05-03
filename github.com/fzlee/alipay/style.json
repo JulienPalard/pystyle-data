@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycrypto"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +38,9 @@
         "txt": 30
     },
     "pep8_infringement": 64,
+    "requirements": [
+        "pycrypto"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 9
     }

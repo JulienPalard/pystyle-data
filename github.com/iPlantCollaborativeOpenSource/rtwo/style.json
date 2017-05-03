@@ -29,10 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "dist": 23,
+        "in": 1,
+        "md": 115,
+        "py": 7382,
+        "txt": 14
+    },
+    "pep8_infringement": 546,
     "requirements": [
         "apache-libcloud==0.20.1",
         "ipython==4.0.0",
-        "pbr>=1.8,<2.0",
+        "pbr<2.0,>=1.8",
         "python-cinderclient==1.9.0",
         "python-glanceclient==2.5.0",
         "python-irodsclient",
@@ -45,14 +54,5 @@
         "rfive==0.2.0",
         "threepio==0.2.0"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "dist": 23,
-        "in": 1,
-        "md": 115,
-        "py": 7382,
-        "txt": 14
-    },
-    "pep8_infringement": 561,
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "psutil",
-        "pyspectator"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -40,6 +36,10 @@
         "py": 2509,
         "txt": 9
     },
-    "pep8_infringement": 547,
+    "pep8_infringement": 543,
+    "requirements": [
+        "psutil",
+        "pyspectator"
+    ],
     "shebang": {}
 }

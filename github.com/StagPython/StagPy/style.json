@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "bat": 263,
+        "dat": 9939,
+        "py": 4056,
+        "rst": 821
+    },
+    "pep8_infringement": 64,
     "requirements": [
         "argcomplete",
         "f90nml",
@@ -39,14 +47,6 @@
         "seaborn",
         "setuptools-scm"
     ],
-    "license": "GPL-2.0",
-    "lines_of_code": {
-        "bat": 263,
-        "dat": 9939,
-        "py": 4056,
-        "rst": 821
-    },
-    "pep8_infringement": 64,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

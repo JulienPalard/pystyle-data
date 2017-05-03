@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "python-mimeparse>=1.5.2",
-        "six>=1.4.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "Dockerfile": 21,
@@ -46,7 +42,11 @@
         "rst": 4956,
         "sh": 161
     },
-    "pep8_infringement": 183,
+    "pep8_infringement": 182,
+    "requirements": [
+        "python-mimeparse>=1.5.2",
+        "six>=1.4.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

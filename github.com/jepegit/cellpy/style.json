@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "numpy",
-        "pandas",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -49,7 +44,12 @@
         "rst": 784,
         "txt": 335
     },
-    "pep8_infringement": 2212,
+    "pep8_infringement": 2166,
+    "requirements": [
+        "numpy",
+        "pandas",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

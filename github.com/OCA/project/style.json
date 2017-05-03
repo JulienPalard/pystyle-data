@@ -29,14 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "csv": 45,
         "md": 165,
         "po": 64695,
         "pot": 1999,
-        "py": 6827,
+        "py": 6831,
         "rml": 263,
         "rst": 1524,
         "svg": 461,
@@ -45,5 +44,6 @@
         "yml": 113
     },
     "pep8_infringement": 37,
+    "requirements": [],
     "shebang": {}
 }

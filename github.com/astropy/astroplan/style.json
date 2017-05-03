@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "astropy>=1.3",
-        "numpy>=1.6",
-        "pytz"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 170,
@@ -44,7 +39,12 @@
         "txt": 9,
         "yml": 42
     },
-    "pep8_infringement": 427,
+    "pep8_infringement": 423,
+    "requirements": [
+        "astropy>=1.3",
+        "numpy>=1.6",
+        "pytz"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cpp": 1330,
@@ -39,5 +38,6 @@
         "txt": 202
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

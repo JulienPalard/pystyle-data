@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "eventlet>=0.16.1",
-        "kombu>=3.0.1,<4",
-        "mock>=1.2",
-        "path.py>=6.2",
-        "pyyaml>=3.10",
-        "requests>=1.2.0",
-        "six>=1.9.0",
-        "werkzeug>=0.9",
-        "wrapt>=1.0.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 7,
@@ -51,6 +40,17 @@
         "txt": 181
     },
     "pep8_infringement": 17,
+    "requirements": [
+        "eventlet>=0.16.1",
+        "kombu<4,>=3.0.1",
+        "mock>=1.2",
+        "path.py>=6.2",
+        "pyyaml>=3.10",
+        "requests>=1.2.0",
+        "six>=1.9.0",
+        "werkzeug>=0.9",
+        "wrapt>=1.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

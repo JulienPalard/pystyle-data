@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docopt>=0.6",
-        "numpy",
-        "pymer>=0.3.3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cc": 243,
@@ -45,7 +40,12 @@
         "rst": 47,
         "txt": 5
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 9,
+    "requirements": [
+        "docopt>=0.6",
+        "numpy",
+        "pymer>=0.3.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

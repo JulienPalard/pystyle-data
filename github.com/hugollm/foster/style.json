@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coverage",
-        "twine<2,>=1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 84,
@@ -40,5 +36,9 @@
         "txt": 2
     },
     "pep8_infringement": 39,
+    "requirements": [
+        "coverage",
+        "twine<2,>=1"
+    ],
     "shebang": {}
 }

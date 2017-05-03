@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "scipy"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "css": 708,
@@ -45,6 +41,10 @@
         "svg": 520,
         "txt": 253
     },
-    "pep8_infringement": 133,
+    "pep8_infringement": 132,
+    "requirements": [
+        "numpy",
+        "scipy"
+    ],
     "shebang": {}
 }

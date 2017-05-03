@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "peek-agent",
-        "peek-client",
-        "peek-server",
-        "peek-worker"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -44,7 +38,13 @@
         "sh": 745,
         "txt": 5
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 22,
+    "requirements": [
+        "peek-agent",
+        "peek-client",
+        "peek-server",
+        "peek-worker"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

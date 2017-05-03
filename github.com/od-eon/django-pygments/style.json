@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pygments"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "css": 84,
@@ -39,5 +36,8 @@
         "py": 171
     },
     "pep8_infringement": 23,
+    "requirements": [
+        "pygments"
+    ],
     "shebang": {}
 }

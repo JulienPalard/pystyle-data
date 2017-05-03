@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "in": 1,
+        "md": 79,
+        "py": 1538,
+        "txt": 10
+    },
+    "pep8_infringement": 609,
     "requirements": [
         "appdirs>=1.4.0",
         "cssselect>=0.9.1",
@@ -41,14 +49,6 @@
         "web-cache>=1.0.2",
         "youtube-dl>=2017.04.17"
     ],
-    "license": "LGPL-3.0",
-    "lines_of_code": {
-        "in": 1,
-        "md": 79,
-        "py": 1538,
-        "txt": 10
-    },
-    "pep8_infringement": 590,
     "shebang": {
         "#!/usr/bin/env python3": 4
     }

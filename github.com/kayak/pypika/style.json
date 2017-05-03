@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "aenum"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 1,
@@ -41,6 +38,9 @@
         "txt": 201
     },
     "pep8_infringement": 290,
+    "requirements": [
+        "aenum"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

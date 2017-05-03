@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "mypy>=0.470",
-        "pytest>=2.9.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 5,
@@ -43,6 +39,10 @@
         "yml": 51
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "mypy>=0.470",
+        "pytest>=2.9.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

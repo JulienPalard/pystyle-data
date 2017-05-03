@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cachetools",
-        "jinja2",
-        "psutil"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 8,
         "py": 504,
         "rst": 5
     },
-    "pep8_infringement": 94,
+    "pep8_infringement": 90,
+    "requirements": [
+        "cachetools",
+        "jinja2",
+        "psutil"
+    ],
     "shebang": {}
 }

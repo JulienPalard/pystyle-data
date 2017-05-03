@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 950,
         "rst": 10
     },
     "pep8_infringement": 231,
+    "requirements": [
+        "numpy"
+    ],
     "shebang": {}
 }

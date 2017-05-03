@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "termcolor"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 13,
         "py": 266
     },
-    "pep8_infringement": 40,
+    "pep8_infringement": 39,
+    "requirements": [
+        "termcolor"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 9
     }

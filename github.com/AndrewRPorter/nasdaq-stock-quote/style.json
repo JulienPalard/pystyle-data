@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "requests",
-        "setuptools"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 193,
         "rst": 71,
         "txt": 21
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 57,
+    "requirements": [
+        "lxml",
+        "requests",
+        "setuptools"
+    ],
     "shebang": {}
 }

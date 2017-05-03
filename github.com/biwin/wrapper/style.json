@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "barcodenumber",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -40,5 +36,9 @@
         "py": 420
     },
     "pep8_infringement": 43,
+    "requirements": [
+        "barcodenumber",
+        "requests"
+    ],
     "shebang": {}
 }

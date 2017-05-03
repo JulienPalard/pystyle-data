@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "speg>=0.3"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "md": 40,
         "py": 719
     },
     "pep8_infringement": 61,
+    "requirements": [
+        "speg>=0.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "md": 127,
+        "py": 1359,
+        "txt": 3
+    },
+    "pep8_infringement": 45,
     "requirements": [
         "astunparse",
         "autopep8",
@@ -36,13 +43,6 @@
         "typed-ast",
         "typed-astunparse"
     ],
-    "license": null,
-    "lines_of_code": {
-        "md": 127,
-        "py": 1359,
-        "txt": 3
-    },
-    "pep8_infringement": 47,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,5 +38,9 @@
         "txt": 19
     },
     "pep8_infringement": 349,
+    "requirements": [
+        "python-dateutil",
+        "requests"
+    ],
     "shebang": {}
 }

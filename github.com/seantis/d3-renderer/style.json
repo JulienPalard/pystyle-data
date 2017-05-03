@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-2.0",
     "lines_of_code": {
         "js": 404,
@@ -37,5 +36,6 @@
         "md": 104
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

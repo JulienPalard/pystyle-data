@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "aiofiles",
-        "httptools",
-        "ujson",
-        "uvloop",
-        "websockets"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -51,7 +44,14 @@
         "txt": 32,
         "yml": 27
     },
-    "pep8_infringement": 189,
+    "pep8_infringement": 180,
+    "requirements": [
+        "aiofiles",
+        "httptools",
+        "ujson",
+        "uvloop",
+        "websockets"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

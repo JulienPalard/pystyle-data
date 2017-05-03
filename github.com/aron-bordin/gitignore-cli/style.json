@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "pygithub"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 2,
@@ -41,6 +37,10 @@
         "txt": 2
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "click",
+        "pygithub"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

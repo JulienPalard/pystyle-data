@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "libvirt-python"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -40,7 +37,10 @@
         "rst": 2074,
         "txt": 177
     },
-    "pep8_infringement": 213,
+    "pep8_infringement": 222,
+    "requirements": [
+        "libvirt-python"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

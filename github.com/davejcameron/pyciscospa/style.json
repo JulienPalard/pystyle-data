@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "requests",
-        "xmljson"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -44,6 +40,10 @@
         "xml": 155
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "requests",
+        "xmljson"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

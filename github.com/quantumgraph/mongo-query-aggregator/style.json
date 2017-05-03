@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pymongo"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 22,
@@ -39,5 +36,8 @@
         "txt": 15
     },
     "pep8_infringement": 118,
+    "requirements": [
+        "pymongo"
+    ],
     "shebang": {}
 }

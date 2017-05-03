@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyqt5",
-        "pytc-fitter",
-        "seaborn"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "bat": 36,
@@ -44,7 +39,12 @@
         "qss": 3,
         "rst": 403
     },
-    "pep8_infringement": 150,
+    "pep8_infringement": 159,
+    "requirements": [
+        "pyqt5",
+        "pytc-fitter",
+        "seaborn"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pybind11>=2.1.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ac": 214,
@@ -64,7 +61,10 @@
         "xcconfig": 146,
         "yml": 77
     },
-    "pep8_infringement": 2823,
+    "pep8_infringement": 2916,
+    "requirements": [
+        "pybind11>=2.1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 37,
         "#!/usr/bin/env python3": 2

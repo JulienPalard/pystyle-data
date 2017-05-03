@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "bcbio-gff",
-        "biopython",
-        "cached-property",
-        "click",
-        "contextlib2",
-        "futures",
-        "pysam",
-        "scipy",
-        "six",
-        "temporary"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "fasta": 2,
@@ -57,5 +45,17 @@
         "yaml": 59
     },
     "pep8_infringement": 443,
+    "requirements": [
+        "bcbio-gff",
+        "biopython",
+        "cached-property",
+        "click",
+        "contextlib2",
+        "futures",
+        "pysam",
+        "scipy",
+        "six",
+        "temporary"
+    ],
     "shebang": {}
 }

@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "redis"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 169,
         "py": 433
     },
     "pep8_infringement": 195,
+    "requirements": [
+        "redis"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

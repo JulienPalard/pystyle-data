@@ -29,10 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "flask",
-        "requests"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 38,
@@ -42,6 +38,10 @@
         "txt": 6
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "flask",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

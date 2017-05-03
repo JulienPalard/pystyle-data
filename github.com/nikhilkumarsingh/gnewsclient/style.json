@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bs4",
-        "html5lib",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -42,6 +37,11 @@
         "rst": 158,
         "txt": 21
     },
-    "pep8_infringement": 404,
+    "pep8_infringement": 402,
+    "requirements": [
+        "bs4",
+        "html5lib",
+        "requests"
+    ],
     "shebang": {}
 }

@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "elasticsearch",
-        "opentracing<1.2,>=1.1"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 454,
         "rst": 67
     },
     "pep8_infringement": 39,
+    "requirements": [
+        "elasticsearch",
+        "opentracing>=1.1,<1.2"
+    ],
     "shebang": {}
 }

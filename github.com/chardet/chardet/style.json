@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "bat": 242,
@@ -44,6 +43,7 @@
         "xml": 1712
     },
     "pep8_infringement": 61037,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1

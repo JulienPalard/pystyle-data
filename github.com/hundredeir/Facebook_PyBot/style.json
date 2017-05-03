@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 4,
+        "md": 38,
+        "py": 1062,
+        "rst": 38,
+        "txt": 16,
+        "yml": 1
+    },
+    "pep8_infringement": 171,
     "requirements": [
         "cheroot==5.3.0",
         "cherrypy==10.2.0",
@@ -46,17 +57,6 @@
         "tempora==1.6.1",
         "werkzeug"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "cfg": 2,
-        "in": 4,
-        "md": 38,
-        "py": 1062,
-        "rst": 38,
-        "txt": 16,
-        "yml": 1
-    },
-    "pep8_infringement": 180,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "wishbone>=2.1.1"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "py": 550,
         "rst": 65
     },
     "pep8_infringement": 38,
+    "requirements": [
+        "requests",
+        "wishbone>=2.1.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

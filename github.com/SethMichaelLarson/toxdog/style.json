@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "colorama",
-        "tox",
-        "watchdog"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
@@ -43,6 +38,11 @@
         "rst": 58,
         "txt": 209
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 31,
+    "requirements": [
+        "colorama",
+        "tox",
+        "watchdog"
+    ],
     "shebang": {}
 }

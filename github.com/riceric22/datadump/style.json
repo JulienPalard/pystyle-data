@@ -29,12 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "md": 37,
         "py": 96
     },
     "pep8_infringement": 29,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "alg3dpy"
-    ],
     "license": null,
     "lines_of_code": {
         "bdf": 5060,
@@ -39,6 +36,9 @@
         "py": 4885,
         "txt": 749
     },
-    "pep8_infringement": 3219,
+    "pep8_infringement": 3215,
+    "requirements": [
+        "alg3dpy"
+    ],
     "shebang": {}
 }

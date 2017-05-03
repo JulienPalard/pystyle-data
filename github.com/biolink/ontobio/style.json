@@ -15,7 +15,7 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": true,
@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 2,
+        "gaf": 400,
+        "gpad": 1985,
+        "gpi": 200,
+        "ipynb": 635,
+        "json": 53933,
+        "md": 257,
+        "py": 6665,
+        "ttl": 9690,
+        "txt": 15
+    },
+    "pep8_infringement": 1602,
     "requirements": [
         "jsonpath-rw>=0.0",
         "jsonpickle>=0.0",
@@ -39,18 +53,6 @@
         "pytest-logging>=0.0",
         "wheel>0.25.0"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 2,
-        "gaf": 200,
-        "gpad": 200,
-        "gpi": 200,
-        "json": 53508,
-        "md": 257,
-        "py": 6213,
-        "txt": 15
-    },
-    "pep8_infringement": 1474,
     "shebang": {
         "#!/usr/bin/env python": 9,
         "#!/usr/bin/env python3": 2

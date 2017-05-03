@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "hy>=0.11.1",
-        "psycopg2>=2.6.1",
-        "pyparsing>=2.1.1",
-        "sqlalchemy>=1.0.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -43,7 +37,13 @@
         "sql": 123,
         "txt": 202
     },
-    "pep8_infringement": 199,
+    "pep8_infringement": 194,
+    "requirements": [
+        "hy>=0.11.1",
+        "psycopg2>=2.6.1",
+        "pyparsing>=2.1.1",
+        "sqlalchemy>=1.0.6"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,10 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "pbr>=1.6",
-        "protobuf==3.2.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 35,
@@ -43,6 +39,10 @@
         "txt": 17
     },
     "pep8_infringement": 9,
+    "requirements": [
+        "pbr>=1.6",
+        "protobuf==3.2.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

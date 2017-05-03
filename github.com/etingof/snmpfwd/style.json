@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycryptodome",
-        "pysnmp>=4.3.0"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -43,7 +39,11 @@
         "rst": 1198,
         "txt": 74
     },
-    "pep8_infringement": 402,
+    "pep8_infringement": 393,
+    "requirements": [
+        "pycryptodome",
+        "pysnmp>=4.3.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3,
         "#!/usr/bin/env python3": 1

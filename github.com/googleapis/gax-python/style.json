@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 2,
+        "in": 4,
+        "ini": 51,
+        "json": 46,
+        "proto": 30,
+        "py": 5686,
+        "rst": 247,
+        "txt": 11
+    },
+    "pep8_infringement": 61,
+    "requirements": [
+        "dill<0.3dev,>=0.2.5",
+        "future>=0.16.0,<0.17dev",
+        "google-auth<2.0dev,>=0.8.0",
+        "googleapis-common-protos>=1.5.2,<2.0dev",
+        "grpcio>=1.0.2,<2.0dev",
+        "ply==3.8",
+        "protobuf>=3.0.0,<4.0dev"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

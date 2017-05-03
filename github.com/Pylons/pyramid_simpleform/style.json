@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "formencode",
-        "pyramid"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -46,5 +42,9 @@
         "txt": 42
     },
     "pep8_infringement": 332,
+    "requirements": [
+        "formencode",
+        "pyramid"
+    ],
     "shebang": {}
 }

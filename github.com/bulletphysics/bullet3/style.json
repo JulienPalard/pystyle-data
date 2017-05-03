@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "am": 95,
@@ -72,7 +71,8 @@
         "xml": 1500,
         "yml": 19
     },
-    "pep8_infringement": 4319,
+    "pep8_infringement": 4314,
+    "requirements": [],
     "shebang": {
         "#! /usr/bin/env python": 1
     }

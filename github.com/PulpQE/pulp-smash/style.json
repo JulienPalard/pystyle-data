@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "packaging",
-        "plumbum",
-        "python-dateutil",
-        "pyxdg",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -45,6 +38,13 @@
         "txt": 27
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "packaging",
+        "plumbum",
+        "python-dateutil",
+        "pyxdg",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

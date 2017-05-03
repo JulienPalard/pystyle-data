@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 547,
+        "rst": 41,
+        "txt": 684
+    },
+    "pep8_infringement": 24,
     "requirements": [
         "bottle",
         "coverage",
@@ -40,12 +47,5 @@
         "six",
         "ujson"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 547,
-        "rst": 41,
-        "txt": 684
-    },
-    "pep8_infringement": 12,
     "shebang": {}
 }

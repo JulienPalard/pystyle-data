@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "confluent-kafka"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "avsc": 26,
@@ -43,6 +40,9 @@
         "txt": 2
     },
     "pep8_infringement": 63,
+    "requirements": [
+        "confluent-kafka"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

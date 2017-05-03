@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 15,
+        "css": 11885,
+        "html": 1762,
+        "in": 3,
+        "jade": 792,
+        "js": 15464,
+        "json": 21,
+        "map": 39,
+        "md": 2204,
+        "py": 8318,
+        "scss": 1532,
+        "svg": 973,
+        "txt": 159,
+        "yml": 309
+    },
+    "pep8_infringement": 433,
     "requirements": [
         "active-alchemy>=1.0.0",
         "arrow==0.8.0",
@@ -60,29 +78,11 @@
         "pyjade==4.0.0",
         "python-slugify==1.2.1",
         "pyyaml==3.11",
-        "redis>=2.10.0,<3.0.0",
+        "redis<3.0.0,>=2.10.0",
         "requests>=2.13.0",
         "ses-mailer>=0.13.0",
         "sh==1.11",
         "six>=1.9.0"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 15,
-        "css": 11885,
-        "html": 1762,
-        "in": 3,
-        "jade": 792,
-        "js": 15464,
-        "json": 21,
-        "map": 39,
-        "md": 2204,
-        "py": 8318,
-        "scss": 1532,
-        "svg": 973,
-        "txt": 159,
-        "yml": 309
-    },
-    "pep8_infringement": 433,
     "shebang": {}
 }

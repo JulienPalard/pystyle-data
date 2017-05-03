@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 5,
+        "ini": 190,
+        "json": 86,
+        "py": 2319,
+        "rst": 282,
+        "template": 25,
+        "txt": 21
+    },
+    "pep8_infringement": 107,
     "requirements": [
         "apscheduler",
         "bs4",
@@ -41,18 +53,6 @@
         "six",
         "tushare"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "in": 5,
-        "ini": 190,
-        "json": 86,
-        "py": 2319,
-        "rst": 282,
-        "template": 25,
-        "txt": 21
-    },
-    "pep8_infringement": 108,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

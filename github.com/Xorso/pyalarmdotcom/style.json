@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp",
-        "async-timeout",
-        "bs4",
-        "coverage",
-        "nose",
-        "pypi-publisher",
-        "sphinx",
-        "sphinx-rtd-theme"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -51,6 +41,16 @@
         "txt": 9
     },
     "pep8_infringement": 127,
+    "requirements": [
+        "aiohttp",
+        "async-timeout",
+        "bs4",
+        "coverage",
+        "nose",
+        "pypi-publisher",
+        "sphinx",
+        "sphinx-rtd-theme"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

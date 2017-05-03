@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click>=6.7",
-        "configstruct>=0.3.1",
-        "python-dateutil>=2.6.0",
-        "tabulate>=0.7.7"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -46,6 +40,12 @@
         "txt": 16
     },
     "pep8_infringement": 122,
+    "requirements": [
+        "click>=6.7",
+        "configstruct>=0.3.1",
+        "python-dateutil>=2.6.0",
+        "tabulate>=0.7.7"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

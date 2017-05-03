@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "httpie>=0.7.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 11,
@@ -40,5 +37,8 @@
         "rst": 41
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "httpie>=0.7.0"
+    ],
     "shebang": {}
 }

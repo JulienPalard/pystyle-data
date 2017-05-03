@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "addict",
-        "http-parser",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 11,
@@ -44,6 +39,11 @@
         "txt": 14
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "addict",
+        "http-parser",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python2.7": 2
     }

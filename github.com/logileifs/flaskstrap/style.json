@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -41,7 +38,10 @@
         "txt": 7,
         "yml": 36
     },
-    "pep8_infringement": 116,
+    "pep8_infringement": 121,
+    "requirements": [
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

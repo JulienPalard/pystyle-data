@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyglet==1.2.4"
-    ],
     "license": null,
     "lines_of_code": {
         "html": 253,
@@ -43,6 +40,9 @@
         "txt": 1
     },
     "pep8_infringement": 13,
+    "requirements": [
+        "pyglet==1.2.4"
+    ],
     "shebang": {
         "#!/usr/bin/python -B": 1
     }

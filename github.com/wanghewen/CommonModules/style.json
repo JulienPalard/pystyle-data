@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "networkx",
-        "numpy",
-        "scikit-learn"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +37,11 @@
         "pyproj": 143,
         "txt": 8
     },
-    "pep8_infringement": 266,
+    "pep8_infringement": 287,
+    "requirements": [
+        "networkx",
+        "numpy",
+        "scikit-learn"
+    ],
     "shebang": {}
 }

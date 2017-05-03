@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "catkin-pkg",
-        "catkin-sphinx",
-        "catkin-tools>=0.4.4",
-        "epydoc",
-        "sphinx"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,
@@ -44,6 +37,13 @@
         "py": 1016,
         "xml": 55299
     },
-    "pep8_infringement": 74,
+    "pep8_infringement": 72,
+    "requirements": [
+        "catkin-pkg",
+        "catkin-sphinx",
+        "catkin-tools>=0.4.4",
+        "epydoc",
+        "sphinx"
+    ],
     "shebang": {}
 }

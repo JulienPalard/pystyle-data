@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "markdown"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "html": 329,
         "md": 143,
         "py": 379
     },
-    "pep8_infringement": 24,
+    "pep8_infringement": 25,
+    "requirements": [
+        "flask",
+        "markdown"
+    ],
     "shebang": {}
 }

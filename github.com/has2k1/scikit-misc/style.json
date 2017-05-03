@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "coveralls",
-        "flake8",
-        "pep8",
-        "pytest-cov",
-        "sphinx",
-        "sphinx-rtd-theme",
-        "tox",
-        "twine",
-        "wheel"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "c": 1396,
@@ -63,6 +52,17 @@
         "txt": 35
     },
     "pep8_infringement": 22,
+    "requirements": [
+        "coveralls",
+        "flake8",
+        "pep8",
+        "pytest-cov",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "tox",
+        "twine",
+        "wheel"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

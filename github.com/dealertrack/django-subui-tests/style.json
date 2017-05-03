@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django",
-        "py-context",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 6,
@@ -43,6 +38,11 @@
         "txt": 14
     },
     "pep8_infringement": 39,
+    "requirements": [
+        "django",
+        "py-context",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

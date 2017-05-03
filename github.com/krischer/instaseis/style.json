@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "BW_FURT": 1,
@@ -51,7 +50,8 @@
         "ui": 1074,
         "xml": 352
     },
-    "pep8_infringement": 91,
+    "pep8_infringement": 54,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 56
     }

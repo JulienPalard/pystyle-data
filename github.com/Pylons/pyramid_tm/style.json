@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyramid>=1.5",
-        "transaction>=2.0"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 16,
@@ -43,5 +39,9 @@
         "yml": 27
     },
     "pep8_infringement": 91,
+    "requirements": [
+        "pyramid>=1.5",
+        "transaction>=2.0"
+    ],
     "shebang": {}
 }

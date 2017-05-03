@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "enum34~=1.1.6",
-        "wagtail>=1.5"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 281,
@@ -47,6 +43,10 @@
         "txt": 5
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "enum34~=1.1.6",
+        "wagtail>=1.5"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

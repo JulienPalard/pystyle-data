@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "csv": 46,
+        "in": 3,
+        "md": 51,
+        "py": 3681,
+        "rst": 1527
+    },
+    "pep8_infringement": 601,
     "requirements": [
         "gensim",
         "keras",
@@ -39,14 +48,5 @@
         "spacy",
         "stemming"
     ],
-    "license": null,
-    "lines_of_code": {
-        "csv": 46,
-        "in": 3,
-        "md": 51,
-        "py": 3681,
-        "rst": 1527
-    },
-    "pep8_infringement": 602,
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "easysvg>=0.2.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 3,
@@ -41,5 +38,8 @@
         "txt": 201
     },
     "pep8_infringement": 115,
+    "requirements": [
+        "easysvg>=0.2.1"
+    ],
     "shebang": {}
 }

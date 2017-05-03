@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ffn",
-        "pyprind>=2.10"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 380,
@@ -42,11 +38,15 @@
         "in": 15,
         "ipynb": 1678,
         "less": 2984,
-        "py": 6719,
+        "py": 6832,
         "rst": 1990,
         "svg": 1008,
         "txt": 21
     },
-    "pep8_infringement": 118,
+    "pep8_infringement": 119,
+    "requirements": [
+        "ffn",
+        "pyprind>=2.10"
+    ],
     "shebang": {}
 }

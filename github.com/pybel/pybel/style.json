@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bel": 423,
+        "belanno": 17235,
+        "beleq": 11306,
+        "belns": 139274,
+        "cfg": 5,
+        "in": 11,
+        "ini": 49,
+        "owl": 42712,
+        "py": 16543,
+        "rst": 1663,
+        "txt": 9
+    },
+    "pep8_infringement": 1517,
+    "requirements": [
+        "click",
+        "configparser",
+        "networkx",
+        "onto2nx",
+        "py2neo",
+        "pyparsing",
+        "requests",
+        "requests-file",
+        "sqlalchemy"
+    ],
+    "shebang": {}
+}

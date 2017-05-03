@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "future": 112,
+        "py": 7158,
+        "rst": 2255,
+        "tmpl": 8,
+        "txt": 62,
+        "yaml": 90
+    },
+    "pep8_infringement": 329,
     "requirements": [
         "arrow==0.7.0",
         "attrdict==2.0.0",
@@ -44,16 +54,6 @@
         "setproctitle==1.1.10",
         "uplook==1.1.0"
     ],
-    "license": null,
-    "lines_of_code": {
-        "future": 112,
-        "py": 7158,
-        "rst": 2255,
-        "tmpl": 8,
-        "txt": 62,
-        "yaml": 90
-    },
-    "pep8_infringement": 329,
     "shebang": {
         "#!/usr/bin/env python": 65
     }

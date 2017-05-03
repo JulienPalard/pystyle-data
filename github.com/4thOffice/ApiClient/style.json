@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "build": 85,
@@ -43,5 +42,6 @@
         "xsd": 5983
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

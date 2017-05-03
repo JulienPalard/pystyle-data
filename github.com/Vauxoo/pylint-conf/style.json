@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 556,
@@ -37,7 +36,8 @@
         "patch": 70,
         "py": 490
     },
-    "pep8_infringement": 170,
+    "pep8_infringement": 167,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "affine",
-        "appdirs",
-        "mapkit>=1.2.0",
-        "psycopg2",
-        "pyyaml",
-        "rapidpy",
-        "sqlalchemy",
-        "timezonefinder",
-        "utm",
-        "wrf-python"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "asc": 4182,
@@ -78,6 +66,18 @@
         "xml": 20,
         "yml": 117
     },
-    "pep8_infringement": 2535,
+    "pep8_infringement": 2648,
+    "requirements": [
+        "affine",
+        "appdirs",
+        "mapkit>=1.2.0",
+        "psycopg2",
+        "pyyaml",
+        "rapidpy",
+        "sqlalchemy",
+        "timezonefinder",
+        "utm",
+        "wrf-python"
+    ],
     "shebang": {}
 }

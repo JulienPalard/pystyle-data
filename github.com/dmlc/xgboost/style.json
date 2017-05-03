@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "MD": 24,
@@ -72,7 +71,8 @@
         "xml": 985,
         "yml": 23
     },
-    "pep8_infringement": 765,
+    "pep8_infringement": 757,
+    "requirements": [],
     "shebang": {
         "#! /usr/bin/python": 1,
         "#!/usr/bin/python": 20

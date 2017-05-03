@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "peewee",
-        "pygments"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 73,
@@ -45,7 +40,12 @@
         "svg": 229,
         "txt": 3
     },
-    "pep8_infringement": 38,
+    "pep8_infringement": 37,
+    "requirements": [
+        "flask",
+        "peewee",
+        "pygments"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

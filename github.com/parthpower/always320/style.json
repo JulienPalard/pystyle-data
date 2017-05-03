@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4",
-        "html5lib",
-        "robobrowser"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 20,
         "py": 302,
         "txt": 16
     },
-    "pep8_infringement": 116,
+    "pep8_infringement": 114,
+    "requirements": [
+        "beautifulsoup4",
+        "html5lib",
+        "robobrowser"
+    ],
     "shebang": {
         "#!python": 1
     }

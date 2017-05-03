@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "travis2docker"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "md": 28,
@@ -42,5 +39,8 @@
         "xml": 135
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "travis2docker"
+    ],
     "shebang": {}
 }

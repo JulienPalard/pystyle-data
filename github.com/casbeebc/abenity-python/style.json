@@ -29,11 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "pycryptodome==3.4.5",
-        "requests==2.13.0",
-        "six==1.10.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 7,
@@ -42,6 +37,11 @@
         "txt": 34
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "pycryptodome==3.4.5",
+        "requests==2.13.0",
+        "six==1.10.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

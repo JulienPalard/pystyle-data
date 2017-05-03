@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 488,
+        "rst": 9
+    },
+    "pep8_infringement": 22,
     "requirements": [
         "promise",
         "pymitter",
         "requests",
         "socketio-client"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 487,
-        "rst": 9
-    },
-    "pep8_infringement": 22,
     "shebang": {}
 }

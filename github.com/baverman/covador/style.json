@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest-coverage"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -41,6 +38,9 @@
         "sh": 12,
         "txt": 1
     },
-    "pep8_infringement": 83,
+    "pep8_infringement": 82,
+    "requirements": [
+        "pytest-coverage"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jinja2",
-        "lxml==3.7.1",
-        "mock",
-        "uw-restclients-core>0.8,<1.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 1,
@@ -45,5 +39,11 @@
         "xhtml": 73
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "jinja2",
+        "lxml==3.7.1",
+        "mock",
+        "uw-restclients-core>0.8,<1.0"
+    ],
     "shebang": {}
 }

@@ -29,6 +29,28 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "MRC": 60,
+        "conf": 34,
+        "css": 7604,
+        "html": 649,
+        "in": 16,
+        "js": 15681,
+        "json": 4311,
+        "map": 2,
+        "mrc": 74,
+        "plantuml": 458,
+        "py": 7680,
+        "rst": 1637,
+        "service": 11,
+        "sh": 4,
+        "svg": 288,
+        "txt": 146,
+        "xml": 1011,
+        "yml": 3001
+    },
+    "pep8_infringement": 25,
     "requirements": [
         "backports.functools-lru-cache==1.2.1",
         "bottle==0.12.9",
@@ -56,28 +78,6 @@
         "tqdm==3.7.1",
         "xmltodict==0.10.1"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "MRC": 60,
-        "conf": 34,
-        "css": 7604,
-        "html": 649,
-        "in": 16,
-        "js": 15681,
-        "json": 4311,
-        "map": 2,
-        "mrc": 74,
-        "plantuml": 458,
-        "py": 7680,
-        "rst": 1637,
-        "service": 11,
-        "sh": 4,
-        "svg": 288,
-        "txt": 146,
-        "xml": 1011,
-        "yml": 3001
-    },
-    "pep8_infringement": 26,
     "shebang": {
         "#! /usr/bin/env python": 74
     }

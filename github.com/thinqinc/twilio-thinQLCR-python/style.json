@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "twilio>=6.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
         "py": 51,
         "rst": 13
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 19,
+    "requirements": [
+        "twilio>=6.0"
+    ],
     "shebang": {}
 }

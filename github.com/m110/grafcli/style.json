@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "climb>=0.3.2",
-        "pygments",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bash": 30,
@@ -45,7 +40,12 @@
         "sh": 24,
         "txt": 8
     },
-    "pep8_infringement": 66,
+    "pep8_infringement": 65,
+    "requirements": [
+        "climb>=0.3.2",
+        "pygments",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/python3": 4
     }

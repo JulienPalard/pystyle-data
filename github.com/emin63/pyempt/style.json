@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pep8",
-        "pylint"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "md": 61,
@@ -40,6 +36,10 @@
         "rst": 73
     },
     "pep8_infringement": 9,
+    "requirements": [
+        "pep8",
+        "pylint"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

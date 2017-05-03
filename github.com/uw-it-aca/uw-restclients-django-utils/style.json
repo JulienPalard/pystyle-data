@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "authz-group",
-        "django==1.10.5",
-        "django-userservice==1.2.1",
-        "python-binary-memcached",
-        "uw-restclients-core>0.8"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "html": 500,
@@ -44,6 +37,13 @@
         "py": 1636
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "authz-group",
+        "django==1.10.5",
+        "django-userservice==1.2.1",
+        "python-binary-memcached",
+        "uw-restclients-core>0.8"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,16 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3==1.4.4",
-        "click==6.7",
-        "cmdcache==0.1.1",
-        "dulwich==0.16.3",
-        "iso8601==0.1.11",
-        "jinja2==2.9.5",
-        "pykube==0.14.0",
-        "sh==1.11"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 4,
@@ -49,6 +39,16 @@
         "txt": 12,
         "yaml": 75
     },
-    "pep8_infringement": 73,
+    "pep8_infringement": 72,
+    "requirements": [
+        "boto3==1.4.4",
+        "click==6.7",
+        "cmdcache==0.1.1",
+        "dulwich==0.16.3",
+        "iso8601==0.1.11",
+        "jinja2==2.9.5",
+        "pykube==0.14.0",
+        "sh==1.11"
+    ],
     "shebang": {}
 }

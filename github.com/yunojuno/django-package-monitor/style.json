@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8",
-        "requests>=2.0",
-        "requirements-parser==0.1.0",
-        "semantic-version>=2.5"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 47,
@@ -46,6 +40,12 @@
         "txt": 36
     },
     "pep8_infringement": 50,
+    "requirements": [
+        "django>=1.8",
+        "requests>=2.0",
+        "requirements-parser==0.1.0",
+        "semantic-version>=2.5"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

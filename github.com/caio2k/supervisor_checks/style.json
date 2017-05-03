@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "netifaces",
-        "psutil",
-        "supervisor>=3.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 3,
@@ -41,7 +36,12 @@
         "py": 1428,
         "txt": 20
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 24,
+    "requirements": [
+        "netifaces",
+        "psutil",
+        "supervisor>=3.0.0"
+    ],
     "shebang": {
         "#! /usr/bin/env python3": 5
     }

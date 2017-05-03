@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -48,6 +45,9 @@
         "txt": 56
     },
     "pep8_infringement": 26,
+    "requirements": [
+        "django"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1

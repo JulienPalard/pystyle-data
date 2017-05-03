@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "decorator",
-        "enum34",
-        "lz4<=0.8.2",
-        "mockextras",
-        "pandas",
-        "pymongo>=3.0",
-        "python-dateutil",
-        "pytz",
-        "tzlocal"
-    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "c": 2139,
@@ -51,6 +40,17 @@
         "rst": 19,
         "svg": 539
     },
-    "pep8_infringement": 2401,
+    "pep8_infringement": 2398,
+    "requirements": [
+        "decorator",
+        "enum34",
+        "lz4<=0.8.2",
+        "mockextras",
+        "pandas",
+        "pymongo>=3.0",
+        "python-dateutil",
+        "pytz",
+        "tzlocal"
+    ],
     "shebang": {}
 }

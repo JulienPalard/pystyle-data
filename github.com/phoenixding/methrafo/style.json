@@ -29,19 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pybigwig",
-        "scikit-learn",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "pkl": 987,
         "py": 1126,
         "txt": 233
     },
-    "pep8_infringement": 1798,
+    "pep8_infringement": 1790,
+    "requirements": [
+        "numpy",
+        "pybigwig",
+        "scikit-learn",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 8
     }

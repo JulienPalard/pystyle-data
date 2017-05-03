@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "dockerfile": 54,
+        "md": 5,
+        "py": 5576
+    },
+    "pep8_infringement": 200,
     "requirements": [
         "ioflo==1.5.4",
         "portalocker==0.5.7",
@@ -37,13 +44,6 @@
         "raet",
         "ujson"
     ],
-    "license": null,
-    "lines_of_code": {
-        "dockerfile": 54,
-        "md": 5,
-        "py": 5576
-    },
-    "pep8_infringement": 203,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

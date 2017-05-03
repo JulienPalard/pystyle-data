@@ -29,12 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "click>=5.0",
-        "flask>=0.10",
-        "jinja2>=2.4",
-        "py>=1.4"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -44,6 +38,12 @@
         "py": 1680,
         "txt": 5
     },
-    "pep8_infringement": 1360,
+    "pep8_infringement": 1362,
+    "requirements": [
+        "click>=5.0",
+        "flask>=0.10",
+        "jinja2>=2.4",
+        "py>=1.4"
+    ],
     "shebang": {}
 }

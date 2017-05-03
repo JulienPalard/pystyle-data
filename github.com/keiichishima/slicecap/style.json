@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "future>=0.16.0"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "md": 43,
         "py": 326
     },
     "pep8_infringement": 16,
+    "requirements": [
+        "future>=0.16.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

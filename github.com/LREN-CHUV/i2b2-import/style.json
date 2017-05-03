@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "airflow",
-        "defusedxml",
-        "nose",
-        "pandas",
-        "psycopg2",
-        "sqlalchemy",
-        "xlrd"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 3,
@@ -53,5 +44,14 @@
         "yml": 99
     },
     "pep8_infringement": 145,
+    "requirements": [
+        "airflow",
+        "defusedxml",
+        "nose",
+        "pandas",
+        "psycopg2",
+        "sqlalchemy",
+        "xlrd"
+    ],
     "shebang": {}
 }

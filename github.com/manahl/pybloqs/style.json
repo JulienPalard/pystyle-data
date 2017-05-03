@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "cfg": 10,
+        "css": 417,
+        "csv": 603,
+        "html": 36,
+        "ipynb": 4208,
+        "js": 1064,
+        "md": 154,
+        "py": 6034,
+        "rst": 32,
+        "svg": 481,
+        "yml": 39
+    },
+    "pep8_infringement": 646,
     "requirements": [
         "beautifulsoup4",
         "docutils",
@@ -44,21 +59,6 @@
         "pyyaml",
         "sphinx"
     ],
-    "license": "LGPL-2.1",
-    "lines_of_code": {
-        "cfg": 10,
-        "css": 417,
-        "csv": 603,
-        "html": 36,
-        "ipynb": 4208,
-        "js": 1064,
-        "md": 154,
-        "py": 6034,
-        "rst": 32,
-        "svg": 481,
-        "yml": 39
-    },
-    "pep8_infringement": 647,
     "shebang": {
         "#!/bin/env python": 1
     }

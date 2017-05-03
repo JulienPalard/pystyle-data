@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pygments"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -43,7 +40,10 @@
         "py": 1803,
         "rst": 346
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 45,
+    "requirements": [
+        "pygments"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

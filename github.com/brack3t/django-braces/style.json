@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "coverage",
-        "factory-boy",
-        "mock",
-        "pytest-cov",
-        "pytest-django"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 5,
@@ -48,5 +41,12 @@
         "txt": 44
     },
     "pep8_infringement": 74,
+    "requirements": [
+        "coverage",
+        "factory-boy",
+        "mock",
+        "pytest-cov",
+        "pytest-django"
+    ],
     "shebang": {}
 }

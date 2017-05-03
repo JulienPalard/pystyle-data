@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 380,
@@ -43,7 +42,8 @@
         "rst": 4550,
         "xml": 1314
     },
-    "pep8_infringement": 50,
+    "pep8_infringement": 44,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

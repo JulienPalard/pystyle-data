@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "signxml"
-    ],
     "license": null,
     "lines_of_code": {
         "cer": 24,
@@ -43,5 +39,9 @@
         "xsd": 8188
     },
     "pep8_infringement": 76,
+    "requirements": [
+        "lxml",
+        "signxml"
+    ],
     "shebang": {}
 }

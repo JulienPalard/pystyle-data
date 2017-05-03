@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests"
-    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "cfg": 134,
@@ -41,7 +38,10 @@
         "rst": 224,
         "txt": 12
     },
-    "pep8_infringement": 489,
+    "pep8_infringement": 488,
+    "requirements": [
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

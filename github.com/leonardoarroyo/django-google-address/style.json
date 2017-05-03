@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "codecov==2.0.5",
-        "coverage==4.3.4",
-        "django>=1.8",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 36,
@@ -48,7 +42,13 @@
         "svg": 685,
         "txt": 217
     },
-    "pep8_infringement": 156,
+    "pep8_infringement": 155,
+    "requirements": [
+        "codecov==2.0.5",
+        "coverage==4.3.4",
+        "django>=1.8",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

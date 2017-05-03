@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyfneko>=3.4"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -40,7 +37,10 @@
         "py": 172,
         "txt": 1
     },
-    "pep8_infringement": 145,
+    "pep8_infringement": 146,
+    "requirements": [
+        "pyfneko>=3.4"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

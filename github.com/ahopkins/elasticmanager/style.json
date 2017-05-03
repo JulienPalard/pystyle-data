@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "elasticsearch-dsl"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "in": 5,
@@ -39,5 +36,8 @@
         "py": 472
     },
     "pep8_infringement": 66,
+    "requirements": [
+        "elasticsearch-dsl"
+    ],
     "shebang": {}
 }

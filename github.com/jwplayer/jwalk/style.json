@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cython",
-        "gensim>=2.0.0",
-        "joblib",
-        "numpy",
-        "scipy",
-        "setuptools-scm>=1.15.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 281,
@@ -51,6 +43,14 @@
         "txt": 22
     },
     "pep8_infringement": 5,
+    "requirements": [
+        "cython",
+        "gensim>=2.0.0",
+        "joblib",
+        "numpy",
+        "scipy",
+        "setuptools-scm>=1.15.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

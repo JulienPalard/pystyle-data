@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argparse",
-        "cligj",
-        "munch",
-        "ordereddict",
-        "six"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -56,6 +49,13 @@
         "txt": 1870,
         "yml": 99
     },
-    "pep8_infringement": 685,
+    "pep8_infringement": 677,
+    "requirements": [
+        "argparse",
+        "cligj",
+        "munch",
+        "ordereddict",
+        "six"
+    ],
     "shebang": {}
 }

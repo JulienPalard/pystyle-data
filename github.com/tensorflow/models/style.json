@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bzl": 1057,
@@ -60,7 +59,8 @@
         "txt": 73457,
         "word-map": 8
     },
-    "pep8_infringement": 16044,
+    "pep8_infringement": 16041,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!/usr/bin/python": 5

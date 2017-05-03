@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "hcsr04sensor"
-    ],
     "license": null,
     "lines_of_code": {
         "conf": 150,
@@ -43,7 +40,10 @@
         "py": 667,
         "py__": 0
     },
-    "pep8_infringement": 28,
+    "pep8_infringement": 26,
+    "requirements": [
+        "hcsr04sensor"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

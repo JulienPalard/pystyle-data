@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "stem==1.4.0"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 46,
@@ -41,6 +38,9 @@
         "py": 215,
         "txt": 3
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 13,
+    "requirements": [
+        "stem==1.4.0"
+    ],
     "shebang": {}
 }

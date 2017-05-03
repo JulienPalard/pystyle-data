@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "html": 26,
+        "in": 4,
+        "json": 6,
+        "py": 1226,
+        "rst": 133,
+        "txt": 19
+    },
+    "pep8_infringement": 29,
     "requirements": [
         "click==6.7",
         "flask==0.12.1",
@@ -50,15 +60,5 @@
         "unidecode==0.4.20",
         "werkzeug==0.12.1"
     ],
-    "license": null,
-    "lines_of_code": {
-        "html": 26,
-        "in": 4,
-        "json": 6,
-        "py": 1226,
-        "rst": 133,
-        "txt": 19
-    },
-    "pep8_infringement": 29,
     "shebang": {}
 }

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gitpython==1.0.1",
-        "mapgitconfig==1.1",
-        "sqre-codekit",
-        "sqre-github3.py==1.0.0a4",
-        "sqre-pytravisci==0.0.3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 3,
@@ -45,6 +38,13 @@
         "yml": 16
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "gitpython==1.0.1",
+        "mapgitconfig==1.1",
+        "sqre-codekit",
+        "sqre-github3.py==1.0.0a4",
+        "sqre-pytravisci==0.0.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

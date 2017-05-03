@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pyparsing",
-        "scipy"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bib": 17,
@@ -47,7 +42,12 @@
         "tex": 212,
         "txt": 1
     },
-    "pep8_infringement": 896,
+    "pep8_infringement": 888,
+    "requirements": [
+        "numpy",
+        "pyparsing",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

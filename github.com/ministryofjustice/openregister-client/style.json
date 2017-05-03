@@ -29,11 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "txt": 21
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

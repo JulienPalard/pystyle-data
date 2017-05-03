@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "yaclifw>=0.1.1"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "in": 4,
@@ -39,7 +36,10 @@
         "rst": 135,
         "txt": 281
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 0,
+    "requirements": [
+        "yaclifw>=0.1.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 18
     }

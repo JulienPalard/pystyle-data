@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorama==0.3.9",
-        "fs==2.0.3",
-        "psutil==5.2.2",
-        "requests==2.13.0",
-        "stevedore==1.21.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 36,
@@ -55,7 +48,14 @@
         "txt": 360,
         "yml": 127
     },
-    "pep8_infringement": 186,
+    "pep8_infringement": 187,
+    "requirements": [
+        "colorama==0.3.9",
+        "fs==2.0.3",
+        "psutil==5.2.2",
+        "requests==2.13.0",
+        "stevedore==1.21.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

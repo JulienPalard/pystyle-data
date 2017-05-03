@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "cryptography",
-        "pyscard",
-        "pyusb",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "adoc": 108,
@@ -44,6 +37,13 @@
         "install": 14,
         "py": 4138
     },
-    "pep8_infringement": 32,
+    "pep8_infringement": 25,
+    "requirements": [
+        "click",
+        "cryptography",
+        "pyscard",
+        "pyusb",
+        "six"
+    ],
     "shebang": {}
 }

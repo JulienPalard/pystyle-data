@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "github3.py>0.9.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -42,6 +38,10 @@
         "txt": 2
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "click",
+        "github3.py>0.9.6"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

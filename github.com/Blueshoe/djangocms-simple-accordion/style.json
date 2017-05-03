@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.8",
-        "django-cms>=3.4"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 62,
@@ -44,5 +40,9 @@
         "rst": 85
     },
     "pep8_infringement": 18,
+    "requirements": [
+        "django>=1.8",
+        "django-cms>=3.4"
+    ],
     "shebang": {}
 }

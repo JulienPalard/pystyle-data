@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "LESSER": 165,
@@ -44,5 +41,8 @@
         "yml": 31
     },
     "pep8_infringement": 71,
+    "requirements": [
+        "numpy"
+    ],
     "shebang": {}
 }

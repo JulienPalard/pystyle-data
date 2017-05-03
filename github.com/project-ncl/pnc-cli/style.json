@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argh>=0.26.1",
-        "certifi>=2015.04.28",
-        "pytest>=2.0",
-        "requests>=2.4.3",
-        "six>=1.9.0",
-        "tzlocal>=1.0",
-        "urllib3>=1.12",
-        "validators>=0.10"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -50,7 +40,17 @@
         "sh": 23,
         "txt": 202
     },
-    "pep8_infringement": 2428,
+    "pep8_infringement": 2511,
+    "requirements": [
+        "argh>=0.26.1",
+        "certifi>=2015.04.28",
+        "pytest>=2.0",
+        "requests>=2.4.3",
+        "six>=1.9.0",
+        "tzlocal>=1.0",
+        "urllib3>=1.12",
+        "validators>=0.10"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1,
         "#!/usr/bin/env python": 1

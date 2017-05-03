@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 35,
+        "in": 42,
+        "ini": 26,
+        "json": 1560,
+        "py": 1536,
+        "rst": 500,
+        "sh": 31,
+        "txt": 30
+    },
+    "pep8_infringement": 63,
     "requirements": [
         "click>=6.4",
         "flask>=0.11.1",
@@ -44,18 +57,5 @@
         "jsonschema>=2.5.1",
         "requests>=2.9.1"
     ],
-    "license": "GPL-2.0",
-    "lines_of_code": {
-        "bat": 263,
-        "cfg": 35,
-        "in": 42,
-        "ini": 26,
-        "json": 1560,
-        "py": 1536,
-        "rst": 500,
-        "sh": 31,
-        "txt": 30
-    },
-    "pep8_infringement": 63,
     "shebang": {}
 }

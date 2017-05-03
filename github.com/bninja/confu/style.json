@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "ISC",
     "lines_of_code": {
         "bash": 159,
@@ -37,6 +36,7 @@
         "py": 2584,
         "rst": 171
     },
-    "pep8_infringement": 42,
+    "pep8_infringement": 47,
+    "requirements": [],
     "shebang": {}
 }

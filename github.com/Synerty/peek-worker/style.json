@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "peek-platform"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,7 +36,10 @@
         "rst": 13,
         "sh": 226
     },
-    "pep8_infringement": 42,
+    "pep8_infringement": 43,
+    "requirements": [
+        "peek-platform"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

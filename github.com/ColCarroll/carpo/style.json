@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 9,
+        "in": 6,
+        "ini": 10,
+        "ipynb": 45,
+        "py": 487,
+        "rst": 76,
+        "txt": 55
+    },
+    "pep8_infringement": 3,
     "requirements": [
         "appdirs==1.4.3",
         "appnope==0.1.0",
@@ -86,16 +97,5 @@
         "widgetsnbextension==2.0.0",
         "wrapt==1.10.10"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 9,
-        "in": 6,
-        "ini": 10,
-        "ipynb": 45,
-        "py": 487,
-        "rst": 76,
-        "txt": 55
-    },
-    "pep8_infringement": 3,
     "shebang": {}
 }

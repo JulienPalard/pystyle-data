@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "observable>=0.3.1",
-        "pubnub==4.*",
-        "pycryptodome>=3.4.4",
-        "requests>=2.7.0"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -42,7 +36,13 @@
         "py": 1675,
         "txt": 8
     },
-    "pep8_infringement": 103,
+    "pep8_infringement": 102,
+    "requirements": [
+        "observable>=0.3.1",
+        "pubnub==4.*",
+        "pycryptodome>=3.4.4",
+        "requests>=2.7.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 24
     }

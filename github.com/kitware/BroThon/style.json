@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pandas",
-        "requests",
-        "watchdog"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 242,
@@ -43,11 +38,16 @@
         "ipynb": 1471,
         "log": 734,
         "md": 13,
-        "py": 1612,
+        "py": 1624,
         "rst": 516,
         "yar": 1185
     },
-    "pep8_infringement": 159,
+    "pep8_infringement": 164,
+    "requirements": [
+        "pandas",
+        "requests",
+        "watchdog"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

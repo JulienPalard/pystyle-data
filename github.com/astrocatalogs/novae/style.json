@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "css": 208,
+        "html": 407,
+        "js": 41,
+        "json": 257320,
+        "md": 266,
+        "py": 13897,
+        "sh": 104,
+        "txt": 15,
+        "xml": 4438
+    },
+    "pep8_infringement": 2543,
     "requirements": [
         "ads>=0.11.3",
         "argparse>=1.4.0",
@@ -45,19 +58,6 @@
         "tqdm>=4.5.0",
         "tweepy>=3.5.0"
     ],
-    "license": null,
-    "lines_of_code": {
-        "css": 208,
-        "html": 407,
-        "js": 41,
-        "json": 257320,
-        "md": 266,
-        "py": 13897,
-        "sh": 104,
-        "txt": 15,
-        "xml": 4438
-    },
-    "pep8_infringement": 2583,
     "shebang": {
         "#!/usr/local/bin/python3.5": 16
     }

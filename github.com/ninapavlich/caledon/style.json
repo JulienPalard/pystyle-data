@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "css": 13572,
+        "html": 663,
+        "ini": 218,
+        "js": 1461,
+        "json": 1457,
+        "md": 76,
+        "py": 4482,
+        "scss": 13642,
+        "txt": 57,
+        "xml": 12
+    },
+    "pep8_infringement": 1634,
     "requirements": [
         "argparse==1.3.0",
         "beautifulsoup==3.2.1",
@@ -84,20 +98,6 @@
         "unidecode==0.04.18",
         "wsgiref==0.1.2"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "css": 13572,
-        "html": 663,
-        "ini": 218,
-        "js": 1461,
-        "json": 1457,
-        "md": 76,
-        "py": 4482,
-        "scss": 13642,
-        "txt": 57,
-        "xml": 12
-    },
-    "pep8_infringement": 1636,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

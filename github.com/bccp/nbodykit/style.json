@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cron": 9,
+        "dat": 470,
+        "in": 5,
+        "json": 2,
+        "py": 13532,
+        "rst": 95,
+        "sh": 360,
+        "txt": 27
+    },
+    "pep8_infringement": 3207,
     "requirements": [
         "astropy",
         "bigfile",
@@ -45,17 +57,5 @@
         "scipy",
         "sympy"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "cron": 9,
-        "dat": 470,
-        "in": 5,
-        "json": 2,
-        "py": 13532,
-        "rst": 95,
-        "sh": 360,
-        "txt": 27
-    },
-    "pep8_infringement": 3219,
     "shebang": {}
 }

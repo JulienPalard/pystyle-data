@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "meshio",
-        "numpy>=1.9",
-        "pipdated",
-        "voropy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 106,
@@ -44,6 +38,12 @@
         "yml": 1
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "meshio",
+        "numpy>=1.9",
+        "pipdated",
+        "voropy"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 6,
         "#!/usr/bin/env python": 9,

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "tornado"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,5 +36,8 @@
         "py": 211
     },
     "pep8_infringement": 109,
+    "requirements": [
+        "tornado"
+    ],
     "shebang": {}
 }

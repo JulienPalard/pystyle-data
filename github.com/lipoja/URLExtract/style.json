@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "idna",
-        "uritools"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -41,6 +37,10 @@
         "txt": 2
     },
     "pep8_infringement": 68,
+    "requirements": [
+        "idna",
+        "uritools"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 4
     }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "arrow>=0.10.0",
-        "ckanapi>=4.0",
-        "httmock==1.2.6",
-        "requests>=2.13.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 18,
@@ -44,6 +38,12 @@
         "txt": 6
     },
     "pep8_infringement": 141,
+    "requirements": [
+        "arrow>=0.10.0",
+        "ckanapi>=4.0",
+        "httmock==1.2.6",
+        "requests>=2.13.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

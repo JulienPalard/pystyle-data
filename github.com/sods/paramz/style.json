@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "decorator>=4.0.10",
-        "numpy>=1.7",
-        "scipy",
-        "six"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 10,
@@ -44,7 +38,13 @@
         "rst": 16,
         "txt": 1
     },
-    "pep8_infringement": 2224,
+    "pep8_infringement": 2217,
+    "requirements": [
+        "decorator>=4.0.10",
+        "numpy>=1.7",
+        "scipy",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

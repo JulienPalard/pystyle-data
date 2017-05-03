@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dictknife>=0.3.1",
-        "magicalimport",
-        "marshmallow<3.0",
-        "prestring"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -45,5 +39,11 @@
         "yaml": 19025
     },
     "pep8_infringement": 2471,
+    "requirements": [
+        "dictknife>=0.3.1",
+        "magicalimport",
+        "marshmallow<3.0",
+        "prestring"
+    ],
     "shebang": {}
 }

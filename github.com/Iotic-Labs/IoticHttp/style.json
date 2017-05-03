@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "py-ioticagent>=0.4.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "c": 552,
@@ -49,7 +46,10 @@
         "sql": 12,
         "tmpl": 6
     },
-    "pep8_infringement": 257,
+    "pep8_infringement": 241,
+    "requirements": [
+        "py-ioticagent>=0.4.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 2

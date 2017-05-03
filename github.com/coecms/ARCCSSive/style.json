@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "esgf-pyclient>=0.1.8",
-        "six",
-        "sqlalchemy"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,
@@ -47,7 +42,12 @@
         "txt": 3,
         "yaml": 29
     },
-    "pep8_infringement": 2210,
+    "pep8_infringement": 2193,
+    "requirements": [
+        "esgf-pyclient>=0.1.8",
+        "six",
+        "sqlalchemy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 20
     }

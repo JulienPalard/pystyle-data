@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "1621446962": 0,
@@ -46,6 +45,7 @@
         "ts": 4880,
         "txt": 9
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 18,
+    "requirements": [],
     "shebang": {}
 }

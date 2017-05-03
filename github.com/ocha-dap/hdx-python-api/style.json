@@ -29,6 +29,20 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 10,
+        "csv": 8,
+        "in": 20,
+        "ini": 2,
+        "json": 197,
+        "py": 6156,
+        "rst": 982,
+        "sh": 3,
+        "txt": 20,
+        "yml": 1974
+    },
+    "pep8_infringement": 864,
     "requirements": [
         "ckanapi",
         "colorlog",
@@ -44,20 +58,6 @@
         "tabulator",
         "typing"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 10,
-        "csv": 8,
-        "in": 20,
-        "ini": 2,
-        "json": 197,
-        "py": 6156,
-        "rst": 982,
-        "sh": 3,
-        "txt": 20,
-        "yml": 1974
-    },
-    "pep8_infringement": 865,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

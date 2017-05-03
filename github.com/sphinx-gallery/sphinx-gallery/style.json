@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "pillow",
-        "pytest",
-        "setuptools",
-        "sphinx"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -51,6 +44,13 @@
         "yml": 78
     },
     "pep8_infringement": 82,
+    "requirements": [
+        "matplotlib",
+        "pillow",
+        "pytest",
+        "setuptools",
+        "sphinx"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "asc": 75,
+        "cfg": 3,
+        "dot": 36,
+        "html": 210,
+        "iml": 38,
+        "ini": 62,
+        "md": 282,
+        "py": 1639,
+        "svg": 57,
+        "txt": 48,
+        "yml": 40
+    },
+    "pep8_infringement": 152,
     "requirements": [
         "cee-syslog-handler==0.3.4",
         "cornice==2.4.0",
@@ -47,21 +62,6 @@
         "zope.interface==4.3.3",
         "zope.sqlalchemy==0.7.7"
     ],
-    "license": "BSD-2-Clause",
-    "lines_of_code": {
-        "asc": 75,
-        "cfg": 3,
-        "dot": 36,
-        "html": 210,
-        "iml": 38,
-        "ini": 62,
-        "md": 282,
-        "py": 1639,
-        "svg": 57,
-        "txt": 48,
-        "yml": 40
-    },
-    "pep8_infringement": 157,
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

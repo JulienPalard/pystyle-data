@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "numpy",
-        "scipy"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "DH": 846,
@@ -43,7 +38,12 @@
         "py": 2735,
         "rst": 1363
     },
-    "pep8_infringement": 579,
+    "pep8_infringement": 628,
+    "requirements": [
+        "matplotlib",
+        "numpy",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

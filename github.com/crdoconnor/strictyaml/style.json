@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil>=2.6.0",
-        "ruamel.yaml>=0.14.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -42,6 +38,10 @@
         "test": 1437,
         "txt": 97
     },
-    "pep8_infringement": 73,
+    "pep8_infringement": 72,
+    "requirements": [
+        "python-dateutil>=2.6.0",
+        "ruamel.yaml>=0.14.2"
+    ],
     "shebang": {}
 }

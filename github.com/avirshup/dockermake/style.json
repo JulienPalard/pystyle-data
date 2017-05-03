@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docker",
-        "future",
-        "pyyaml"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 6,
@@ -44,7 +39,12 @@
         "txt": 3,
         "yml": 56
     },
-    "pep8_infringement": 95,
+    "pep8_infringement": 94,
+    "requirements": [
+        "docker",
+        "future",
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python2.7": 1

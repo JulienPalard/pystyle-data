@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "clinner>=1.2",
-        "gitpython>=1.0",
-        "pyyaml>=3.12"
-    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "cfg": 77,
@@ -49,6 +44,11 @@
         "txt": 10
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "clinner>=1.2",
+        "gitpython>=1.0",
+        "pyyaml>=3.12"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

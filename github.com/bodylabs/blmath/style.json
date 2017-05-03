@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "c": 217,
+        "in": 2,
+        "json": 3,
+        "md": 134,
+        "py": 5318,
+        "txt": 12,
+        "yml": 22
+    },
+    "pep8_infringement": 418,
     "requirements": [
         "baiji>=2.5.3",
         "baiji-pod>=1.0.0",
@@ -41,16 +52,5 @@
         "scikit-learn>=0.17.1",
         "scipy>=0.14.1"
     ],
-    "license": "BSD-2-Clause",
-    "lines_of_code": {
-        "c": 217,
-        "in": 2,
-        "json": 3,
-        "md": 134,
-        "py": 5318,
-        "txt": 12,
-        "yml": 22
-    },
-    "pep8_infringement": 418,
     "shebang": {}
 }

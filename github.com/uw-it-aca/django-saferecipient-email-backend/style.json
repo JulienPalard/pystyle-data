@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 2,
@@ -39,6 +36,9 @@
         "py": 245
     },
     "pep8_infringement": 7,
+    "requirements": [
+        "django"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

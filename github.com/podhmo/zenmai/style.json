@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dictknife",
-        "jinja2",
-        "magicalimport"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -45,5 +40,10 @@
         "yaml": 81
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "dictknife",
+        "jinja2",
+        "magicalimport"
+    ],
     "shebang": {}
 }

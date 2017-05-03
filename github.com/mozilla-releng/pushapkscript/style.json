@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "google-api-python-client",
-        "mozapkpublisher",
-        "oauth2client",
-        "pyopenssl",
-        "scriptworker",
-        "taskcluster"
-    ],
     "license": null,
     "lines_of_code": {
         "cer": 17,
@@ -49,6 +41,14 @@
         "txt": 10
     },
     "pep8_infringement": 75,
+    "requirements": [
+        "google-api-python-client",
+        "mozapkpublisher",
+        "oauth2client",
+        "pyopenssl",
+        "scriptworker",
+        "taskcluster"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

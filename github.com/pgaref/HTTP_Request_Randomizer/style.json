@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "beautifulsoup4>=4.5.3",
-        "httmock>=1.2.6",
-        "psutil>=5.1.3",
-        "python-dateutil>=2.6.0",
-        "requests>=2.13.0",
-        "schedule>=0.4.2"
-    ],
     "license": null,
     "lines_of_code": {
         "ini": 43,
@@ -46,6 +38,14 @@
         "txt": 908,
         "yml": 13
     },
-    "pep8_infringement": 62,
+    "pep8_infringement": 61,
+    "requirements": [
+        "beautifulsoup4>=4.5.3",
+        "httmock>=1.2.6",
+        "psutil>=5.1.3",
+        "python-dateutil>=2.6.0",
+        "requests>=2.13.0",
+        "schedule>=0.4.2"
+    ],
     "shebang": {}
 }

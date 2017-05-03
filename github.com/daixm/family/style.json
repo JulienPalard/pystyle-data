@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "check-manifest",
-        "click",
-        "pastescript",
-        "wheel"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 6,
@@ -45,7 +39,13 @@
         "py_tmpl": 412,
         "txt_tmpl": 26
     },
-    "pep8_infringement": 10,
+    "pep8_infringement": 8,
+    "requirements": [
+        "check-manifest",
+        "click",
+        "pastescript",
+        "wheel"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

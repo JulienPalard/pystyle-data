@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "urwid"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 20,
@@ -41,6 +38,9 @@
         "txt": 46
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "urwid"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

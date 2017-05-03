@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "fparser"
-    ],
     "license": null,
     "lines_of_code": {
         "F90": 169,
@@ -44,6 +41,9 @@
         "rst": 131
     },
     "pep8_infringement": 62,
+    "requirements": [
+        "fparser"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

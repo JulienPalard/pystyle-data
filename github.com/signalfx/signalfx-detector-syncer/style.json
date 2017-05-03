@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml",
-        "signalfx>=1.0.13"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +38,10 @@
         "yaml": 14
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "pyyaml",
+        "signalfx>=1.0.13"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

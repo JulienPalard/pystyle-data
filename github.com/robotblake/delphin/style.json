@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "botocore",
-        "sqlparse"
-    ],
     "license": null,
     "lines_of_code": {
         "json": 1097,
         "py": 81
     },
     "pep8_infringement": 7,
+    "requirements": [
+        "botocore",
+        "sqlparse"
+    ],
     "shebang": {}
 }

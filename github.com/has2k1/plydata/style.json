@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flake8",
-        "pep8",
-        "pytest-cov",
-        "sphinx",
-        "tox",
-        "wheel"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 7,
@@ -54,5 +46,13 @@
         "txt": 13
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "flake8",
+        "pep8",
+        "pytest-cov",
+        "sphinx",
+        "tox",
+        "wheel"
+    ],
     "shebang": {}
 }

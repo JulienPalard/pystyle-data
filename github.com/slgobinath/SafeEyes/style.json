@@ -29,19 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
         "css": 79,
         "desktop": 20,
-        "glade": 952,
+        "glade": 946,
         "in": 2,
         "json": 935,
         "md": 83,
-        "py": 2086
+        "py": 2115
     },
-    "pep8_infringement": 1630,
+    "pep8_infringement": 1653,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

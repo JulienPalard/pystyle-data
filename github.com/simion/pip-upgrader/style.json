@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "colorclass",
-        "docopt",
-        "packaging",
-        "requests",
-        "terminaltables"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 6,
@@ -43,10 +36,17 @@
         "in": 11,
         "ini": 13,
         "json": 8565,
-        "py": 867,
-        "rst": 103,
+        "py": 872,
+        "rst": 106,
         "txt": 14
     },
     "pep8_infringement": 91,
+    "requirements": [
+        "colorclass",
+        "docopt",
+        "packaging",
+        "requests",
+        "terminaltables"
+    ],
     "shebang": {}
 }

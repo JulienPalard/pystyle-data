@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "flask-admin",
-        "redis",
-        "structlog",
-        "tasktiger>=0.4"
-    ],
     "license": null,
     "lines_of_code": {
         "html": 113,
@@ -44,5 +37,12 @@
         "rst": 30
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "click",
+        "flask-admin",
+        "redis",
+        "structlog",
+        "tasktiger>=0.4"
+    ],
     "shebang": {}
 }

@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 36,
         "md": 38,
         "ps1": 21,
-        "py": 3397,
-        "rst": 1404
+        "py": 3700,
+        "rst": 1580
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 70,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp>=1.0.0",
-        "watchdog>=0.8.3"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,
@@ -42,7 +38,11 @@
         "py": 1791,
         "rst": 103
     },
-    "pep8_infringement": 64,
+    "pep8_infringement": 63,
+    "requirements": [
+        "aiohttp>=1.0.0",
+        "watchdog>=0.8.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml==3.12"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +38,8 @@
         "txt": 2
     },
     "pep8_infringement": 21,
+    "requirements": [
+        "pyyaml==3.12"
+    ],
     "shebang": {}
 }

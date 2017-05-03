@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "redis"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,6 +36,9 @@
         "py": 139
     },
     "pep8_infringement": 41,
+    "requirements": [
+        "redis"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

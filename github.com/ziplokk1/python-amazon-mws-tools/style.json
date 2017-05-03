@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "python-amazon-mws",
-        "python-dateutil",
-        "requests"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "cfg": 2,
@@ -43,5 +37,11 @@
         "txt": 30
     },
     "pep8_infringement": 362,
+    "requirements": [
+        "lxml",
+        "python-amazon-mws",
+        "python-dateutil",
+        "requests"
+    ],
     "shebang": {}
 }

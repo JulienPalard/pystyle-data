@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jsonstruct>=0.2a1",
-        "requests>=2.7.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -41,7 +37,11 @@
         "py": 1073,
         "txt": 30
     },
-    "pep8_infringement": 59,
+    "pep8_infringement": 65,
+    "requirements": [
+        "jsonstruct>=0.2a1",
+        "requests>=2.7.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

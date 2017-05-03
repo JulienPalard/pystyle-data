@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 1,
+        "ini": 26,
+        "jinja": 53,
+        "md": 95,
+        "py": 7187,
+        "sql": 156,
+        "txt": 8
+    },
+    "pep8_infringement": 0,
     "requirements": [
         "cached-property",
         "cracklib",
@@ -45,18 +57,6 @@
         "requests",
         "sqlalchemy"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 2,
-        "in": 1,
-        "ini": 26,
-        "jinja": 53,
-        "md": 95,
-        "py": 7184,
-        "sql": 156,
-        "txt": 8
-    },
-    "pep8_infringement": 0,
     "shebang": {
         "#!/usr/bin/env python3": 6
     }

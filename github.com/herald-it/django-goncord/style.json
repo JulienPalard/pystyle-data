@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.10,<1.11",
-        "requests",
-        "setuptools"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,5 +37,10 @@
         "py": 266
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "django>=1.10,<1.11",
+        "requests",
+        "setuptools"
+    ],
     "shebang": {}
 }

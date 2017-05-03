@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8",
-        "django-bower>=5.2.0",
-        "django-compressor>=2.1.1",
-        "django-crispy-forms>=1.6",
-        "django-lbutils>=1.0.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
@@ -48,6 +41,13 @@
         "rst": 15
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "django>=1.8",
+        "django-bower>=5.2.0",
+        "django-compressor>=2.1.1",
+        "django-crispy-forms>=1.6",
+        "django-lbutils>=1.0.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

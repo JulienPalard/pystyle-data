@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docker",
-        "requests",
-        "tabulate"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 11,
@@ -41,6 +36,11 @@
         "rst": 12
     },
     "pep8_infringement": 10,
+    "requirements": [
+        "docker",
+        "requests",
+        "tabulate"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

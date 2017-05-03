@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorlover",
-        "matplotlib",
-        "numpy",
-        "plotly"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "R": 52,
@@ -55,6 +49,12 @@
         "yml": 12
     },
     "pep8_infringement": 407,
+    "requirements": [
+        "colorlover",
+        "matplotlib",
+        "numpy",
+        "plotly"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1,

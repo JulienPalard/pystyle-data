@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docker-compose",
-        "plumbum",
-        "rainbow-logging-handler",
-        "unidecode"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 6,
@@ -49,6 +43,12 @@
         "yml": 130
     },
     "pep8_infringement": 43,
+    "requirements": [
+        "docker-compose",
+        "plumbum",
+        "rainbow-logging-handler",
+        "unidecode"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 8,
         "#!/usr/bin/env python3": 1

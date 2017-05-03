@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib>=1.5",
-        "numpy>=1.10",
-        "pandas>=0.18",
-        "scipy>=0.15"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 36,
@@ -47,5 +41,11 @@
         "yml": 7
     },
     "pep8_infringement": 261,
+    "requirements": [
+        "matplotlib>=1.5",
+        "numpy>=1.10",
+        "pandas>=0.18",
+        "scipy>=0.15"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "ansible>=2.1.3.0",
-        "colorlog>=2.6.1",
-        "gitpython>=2.0.8",
-        "jinja2>=2.7"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 52,
@@ -50,6 +44,12 @@
         "yml": 37310
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "ansible>=2.1.3.0",
+        "colorlog>=2.6.1",
+        "gitpython>=2.0.8",
+        "jinja2>=2.7"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 9
     }

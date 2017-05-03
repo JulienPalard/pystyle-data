@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "clint",
-        "docopt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -41,6 +37,10 @@
         "rst": 52
     },
     "pep8_infringement": 15,
+    "requirements": [
+        "clint",
+        "docopt"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

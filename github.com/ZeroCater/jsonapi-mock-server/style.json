@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 156,
+        "py": 1430,
+        "txt": 30
+    },
+    "pep8_infringement": 128,
     "requirements": [
         "django<2,>=1.7",
         "django-cors-headers",
@@ -40,12 +47,5 @@
         "simplejson",
         "urllib3"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 156,
-        "py": 1430,
-        "txt": 30
-    },
-    "pep8_infringement": 136,
     "shebang": {}
 }

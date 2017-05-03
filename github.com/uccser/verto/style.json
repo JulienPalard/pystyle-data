@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4==4.5.3",
-        "jinja2>=2.9.6",
-        "markdown>=2.6.8",
-        "python-slugify>=1.2.2"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 48,
@@ -47,6 +41,12 @@
         "txt": 10
     },
     "pep8_infringement": 907,
+    "requirements": [
+        "beautifulsoup4==4.5.3",
+        "jinja2>=2.9.6",
+        "markdown>=2.6.8",
+        "python-slugify>=1.2.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto",
-        "mock",
-        "psycopg2",
-        "pymongo",
-        "subprocess32",
-        "synergy-odm",
-        "synergy-scheduler"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "D3": 26,
@@ -48,6 +39,15 @@
         "md": 152,
         "py": 2857
     },
-    "pep8_infringement": 264,
+    "pep8_infringement": 424,
+    "requirements": [
+        "boto",
+        "mock",
+        "psycopg2",
+        "pymongo",
+        "subprocess32",
+        "synergy-odm",
+        "synergy-scheduler"
+    ],
     "shebang": {}
 }

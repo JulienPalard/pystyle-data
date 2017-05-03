@@ -29,17 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "colorama",
-        "jsonpath-rw-ext>=1.0.0",
-        "pbr",
-        "pytest",
-        "pyyaml",
-        "six",
-        "testtools",
-        "urllib3>=1.11.0",
-        "wsgi-intercept>=1.2.2"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 37,
@@ -54,6 +43,17 @@
         "yaml": 1350
     },
     "pep8_infringement": 50,
+    "requirements": [
+        "colorama",
+        "jsonpath-rw-ext>=1.0.0",
+        "pbr",
+        "pytest",
+        "pyyaml",
+        "six",
+        "testtools",
+        "urllib3>=1.11.0",
+        "wsgi-intercept>=1.2.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

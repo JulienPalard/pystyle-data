@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pymongo"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
@@ -40,6 +37,9 @@
         "txt": 1
     },
     "pep8_infringement": 249,
+    "requirements": [
+        "pymongo"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1
     }

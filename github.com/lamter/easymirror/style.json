@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "arrow",
-        "logbook",
-        "redis",
-        "zmq"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "conf": 377,
@@ -44,6 +38,12 @@
         "sh": 18,
         "txt": 4
     },
-    "pep8_infringement": 74,
+    "pep8_infringement": 64,
+    "requirements": [
+        "arrow",
+        "logbook",
+        "redis",
+        "zmq"
+    ],
     "shebang": {}
 }

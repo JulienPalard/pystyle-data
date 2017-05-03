@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests==2.13.0",
-        "xmltodict==0.10.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "byte": 1267,
@@ -46,5 +42,9 @@
         "xml": 4916
     },
     "pep8_infringement": 189,
+    "requirements": [
+        "requests==2.13.0",
+        "xmltodict==0.10.2"
+    ],
     "shebang": {}
 }

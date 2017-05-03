@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 11,
+        "cwl": 122,
+        "in": 8,
+        "ini": 65,
+        "md": 441,
+        "owl": 51294,
+        "py": 3838,
+        "pyi": 2977,
+        "rst": 106,
+        "sh": 68,
+        "txt": 211,
+        "yml": 3490
+    },
+    "pep8_infringement": 199,
+    "requirements": [
+        "cachecontrol<0.12,>=0.11.7",
+        "lockfile>=0.9",
+        "mistune<0.8,>=0.7.3",
+        "rdflib>=4.2.2,<4.3.0",
+        "rdflib-jsonld<0.5.0,>=0.3.0",
+        "requests>=1.0",
+        "ruamel.yaml>=0.12.4",
+        "setuptools",
+        "typing<3.6,>=3.5.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

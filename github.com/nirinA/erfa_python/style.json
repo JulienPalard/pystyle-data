@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Unlicense",
     "lines_of_code": {
         "c": 35122,
@@ -40,5 +39,6 @@
         "rst": 12967
     },
     "pep8_infringement": 1120,
+    "requirements": [],
     "shebang": {}
 }

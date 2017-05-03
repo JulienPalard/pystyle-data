@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "crontab",
-        "psutil",
-        "requests",
-        "tornado==4.3"
-    ],
     "license": null,
     "lines_of_code": {
         "coffee": 631,
@@ -51,6 +45,12 @@
         "svg": 288,
         "txt": 39
     },
-    "pep8_infringement": 112,
+    "pep8_infringement": 110,
+    "requirements": [
+        "crontab",
+        "psutil",
+        "requests",
+        "tornado==4.3"
+    ],
     "shebang": {}
 }

@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "example": 8,
+        "html": 63,
+        "ipynb": 12865,
+        "md": 59,
+        "pl": 65,
+        "py": 862,
+        "txt": 3746
+    },
+    "pep8_infringement": 224,
     "requirements": [
         "alabaster>=0.7.9",
         "anaconda-clean>=1.0",
@@ -209,17 +221,5 @@
         "xlwings>=0.10.0",
         "xlwt>=1.1.2"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "example": 8,
-        "html": 63,
-        "ipynb": 12865,
-        "md": 59,
-        "pl": 65,
-        "py": 862,
-        "txt": 3746
-    },
-    "pep8_infringement": 224,
     "shebang": {}
 }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "blinker==1.4",
-        "boto3==1.4.4",
-        "declare==0.9.11"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -47,5 +42,10 @@
         "txt": 28
     },
     "pep8_infringement": 866,
+    "requirements": [
+        "blinker==1.4",
+        "boto3==1.4.4",
+        "declare==0.9.11"
+    ],
     "shebang": {}
 }

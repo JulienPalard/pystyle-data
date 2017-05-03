@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "future",
-        "napalm-base>=0.18.0",
-        "netaddr",
-        "pynxos",
-        "scp"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 16,
@@ -51,5 +44,12 @@
         "txt": 14
     },
     "pep8_infringement": 73,
+    "requirements": [
+        "future",
+        "napalm-base>=0.18.0",
+        "netaddr",
+        "pynxos",
+        "scp"
+    ],
     "shebang": {}
 }

@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click>=6.0",
-        "dedupe>=1.6.0",
-        "dedupe-variable-name",
-        "numpy",
-        "pandas",
-        "psycopg2",
-        "pyyaml"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -53,6 +44,15 @@
         "yaml": 50
     },
     "pep8_infringement": 192,
+    "requirements": [
+        "click>=6.0",
+        "dedupe>=1.6.0",
+        "dedupe-variable-name",
+        "numpy",
+        "pandas",
+        "psycopg2",
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

@@ -29,10 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "requests<3.0.0,>=2.0.0",
-        "six<2.0.0,>=1.10.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "adoc": 130,
@@ -49,6 +45,10 @@
         "yml": 25
     },
     "pep8_infringement": 73,
+    "requirements": [
+        "requests>=2.0.0,<3.0.0",
+        "six>=1.10.0,<2.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1

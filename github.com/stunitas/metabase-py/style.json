@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests>=2.13.0"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
         "md": 79,
         "py": 89
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 12,
+    "requirements": [
+        "requests>=2.13.0"
+    ],
     "shebang": {}
 }

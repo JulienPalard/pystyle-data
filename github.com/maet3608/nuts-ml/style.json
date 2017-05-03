@@ -29,19 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dplython>=0.0.7",
-        "matplotlib>=1.5.1",
-        "numpy>=1.11.1",
-        "nutsflow>=1.0.9",
-        "pandas>=0.18.1",
-        "pillow>=3.0.0",
-        "pytest>=3.0.3",
-        "pyyaml>=3.12",
-        "scikit-image>=0.12.3",
-        "scipy>=0.17.0",
-        "xlrd>=1.0.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "css": 708,
@@ -58,6 +45,19 @@
         "txt": 1509,
         "yaml": 2
     },
-    "pep8_infringement": 77,
+    "pep8_infringement": 89,
+    "requirements": [
+        "dplython>=0.0.7",
+        "matplotlib>=1.5.1",
+        "numpy>=1.11.1",
+        "nutsflow>=1.0.9",
+        "pandas>=0.18.1",
+        "pillow>=3.0.0",
+        "pytest>=3.0.3",
+        "pyyaml>=3.12",
+        "scikit-image>=0.12.3",
+        "scipy>=0.17.0",
+        "xlrd>=1.0.0"
+    ],
     "shebang": {}
 }

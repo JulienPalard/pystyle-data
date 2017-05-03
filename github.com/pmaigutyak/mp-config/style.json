@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django-modeltranslation==0.11"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 3,
@@ -42,5 +39,8 @@
         "txt": 1
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "django-modeltranslation==0.11"
+    ],
     "shebang": {}
 }

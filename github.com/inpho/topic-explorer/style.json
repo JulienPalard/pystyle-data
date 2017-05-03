@@ -29,23 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bottle>=0.12",
-        "brewer2mpl>=1.4",
-        "langdetect",
-        "matplotlib>=1.5.0",
-        "networkx>=1.9.1",
-        "paste",
-        "pdfminer",
-        "pip>=7.1.1",
-        "profilehooks",
-        "pybtex>=0.20",
-        "pyenchant==1.6.6",
-        "pystache>=0.5.4",
-        "unidecode",
-        "vsm==0.4.0b8",
-        "wget"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -69,6 +52,23 @@
         "wsgi": 117
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "bottle>=0.12",
+        "brewer2mpl>=1.4",
+        "langdetect",
+        "matplotlib>=1.5.0",
+        "networkx>=1.9.1",
+        "paste",
+        "pdfminer",
+        "pip>=7.1.1",
+        "profilehooks",
+        "pybtex>=0.20",
+        "pyenchant==1.6.6",
+        "pystache>=0.5.4",
+        "unidecode",
+        "vsm==0.4.0b8",
+        "wget"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

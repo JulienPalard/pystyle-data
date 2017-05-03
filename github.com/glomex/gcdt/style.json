@@ -29,6 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 9,
+        "conf": 169,
+        "dot": 70,
+        "groovy": 257,
+        "in": 4,
+        "js": 14,
+        "json": 129902,
+        "md": 1981,
+        "py": 10494,
+        "rst": 245,
+        "sh": 358,
+        "svg": 456,
+        "template": 973,
+        "tpl": 11,
+        "txt": 199,
+        "yaml": 951,
+        "yml": 58
+    },
+    "pep8_infringement": 314,
     "requirements": [
         "awacs==0.6.0",
         "aws-mfa>=0.0.8",
@@ -64,27 +85,6 @@
         "tabulate==0.7.5",
         "troposphere>=1.9.0"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 9,
-        "conf": 169,
-        "dot": 70,
-        "groovy": 257,
-        "in": 4,
-        "js": 14,
-        "json": 129902,
-        "md": 1980,
-        "py": 10494,
-        "rst": 245,
-        "sh": 358,
-        "svg": 456,
-        "template": 973,
-        "tpl": 11,
-        "txt": 199,
-        "yaml": 951,
-        "yml": 58
-    },
-    "pep8_infringement": 316,
     "shebang": {
         "#!/usr/bin/env python": 10
     }

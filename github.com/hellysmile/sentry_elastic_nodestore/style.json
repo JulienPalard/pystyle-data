@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "elasticsearch",
-        "lz4",
-        "sentry"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 5,
@@ -42,5 +37,10 @@
         "rst": 42
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "elasticsearch",
+        "lz4",
+        "sentry"
+    ],
     "shebang": {}
 }

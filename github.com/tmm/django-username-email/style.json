@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 10,
@@ -40,5 +37,8 @@
         "rst": 156
     },
     "pep8_infringement": 17,
+    "requirements": [
+        "django"
+    ],
     "shebang": {}
 }

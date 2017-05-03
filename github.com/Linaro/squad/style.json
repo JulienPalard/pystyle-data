@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "celery<4.0,>=3.1",
-        "django>=1.10",
-        "django-celery",
-        "gunicorn",
-        "msgpack-python",
-        "python-dateutil",
-        "pyyaml",
-        "pyzmq",
-        "sqlparse",
-        "whitenoise"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 4,
@@ -57,6 +45,18 @@
         "yaml": 1
     },
     "pep8_infringement": 139,
+    "requirements": [
+        "celery>=3.1,<4.0",
+        "django>=1.10",
+        "django-celery",
+        "gunicorn",
+        "msgpack-python",
+        "python-dateutil",
+        "pyyaml",
+        "pyzmq",
+        "sqlparse",
+        "whitenoise"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

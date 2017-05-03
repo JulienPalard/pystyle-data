@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyqt5",
-        "ruamel.yaml"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 44,
@@ -40,5 +36,9 @@
         "yml": 45
     },
     "pep8_infringement": 29,
+    "requirements": [
+        "pyqt5",
+        "ruamel.yaml"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "Unknown (.)",
-        "pytest==3.0.7"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 48,
@@ -41,5 +37,9 @@
         "txt": 2
     },
     "pep8_infringement": 35,
+    "requirements": [
+        "Unknown (.)",
+        "pytest==3.0.7"
+    ],
     "shebang": {}
 }

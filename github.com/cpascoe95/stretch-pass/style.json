@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argon2-cffi==16.3.0",
-        "pyperclip==1.5.27"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 96,
@@ -40,6 +36,10 @@
         "txt": 2
     },
     "pep8_infringement": 49,
+    "requirements": [
+        "argon2-cffi==16.3.0",
+        "pyperclip==1.5.27"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

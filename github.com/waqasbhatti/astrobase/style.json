@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "astropy",
-        "astroquery",
-        "jplephem",
-        "matplotlib",
-        "numpy",
-        "pillow",
-        "pyeebls",
-        "scipy",
-        "tornado"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 25,
@@ -55,7 +44,18 @@
         "rst": 61,
         "txt": 9
     },
-    "pep8_infringement": 6418,
+    "pep8_infringement": 6403,
+    "requirements": [
+        "astropy",
+        "astroquery",
+        "jplephem",
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "pyeebls",
+        "scipy",
+        "tornado"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 29
     }

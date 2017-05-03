@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "amaasutils",
-        "configparser",
-        "python-dateutil",
-        "pytz",
-        "requests",
-        "warrant"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -51,6 +43,14 @@
         "txt": 919
     },
     "pep8_infringement": 1318,
+    "requirements": [
+        "amaasutils",
+        "configparser",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "warrant"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

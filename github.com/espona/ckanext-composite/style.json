@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bash": 75,
@@ -46,5 +45,6 @@
         "txt": 2
     },
     "pep8_infringement": 94,
+    "requirements": [],
     "shebang": {}
 }

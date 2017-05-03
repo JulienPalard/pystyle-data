@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -40,6 +37,9 @@
         "rst": 417
     },
     "pep8_infringement": 10,
+    "requirements": [
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cairocffi",
-        "django<1.9.99,>=1.9",
-        "django-tagging==0.4.3",
-        "pyparsing",
-        "pytz",
-        "urllib3"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 64,
@@ -59,7 +51,15 @@
         "txt": 64,
         "xml": 1
     },
-    "pep8_infringement": 14148,
+    "pep8_infringement": 14114,
+    "requirements": [
+        "cairocffi",
+        "django>=1.9,<1.9.99",
+        "django-tagging==0.4.3",
+        "pyparsing",
+        "pytz",
+        "urllib3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!/usr/bin/python": 1

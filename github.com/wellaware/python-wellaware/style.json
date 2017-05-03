@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "python-jose==1.3.2",
-        "pytz>=2016.10",
-        "requests==2.13.0",
-        "six>=1.10.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 242,
@@ -46,6 +40,12 @@
         "rst": 400,
         "sh": 21
     },
-    "pep8_infringement": 571,
+    "pep8_infringement": 570,
+    "requirements": [
+        "python-jose==1.3.2",
+        "pytz>=2016.10",
+        "requests==2.13.0",
+        "six>=1.10.0"
+    ],
     "shebang": {}
 }

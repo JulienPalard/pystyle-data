@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 14,
+        "json": 4,
+        "md": 41,
+        "py": 3411,
+        "sh": 93,
+        "txt": 13
+    },
+    "pep8_infringement": 536,
     "requirements": [
         "argparse==1.2.1",
         "hjson==2.0.2",
@@ -43,16 +53,6 @@
         "six==1.10.0",
         "wsgiref==0.1.2"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "in": 14,
-        "json": 4,
-        "md": 41,
-        "py": 3411,
-        "sh": 93,
-        "txt": 13
-    },
-    "pep8_infringement": 536,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

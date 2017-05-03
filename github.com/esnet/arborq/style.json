@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pypond==0.5.1",
-        "pytz==2016.4",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -44,5 +39,10 @@
         "xml": 1252
     },
     "pep8_infringement": 28,
+    "requirements": [
+        "pypond==0.5.1",
+        "pytz==2016.4",
+        "requests"
+    ],
     "shebang": {}
 }

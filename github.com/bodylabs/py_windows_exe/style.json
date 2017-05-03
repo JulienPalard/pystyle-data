@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "nose2==0.5.0",
-        "pylint==1.5.4"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "in": 2,
@@ -42,5 +38,9 @@
         "yml": 18
     },
     "pep8_infringement": 8,
+    "requirements": [
+        "nose2==0.5.0",
+        "pylint==1.5.4"
+    ],
     "shebang": {}
 }

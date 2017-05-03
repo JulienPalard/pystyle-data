@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-4-Clause",
     "lines_of_code": {
         "py": 455,
@@ -39,5 +38,6 @@
         "vcf": 193629
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

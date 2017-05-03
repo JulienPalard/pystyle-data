@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "build-utils",
-        "jupyter",
-        "matplotlib",
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 149,
@@ -42,5 +36,11 @@
         "txt": 19
     },
     "pep8_infringement": 96,
+    "requirements": [
+        "build-utils",
+        "jupyter",
+        "matplotlib",
+        "numpy"
+    ],
     "shebang": {}
 }

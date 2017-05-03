@@ -29,9 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "aiohttp==2.0.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,
@@ -41,6 +38,9 @@
         "txt": 4
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "aiohttp==2.0.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "md": 32,
         "py": 1098,
         "txt": 25
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 6,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

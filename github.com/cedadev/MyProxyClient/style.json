@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyopenssl"
-    ],
     "license": null,
     "lines_of_code": {
         "0": 20,
@@ -62,7 +59,10 @@
         "toc": 7,
         "txt": 84
     },
-    "pep8_infringement": 253,
+    "pep8_infringement": 266,
+    "requirements": [
+        "pyopenssl"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!python": 1

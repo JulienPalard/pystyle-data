@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "beautifulsoup4>=4.3.2",
-        "requests>=2.6.0",
-        "six>=1.9.0",
-        "werkzeug>=0.10.4"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -49,7 +43,13 @@
         "rst": 404,
         "txt": 8
     },
-    "pep8_infringement": 118,
+    "pep8_infringement": 119,
+    "requirements": [
+        "beautifulsoup4>=4.3.2",
+        "requests>=2.6.0",
+        "six>=1.9.0",
+        "werkzeug>=0.10.4"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

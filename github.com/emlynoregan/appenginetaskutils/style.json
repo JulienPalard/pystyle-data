@@ -29,21 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "googleappenginecloudstorageclient",
-        "yccloudpickle"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
         "html": 30,
         "md": 128,
-        "py": 1258,
+        "py": 1378,
         "sh": 5,
         "txt": 204,
         "yaml": 33
     },
-    "pep8_infringement": 488,
+    "pep8_infringement": 557,
+    "requirements": [
+        "googleappenginecloudstorageclient",
+        "yccloudpickle"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

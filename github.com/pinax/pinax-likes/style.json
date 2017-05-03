@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django-appconf>=1.0.1"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 3,
@@ -40,6 +37,9 @@
         "py": 1215
     },
     "pep8_infringement": 48,
+    "requirements": [
+        "django-appconf>=1.0.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

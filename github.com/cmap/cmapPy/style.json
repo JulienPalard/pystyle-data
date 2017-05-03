@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "h5py>=2.6.0",
-        "numpy>=1.11.2",
-        "pandas>=0.18",
-        "requests>=2.13.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 281,
@@ -54,6 +48,12 @@
         "svg": 685,
         "txt": 863
     },
-    "pep8_infringement": 4752,
+    "pep8_infringement": 4746,
+    "requirements": [
+        "h5py>=2.6.0",
+        "numpy>=1.11.2",
+        "pandas>=0.18",
+        "requests>=2.13.0"
+    ],
     "shebang": {}
 }

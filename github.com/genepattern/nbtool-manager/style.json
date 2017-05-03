@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ipywidgets>=5.0.0",
-        "jupyter",
-        "notebook>=4.2.0"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 93,
@@ -42,6 +37,11 @@
         "md": 88,
         "py": 469
     },
-    "pep8_infringement": 36,
+    "pep8_infringement": 34,
+    "requirements": [
+        "ipywidgets>=5.0.0",
+        "jupyter",
+        "notebook>=4.2.0"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django-appconf>=0.6",
-        "requests>=1.0.4"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 10,
@@ -44,6 +40,10 @@
         "txt": 98
     },
     "pep8_infringement": 389,
+    "requirements": [
+        "django-appconf>=0.6",
+        "requests>=1.0.4"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 4

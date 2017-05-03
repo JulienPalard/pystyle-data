@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cpp": 1751,
@@ -41,5 +40,6 @@
         "xml": 15
     },
     "pep8_infringement": 977,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docopt>=0.6.2"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 43,
@@ -41,6 +38,9 @@
         "txt": 1
     },
     "pep8_infringement": 177,
+    "requirements": [
+        "docopt>=0.6.2"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

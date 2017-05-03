@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "R": 132,
@@ -48,6 +47,7 @@
         "yaml": 16
     },
     "pep8_infringement": 276,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

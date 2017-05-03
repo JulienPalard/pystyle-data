@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "certifi",
-        "python-dateutil",
-        "requests",
-        "requests-toolbelt",
-        "six>=1.9"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 33,
@@ -48,6 +41,13 @@
         "svg": 685,
         "txt": 934
     },
-    "pep8_infringement": 466,
+    "pep8_infringement": 465,
+    "requirements": [
+        "certifi",
+        "python-dateutil",
+        "requests",
+        "requests-toolbelt",
+        "six>=1.9"
+    ],
     "shebang": {}
 }

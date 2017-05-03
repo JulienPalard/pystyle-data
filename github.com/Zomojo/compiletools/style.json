@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "appdirs",
-        "configargparse",
-        "psutil"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "c": 23,
@@ -48,5 +43,10 @@
         "txt": 675
     },
     "pep8_infringement": 388,
+    "requirements": [
+        "appdirs",
+        "configargparse",
+        "psutil"
+    ],
     "shebang": {}
 }

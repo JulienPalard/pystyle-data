@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 36,
+        "cfg": 2,
+        "in": 1,
+        "py": 2088,
+        "rst": 1141,
+        "txt": 7
+    },
+    "pep8_infringement": 129,
     "requirements": [
         "dill",
         "graphviz",
@@ -36,16 +46,6 @@
         "pandas",
         "six"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "bat": 36,
-        "cfg": 2,
-        "in": 1,
-        "py": 2026,
-        "rst": 979,
-        "txt": 7
-    },
-    "pep8_infringement": 125,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

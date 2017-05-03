@@ -29,11 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "kazoo",
-        "requests",
-        "six>=1.6.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 3,
@@ -43,6 +38,11 @@
         "rst": 391,
         "txt": 6
     },
-    "pep8_infringement": 459,
+    "pep8_infringement": 455,
+    "requirements": [
+        "kazoo",
+        "requests",
+        "six>=1.6.1"
+    ],
     "shebang": {}
 }

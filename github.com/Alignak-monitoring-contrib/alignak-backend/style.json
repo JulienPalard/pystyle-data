@@ -29,20 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "configparser",
-        "docopt",
-        "eve>=0.5",
-        "eve-swagger",
-        "flask-apscheduler",
-        "flask-bootstrap",
-        "future",
-        "influxdb",
-        "jsonschema",
-        "python-dateutil>=2.4.2",
-        "statsd",
-        "uwsgi"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "attr": 1,
@@ -68,7 +54,21 @@
         "trig": 13,
         "txt": 49
     },
-    "pep8_infringement": 2160,
+    "pep8_infringement": 2153,
+    "requirements": [
+        "configparser",
+        "docopt",
+        "eve>=0.5",
+        "eve-swagger",
+        "flask-apscheduler",
+        "flask-bootstrap",
+        "future",
+        "influxdb",
+        "jsonschema",
+        "python-dateutil>=2.4.2",
+        "statsd",
+        "uwsgi"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 68,
         "#!/usr/bin/env python3": 1

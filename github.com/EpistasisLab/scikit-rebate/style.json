@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "scikit-learn",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 329,
@@ -48,6 +43,11 @@
         "yml": 27
     },
     "pep8_infringement": 237,
+    "requirements": [
+        "numpy",
+        "scikit-learn",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

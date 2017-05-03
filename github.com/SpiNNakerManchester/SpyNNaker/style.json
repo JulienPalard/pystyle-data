@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "numpy",
-        "pynn>=0.7,<0.8",
-        "scipy",
-        "six",
-        "spinnfrontendcommon<4.0.0,>=3.0.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 36,
@@ -57,7 +49,15 @@
         "xml": 156,
         "xsd": 64
     },
-    "pep8_infringement": 3877,
+    "pep8_infringement": 3879,
+    "requirements": [
+        "lxml",
+        "numpy",
+        "pynn<0.8,>=0.7",
+        "scipy",
+        "six",
+        "spinnfrontendcommon<4.0.0,>=3.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 17,
         "#!/usr/bin/python": 5

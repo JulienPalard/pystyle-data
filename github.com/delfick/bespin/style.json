@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "conf": 2,
+        "css": 51,
+        "html": 6,
+        "ini": 8,
+        "py": 7967,
+        "rst": 2053,
+        "sh": 84,
+        "txt": 6
+    },
+    "pep8_infringement": 2372,
     "requirements": [
         "argparse",
         "boto==2.40.0",
@@ -49,17 +61,5 @@
         "slacker",
         "ultra-rest-client==0.1.4"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "conf": 2,
-        "css": 51,
-        "html": 6,
-        "ini": 8,
-        "py": 7967,
-        "rst": 2053,
-        "sh": 84,
-        "txt": 6
-    },
-    "pep8_infringement": 2373,
     "shebang": {}
 }

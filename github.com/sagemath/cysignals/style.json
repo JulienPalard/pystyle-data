@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "Unknown (git+https://github.com/sphinx-doc/sphinx.git)",
-        "cython",
-        "setuptools"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "ac": 51,
@@ -49,6 +44,11 @@
         "yml": 8
     },
     "pep8_infringement": 83,
+    "requirements": [
+        "Unknown (git+https://github.com/sphinx-doc/sphinx.git)",
+        "cython",
+        "setuptools"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

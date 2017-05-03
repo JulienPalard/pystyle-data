@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "css": 8541,
@@ -43,13 +42,14 @@
         "po": 6418,
         "pot": 854,
         "py": 5924,
-        "rst": 4886,
+        "rst": 4902,
         "sample": 18,
         "svg": 447,
         "txt": 45,
         "xml": 3167,
         "yml": 65
     },
-    "pep8_infringement": 9,
+    "pep8_infringement": 7,
+    "requirements": [],
     "shebang": {}
 }

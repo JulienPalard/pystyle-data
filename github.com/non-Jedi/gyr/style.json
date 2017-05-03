@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "falcon",
-        "matrix-client>=0.0.6",
-        "requests"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 3,
@@ -44,5 +39,10 @@
         "yaml": 13
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "falcon",
+        "matrix-client>=0.0.6",
+        "requests"
+    ],
     "shebang": {}
 }

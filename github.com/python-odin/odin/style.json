@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "six"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -48,5 +45,8 @@
         "yaml": 142
     },
     "pep8_infringement": 827,
+    "requirements": [
+        "six"
+    ],
     "shebang": {}
 }

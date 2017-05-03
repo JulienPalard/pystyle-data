@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "cfg": 35,
+        "css": 6,
+        "csv": 3,
+        "expected": 30,
+        "html": 124,
+        "js": 119,
+        "md": 1251,
+        "py": 3000,
+        "rst": 333,
+        "sh": 36,
+        "svg": 79,
+        "txt": 813,
+        "xml": 223,
+        "yaml": 332
+    },
+    "pep8_infringement": 10,
     "requirements": [
         "argparse==1.2.1",
         "autopep8==1.2",
@@ -47,24 +65,6 @@
         "uritemplate.py==0.3.0",
         "wheel"
     ],
-    "license": "AGPL-3.0",
-    "lines_of_code": {
-        "cfg": 35,
-        "css": 6,
-        "csv": 3,
-        "expected": 30,
-        "html": 124,
-        "js": 119,
-        "md": 1251,
-        "py": 3000,
-        "rst": 333,
-        "sh": 36,
-        "svg": 79,
-        "txt": 813,
-        "xml": 223,
-        "yaml": 332
-    },
-    "pep8_infringement": 13,
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!/usr/bin/python": 1

@@ -29,13 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "anyjson>=0.3.3",
-        "pbr>=2.0.0",
-        "pystache",
-        "pyyaml>=3.10.0",
-        "six>=1.9.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 31,
@@ -52,5 +45,12 @@
         "uid": 1
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "anyjson>=0.3.3",
+        "pbr>=2.0.0",
+        "pystache",
+        "pyyaml>=3.10.0",
+        "six>=1.9.0"
+    ],
     "shebang": {}
 }

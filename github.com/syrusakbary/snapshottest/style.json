@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "six>=1.10.0",
-        "termcolor"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 3,
@@ -41,6 +37,10 @@
         "py": 804,
         "rst": 118
     },
-    "pep8_infringement": 27,
+    "pep8_infringement": 25,
+    "requirements": [
+        "six>=1.10.0",
+        "termcolor"
+    ],
     "shebang": {}
 }

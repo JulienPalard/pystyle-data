@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "beautifulsoup4",
-        "html5lib"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -43,6 +39,10 @@
         "rst": 213,
         "txt": 6
     },
-    "pep8_infringement": 44,
+    "pep8_infringement": 42,
+    "requirements": [
+        "beautifulsoup4",
+        "html5lib"
+    ],
     "shebang": {}
 }

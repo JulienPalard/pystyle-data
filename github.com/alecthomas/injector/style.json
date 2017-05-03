@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "setuptools>=0.6b1",
-        "typing"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,
@@ -44,6 +40,10 @@
         "rst": 700
     },
     "pep8_infringement": 139,
+    "requirements": [
+        "setuptools>=0.6b1",
+        "typing"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1
     }

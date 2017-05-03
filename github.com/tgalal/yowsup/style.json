@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "argparse",
-        "python-axolotl>=0.1.39",
-        "python-dateutil",
-        "six"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 1,
@@ -44,7 +38,13 @@
         "py": 13691,
         "types": 23
     },
-    "pep8_infringement": 3737,
+    "pep8_infringement": 3733,
+    "requirements": [
+        "argparse",
+        "python-axolotl>=0.1.39",
+        "python-dateutil",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

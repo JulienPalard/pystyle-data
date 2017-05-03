@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "beautifulsoup4",
-        "cchardet",
-        "docopt",
-        "ordered-set-minghu6",
-        "pillow",
-        "requests",
-        "wheel"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 22,
@@ -50,7 +41,16 @@
         "txt": 9,
         "ui": 324
     },
-    "pep8_infringement": 4967,
+    "pep8_infringement": 4952,
+    "requirements": [
+        "beautifulsoup4",
+        "cchardet",
+        "docopt",
+        "ordered-set-minghu6",
+        "pillow",
+        "requests",
+        "wheel"
+    ],
     "shebang": {
         "#! /usr/bin/env python3": 24,
         "#!/usr/bin/env python3": 17

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "os-client-config>=1.13.0",
-        "pbr",
-        "python-dateutil",
-        "simplejson",
-        "six"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 30,
@@ -49,6 +42,13 @@
         "txt": 4765
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "os-client-config>=1.13.0",
+        "pbr",
+        "python-dateutil",
+        "simplejson",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 24,
         "#!/usr/bin/python": 2

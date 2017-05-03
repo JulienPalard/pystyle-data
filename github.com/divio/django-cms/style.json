@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.8,<1.11",
-        "django-classy-tags>=0.7.2",
-        "django-formtools>=1.0",
-        "django-sekizai>=0.7",
-        "django-treebeard>=4.0.1",
-        "djangocms-admin-style>=1.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 15,
@@ -56,7 +48,15 @@
         "template": 20,
         "txt": 1060
     },
-    "pep8_infringement": 4757,
+    "pep8_infringement": 4737,
+    "requirements": [
+        "django<1.11,>=1.8",
+        "django-classy-tags>=0.7.2",
+        "django-formtools>=1.0",
+        "django-sekizai>=0.7",
+        "django-treebeard>=4.0.1",
+        "djangocms-admin-style>=1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coveralls",
-        "django>1.8",
-        "docutils==0.12",
-        "flake8",
-        "invoke==0.12.2",
-        "sphinx",
-        "twine"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 112,
@@ -49,7 +40,16 @@
         "rst": 1306,
         "txt": 132
     },
-    "pep8_infringement": 125,
+    "pep8_infringement": 124,
+    "requirements": [
+        "coveralls",
+        "django>1.8",
+        "docutils==0.12",
+        "flake8",
+        "invoke==0.12.2",
+        "sphinx",
+        "twine"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

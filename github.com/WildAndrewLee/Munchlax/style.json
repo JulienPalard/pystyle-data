@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "slackclient"
-    ],
     "license": null,
     "lines_of_code": {
         "conf": 4,
@@ -42,7 +39,10 @@
         "rst": 313,
         "txt": 21
     },
-    "pep8_infringement": 178,
+    "pep8_infringement": 175,
+    "requirements": [
+        "slackclient"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

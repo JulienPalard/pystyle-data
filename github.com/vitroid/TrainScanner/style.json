@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "tiledimage"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -44,6 +40,10 @@
         "ts": 215
     },
     "pep8_infringement": 1475,
+    "requirements": [
+        "numpy",
+        "tiledimage"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 15

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "stomp.py"
-    ],
     "license": null,
     "lines_of_code": {
         "MD": 13,
@@ -39,6 +36,9 @@
         "py": 5430,
         "txt": 28
     },
-    "pep8_infringement": 3012,
+    "pep8_infringement": 3011,
+    "requirements": [
+        "stomp.py"
+    ],
     "shebang": {}
 }

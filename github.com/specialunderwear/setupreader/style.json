@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "mock",
-        "setuptools"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 150,
         "rst": 39
     },
     "pep8_infringement": 24,
+    "requirements": [
+        "mock",
+        "setuptools"
+    ],
     "shebang": {}
 }

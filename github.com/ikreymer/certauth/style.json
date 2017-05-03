@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyopenssl"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 14,
@@ -39,6 +36,9 @@
         "rst": 64
     },
     "pep8_infringement": 15,
+    "requirements": [
+        "pyopenssl"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

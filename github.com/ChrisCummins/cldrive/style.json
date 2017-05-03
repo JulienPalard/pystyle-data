@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.12.1",
-        "pycparser>=2.17",
-        "pycparserext>=2016.2",
-        "pyopencl>=2016.2"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
@@ -48,7 +42,13 @@
         "sh": 172,
         "txt": 683
     },
-    "pep8_infringement": 137,
+    "pep8_infringement": 139,
+    "requirements": [
+        "numpy>=1.12.1",
+        "pycparser>=2.17",
+        "pycparserext>=2016.2",
+        "pyopencl>=2016.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

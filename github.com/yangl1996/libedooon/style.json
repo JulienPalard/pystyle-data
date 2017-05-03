@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gpxpy",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -40,5 +36,9 @@
         "py": 449
     },
     "pep8_infringement": 21,
+    "requirements": [
+        "gpxpy",
+        "requests"
+    ],
     "shebang": {}
 }

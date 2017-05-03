@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "conf": 67,
@@ -60,7 +59,8 @@
         "xsl": 2016,
         "yml": 974
     },
-    "pep8_infringement": 1146,
+    "pep8_infringement": 1143,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 11
     }

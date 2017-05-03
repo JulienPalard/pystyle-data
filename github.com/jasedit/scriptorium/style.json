@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argcomplete",
-        "pymmd>=0.3",
-        "pyyaml"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 135,
@@ -42,6 +37,11 @@
         "yml": 25
     },
     "pep8_infringement": 166,
+    "requirements": [
+        "argcomplete",
+        "pymmd>=0.3",
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!python": 1

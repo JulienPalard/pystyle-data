@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyota"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "c": 240,
@@ -39,6 +36,9 @@
         "rst": 38
     },
     "pep8_infringement": 32,
+    "requirements": [
+        "pyota"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

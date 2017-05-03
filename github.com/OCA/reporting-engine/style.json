@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "py3o.formats",
-        "py3o.template",
-        "xlsxwriter",
-        "xlwt"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "csv": 10,
@@ -48,5 +42,11 @@
         "xml": 434
     },
     "pep8_infringement": 19,
+    "requirements": [
+        "py3o.formats",
+        "py3o.template",
+        "xlsxwriter",
+        "xlwt"
+    ],
     "shebang": {}
 }

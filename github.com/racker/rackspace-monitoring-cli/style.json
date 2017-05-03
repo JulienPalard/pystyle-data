@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "Unknown (.)"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -41,6 +38,9 @@
         "sh": 57,
         "txt": 1
     },
-    "pep8_infringement": 214,
+    "pep8_infringement": 222,
+    "requirements": [
+        "Unknown (.)"
+    ],
     "shebang": {}
 }

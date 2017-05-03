@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jinja2",
-        "pyyaml",
-        "schematics>=2.0.0.dev2",
-        "six",
-        "swagger-schema"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 272,
@@ -47,6 +40,13 @@
         "txt": 2
     },
     "pep8_infringement": 100,
+    "requirements": [
+        "jinja2",
+        "pyyaml",
+        "schematics>=2.0.0.dev2",
+        "six",
+        "swagger-schema"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

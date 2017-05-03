@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "autobahn",
-        "kervi-cli",
-        "kervi-device-library",
-        "kervi-hal-generic",
-        "kervi-ui",
-        "pillow"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 73,
@@ -47,7 +39,15 @@
         "sql": 14,
         "txt": 9
     },
-    "pep8_infringement": 900,
+    "pep8_infringement": 870,
+    "requirements": [
+        "autobahn",
+        "kervi-cli",
+        "kervi-device-library",
+        "kervi-hal-generic",
+        "kervi-ui",
+        "pillow"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

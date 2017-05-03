@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "paramiko"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 7,
@@ -43,6 +40,9 @@
         "txt": 125
     },
     "pep8_infringement": 182,
+    "requirements": [
+        "paramiko"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

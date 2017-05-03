@@ -29,18 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "appdirs~=1.4",
-        "coala-utils~=0.6.2",
-        "colorlog~=2.7",
-        "dependency-management~=0.4.0",
-        "libclang-py3~=3.4.0",
-        "pygments~=2.1",
-        "pyprint~=0.2.6",
-        "requests~=2.12",
-        "setuptools>=17.0",
-        "unidiff~=0.5.2"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,
@@ -64,6 +52,18 @@
         "z": 0
     },
     "pep8_infringement": 157,
+    "requirements": [
+        "appdirs~=1.4",
+        "coala-utils~=0.6.2",
+        "colorlog~=2.7",
+        "dependency-management~=0.4.0",
+        "libclang-py3~=3.4.0",
+        "pygments~=2.1",
+        "pyprint~=0.2.6",
+        "requests~=2.12",
+        "setuptools>=17.0",
+        "unidiff~=0.5.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

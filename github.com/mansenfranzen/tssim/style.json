@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "bokeh",
-        "numpy",
-        "pandas"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -44,7 +39,12 @@
         "rst": 270,
         "txt": 17
     },
-    "pep8_infringement": 104,
+    "pep8_infringement": 107,
+    "requirements": [
+        "bokeh",
+        "numpy",
+        "pandas"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

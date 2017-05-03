@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "h5py>=2.5",
-        "numpy>=1.10.4"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,
@@ -44,5 +40,9 @@
         "rst": 1079
     },
     "pep8_infringement": 896,
+    "requirements": [
+        "h5py>=2.5",
+        "numpy>=1.10.4"
+    ],
     "shebang": {}
 }

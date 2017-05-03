@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "connexion==1.1.5",
-        "decorator",
-        "environmental>=1.1",
-        "flask==0.11.1",
-        "metricz==0.1.4",
-        "pytz",
-        "pyyaml",
-        "raven",
-        "stups-senza>=1.0.40",
-        "uwsgi"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -53,6 +41,18 @@
         "yaml": 457
     },
     "pep8_infringement": 86,
+    "requirements": [
+        "connexion==1.1.5",
+        "decorator",
+        "environmental>=1.1",
+        "flask==0.11.1",
+        "metricz==0.1.4",
+        "pytz",
+        "pyyaml",
+        "raven",
+        "stups-senza>=1.0.40",
+        "uwsgi"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 3
     }

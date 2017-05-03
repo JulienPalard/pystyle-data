@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "apscheduler",
-        "certifi",
-        "flask",
-        "prettytable",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "MD": 587,
@@ -46,7 +39,14 @@
         "sh": 21,
         "txt": 69
     },
-    "pep8_infringement": 815,
+    "pep8_infringement": 802,
+    "requirements": [
+        "apscheduler",
+        "certifi",
+        "flask",
+        "prettytable",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1,
         "\ufeff#!/usr/bin/python": 1

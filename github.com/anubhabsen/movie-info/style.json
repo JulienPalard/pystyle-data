@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "guessit",
-        "lxml",
-        "pandas",
-        "requests"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -45,5 +39,11 @@
         "txt": 13
     },
     "pep8_infringement": 27,
+    "requirements": [
+        "guessit",
+        "lxml",
+        "pandas",
+        "requests"
+    ],
     "shebang": {}
 }

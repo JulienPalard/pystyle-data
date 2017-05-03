@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "isolyzer",
-        "lxml",
-        "pypiwin32",
-        "requests",
-        "setuptools",
-        "wmi"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "FDL": 397,
@@ -54,6 +46,14 @@
         "xml": 49
     },
     "pep8_infringement": 551,
+    "requirements": [
+        "isolyzer",
+        "lxml",
+        "pypiwin32",
+        "requests",
+        "setuptools",
+        "wmi"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 7,
         "#!/usr/bin/env python": 1

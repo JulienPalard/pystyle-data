@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorama",
-        "docopt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
         "md": 160,
         "py": 1357
     },
-    "pep8_infringement": 128,
+    "pep8_infringement": 127,
+    "requirements": [
+        "colorama",
+        "docopt"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

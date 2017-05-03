@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 2,
+        "md": 79,
+        "py": 1686,
+        "txt": 3
+    },
+    "pep8_infringement": 6,
     "requirements": [
         "github3.py==1.0.0a4",
         "gitpython==1.0.1",
@@ -38,14 +46,6 @@
         "uritemplate.py==2.0.0",
         "urllib3==1.12"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "in": 2,
-        "md": 79,
-        "py": 1686,
-        "txt": 3
-    },
-    "pep8_infringement": 8,
     "shebang": {
         "#!/usr/bin/env python": 11
     }

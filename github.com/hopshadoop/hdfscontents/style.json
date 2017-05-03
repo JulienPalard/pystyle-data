@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "py": 893,
+        "rst": 41,
+        "txt": 201
+    },
+    "pep8_infringement": 46,
     "requirements": [
         "hdfs3",
         "ipython-genutils",
@@ -37,13 +45,5 @@
         "tornado",
         "traitlets"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 2,
-        "py": 893,
-        "rst": 41,
-        "txt": 201
-    },
-    "pep8_infringement": 51,
     "shebang": {}
 }

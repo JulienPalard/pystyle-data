@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django-cms>=3.2.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 60,
@@ -40,7 +37,10 @@
         "rst": 38,
         "txt": 27
     },
-    "pep8_infringement": 44,
+    "pep8_infringement": 42,
+    "requirements": [
+        "django-cms>=3.2.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

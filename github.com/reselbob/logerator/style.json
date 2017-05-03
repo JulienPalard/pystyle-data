@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jsonpickle",
-        "logentries"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -40,6 +36,10 @@
         "py": 202
     },
     "pep8_infringement": 32,
+    "requirements": [
+        "jsonpickle",
+        "logentries"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

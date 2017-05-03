@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cssselect",
-        "lxml",
-        "pyyaml"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 281,
@@ -45,5 +40,10 @@
         "txt": 17
     },
     "pep8_infringement": 142,
+    "requirements": [
+        "cssselect",
+        "lxml",
+        "pyyaml"
+    ],
     "shebang": {}
 }

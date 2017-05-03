@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jsonpickle"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -41,7 +38,10 @@
         "rst": 429,
         "txt": 293
     },
-    "pep8_infringement": 270,
+    "pep8_infringement": 269,
+    "requirements": [
+        "jsonpickle"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 11,
         "#!/usr/bin/env python3": 1

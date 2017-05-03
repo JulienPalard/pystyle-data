@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyprind>=2.3.1"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "csv": 39,
@@ -40,5 +37,8 @@
         "txt": 719
     },
     "pep8_infringement": 82,
+    "requirements": [
+        "pyprind>=2.3.1"
+    ],
     "shebang": {}
 }

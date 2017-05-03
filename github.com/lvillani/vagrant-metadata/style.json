@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest==3.0.7",
-        "pytest-cov==2.4.0",
-        "python-coveralls==2.9.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 167,
@@ -42,6 +37,11 @@
         "txt": 3
     },
     "pep8_infringement": 33,
+    "requirements": [
+        "pytest==3.0.7",
+        "pytest-cov==2.4.0",
+        "python-coveralls==2.9.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

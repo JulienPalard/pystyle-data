@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "setuptools"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "css": 322,
@@ -47,7 +43,11 @@
         "txt": 384,
         "xml": 69
     },
-    "pep8_infringement": 3126,
+    "pep8_infringement": 3067,
+    "requirements": [
+        "requests",
+        "setuptools"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 30,
         "#! /usr/bin/env shebang monkeyrunner -plugin $ANDROID_VIEW_CLIENT_HOME/bin/androidviewclient-$ANDROID_VIEW_CLIENT_VERSION.jar @!": 1,

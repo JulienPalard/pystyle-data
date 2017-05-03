@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 51,
+        "cfg": 5,
+        "in": 11,
+        "ini": 8,
+        "py": 3918,
+        "rst": 366,
+        "txt": 410,
+        "yml": 25
+    },
+    "pep8_infringement": 9,
     "requirements": [
         "mbstrdecoder>=0.2.2",
         "path.py",
@@ -42,18 +54,6 @@
         "sphinx-rtd-theme",
         "tox"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "bat": 51,
-        "cfg": 5,
-        "in": 11,
-        "ini": 8,
-        "py": 3713,
-        "rst": 360,
-        "txt": 385,
-        "yml": 25
-    },
-    "pep8_infringement": 9,
     "shebang": {
         "#!/usr/bin/env python": 2
     }

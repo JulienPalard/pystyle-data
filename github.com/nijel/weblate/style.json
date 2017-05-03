@@ -29,24 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "defusedxml>=0.4",
-        "django>=1.10",
-        "django-appconf>=1.0",
-        "django-compressor>=2.1.1",
-        "django-crispy-forms>=1.6.1",
-        "djangorestframework>=3.4",
-        "lxml>=3.1.0",
-        "oauthlib>=0.6.3",
-        "pillow",
-        "python-dateutil",
-        "siphashc3",
-        "six>=1.7.0",
-        "social-auth-app-django>=1.1.0",
-        "social-auth-core>=1.2.0",
-        "translate-toolkit>=2.0.0",
-        "whoosh>=2.7.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 242,
@@ -82,6 +64,24 @@
         "yml": 58
     },
     "pep8_infringement": 353,
+    "requirements": [
+        "defusedxml>=0.4",
+        "django>=1.10",
+        "django-appconf>=1.0",
+        "django-compressor>=2.1.1",
+        "django-crispy-forms>=1.6.1",
+        "djangorestframework>=3.4",
+        "lxml>=3.1.0",
+        "oauthlib>=0.6.3",
+        "pillow",
+        "python-dateutil",
+        "siphashc3",
+        "six>=1.7.0",
+        "social-auth-app-django>=1.1.0",
+        "social-auth-core>=1.2.0",
+        "translate-toolkit>=2.0.0",
+        "whoosh>=2.7.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3,
         "#!/usr/bin/python": 2

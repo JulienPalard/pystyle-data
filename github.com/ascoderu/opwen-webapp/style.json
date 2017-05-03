@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 3,
+        "html": 788,
+        "in": 4,
+        "js": 98,
+        "json": 32,
+        "pot": 460,
+        "py": 2256,
+        "rst": 102,
+        "txt": 221
+    },
+    "pep8_infringement": 13,
     "requirements": [
         "azure-storage==0.32.0",
         "bcrypt==3.1.0",
@@ -47,19 +60,6 @@
         "tzlocal==1.2.2",
         "wtforms==2.1"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 3,
-        "html": 788,
-        "in": 4,
-        "js": 98,
-        "json": 32,
-        "pot": 460,
-        "py": 2256,
-        "rst": 102,
-        "txt": 221
-    },
-    "pep8_infringement": 13,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyyaml>=3.1"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -40,5 +37,8 @@
         "rst": 128
     },
     "pep8_infringement": 44,
+    "requirements": [
+        "pyyaml>=3.1"
+    ],
     "shebang": {}
 }

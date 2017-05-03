@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "arrow>=0.5.0",
-        "lxml>=3.4.1"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,
@@ -42,5 +38,9 @@
         "xsl": 173
     },
     "pep8_infringement": 190,
+    "requirements": [
+        "arrow>=0.5.0",
+        "lxml>=3.4.1"
+    ],
     "shebang": {}
 }

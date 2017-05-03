@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "csv": 82,
@@ -38,6 +37,7 @@
         "py": 755
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/python2": 2
     }

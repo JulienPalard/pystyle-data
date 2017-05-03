@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "colorama",
-        "leap.common",
-        "service-identity",
-        "srp",
-        "twisted>=14.0.0",
-        "zope.interface"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "ADD": 2,
@@ -77,6 +69,14 @@
         "zsh": 204
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "colorama",
+        "leap.common",
+        "service-identity",
+        "srp",
+        "twisted>=14.0.0",
+        "zope.interface"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 6
     }

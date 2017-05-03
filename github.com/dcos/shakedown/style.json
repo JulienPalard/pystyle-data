@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "dcoscli",
-        "paramiko",
-        "pytest",
-        "pytest-timeout",
-        "scp"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
@@ -46,6 +38,14 @@
         "py": 3907,
         "txt": 13
     },
-    "pep8_infringement": 246,
+    "pep8_infringement": 235,
+    "requirements": [
+        "click",
+        "dcoscli",
+        "paramiko",
+        "pytest",
+        "pytest-timeout",
+        "scp"
+    ],
     "shebang": {}
 }

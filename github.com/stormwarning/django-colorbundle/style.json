@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorgram.py>=1.1.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 73,
         "rst": 29
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "colorgram.py>=1.1.0"
+    ],
     "shebang": {}
 }

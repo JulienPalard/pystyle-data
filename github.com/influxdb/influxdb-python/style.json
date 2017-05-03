@@ -29,12 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "python-dateutil>=2.0.0",
-        "pytz",
-        "requests>=1.0.3",
-        "six>=1.9.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -47,7 +41,13 @@
         "template": 30,
         "txt": 16
     },
-    "pep8_infringement": 70,
+    "pep8_infringement": 69,
+    "requirements": [
+        "python-dateutil>=2.0.0",
+        "pytz",
+        "requests>=1.0.3",
+        "six>=1.9.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

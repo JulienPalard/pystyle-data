@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "codeclimate-test-reporter",
-        "jsonpickle",
-        "requests>=2.1.9"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +36,11 @@
         "py": 2455,
         "txt": 202
     },
-    "pep8_infringement": 249,
+    "pep8_infringement": 248,
+    "requirements": [
+        "codeclimate-test-reporter",
+        "jsonpickle",
+        "requests>=2.1.9"
+    ],
     "shebang": {}
 }

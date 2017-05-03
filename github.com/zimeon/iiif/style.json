@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "mock",
-        "pillow<4.0.0,>=3.2.0",
-        "python-magic"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "conf": 14,
@@ -54,6 +48,12 @@
         "xsd": 75
     },
     "pep8_infringement": 264,
+    "requirements": [
+        "flask",
+        "mock",
+        "pillow<4.0.0,>=3.2.0",
+        "python-magic"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3,
         "#!/usr/bin/env python2.6": 1

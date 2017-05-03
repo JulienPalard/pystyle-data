@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cycler",
-        "matplotlib"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 2,
@@ -40,6 +36,10 @@
         "txt": 17
     },
     "pep8_infringement": 182,
+    "requirements": [
+        "cycler",
+        "matplotlib"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

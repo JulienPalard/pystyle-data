@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "md": 58,
+        "py": 72,
+        "txt": 680
+    },
+    "pep8_infringement": 4,
     "requirements": [
         "appdirs==1.4.3",
         "django==1.11",
@@ -37,12 +44,5 @@
         "pytz==2017.2",
         "six==1.10.0"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "md": 58,
-        "py": 72,
-        "txt": 680
-    },
-    "pep8_infringement": 4,
     "shebang": {}
 }

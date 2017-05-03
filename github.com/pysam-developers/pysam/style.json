@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cython>=0.24.1"
-    ],
     "license": null,
     "lines_of_code": {
         "1": 261,
@@ -62,6 +59,9 @@
         "yaml": 29
     },
     "pep8_infringement": 2236,
+    "requirements": [
+        "cython>=0.24.1"
+    ],
     "shebang": {
         "#! /usr/bin/python": 1,
         "#!/usr/bin/env python": 6

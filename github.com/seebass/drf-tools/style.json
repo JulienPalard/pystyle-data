@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "md": 55,
+        "py": 2248,
+        "txt": 10
+    },
+    "pep8_infringement": 235,
     "requirements": [
         "chardet>=2.3.0",
         "django>=1.8",
@@ -40,13 +47,6 @@
         "drf-nested-routing>=0.9.0",
         "openpyxl>=2.2.5"
     ],
-    "license": null,
-    "lines_of_code": {
-        "md": 55,
-        "py": 2248,
-        "txt": 10
-    },
-    "pep8_infringement": 235,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

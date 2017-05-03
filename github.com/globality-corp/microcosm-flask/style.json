@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 3,
+        "ini": 16,
+        "md": 48,
+        "py": 8027,
+        "yml": 35
+    },
+    "pep8_infringement": 252,
     "requirements": [
         "enum34>=1.1.2",
         "flask>=0.11",
@@ -43,15 +52,6 @@
         "pyyaml>=3.11",
         "rfc3986>=0.4.1"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 3,
-        "ini": 16,
-        "md": 48,
-        "py": 8027,
-        "yml": 35
-    },
-    "pep8_infringement": 260,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

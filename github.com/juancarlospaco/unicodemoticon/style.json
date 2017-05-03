@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "anglerfish",
-        "anglerfish"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "desktop": 12,
@@ -40,7 +36,11 @@
         "md": 105,
         "py": 1214
     },
-    "pep8_infringement": 17,
+    "pep8_infringement": 16,
+    "requirements": [
+        "anglerfish",
+        "anglerfish"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 13
     }

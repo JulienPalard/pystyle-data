@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "microcosm>=0.17.0",
-        "microcosm-logging>=0.3.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 3,
@@ -42,6 +38,10 @@
         "yml": 35
     },
     "pep8_infringement": 19,
+    "requirements": [
+        "microcosm>=0.17.0",
+        "microcosm-logging>=0.3.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

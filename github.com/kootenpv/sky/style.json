@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp",
-        "beautifulsoup4",
-        "justext",
-        "langdetect",
-        "lxml",
-        "python-dateutil",
-        "requests",
-        "tldextract",
-        "tornado"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "css": 8231,
@@ -51,7 +40,18 @@
         "rst": 3,
         "txt": 23
     },
-    "pep8_infringement": 1710,
+    "pep8_infringement": 1690,
+    "requirements": [
+        "aiohttp",
+        "beautifulsoup4",
+        "justext",
+        "langdetect",
+        "lxml",
+        "python-dateutil",
+        "requests",
+        "tldextract",
+        "tornado"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 7
     }

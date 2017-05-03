@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "csv": 1273,
+        "ipynb": 7739,
+        "json": 1,
+        "md": 397,
+        "py": 15152,
+        "rst": 570
+    },
+    "pep8_infringement": 2306,
     "requirements": [
         "bs4",
         "h5py",
@@ -44,16 +54,6 @@
         "theano",
         "tqdm"
     ],
-    "license": null,
-    "lines_of_code": {
-        "csv": 1273,
-        "ipynb": 7739,
-        "json": 1,
-        "md": 397,
-        "py": 15152,
-        "rst": 570
-    },
-    "pep8_infringement": 2326,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

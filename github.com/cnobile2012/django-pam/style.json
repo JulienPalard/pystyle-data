@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-pam",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 52,
@@ -48,6 +44,10 @@
         "wsgi": 20
     },
     "pep8_infringement": 154,
+    "requirements": [
+        "python-pam",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

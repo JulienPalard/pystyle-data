@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "psutil",
-        "pyzmq"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "c": 193,
@@ -57,7 +52,12 @@
         "ui": 8948,
         "yml": 79
     },
-    "pep8_infringement": 4158,
+    "pep8_infringement": 4153,
+    "requirements": [
+        "numpy",
+        "psutil",
+        "pyzmq"
+    ],
     "shebang": {
         "#!/usr/bin/env python2": 10,
         "#!/usr/bin/env python3": 2

@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "in": 2,
+        "md": 88,
+        "py": 3899,
+        "txt": 11,
+        "yml": 18
+    },
+    "pep8_infringement": 694,
     "requirements": [
         "bltest<2,>=1.0.0",
         "boto<3,>=2.38.0",
@@ -38,16 +47,7 @@
         "progressbar<3,>=2.3",
         "pylint>=1.5.4",
         "pyyaml<4,>=3.11",
-        "requests>=2.9.1,<3"
+        "requests<3,>=2.9.1"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "in": 2,
-        "md": 88,
-        "py": 3899,
-        "txt": 11,
-        "yml": 18
-    },
-    "pep8_infringement": 695,
     "shebang": {}
 }

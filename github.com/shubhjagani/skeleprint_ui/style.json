@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "image",
-        "pillow"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 2,
@@ -48,6 +44,10 @@
         "txt": 23
     },
     "pep8_infringement": 216,
+    "requirements": [
+        "image",
+        "pillow"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 2,
         "#!/usr/bin/python": 1

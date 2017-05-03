@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "csv": 33,
@@ -42,6 +41,7 @@
         "txt": 13189,
         "yml": 13
     },
-    "pep8_infringement": 959,
+    "pep8_infringement": 958,
+    "requirements": [],
     "shebang": {}
 }

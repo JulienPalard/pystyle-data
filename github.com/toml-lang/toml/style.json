@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "abnf": 219,
@@ -38,5 +37,6 @@
         "yaml": 58
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

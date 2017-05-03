@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ruamel.yaml==0.14.2",
-        "sphinx==1.5.3"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 1395,
@@ -51,6 +47,10 @@
         "yml_include": 48
     },
     "pep8_infringement": 217,
+    "requirements": [
+        "ruamel.yaml==0.14.2",
+        "sphinx==1.5.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,13 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "md": 47,
         "py": 163
     },
     "pep8_infringement": 19,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/python  ": 1

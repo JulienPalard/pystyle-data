@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "jsonschema"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "md": 75,
@@ -40,6 +36,10 @@
         "txt": 7
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "flask",
+        "jsonschema"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

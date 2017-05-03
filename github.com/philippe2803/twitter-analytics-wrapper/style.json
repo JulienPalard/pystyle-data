@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil",
-        "pyvirtualdisplay",
-        "selenium"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 45,
@@ -41,5 +36,10 @@
         "txt": 5
     },
     "pep8_infringement": 57,
+    "requirements": [
+        "python-dateutil",
+        "pyvirtualdisplay",
+        "selenium"
+    ],
     "shebang": {}
 }

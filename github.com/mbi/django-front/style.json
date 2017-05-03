@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.7",
-        "django-classy-tags>=0.4",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 1064,
@@ -45,6 +40,11 @@
         "rst": 595
     },
     "pep8_infringement": 147,
+    "requirements": [
+        "django>=1.7",
+        "django-classy-tags>=0.4",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

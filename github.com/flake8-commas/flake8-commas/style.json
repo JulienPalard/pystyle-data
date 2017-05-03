@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flake8>=2,<4.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -42,5 +39,8 @@
         "yml": 18
     },
     "pep8_infringement": 61,
+    "requirements": [
+        "flake8<4.0.0,>=2"
+    ],
     "shebang": {}
 }

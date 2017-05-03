@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coloredlogs",
-        "google-api-python-client>=1.6.2"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
@@ -40,5 +36,9 @@
         "py": 180
     },
     "pep8_infringement": 68,
+    "requirements": [
+        "coloredlogs",
+        "google-api-python-client>=1.6.2"
+    ],
     "shebang": {}
 }

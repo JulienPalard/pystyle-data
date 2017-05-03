@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "in": 6,
+        "md": 57,
+        "py": 692,
+        "rst": 252,
+        "txt": 1,
+        "yml": 1
+    },
+    "pep8_infringement": 8,
     "requirements": [
         "mockredispy>=2.9.3",
         "mogo>=0.4.0",
@@ -43,16 +53,6 @@
         "sphinx>=1.5b1",
         "zope.sqlalchemy>=0.7.7"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "in": 6,
-        "md": 57,
-        "py": 692,
-        "rst": 252,
-        "txt": 1,
-        "yml": 1
-    },
-    "pep8_infringement": 8,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "csv": 2,
+        "json": 1188,
+        "md": 1315,
+        "py": 1684,
+        "yml": 13
+    },
+    "pep8_infringement": 805,
     "requirements": [
         "langdetect>=1.0.6",
         "matplotlib>=2.0.0",
@@ -39,14 +48,5 @@
         "smappdragon==0.0.43",
         "stop-words>=2015.2.23.1"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "csv": 2,
-        "json": 1188,
-        "md": 1315,
-        "py": 1684,
-        "yml": 13
-    },
-    "pep8_infringement": 805,
     "shebang": {}
 }

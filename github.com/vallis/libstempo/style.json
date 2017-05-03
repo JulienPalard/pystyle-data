@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cython>=0.22",
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "h": 57,
@@ -46,7 +42,11 @@
         "tim": 1211,
         "txt": 102
     },
-    "pep8_infringement": 1712,
+    "pep8_infringement": 1709,
+    "requirements": [
+        "cython>=0.22",
+        "numpy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

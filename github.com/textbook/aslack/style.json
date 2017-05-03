@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp<0.21,>=0.15.0"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "bat": 263,
@@ -42,6 +39,9 @@
         "yml": 8
     },
     "pep8_infringement": 79,
+    "requirements": [
+        "aiohttp<0.21,>=0.15.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

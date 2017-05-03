@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4",
-        "click",
-        "input-helper",
-        "lxml",
-        "pdbpp",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "bash": 7,
@@ -45,6 +37,14 @@
         "rst": 172,
         "txt": 10
     },
-    "pep8_infringement": 10,
+    "pep8_infringement": 12,
+    "requirements": [
+        "beautifulsoup4",
+        "click",
+        "input-helper",
+        "lxml",
+        "pdbpp",
+        "requests"
+    ],
     "shebang": {}
 }

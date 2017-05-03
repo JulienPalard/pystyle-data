@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycountry",
-        "pyserial",
-        "unidecode"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 380,
@@ -48,7 +43,12 @@
         "xml": 710,
         "yml": 181
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 3,
+    "requirements": [
+        "pycountry",
+        "pyserial",
+        "unidecode"
+    ],
     "shebang": {
         "#! /usr/bin/python": 2
     }

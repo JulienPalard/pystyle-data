@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "configobj>=5.0.6",
-        "mopidy>=2.0",
-        "mopidy-local-images>=1.0",
-        "pylast>=1.6.0",
-        "setuptools>=3.3",
-        "spotipy>=2.3.8"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,
@@ -52,6 +44,14 @@
         "sh": 21,
         "svg": 3034
     },
-    "pep8_infringement": 173,
+    "pep8_infringement": 169,
+    "requirements": [
+        "configobj>=5.0.6",
+        "mopidy>=2.0",
+        "mopidy-local-images>=1.0",
+        "pylast>=1.6.0",
+        "setuptools>=3.3",
+        "spotipy>=2.3.8"
+    ],
     "shebang": {}
 }

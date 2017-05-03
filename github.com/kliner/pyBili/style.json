@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 3,
@@ -39,6 +36,9 @@
         "py": 773
     },
     "pep8_infringement": 243,
+    "requirements": [
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/python": 6
     }

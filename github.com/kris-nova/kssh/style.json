@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "html": 88,
         "md": 73,
         "py": 471
     },
-    "pep8_infringement": 39,
+    "pep8_infringement": 37,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 1
     }

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 0,
@@ -47,5 +46,6 @@
         "zql": 133
     },
     "pep8_infringement": 66,
+    "requirements": [],
     "shebang": {}
 }

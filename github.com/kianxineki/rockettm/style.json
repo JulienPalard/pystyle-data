@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "basicevents",
-        "kombu",
-        "timekiller"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 291,
         "py": 395
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 8,
+    "requirements": [
+        "basicevents",
+        "kombu",
+        "timekiller"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

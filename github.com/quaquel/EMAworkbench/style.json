@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "bat": 171,
+        "c": 547,
+        "css": 1523,
+        "csv": 903,
+        "html": 44,
+        "ignore": 37,
+        "ipynb": 622,
+        "java": 772,
+        "md": 45,
+        "mdl": 1279,
+        "nlogo": 1656,
+        "py": 21477,
+        "rst": 1301,
+        "txt": 17
+    },
+    "pep8_infringement": 7413,
     "requirements": [
         "future",
         "futures",
@@ -47,23 +65,5 @@
         "scipy",
         "seaborn"
     ],
-    "license": null,
-    "lines_of_code": {
-        "bat": 171,
-        "c": 547,
-        "css": 1523,
-        "csv": 903,
-        "html": 44,
-        "ignore": 37,
-        "ipynb": 622,
-        "java": 772,
-        "md": 45,
-        "mdl": 1279,
-        "nlogo": 1656,
-        "py": 21477,
-        "rst": 1301,
-        "txt": 17
-    },
-    "pep8_infringement": 7409,
     "shebang": {}
 }

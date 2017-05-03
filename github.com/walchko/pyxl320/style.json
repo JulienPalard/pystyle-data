@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "build-utils",
-        "fake-rpi",
-        "pyserial",
-        "simplejson"
-    ],
     "license": null,
     "lines_of_code": {
         "json": 18,
@@ -43,7 +37,13 @@
         "rst": 147,
         "txt": 19
     },
-    "pep8_infringement": 1039,
+    "pep8_infringement": 1043,
+    "requirements": [
+        "build-utils",
+        "fake-rpi",
+        "pyserial",
+        "simplejson"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 12
     }

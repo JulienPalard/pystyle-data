@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flask",
-        "pyjwt",
-        "simplekv"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -44,5 +39,10 @@
         "txt": 21
     },
     "pep8_infringement": 131,
+    "requirements": [
+        "flask",
+        "pyjwt",
+        "simplekv"
+    ],
     "shebang": {}
 }

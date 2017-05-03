@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django",
-        "djangorestframework>=2.4.7",
-        "twilio>=5.6.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,
@@ -45,6 +40,11 @@
         "txt": 3
     },
     "pep8_infringement": 46,
+    "requirements": [
+        "django",
+        "djangorestframework>=2.4.7",
+        "twilio>=5.6.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

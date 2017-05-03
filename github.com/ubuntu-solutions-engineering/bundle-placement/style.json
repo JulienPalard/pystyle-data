@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": null,
+    "lines_of_code": {
+        "ini": 34,
+        "install": 2,
+        "json": 1346,
+        "md": 41,
+        "py": 7129,
+        "txt": 14,
+        "yaml": 411
+    },
+    "pep8_infringement": 8,
     "requirements": [
         "bson",
         "coveralls",
@@ -45,17 +56,6 @@
         "ubuntui",
         "urwid"
     ],
-    "license": null,
-    "lines_of_code": {
-        "ini": 34,
-        "install": 2,
-        "json": 1346,
-        "md": 41,
-        "py": 7129,
-        "txt": 14,
-        "yaml": 411
-    },
-    "pep8_infringement": 14,
     "shebang": {
         "#!/usr/bin/env python": 5,
         "#!/usr/bin/env python3": 1,

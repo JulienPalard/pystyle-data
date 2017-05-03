@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "MacOS": 140,
@@ -67,6 +64,9 @@
         "win32": 72,
         "y": 11558
     },
-    "pep8_infringement": 2139,
+    "pep8_infringement": 2124,
+    "requirements": [
+        "numpy"
+    ],
     "shebang": {}
 }

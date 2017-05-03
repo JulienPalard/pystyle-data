@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyramid",
-        "simplejson"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 170,
@@ -43,6 +39,10 @@
         "rst": 1902,
         "txt": 505
     },
-    "pep8_infringement": 40,
+    "pep8_infringement": 39,
+    "requirements": [
+        "pyramid",
+        "simplejson"
+    ],
     "shebang": {}
 }

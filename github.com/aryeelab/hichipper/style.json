@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "macs2",
-        "numpy",
-        "pyyaml"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "DEPairs": 32346,
@@ -59,5 +53,11 @@
         "yaml": 42
     },
     "pep8_infringement": 537,
+    "requirements": [
+        "click",
+        "macs2",
+        "numpy",
+        "pyyaml"
+    ],
     "shebang": {}
 }

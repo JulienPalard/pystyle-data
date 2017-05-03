@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pyparsing",
-        "pyyaml",
-        "scikit-learn",
-        "scipy",
-        "tensorflow"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 85,
@@ -47,6 +39,14 @@
         "yml": 236
     },
     "pep8_infringement": 195,
+    "requirements": [
+        "numpy",
+        "pyparsing",
+        "pyyaml",
+        "scikit-learn",
+        "scipy",
+        "tensorflow"
+    ],
     "shebang": {
         "#!/bin/env python": 1
     }

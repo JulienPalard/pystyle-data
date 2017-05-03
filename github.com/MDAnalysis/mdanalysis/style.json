@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-2.0",
     "lines_of_code": {
         "bz2": 48,
@@ -70,7 +69,8 @@
         "xyz": 12908,
         "yaml": 55
     },
-    "pep8_infringement": 5298,
+    "pep8_infringement": 5355,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "abtools>=0.1.4",
-        "biopython",
-        "celery",
-        "nwalign",
-        "pymongo",
-        "scikit-bio<=0.4.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -52,7 +44,15 @@
         "rst": 502,
         "txt": 68
     },
-    "pep8_infringement": 1458,
+    "pep8_infringement": 1428,
+    "requirements": [
+        "abtools>=0.1.4",
+        "biopython",
+        "celery",
+        "nwalign",
+        "pymongo",
+        "scikit-bio<=0.4.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 12,
         "#!/usr/bin/python": 15

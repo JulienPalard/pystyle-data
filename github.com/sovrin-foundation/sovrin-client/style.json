@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "anoncreds-dev==0.3.8",
-        "sovrin-common-dev==0.2.51"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "dockerfile": 37,
@@ -48,7 +44,11 @@
         "toml": 17,
         "txt": 1
     },
-    "pep8_infringement": 546,
+    "pep8_infringement": 543,
+    "requirements": [
+        "anoncreds-dev==0.3.8",
+        "sovrin-common-dev==0.2.51"
+    ],
     "shebang": {
         "# #! /usr/bin/env python3": 1,
         "#! /usr/bin/env python3": 1,

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "gevent"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 1,
@@ -40,6 +37,9 @@
         "rst": 211,
         "txt": 4
     },
-    "pep8_infringement": 69,
+    "pep8_infringement": 67,
+    "requirements": [
+        "gevent"
+    ],
     "shebang": {}
 }

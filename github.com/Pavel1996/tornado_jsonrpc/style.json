@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "tornado>=4.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
         "md": 50,
         "py": 177
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 7,
+    "requirements": [
+        "tornado>=4.0"
+    ],
     "shebang": {}
 }

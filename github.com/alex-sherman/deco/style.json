@@ -29,13 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "md": 74,
         "py": 698
     },
     "pep8_infringement": 88,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 1

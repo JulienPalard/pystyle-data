@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "helga",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 326,
         "rst": 46
     },
     "pep8_infringement": 23,
+    "requirements": [
+        "helga",
+        "requests"
+    ],
     "shebang": {}
 }

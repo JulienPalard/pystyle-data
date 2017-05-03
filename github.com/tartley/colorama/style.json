@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 32,
@@ -42,6 +41,7 @@
         "txt": 32
     },
     "pep8_infringement": 200,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 5

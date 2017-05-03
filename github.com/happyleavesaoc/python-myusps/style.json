@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "bs4==0.0.1",
-        "python-dateutil==2.6.0",
-        "requests==2.12.4"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 20,
@@ -41,5 +36,10 @@
         "py": 225
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "bs4==0.0.1",
+        "python-dateutil==2.6.0",
+        "requests==2.12.4"
+    ],
     "shebang": {}
 }

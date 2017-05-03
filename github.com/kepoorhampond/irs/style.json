@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bs4",
-        "mutagen",
-        "requests",
-        "spotipy",
-        "youtube-dl"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 5,
@@ -43,5 +36,12 @@
         "py": 1055
     },
     "pep8_infringement": 65,
+    "requirements": [
+        "bs4",
+        "mutagen",
+        "requests",
+        "spotipy",
+        "youtube-dl"
+    ],
     "shebang": {}
 }

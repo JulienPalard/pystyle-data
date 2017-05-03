@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 16,
@@ -51,5 +50,6 @@
         "vcxproj": 862
     },
     "pep8_infringement": 56,
+    "requirements": [],
     "shebang": {}
 }

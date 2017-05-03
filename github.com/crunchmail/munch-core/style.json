@@ -29,6 +29,26 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "cfg": 24,
+        "css": 2192,
+        "dist": 107,
+        "eml": 215,
+        "html": 380,
+        "in": 9,
+        "jinja2": 57,
+        "json": 1649,
+        "md": 1262,
+        "pem": 48,
+        "po": 1281,
+        "py": 25414,
+        "rst": 14,
+        "txt": 103,
+        "yaml": 171,
+        "yml": 85
+    },
+    "pep8_infringement": 321,
     "requirements": [
         "celery==3.1.23",
         "chardet==2.3.0",
@@ -61,26 +81,6 @@
         "pyyaml==3.11",
         "requests==2.10.0"
     ],
-    "license": "AGPL-3.0",
-    "lines_of_code": {
-        "cfg": 24,
-        "css": 2192,
-        "dist": 107,
-        "eml": 215,
-        "html": 380,
-        "in": 9,
-        "jinja2": 57,
-        "json": 1649,
-        "md": 1262,
-        "pem": 48,
-        "po": 1281,
-        "py": 25414,
-        "rst": 14,
-        "txt": 103,
-        "yaml": 171,
-        "yml": 85
-    },
-    "pep8_infringement": 328,
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 3

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ansicolors",
-        "backports.lzma",
-        "humanize",
-        "txsocksx>=1.15.0.2",
-        "txtorcon>=0.19.1"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "asc": 2318,
@@ -49,7 +42,14 @@
         "svg": 1036,
         "txt": 15
     },
-    "pep8_infringement": 352,
+    "pep8_infringement": 350,
+    "requirements": [
+        "ansicolors",
+        "backports.lzma",
+        "humanize",
+        "txsocksx>=1.15.0.2",
+        "txtorcon>=0.19.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

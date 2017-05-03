@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "motor>=1.0.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "ini": 10,
@@ -39,5 +36,8 @@
         "rst": 7
     },
     "pep8_infringement": 25,
+    "requirements": [
+        "motor>=1.0.0"
+    ],
     "shebang": {}
 }

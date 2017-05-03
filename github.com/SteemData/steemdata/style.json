@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 13,
+        "py": 410,
+        "sh": 3,
+        "txt": 21
+    },
+    "pep8_infringement": 21,
     "requirements": [
         "funcy",
         "grequests",
@@ -38,13 +46,5 @@
         "steem==0.18.1",
         "werkzeug"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 13,
-        "py": 410,
-        "sh": 3,
-        "txt": 21
-    },
-    "pep8_infringement": 21,
     "shebang": {}
 }

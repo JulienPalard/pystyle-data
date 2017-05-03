@@ -29,6 +29,24 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 10,
+        "css": 1884,
+        "doc": 20,
+        "html": 548,
+        "ipynb": 25897,
+        "js": 2358,
+        "py": 54852,
+        "rst": 5570,
+        "sh": 18,
+        "svg": 34,
+        "test": 171,
+        "txt": 2053,
+        "xml": 13760,
+        "yml": 105
+    },
+    "pep8_infringement": 2831,
     "requirements": [
         "autopep8",
         "babel!=2.0",
@@ -68,24 +86,6 @@
         "tqdm",
         "traitlets"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "bat": 10,
-        "css": 1884,
-        "doc": 20,
-        "html": 548,
-        "ipynb": 25897,
-        "js": 2358,
-        "py": 54852,
-        "rst": 5570,
-        "sh": 18,
-        "svg": 34,
-        "test": 171,
-        "txt": 2053,
-        "xml": 13760,
-        "yml": 105
-    },
-    "pep8_infringement": 2831,
     "shebang": {
         "#!/usr/bin/env python3": 1,
         "#!C:\\Python32\\python.exe": 1

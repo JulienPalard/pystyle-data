@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jinja2>=2.3"
-    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "dist": 966,
@@ -41,6 +38,9 @@
         "txt": 14
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "jinja2>=2.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

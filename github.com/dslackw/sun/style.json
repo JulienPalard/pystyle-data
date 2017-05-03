@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "GPL-3.0",
     "lines_of_code": {
         "SlackBuild": 99,
@@ -41,6 +40,7 @@
         "txt": 114
     },
     "pep8_infringement": 8,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 7
     }

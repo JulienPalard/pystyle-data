@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorama",
-        "python-termstyle",
-        "unidecode"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -47,5 +42,10 @@
         "yml": 21
     },
     "pep8_infringement": 412,
+    "requirements": [
+        "colorama",
+        "python-termstyle",
+        "unidecode"
+    ],
     "shebang": {}
 }

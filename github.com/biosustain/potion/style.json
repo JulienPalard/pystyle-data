@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aniso8601>=0.84",
-        "blinker>=1.3",
-        "flask>=0.10",
-        "jsonschema>=2.4.0",
-        "rfc3987",
-        "six>=1.8.0",
-        "strict-rfc3339"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 19,
@@ -48,6 +39,15 @@
         "rst": 1994,
         "txt": 10
     },
-    "pep8_infringement": 1005,
+    "pep8_infringement": 1002,
+    "requirements": [
+        "aniso8601>=0.84",
+        "blinker>=1.3",
+        "flask>=0.10",
+        "jsonschema>=2.4.0",
+        "rfc3987",
+        "six>=1.8.0",
+        "strict-rfc3339"
+    ],
     "shebang": {}
 }

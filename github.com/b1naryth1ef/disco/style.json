@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gevent==1.2.1",
-        "holster==1.0.11",
-        "inflection==0.3.1",
-        "pynacl==1.1.2",
-        "requests==2.13.0",
-        "six==1.10.0",
-        "websocket-client==0.40.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -48,6 +39,15 @@
         "sh": 12,
         "txt": 7
     },
-    "pep8_infringement": 306,
+    "pep8_infringement": 299,
+    "requirements": [
+        "gevent==1.2.1",
+        "holster==1.0.11",
+        "inflection==0.3.1",
+        "pynacl==1.1.2",
+        "requests==2.13.0",
+        "six==1.10.0",
+        "websocket-client==0.40.0"
+    ],
     "shebang": {}
 }

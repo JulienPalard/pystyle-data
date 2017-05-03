@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 7,
@@ -40,5 +36,9 @@
         "ui": 925
     },
     "pep8_infringement": 145,
+    "requirements": [
+        "matplotlib",
+        "numpy"
+    ],
     "shebang": {}
 }

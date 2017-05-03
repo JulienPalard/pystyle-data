@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "mako",
-        "numpy",
-        "scipy"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "BATCH": 12737,
@@ -49,7 +44,12 @@
         "txt": 2,
         "vbf": 25
     },
-    "pep8_infringement": 2237,
+    "pep8_infringement": 2225,
+    "requirements": [
+        "mako",
+        "numpy",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 26
     }

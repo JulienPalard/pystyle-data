@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "six",
-        "spinnutilities<4.0.0,>=3.0.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 36,
@@ -41,6 +37,10 @@
         "rst": 37,
         "txt": 7
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 0,
+    "requirements": [
+        "six",
+        "spinnutilities<4.0.0,>=3.0.0"
+    ],
     "shebang": {}
 }

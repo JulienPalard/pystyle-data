@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ipython"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 2,
@@ -40,5 +37,8 @@
         "py": 265
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "ipython"
+    ],
     "shebang": {}
 }

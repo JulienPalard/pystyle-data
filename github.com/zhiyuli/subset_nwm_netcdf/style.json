@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "cdl": 273,
@@ -42,5 +41,6 @@
         "xml": 2
     },
     "pep8_infringement": 335,
+    "requirements": [],
     "shebang": {}
 }

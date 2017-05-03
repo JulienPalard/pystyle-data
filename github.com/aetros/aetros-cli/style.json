@@ -29,10 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "ini": 20,
+        "md": 93,
+        "py": 5059
+    },
+    "pep8_infringement": 396,
     "requirements": [
         "cherrypy>=7.1.0",
         "h5py",
-        "keras<2,>=1.0.6",
+        "keras>=1.0.6,<2",
         "numpy",
         "pillow>=4.0.0",
         "psutil",
@@ -40,13 +48,5 @@
         "requests",
         "scipy"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "ini": 20,
-        "md": 93,
-        "py": 5061
-    },
-    "pep8_infringement": 411,
     "shebang": {}
 }

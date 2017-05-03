@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "backports.shutil-which",
-        "colorama",
-        "pytz",
-        "requests",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ac": 409,
@@ -59,5 +52,12 @@
         "yml": 91
     },
     "pep8_infringement": 618,
+    "requirements": [
+        "backports.shutil-which",
+        "colorama",
+        "pytz",
+        "requests",
+        "six"
+    ],
     "shebang": {}
 }

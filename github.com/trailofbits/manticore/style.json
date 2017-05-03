@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "capstone",
-        "ply",
-        "pyelftools",
-        "unicorn"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 36,
@@ -47,7 +41,13 @@
         "sh": 52,
         "txt": 6934
     },
-    "pep8_infringement": 55251,
+    "pep8_infringement": 55245,
+    "requirements": [
+        "capstone",
+        "ply",
+        "pyelftools",
+        "unicorn"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 8
     }

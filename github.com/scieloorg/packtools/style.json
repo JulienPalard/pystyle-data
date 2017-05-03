@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "lxml>=3.3.4",
-        "picles.plumber>=0.11"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 190,
@@ -50,7 +46,11 @@
         "xml": 40488,
         "xslt": 1782
     },
-    "pep8_infringement": 1270,
+    "pep8_infringement": 1269,
+    "requirements": [
+        "lxml>=3.3.4",
+        "picles.plumber>=0.11"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

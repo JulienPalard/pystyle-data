@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "example": 17,
+        "md": 48,
+        "py": 964
+    },
+    "pep8_infringement": 139,
     "requirements": [
         "configparser",
         "future",
@@ -39,14 +47,6 @@
         "tzlocal",
         "unicodecsv"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "example": 17,
-        "md": 48,
-        "py": 964
-    },
-    "pep8_infringement": 139,
     "shebang": {
         "#!/usr/bin/env python": 4
     }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>1.9",
-        "djangorestframework==3.6.2",
-        "reportlab==3.4.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 19,
@@ -44,6 +39,11 @@
         "yaml": 226
     },
     "pep8_infringement": 247,
+    "requirements": [
+        "django>1.9",
+        "djangorestframework==3.6.2",
+        "reportlab==3.4.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

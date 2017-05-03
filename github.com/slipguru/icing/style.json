@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib>=1.5.1",
-        "numpy>=1.10.1",
-        "scipy>=0.16.1",
-        "seaborn>=0.7.0",
-        "sklearn>=0.17"
-    ],
     "license": null,
     "lines_of_code": {
         "c": 15239,
@@ -55,7 +48,14 @@
         "tab": 3718,
         "txt": 199
     },
-    "pep8_infringement": 996,
+    "pep8_infringement": 978,
+    "requirements": [
+        "matplotlib>=1.5.1",
+        "numpy>=1.10.1",
+        "scipy>=0.16.1",
+        "seaborn>=0.7.0",
+        "sklearn>=0.17"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 19,
         "#!/usr/bin/python": 1

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "simplejson",
-        "threat-intel",
-        "tldextract"
-    ],
     "license": null,
     "lines_of_code": {
         "example": 57,
@@ -45,6 +40,11 @@
         "yaml": 50
     },
     "pep8_infringement": 452,
+    "requirements": [
+        "simplejson",
+        "threat-intel",
+        "tldextract"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 12
     }

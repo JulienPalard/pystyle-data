@@ -29,13 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
         "py": 340,
         "rst": 28
     },
-    "pep8_infringement": 43,
+    "pep8_infringement": 41,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "progressbar2",
-        "pyserial",
-        "pyusb",
-        "requests",
-        "scipy",
-        "seaborn",
-        "tornado"
-    ],
     "license": "MPL-2.0",
     "lines_of_code": {
         "MD": 19,
@@ -62,7 +50,19 @@
         "sublime-project": 176,
         "user": 9
     },
-    "pep8_infringement": 360,
+    "pep8_infringement": 349,
+    "requirements": [
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "progressbar2",
+        "pyserial",
+        "pyusb",
+        "requests",
+        "scipy",
+        "seaborn",
+        "tornado"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bs4",
-        "freezegun",
-        "html2text",
-        "prestapyt>=0.7.0",
-        "unidecode",
-        "vcrpy"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 47,
@@ -48,6 +40,14 @@
         "xml": 1650,
         "yaml": 16759
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 0,
+    "requirements": [
+        "bs4",
+        "freezegun",
+        "html2text",
+        "prestapyt>=0.7.0",
+        "unidecode",
+        "vcrpy"
+    ],
     "shebang": {}
 }

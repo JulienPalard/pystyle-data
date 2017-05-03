@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "futures",
-        "inflection==0.3.1",
-        "ws4py"
-    ],
     "license": null,
     "lines_of_code": {
         "bash": 4,
@@ -48,6 +43,11 @@
         "rst": 29,
         "txt": 15
     },
-    "pep8_infringement": 396,
+    "pep8_infringement": 391,
+    "requirements": [
+        "futures",
+        "inflection==0.3.1",
+        "ws4py"
+    ],
     "shebang": {}
 }

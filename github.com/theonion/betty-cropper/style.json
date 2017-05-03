@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 12,
+        "css": 118,
+        "html": 256,
+        "in": 1,
+        "js": 1160,
+        "md": 209,
+        "py": 3827,
+        "svg": 229,
+        "txt": 46,
+        "yml": 26
+    },
+    "pep8_infringement": 171,
     "requirements": [
         "boto==2.39.0",
         "celery==3.1.11",
@@ -56,20 +70,6 @@
         "slimit==0.8.1",
         "south==0.8.4"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 12,
-        "css": 118,
-        "html": 256,
-        "in": 1,
-        "js": 1160,
-        "md": 209,
-        "py": 3827,
-        "svg": 229,
-        "txt": 46,
-        "yml": 26
-    },
-    "pep8_infringement": 171,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

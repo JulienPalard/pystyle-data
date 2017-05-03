@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pymlconf>=0.7.1",
-        "ujson"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 1391,
@@ -46,6 +42,10 @@
         "yml": 25
     },
     "pep8_infringement": 130,
+    "requirements": [
+        "pymlconf>=0.7.1",
+        "ujson"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

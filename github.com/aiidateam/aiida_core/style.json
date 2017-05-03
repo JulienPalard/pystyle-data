@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "UPF": 598976,
@@ -49,7 +48,8 @@
         "txt": 756,
         "xml": 201100
     },
-    "pep8_infringement": 14609,
+    "pep8_infringement": 14539,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 12,
         "#!/usr/bin/env runaiida": 29

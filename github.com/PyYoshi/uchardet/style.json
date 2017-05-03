@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "1": 18,
@@ -52,6 +51,7 @@
         "xcworkspacedata": 7
     },
     "pep8_infringement": 5878,
+    "requirements": [],
     "shebang": {
         "#!/bin/python3": 27,
         "#!/usr/bin/python": 22,

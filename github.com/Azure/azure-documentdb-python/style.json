@@ -29,10 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "requests>=2.10.0",
-        "six>=1.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -46,7 +42,11 @@
         "sln": 49,
         "txt": 24
     },
-    "pep8_infringement": 4660,
+    "pep8_infringement": 4657,
+    "requirements": [
+        "requests>=2.10.0",
+        "six>=1.6"
+    ],
     "shebang": {
         "\ufeff#!/usr/bin/env python": 1
     }

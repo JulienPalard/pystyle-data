@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "asyncio",
-        "websockets"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +37,10 @@
         "py": 453,
         "txt": 21
     },
-    "pep8_infringement": 70,
+    "pep8_infringement": 68,
+    "requirements": [
+        "asyncio",
+        "websockets"
+    ],
     "shebang": {}
 }

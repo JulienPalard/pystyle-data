@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyenchant==1.6.8"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "brs": 299,
@@ -44,5 +41,8 @@
         "yml": 19
     },
     "pep8_infringement": 803,
+    "requirements": [
+        "pyenchant==1.6.8"
+    ],
     "shebang": {}
 }

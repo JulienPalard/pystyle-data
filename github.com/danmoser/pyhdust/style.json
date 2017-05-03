@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.9.0",
-        "six"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "TODO": 75,
@@ -55,6 +51,10 @@
         "txt": 105432
     },
     "pep8_infringement": 6660,
+    "requirements": [
+        "numpy>=1.9.0",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 8,
         "##!/usr/bin/env python": 1

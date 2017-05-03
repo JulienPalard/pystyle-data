@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask>=0.11.0",
-        "jsonschema>=2.6.0",
-        "sqlalchemy>=1.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 145,
         "py": 773
     },
     "pep8_infringement": 43,
+    "requirements": [
+        "flask>=0.11.0",
+        "jsonschema>=2.6.0",
+        "sqlalchemy>=1.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

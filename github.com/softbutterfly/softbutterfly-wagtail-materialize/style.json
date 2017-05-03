@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django",
-        "django-compressor",
-        "django-settings-export",
-        "wagtail"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 5,
@@ -50,6 +44,12 @@
         "txt": 11
     },
     "pep8_infringement": 21,
+    "requirements": [
+        "django",
+        "django-compressor",
+        "django-settings-export",
+        "wagtail"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

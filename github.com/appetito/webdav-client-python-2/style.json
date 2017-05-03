@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "python>=2.7.6",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 22,
         "py": 1265,
         "rst": 5
     },
-    "pep8_infringement": 100,
+    "pep8_infringement": 103,
+    "requirements": [
+        "lxml",
+        "python>=2.7.6",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

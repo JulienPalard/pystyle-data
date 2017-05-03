@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cherrypy>=5.0.1",
-        "lmdb>=0.92"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 4,
@@ -40,5 +36,9 @@
         "py": 197
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "cherrypy>=5.0.1",
+        "lmdb>=0.92"
+    ],
     "shebang": {}
 }

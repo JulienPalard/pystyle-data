@@ -29,10 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 242,
+        "bib": 185,
+        "cfg": 2,
+        "in": 1,
+        "ini": 8,
+        "py": 8021,
+        "rst": 1456,
+        "txt": 110
+    },
+    "pep8_infringement": 345,
     "requirements": [
         "flake8",
-        "matplotlib",
         "matplotlib==1.4.3",
+        "matplotlib",
         "numpy",
         "numpydoc",
         "pyopengl",
@@ -47,18 +59,6 @@
         "virtualenv",
         "wheel"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "bat": 242,
-        "bib": 185,
-        "cfg": 2,
-        "in": 1,
-        "ini": 8,
-        "py": 8021,
-        "rst": 1456,
-        "txt": 110
-    },
-    "pep8_infringement": 345,
     "shebang": {
         "#!/usr/bin/env python": 10
     }

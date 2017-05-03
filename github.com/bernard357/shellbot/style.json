@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "bottle",
-        "ciscosparkapi",
-        "colorlog",
-        "paste",
-        "pyyaml"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,
@@ -47,7 +40,14 @@
         "txt": 12,
         "yaml": 81
     },
-    "pep8_infringement": 488,
+    "pep8_infringement": 479,
+    "requirements": [
+        "bottle",
+        "ciscosparkapi",
+        "colorlog",
+        "paste",
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 24
     }

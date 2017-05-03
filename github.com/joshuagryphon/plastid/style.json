@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "biopython>=1.64",
-        "cython>=0.22",
-        "matplotlib>=1.4.0",
-        "numpy>=1.9.4",
-        "pandas>=0.17.0",
-        "pysam>=0.8.4",
-        "scipy>=0.15.1",
-        "termcolor",
-        "twobitreader>=3.0.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bib": 282,
@@ -57,7 +46,18 @@
         "tabix": 155,
         "txt": 383
     },
-    "pep8_infringement": 37213,
+    "pep8_infringement": 37291,
+    "requirements": [
+        "biopython>=1.64",
+        "cython>=0.22",
+        "matplotlib>=1.4.0",
+        "numpy>=1.9.4",
+        "pandas>=0.17.0",
+        "pysam>=0.8.4",
+        "scipy>=0.15.1",
+        "termcolor",
+        "twobitreader>=3.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 94,
         "#!/usr/bin/env python ": 1

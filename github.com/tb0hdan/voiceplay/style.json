@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Unlicense",
+    "lines_of_code": {
+        "centos7": 81,
+        "css": 276,
+        "html": 41,
+        "ini": 0,
+        "js": 44,
+        "md": 322,
+        "py": 7841,
+        "rst": 46,
+        "sample": 16,
+        "svg": 40,
+        "txt": 37
+    },
+    "pep8_infringement": 657,
     "requirements": [
         "babel",
         "beautifulsoup4",
@@ -51,7 +66,7 @@
         "mplayer.py-0.7.0beta (git+https://github.com/tb0hdan/mplayer.py)",
         "musicbrainzngs",
         "mutagen",
-        "oauth2client<4.0.0,>=1.5.2",
+        "oauth2client>=1.5.2,<4.0.0",
         "piprot",
         "pocketsphinx",
         "pony",
@@ -68,21 +83,6 @@
         "youtube-dl",
         "zeroconf"
     ],
-    "license": "Unlicense",
-    "lines_of_code": {
-        "centos7": 81,
-        "css": 276,
-        "html": 41,
-        "ini": 0,
-        "js": 44,
-        "md": 322,
-        "py": 7841,
-        "rst": 46,
-        "sample": 16,
-        "svg": 40,
-        "txt": 37
-    },
-    "pep8_infringement": 657,
     "shebang": {
         "#!/usr/bin/env python": 3
     }

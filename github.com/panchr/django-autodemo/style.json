@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "detox==0.10.0",
-        "tox==2.5.0"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 3,
@@ -44,6 +40,10 @@
         "yml": 19
     },
     "pep8_infringement": 264,
+    "requirements": [
+        "detox==0.10.0",
+        "tox==2.5.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

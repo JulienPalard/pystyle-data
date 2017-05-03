@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flask>=0.12",
-        "flask-sqlalchemy>=2.2",
-        "psycopg2>=2.7.1",
-        "pytz>=2017.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 6,
@@ -48,6 +42,12 @@
         "yml": 8
     },
     "pep8_infringement": 96,
+    "requirements": [
+        "flask>=0.12",
+        "flask-sqlalchemy>=2.2",
+        "psycopg2>=2.7.1",
+        "pytz>=2017.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

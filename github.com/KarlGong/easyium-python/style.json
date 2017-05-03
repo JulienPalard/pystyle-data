@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "appium-python-client>=0.24",
-        "selenium>=3.4.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,
@@ -40,5 +36,9 @@
         "rst": 140
     },
     "pep8_infringement": 418,
+    "requirements": [
+        "appium-python-client>=0.24",
+        "selenium>=3.4.0"
+    ],
     "shebang": {}
 }

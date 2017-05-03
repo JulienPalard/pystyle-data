@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jsonschema",
-        "pymodbus3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -45,6 +41,10 @@
         "txt": 2
     },
     "pep8_infringement": 90,
+    "requirements": [
+        "jsonschema",
+        "pymodbus3"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

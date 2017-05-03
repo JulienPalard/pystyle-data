@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 36,
@@ -38,12 +37,13 @@
         "gen": 22,
         "in": 13,
         "md": 60,
-        "py": 9327,
+        "py": 9440,
         "rst": 54,
         "sample": 14,
         "txt": 1652,
-        "yml": 73
+        "yml": 74
     },
     "pep8_infringement": 232,
+    "requirements": [],
     "shebang": {}
 }

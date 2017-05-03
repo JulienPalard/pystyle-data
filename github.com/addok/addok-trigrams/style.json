@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "addok"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -40,5 +37,8 @@
         "txt": 1
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "addok"
+    ],
     "shebang": {}
 }

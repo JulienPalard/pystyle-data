@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "mock",
-        "twodict"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "css": 709,
@@ -46,7 +42,11 @@
         "sh": 101,
         "svg": 520
     },
-    "pep8_infringement": 444,
+    "pep8_infringement": 447,
+    "requirements": [
+        "mock",
+        "twodict"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 13,
         "#!/usr/bin/env python2": 1

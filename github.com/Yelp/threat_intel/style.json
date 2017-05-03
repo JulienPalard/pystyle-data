@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "grequests",
-        "requests",
-        "simplejson",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -44,5 +38,11 @@
         "txt": 13
     },
     "pep8_infringement": 197,
+    "requirements": [
+        "grequests",
+        "requests",
+        "simplejson",
+        "six"
+    ],
     "shebang": {}
 }

@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "m": 89,
+        "py": 566,
+        "rst": 65,
+        "sh": 12,
+        "txt": 1,
+        "wcs": 1
+    },
+    "pep8_infringement": 506,
     "requirements": [
         "astropy",
         "h5py",
@@ -42,16 +52,6 @@
         "scipy",
         "seaborn"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "m": 89,
-        "py": 566,
-        "rst": 65,
-        "sh": 12,
-        "txt": 1,
-        "wcs": 1
-    },
-    "pep8_infringement": 506,
     "shebang": {
         "#!/usr/bin/env python": 6
     }

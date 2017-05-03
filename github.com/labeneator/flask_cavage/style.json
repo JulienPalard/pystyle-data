@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flask",
-        "httpsig"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "bat": 36,
@@ -43,5 +39,9 @@
         "rst": 135
     },
     "pep8_infringement": 30,
+    "requirements": [
+        "flask",
+        "httpsig"
+    ],
     "shebang": {}
 }

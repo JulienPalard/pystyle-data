@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "setuptools>=1.0"
-    ],
     "license": null,
     "lines_of_code": {
         "backup": 22,
@@ -47,7 +44,10 @@
         "sh": 235,
         "sql": 5507
     },
-    "pep8_infringement": 90548,
+    "pep8_infringement": 90546,
+    "requirements": [
+        "setuptools>=1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/python": 1

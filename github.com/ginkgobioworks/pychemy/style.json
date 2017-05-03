@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "matplotlib",
-        "networkx",
-        "numpy",
-        "openbabel"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 25,
@@ -47,7 +41,13 @@
         "txt": 19417,
         "yml": 31
     },
-    "pep8_infringement": 987,
+    "pep8_infringement": 985,
+    "requirements": [
+        "matplotlib",
+        "networkx",
+        "numpy",
+        "openbabel"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

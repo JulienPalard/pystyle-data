@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click>=6.7",
-        "crayons",
-        "datapunt-authorization-levels",
-        "psycopg2>=2.6.2"
-    ],
     "license": "MPL-2.0",
     "lines_of_code": {
         "py": 732,
         "rst": 136
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "click>=6.7",
+        "crayons",
+        "datapunt-authorization-levels",
+        "psycopg2>=2.6.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

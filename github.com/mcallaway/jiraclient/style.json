@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml",
-        "restkit"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 2067,
@@ -41,7 +37,11 @@
         "yaml": 65,
         "yml": 14
     },
-    "pep8_infringement": 1167,
+    "pep8_infringement": 1168,
+    "requirements": [
+        "pyyaml",
+        "restkit"
+    ],
     "shebang": {
         "#!/usr/bin/python": 2
     }

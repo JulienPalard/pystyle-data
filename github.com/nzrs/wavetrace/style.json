@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click>=6.6",
-        "requests>=2.10.0",
-        "shapely>=1.5.16"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "css": 1715,
@@ -47,7 +42,12 @@
         "svg": 520,
         "txt": 234
     },
-    "pep8_infringement": 455,
+    "pep8_infringement": 451,
+    "requirements": [
+        "click>=6.6",
+        "requests>=2.10.0",
+        "shapely>=1.5.16"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

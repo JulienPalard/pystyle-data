@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "gevent>=1.1.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "222885490Z--ae71658b3ab452f7e4f03bda6f777b860b2e2ff2": 2,
@@ -46,6 +43,9 @@
         "txt": 9
     },
     "pep8_infringement": 17,
+    "requirements": [
+        "gevent>=1.1.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

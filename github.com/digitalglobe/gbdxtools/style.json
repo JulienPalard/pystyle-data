@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 2,
+        "html": 74,
+        "in": 2,
+        "ipynb": 159,
+        "json": 90,
+        "md": 215,
+        "py": 6009,
+        "rst": 1224,
+        "txt": 43,
+        "yaml": 135649,
+        "yml": 1
+    },
+    "pep8_infringement": 1316,
     "requirements": [
         "boto==2.39.0",
         "cloudpickle",
@@ -48,21 +63,6 @@
         "six==1.10.0",
         "toolz"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 2,
-        "html": 74,
-        "in": 2,
-        "ipynb": 159,
-        "json": 90,
-        "md": 215,
-        "py": 6009,
-        "rst": 1224,
-        "txt": 43,
-        "yaml": 135649,
-        "yml": 1
-    },
-    "pep8_infringement": 1324,
     "shebang": {
         "#!/usr/bin/python": 1
     }

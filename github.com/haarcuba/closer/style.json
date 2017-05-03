@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pimped-subprocess>=2.1.0",
-        "psutil"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 155,
@@ -40,5 +36,9 @@
         "yml": 1
     },
     "pep8_infringement": 459,
+    "requirements": [
+        "pimped-subprocess>=2.1.0",
+        "psutil"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cffi",
-        "perfmetrics",
-        "zc.lockfile",
-        "zope.interface"
-    ],
     "license": "ZPL-2.1",
     "lines_of_code": {
         "c": 493,
@@ -52,7 +46,13 @@
         "xml": 226,
         "yml": 40
     },
-    "pep8_infringement": 849,
+    "pep8_infringement": 824,
+    "requirements": [
+        "cffi",
+        "perfmetrics",
+        "zc.lockfile",
+        "zope.interface"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

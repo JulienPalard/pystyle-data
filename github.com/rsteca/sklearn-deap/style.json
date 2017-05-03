@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "deap>=1.0.2",
-        "numpy>=1.9.3",
-        "scikit-learn>=0.18.0",
-        "scipy>=0.16.0"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 2,
@@ -43,7 +37,13 @@
         "py": 655,
         "txt": 166
     },
-    "pep8_infringement": 81,
+    "pep8_infringement": 80,
+    "requirements": [
+        "deap>=1.0.2",
+        "numpy>=1.9.3",
+        "scikit-learn>=0.18.0",
+        "scipy>=0.16.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

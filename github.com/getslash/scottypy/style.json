@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "capacity",
-        "click",
-        "emport",
-        "python-dateutil",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "ini": 7,
@@ -44,5 +37,12 @@
         "txt": 2
     },
     "pep8_infringement": 112,
+    "requirements": [
+        "capacity",
+        "click",
+        "emport",
+        "python-dateutil",
+        "requests"
+    ],
     "shebang": {}
 }

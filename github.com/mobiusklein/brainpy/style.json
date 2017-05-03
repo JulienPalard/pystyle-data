@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,
@@ -43,5 +42,6 @@
         "rst": 62
     },
     "pep8_infringement": 151,
+    "requirements": [],
     "shebang": {}
 }

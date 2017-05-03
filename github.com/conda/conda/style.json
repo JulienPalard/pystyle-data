@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycosat>=0.6.1",
-        "requests>=2.12.4",
-        "ruamel.yaml>=0.11.14"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "awk": 178,
@@ -57,6 +52,11 @@
         "yml": 82
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "pycosat>=0.6.1",
+        "requests>=2.12.4",
+        "ruamel.yaml>=0.11.14"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

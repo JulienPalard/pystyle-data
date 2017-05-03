@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "md": 195,
+        "py": 3437,
+        "sample": 39,
+        "txt": 58
+    },
+    "pep8_infringement": 122,
     "requirements": [
         "click>=6.6",
         "prompt-toolkit>=1.0.8",
@@ -36,14 +45,5 @@
         "requests>=2.11.1",
         "sqlparse>=0.2.2"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "md": 178,
-        "py": 1741,
-        "sample": 37,
-        "txt": 13
-    },
-    "pep8_infringement": 74,
     "shebang": {}
 }

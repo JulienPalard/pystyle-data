@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "autobahn",
-        "pyopenssl",
-        "service-identity",
-        "twisted"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -45,6 +39,12 @@
         "txt": 32
     },
     "pep8_infringement": 30,
+    "requirements": [
+        "autobahn",
+        "pyopenssl",
+        "service-identity",
+        "twisted"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

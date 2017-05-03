@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "ncclient>=0.5",
-        "pexpect"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +37,10 @@
         "py": 1912
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "ncclient>=0.5",
+        "pexpect"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

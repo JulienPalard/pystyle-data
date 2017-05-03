@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml==3.7.3",
-        "requests==2.13.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -46,6 +42,10 @@
         "txt": 91
     },
     "pep8_infringement": 128,
+    "requirements": [
+        "lxml==3.7.3",
+        "requests==2.13.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 9
     }

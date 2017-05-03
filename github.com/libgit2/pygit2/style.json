@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cffi<1.10",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "c": 7859,
@@ -50,6 +46,10 @@
         "txt": 16,
         "yml": 53
     },
-    "pep8_infringement": 315,
+    "pep8_infringement": 314,
+    "requirements": [
+        "cffi<1.10",
+        "six"
+    ],
     "shebang": {}
 }

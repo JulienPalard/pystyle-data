@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cppheaderparser==2.7.4",
-        "jinja2==2.9.6",
-        "numpy==1.12.1",
-        "pytest==3.0.7",
-        "pyyaml==3.12"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 115,
@@ -58,7 +51,14 @@
         "xdc": 790,
         "yml": 688
     },
-    "pep8_infringement": 340,
+    "pep8_infringement": 335,
+    "requirements": [
+        "cppheaderparser==2.7.4",
+        "jinja2==2.9.6",
+        "numpy==1.12.1",
+        "pytest==3.0.7",
+        "pyyaml==3.12"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 18
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "wagtail>=1.9"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 15,
@@ -41,6 +38,9 @@
         "rst": 67
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "wagtail>=1.9"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

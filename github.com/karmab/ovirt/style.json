@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ovirt-engine-sdk-python<=4.0",
-        "prettytable",
-        "pyparsing",
-        "pyyaml",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "ini": 48,
@@ -43,7 +36,14 @@
         "py": 1969,
         "yml": 15
     },
-    "pep8_infringement": 113,
+    "pep8_infringement": 102,
+    "requirements": [
+        "ovirt-engine-sdk-python<=4.0",
+        "prettytable",
+        "pyparsing",
+        "pyyaml",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/python": 4
     }

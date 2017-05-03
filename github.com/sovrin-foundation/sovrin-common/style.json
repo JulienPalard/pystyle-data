@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "plenum-dev==0.3.66"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 14,
@@ -42,6 +39,9 @@
         "sh": 27
     },
     "pep8_infringement": 87,
+    "requirements": [
+        "plenum-dev==0.3.66"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

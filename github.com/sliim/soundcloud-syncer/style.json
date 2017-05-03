@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pydub",
-        "python-dateutil",
-        "python-magic",
-        "stagger"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,
@@ -44,5 +38,11 @@
         "txt": 5
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "pydub",
+        "python-dateutil",
+        "python-magic",
+        "stagger"
+    ],
     "shebang": {}
 }

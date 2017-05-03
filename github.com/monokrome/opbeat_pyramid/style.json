@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyramid",
-        "setuptools>=18"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -40,6 +36,10 @@
         "py": 351
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "pyramid",
+        "setuptools>=18"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

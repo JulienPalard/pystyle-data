@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "flask-security",
-        "flask-wtf",
-        "werkzeug"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 36,
@@ -45,5 +39,11 @@
         "txt": 4
     },
     "pep8_infringement": 15,
+    "requirements": [
+        "flask",
+        "flask-security",
+        "flask-wtf",
+        "werkzeug"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "configparser",
-        "musictools",
-        "mutagen",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -44,6 +38,12 @@
         "txt": 10
     },
     "pep8_infringement": 50,
+    "requirements": [
+        "configparser",
+        "musictools",
+        "mutagen",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "future",
-        "requests>=2.9.1"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 5,
@@ -44,7 +40,11 @@
         "rst": 152,
         "txt": 23
     },
-    "pep8_infringement": 75,
+    "pep8_infringement": 74,
+    "requirements": [
+        "future",
+        "requests>=2.9.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "\ufeff#!/usr/bin/env python": 1

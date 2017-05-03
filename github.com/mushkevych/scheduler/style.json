@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "css": 3343,
+        "html": 785,
+        "in": 5,
+        "js": 2488,
+        "md": 85,
+        "py": 13120,
+        "rc": 262,
+        "sh": 189,
+        "svg": 685
+    },
+    "pep8_infringement": 2373,
     "requirements": [
         "amqp",
         "jinja2",
@@ -43,19 +56,6 @@
         "werkzeug",
         "xmlrunner"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "css": 3343,
-        "html": 785,
-        "in": 5,
-        "js": 2488,
-        "md": 85,
-        "py": 13120,
-        "rc": 262,
-        "sh": 189,
-        "svg": 685
-    },
-    "pep8_infringement": 1744,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

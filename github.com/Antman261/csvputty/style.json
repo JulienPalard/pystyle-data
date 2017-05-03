@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 38,
@@ -41,6 +38,9 @@
         "rst": 25,
         "txt": 19
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 10,
+    "requirements": [
+        "click"
+    ],
     "shebang": {}
 }

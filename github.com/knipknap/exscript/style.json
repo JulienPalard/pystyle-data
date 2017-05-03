@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "configparser",
-        "future",
-        "paramiko",
-        "pycrypto"
-    ],
     "license": null,
     "lines_of_code": {
         "1": 155,
@@ -53,7 +47,13 @@
         "sh": 50,
         "txt": 12
     },
-    "pep8_infringement": 888,
+    "pep8_infringement": 879,
+    "requirements": [
+        "configparser",
+        "future",
+        "paramiko",
+        "pycrypto"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 10
     }

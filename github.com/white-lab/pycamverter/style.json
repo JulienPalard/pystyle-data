@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "numpydoc==0.6",
-        "openpyxl>=2.4.4",
-        "pymzml (git+https://github.com/naderm/pymzML)",
-        "requests>=2.12.0"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,
@@ -47,6 +41,12 @@
         "txt": 5,
         "yml": 39
     },
-    "pep8_infringement": 3,
+    "pep8_infringement": 0,
+    "requirements": [
+        "numpydoc==0.6",
+        "openpyxl>=2.4.4",
+        "pymzml (git+https://github.com/naderm/pymzML)",
+        "requests>=2.12.0"
+    ],
     "shebang": {}
 }

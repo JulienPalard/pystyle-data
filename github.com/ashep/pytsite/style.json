@@ -29,6 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "css": 32920,
+        "html": 2050,
+        "jinja2": 562,
+        "js": 113368,
+        "json": 91,
+        "less": 365,
+        "map": 2,
+        "md": 9358,
+        "py": 22959,
+        "svg": 3072,
+        "txt": 46,
+        "yml": 886
+    },
+    "pep8_infringement": 1194,
     "requirements": [
         "exifread",
         "frozendict",
@@ -46,21 +62,5 @@
         "uwsgi",
         "werkzeug"
     ],
-    "license": null,
-    "lines_of_code": {
-        "css": 32920,
-        "html": 2050,
-        "jinja2": 562,
-        "js": 113368,
-        "json": 91,
-        "less": 365,
-        "map": 2,
-        "md": 9342,
-        "py": 23049,
-        "svg": 3072,
-        "txt": 46,
-        "yml": 886
-    },
-    "pep8_infringement": 1198,
     "shebang": {}
 }

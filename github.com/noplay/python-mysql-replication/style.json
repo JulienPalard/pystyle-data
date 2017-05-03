@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pymysql"
-    ],
     "license": null,
     "lines_of_code": {
         "conf": 11,
@@ -41,6 +38,9 @@
         "sh": 125
     },
     "pep8_infringement": 374,
+    "requirements": [
+        "pymysql"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

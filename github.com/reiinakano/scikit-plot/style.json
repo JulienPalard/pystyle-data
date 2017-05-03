@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "matplotlib>=1.3.1",
-        "scikit-learn>=0.18",
-        "scipy>=0.9"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -45,6 +40,11 @@
         "rst": 171,
         "txt": 7
     },
-    "pep8_infringement": 325,
+    "pep8_infringement": 327,
+    "requirements": [
+        "matplotlib>=1.3.1",
+        "scikit-learn>=0.18",
+        "scipy>=0.9"
+    ],
     "shebang": {}
 }

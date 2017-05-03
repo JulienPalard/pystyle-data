@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "ini": 13,
+        "py": 9075,
+        "rst": 1157
+    },
+    "pep8_infringement": 958,
     "requirements": [
         "iso3166",
         "language-tags",
@@ -38,13 +45,6 @@
         "regex",
         "six"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "ini": 13,
-        "py": 9075,
-        "rst": 1157
-    },
-    "pep8_infringement": 958,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

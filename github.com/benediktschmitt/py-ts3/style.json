@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "blinker"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 242,
@@ -42,6 +39,9 @@
         "txt": 0
     },
     "pep8_infringement": 558,
+    "requirements": [
+        "blinker"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 16
     }

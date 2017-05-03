@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 40,
+        "py": 35177,
+        "txt": 6
+    },
+    "pep8_infringement": 7708,
     "requirements": [
         "aiohttp<2.1,>=2.0.7",
         "cyrandom>=0.1.2",
@@ -37,13 +44,6 @@
         "protobuf3-to-dict>=0.1.4",
         "pycrypt>=0.5.0"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 40,
-        "py": 35177,
-        "txt": 6
-    },
-    "pep8_infringement": 7707,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

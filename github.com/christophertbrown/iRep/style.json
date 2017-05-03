@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lmfit",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "scipy",
-        "seaborn"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "fna": 2,
@@ -46,7 +38,15 @@
         "tsv": 38,
         "txt": 7
     },
-    "pep8_infringement": 1549,
+    "pep8_infringement": 1535,
+    "requirements": [
+        "lmfit",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "scipy",
+        "seaborn"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 6

@@ -29,16 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "alembic>=0.8.10",
-        "neutron-lib>=1.4.0",
-        "oslo.i18n>=2.1.0",
-        "oslo.log>=3.22.0",
-        "pbr!=2.1.0,>=2.0.0",
-        "requests!=2.13.0,>=2.10.0,!=2.12.2",
-        "six>=1.9.0",
-        "sqlalchemy!=1.1.8,!=1.1.5,!=1.1.7,>=1.0.10,!=1.1.6"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 68,
@@ -53,5 +43,15 @@
         "txt": 27
     },
     "pep8_infringement": 5,
+    "requirements": [
+        "alembic>=0.8.10",
+        "neutron-lib>=1.4.0",
+        "oslo.i18n>=2.1.0",
+        "oslo.log>=3.22.0",
+        "pbr>=2.0.0,!=2.1.0",
+        "requests!=2.13.0,!=2.12.2,>=2.10.0",
+        "six>=1.9.0",
+        "sqlalchemy!=1.1.5,!=1.1.7,>=1.0.10,!=1.1.6,!=1.1.8"
+    ],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ipython"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
@@ -41,5 +38,8 @@
         "txt": 19
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "ipython"
+    ],
     "shebang": {}
 }

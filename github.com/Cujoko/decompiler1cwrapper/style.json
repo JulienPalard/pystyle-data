@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "appdirs>=1.4.0"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 29,
@@ -39,6 +36,9 @@
         "sample": 8
     },
     "pep8_infringement": 12,
+    "requirements": [
+        "appdirs>=1.4.0"
+    ],
     "shebang": {
         "#! python3": 2
     }

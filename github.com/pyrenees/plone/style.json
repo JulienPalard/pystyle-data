@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "codekit": 1649,
@@ -46,5 +45,6 @@
         "xml": 2
     },
     "pep8_infringement": 0,
+    "requirements": [],
     "shebang": {}
 }

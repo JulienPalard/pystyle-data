@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "logbook>=0.12.0",
-        "sentinels",
-        "vintage"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 3,
@@ -44,7 +39,12 @@
         "rst": 844,
         "txt": 7
     },
-    "pep8_infringement": 261,
+    "pep8_infringement": 258,
+    "requirements": [
+        "logbook>=0.12.0",
+        "sentinels",
+        "vintage"
+    ],
     "shebang": {
         "#! /usr/bin/python": 1
     }

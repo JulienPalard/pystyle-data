@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +37,9 @@
         "sh": 51
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "requests",
+        "six"
+    ],
     "shebang": {}
 }

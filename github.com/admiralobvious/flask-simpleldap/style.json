@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask>=0.10.1",
-        "pyldap"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "conf": 19,
@@ -44,5 +40,9 @@
         "txt": 5
     },
     "pep8_infringement": 79,
+    "requirements": [
+        "flask>=0.10.1",
+        "pyldap"
+    ],
     "shebang": {}
 }

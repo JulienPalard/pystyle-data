@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pynetconsole>=1.3.1",
-        "pytest>=2.8.0",
-        "robotpy-hal-sim>=2017.1.1,<2018.0.0",
-        "robotpy-installer>=2017.0.0,<2018.0.0",
-        "robotpy-wpilib-utilities>=2017.0.0,<2018.0.0",
-        "wpilib>=2017.1.1,<2018.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 7,
@@ -46,7 +38,15 @@
         "sh": 17,
         "txt": 23
     },
-    "pep8_infringement": 1420,
+    "pep8_infringement": 1415,
+    "requirements": [
+        "pynetconsole>=1.3.1",
+        "pytest>=2.8.0",
+        "robotpy-hal-sim>=2017.1.1,<2018.0.0",
+        "robotpy-installer>=2017.0.0,<2018.0.0",
+        "robotpy-wpilib-utilities>=2017.0.0,<2018.0.0",
+        "wpilib>=2017.1.1,<2018.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

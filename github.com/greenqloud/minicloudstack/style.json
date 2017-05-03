@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests-toolbelt>=0.7.0"
-    ],
     "license": null,
     "lines_of_code": {
         "Dockerfile": 21,
@@ -40,7 +37,10 @@
         "rst": 271,
         "txt": 1
     },
-    "pep8_infringement": 283,
+    "pep8_infringement": 282,
+    "requirements": [
+        "requests-toolbelt>=0.7.0"
+    ],
     "shebang": {
         "#!/usr/bin/python": 9
     }

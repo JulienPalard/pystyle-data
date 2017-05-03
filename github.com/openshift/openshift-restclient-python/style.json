@@ -29,14 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "dictdiffer",
-        "jinja2",
-        "kubernetes~=1.0.0",
-        "python-string-utils",
-        "ruamel.yaml",
-        "six"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 23,
@@ -52,5 +44,13 @@
         "yml": 359
     },
     "pep8_infringement": 16226,
+    "requirements": [
+        "dictdiffer",
+        "jinja2",
+        "kubernetes~=1.0.0",
+        "python-string-utils",
+        "ruamel.yaml",
+        "six"
+    ],
     "shebang": {}
 }

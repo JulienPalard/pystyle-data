@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "python-dateutil"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -42,5 +39,8 @@
         "txt": 2
     },
     "pep8_infringement": 78,
+    "requirements": [
+        "python-dateutil"
+    ],
     "shebang": {}
 }

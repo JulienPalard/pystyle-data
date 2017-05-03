@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "numpy"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 16487,
@@ -40,7 +36,11 @@
         "md": 14,
         "py": 534
     },
-    "pep8_infringement": 40,
+    "pep8_infringement": 39,
+    "requirements": [
+        "matplotlib",
+        "numpy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

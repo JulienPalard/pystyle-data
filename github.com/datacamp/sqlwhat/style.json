@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "antlr-plsql>=0.1.0",
-        "antlr-tsql>=0.1.0",
-        "markdown2"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -43,7 +38,12 @@
         "rst": 29,
         "txt": 2
     },
-    "pep8_infringement": 770,
+    "pep8_infringement": 769,
+    "requirements": [
+        "antlr-plsql>=0.1.0",
+        "antlr-tsql>=0.1.0",
+        "markdown2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

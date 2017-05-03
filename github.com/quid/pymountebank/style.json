@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests==2.13.0",
-        "retrying==1.3.3"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 12,
@@ -44,5 +40,9 @@
         "yml": 46
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "requests==2.13.0",
+        "retrying==1.3.3"
+    ],
     "shebang": {}
 }

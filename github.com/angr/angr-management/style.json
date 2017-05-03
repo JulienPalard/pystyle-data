@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "md": 66,
+        "py": 8616,
+        "sh": 3,
+        "txt": 9
+    },
+    "pep8_infringement": 2750,
     "requirements": [
         "angr",
         "grandalf",
@@ -42,13 +50,5 @@
         "qtconsole",
         "websocket-client"
     ],
-    "license": null,
-    "lines_of_code": {
-        "md": 66,
-        "py": 8616,
-        "sh": 3,
-        "txt": 9
-    },
-    "pep8_infringement": 2750,
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "phi"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "coco": 1168,
@@ -44,6 +41,9 @@
         "yml": 34
     },
     "pep8_infringement": 176,
+    "requirements": [
+        "phi"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

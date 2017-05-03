@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 900,
+        "py": 2082,
+        "txt": 12
+    },
+    "pep8_infringement": 1671,
     "requirements": [
         "biomart",
         "matplotlib",
@@ -41,12 +48,5 @@
         "xlrd",
         "xlsxwriter"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 900,
-        "py": 2082,
-        "txt": 12
-    },
-    "pep8_infringement": 1678,
     "shebang": {}
 }

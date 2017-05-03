@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "mock",
-        "python-dateutil",
-        "uw-restclients-core>0.8,<1.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "conf": 1,
@@ -44,5 +39,10 @@
         "py": 1134
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "mock",
+        "python-dateutil",
+        "uw-restclients-core>0.8,<1.0"
+    ],
     "shebang": {}
 }

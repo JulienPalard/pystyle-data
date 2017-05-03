@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "tensorflow"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 28001,
@@ -40,5 +36,9 @@
         "py": 549
     },
     "pep8_infringement": 66,
+    "requirements": [
+        "numpy",
+        "tensorflow"
+    ],
     "shebang": {}
 }

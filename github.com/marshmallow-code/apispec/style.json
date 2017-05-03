@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyyaml>=3.10"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -43,5 +40,8 @@
         "txt": 25
     },
     "pep8_infringement": 203,
+    "requirements": [
+        "pyyaml>=3.10"
+    ],
     "shebang": {}
 }

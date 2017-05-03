@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "brotlipy",
-        "chardet",
-        "jinja2<2.9",
-        "pyyaml",
-        "redis",
-        "requests",
-        "six",
-        "surt>=0.3.0",
-        "watchdog",
-        "webencodings"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "arc": 80,
@@ -61,7 +49,19 @@
         "warc": 401,
         "yaml": 863
     },
-    "pep8_infringement": 2022,
+    "pep8_infringement": 2003,
+    "requirements": [
+        "brotlipy",
+        "chardet",
+        "jinja2<2.9",
+        "pyyaml",
+        "redis",
+        "requests",
+        "six",
+        "surt>=0.3.0",
+        "watchdog",
+        "webencodings"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!/usr/bin/python": 1

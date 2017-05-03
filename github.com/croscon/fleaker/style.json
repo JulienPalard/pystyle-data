@@ -29,18 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "arrow",
-        "arrow",
-        "blinker",
-        "flask",
-        "flask-classful",
-        "flask-login",
-        "flask-marshmallow",
-        "marshmallow",
-        "marshmallow-jsonschema",
-        "pendulum"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 36,
@@ -53,7 +41,19 @@
         "rst": 300,
         "txt": 1
     },
-    "pep8_infringement": 61,
+    "pep8_infringement": 68,
+    "requirements": [
+        "arrow",
+        "arrow",
+        "blinker",
+        "flask",
+        "flask-classful",
+        "flask-login",
+        "flask-marshmallow",
+        "marshmallow",
+        "marshmallow-jsonschema",
+        "pendulum"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

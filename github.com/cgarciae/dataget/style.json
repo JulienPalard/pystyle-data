@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "numpy",
-        "pandas"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "coco": 1027,
@@ -44,6 +39,11 @@
         "txt": 3
     },
     "pep8_infringement": 969,
+    "requirements": [
+        "click",
+        "numpy",
+        "pandas"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 20
     }

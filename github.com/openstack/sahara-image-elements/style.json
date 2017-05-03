@@ -29,11 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "dib-utils",
-        "diskimage-builder!=1.7.1,>=1.1.2,!=1.7.0,!=1.6.0",
-        "pbr!=2.1.0,>=2.0.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 24,
@@ -48,5 +43,10 @@
         "yaml": 80
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "dib-utils",
+        "diskimage-builder!=1.6.0,!=1.7.1,!=1.7.0,>=1.1.2",
+        "pbr>=2.0.0,!=2.1.0"
+    ],
     "shebang": {}
 }

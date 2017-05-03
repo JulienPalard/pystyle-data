@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorama"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 221,
@@ -39,6 +36,9 @@
         "txt": 3
     },
     "pep8_infringement": 162,
+    "requirements": [
+        "colorama"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jupyter",
-        "jupyter-core",
-        "lesscpy>=0.12.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,
@@ -47,5 +42,10 @@
         "txt": 6460
     },
     "pep8_infringement": 48,
+    "requirements": [
+        "jupyter",
+        "jupyter-core",
+        "lesscpy>=0.12.0"
+    ],
     "shebang": {}
 }

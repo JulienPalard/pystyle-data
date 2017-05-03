@@ -29,6 +29,19 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 87,
+        "csv": 1822,
+        "html": 3318,
+        "json": 1,
+        "md": 51,
+        "py": 8777,
+        "rst": 153,
+        "sh": 37,
+        "txt": 59
+    },
+    "pep8_infringement": 1285,
     "requirements": [
         "chardet>=2.3.0",
         "coverage==4.2",
@@ -56,19 +69,6 @@
         "textstat==0.2",
         "xlrd==0.9.4"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 87,
-        "csv": 1822,
-        "html": 3318,
-        "json": 1,
-        "md": 51,
-        "py": 8777,
-        "rst": 153,
-        "sh": 37,
-        "txt": 59
-    },
-    "pep8_infringement": 1378,
     "shebang": {
         "#!/usr/bin/env python": 16
     }

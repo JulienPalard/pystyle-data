@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click<7.0a,>=3.3",
-        "future<1.0a,>=0.15",
-        "isodate>=0.5.4,<1.0a",
-        "jsonschema>=2.5,<3.0a",
-        "python-dateutil>=2.4,<3.0a",
-        "requests>=2.5,<3.0a",
-        "rfc3986>=0.4,<1.0a",
-        "six<2.0a,>=1.9",
-        "tabulator>=0.7,<1.0a",
-        "unicodecsv<1.0a,>=0.14"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -52,5 +40,17 @@
         "py": 3826
     },
     "pep8_infringement": 117,
+    "requirements": [
+        "click>=3.3,<7.0a",
+        "future>=0.15,<1.0a",
+        "isodate>=0.5.4,<1.0a",
+        "jsonschema<3.0a,>=2.5",
+        "python-dateutil<3.0a,>=2.4",
+        "requests<3.0a,>=2.5",
+        "rfc3986>=0.4,<1.0a",
+        "six>=1.9,<2.0a",
+        "tabulator<1.0a,>=0.7",
+        "unicodecsv<1.0a,>=0.14"
+    ],
     "shebang": {}
 }

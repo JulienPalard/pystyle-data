@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "networkx",
-        "numpy",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "gml": 4032,
@@ -43,5 +38,10 @@
         "txt": 3
     },
     "pep8_infringement": 73,
+    "requirements": [
+        "networkx",
+        "numpy",
+        "scipy"
+    ],
     "shebang": {}
 }

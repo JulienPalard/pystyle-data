@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "opentracing<1.2,>=1.1",
-        "sqlalchemy"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -42,5 +38,9 @@
         "txt": 86
     },
     "pep8_infringement": 86,
+    "requirements": [
+        "opentracing>=1.1,<1.2",
+        "sqlalchemy"
+    ],
     "shebang": {}
 }

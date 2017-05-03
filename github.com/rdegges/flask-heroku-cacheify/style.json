@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask-cache>=0.11.1",
-        "pylibmc>=1.2.3",
-        "redis>=2.7.2"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -41,5 +36,10 @@
         "py": 82
     },
     "pep8_infringement": 31,
+    "requirements": [
+        "flask-cache>=0.11.1",
+        "pylibmc>=1.2.3",
+        "redis>=2.7.2"
+    ],
     "shebang": {}
 }

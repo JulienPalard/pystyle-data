@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "jinja2",
-        "luigi",
-        "pyyaml"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 2,
@@ -46,5 +40,11 @@
         "yaml": 783
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "click",
+        "jinja2",
+        "luigi",
+        "pyyaml"
+    ],
     "shebang": {}
 }

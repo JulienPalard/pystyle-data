@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp",
-        "attrs"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "py": 600,
@@ -40,5 +36,9 @@
         "txt": 190
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "aiohttp",
+        "attrs"
+    ],
     "shebang": {}
 }

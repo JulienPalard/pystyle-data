@@ -29,23 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "boto",
-        "distlib==0.2.3",
-        "passlib",
-        "paste",
-        "pycrypto",
-        "pyramid",
-        "pyramid-beaker",
-        "pyramid-duh>=0.1.1",
-        "pyramid-jinja2",
-        "pyramid-rpc",
-        "pyramid-tm",
-        "rsa",
-        "six",
-        "transaction",
-        "zope.sqlalchemy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,
@@ -63,6 +46,23 @@
         "txt": 32
     },
     "pep8_infringement": 48,
+    "requirements": [
+        "boto",
+        "distlib==0.2.3",
+        "passlib",
+        "paste",
+        "pycrypto",
+        "pyramid",
+        "pyramid-beaker",
+        "pyramid-duh>=0.1.1",
+        "pyramid-jinja2",
+        "pyramid-rpc",
+        "pyramid-tm",
+        "rsa",
+        "six",
+        "transaction",
+        "zope.sqlalchemy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

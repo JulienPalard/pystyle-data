@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "ini": 23,
+        "j2": 305,
+        "js": 99,
+        "json": 31,
+        "jsx": 1006,
+        "md": 140,
+        "py": 2819,
+        "rst": 667,
+        "txt": 17
+    },
+    "pep8_infringement": 88,
     "requirements": [
         "click",
         "codecov",
@@ -48,19 +61,6 @@
         "pytest-pylint",
         "selenium"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "ini": 23,
-        "j2": 305,
-        "js": 99,
-        "json": 31,
-        "jsx": 1006,
-        "md": 140,
-        "py": 2819,
-        "rst": 667,
-        "txt": 17
-    },
-    "pep8_infringement": 85,
     "shebang": {
         "#!/usr/bin/env python": 6
     }

@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 3,
+        "py": 443,
+        "txt": 10
+    },
+    "pep8_infringement": 81,
     "requirements": [
         "colored",
         "emoji",
@@ -39,12 +46,5 @@
         "termcolor",
         "urllib3"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 3,
-        "py": 443,
-        "txt": 10
-    },
-    "pep8_infringement": 81,
     "shebang": {}
 }

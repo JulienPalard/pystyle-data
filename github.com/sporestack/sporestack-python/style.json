@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyqrcode",
-        "pyyaml"
-    ],
     "license": "Unlicense",
     "lines_of_code": {
         "cfg": 2,
@@ -40,7 +36,11 @@
         "py": 1002,
         "txt": 26
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 4,
+    "requirements": [
+        "pyqrcode",
+        "pyyaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

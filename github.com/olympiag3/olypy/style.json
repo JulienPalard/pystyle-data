@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "in": 3,
+        "md": 111,
+        "prefix": 847,
+        "py": 6622,
+        "sh": 39,
+        "txt": 22,
+        "yml": 59
+    },
+    "pep8_infringement": 492,
     "requirements": [
         "coverage==4.3.4",
         "coveralls==1.1",
@@ -44,17 +55,6 @@
         "twine==1.8.1",
         "wheel==0.29.0"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "in": 3,
-        "md": 111,
-        "prefix": 847,
-        "py": 6622,
-        "sh": 39,
-        "txt": 22,
-        "yml": 59
-    },
-    "pep8_infringement": 493,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

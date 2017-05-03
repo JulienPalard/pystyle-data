@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml",
-        "mock",
-        "nose",
-        "pyxb==1.2.5"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 49,
@@ -47,6 +41,12 @@
         "rst": 26,
         "sh": 214
     },
-    "pep8_infringement": 18794,
+    "pep8_infringement": 18791,
+    "requirements": [
+        "lxml",
+        "mock",
+        "nose",
+        "pyxb==1.2.5"
+    ],
     "shebang": {}
 }

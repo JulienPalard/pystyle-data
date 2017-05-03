@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flake8",
-        "isort",
-        "mypy",
-        "pytest",
-        "pytest-cov",
-        "sphinx"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -46,6 +38,14 @@
         "txt": 6
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "flake8",
+        "isort",
+        "mypy",
+        "pytest",
+        "pytest-cov",
+        "sphinx"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

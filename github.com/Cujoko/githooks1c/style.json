@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "decompiler1cwrapper"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 2,
@@ -40,6 +37,9 @@
         "sample": 3
     },
     "pep8_infringement": 7,
+    "requirements": [
+        "decompiler1cwrapper"
+    ],
     "shebang": {
         "#! python3": 4
     }

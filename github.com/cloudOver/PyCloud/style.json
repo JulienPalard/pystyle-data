@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest",
-        "pytest-cov",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +37,11 @@
         "test": 40,
         "txt": 14
     },
-    "pep8_infringement": 777,
+    "pep8_infringement": 758,
+    "requirements": [
+        "pytest",
+        "pytest-cov",
+        "requests"
+    ],
     "shebang": {}
 }

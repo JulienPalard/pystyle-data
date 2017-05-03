@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cryptography",
-        "futures",
-        "requests",
-        "tornado"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 1587,
@@ -47,6 +41,12 @@
         "txt": 1,
         "yml": 22
     },
-    "pep8_infringement": 1013,
+    "pep8_infringement": 998,
+    "requirements": [
+        "cryptography",
+        "futures",
+        "requests",
+        "tornado"
+    ],
     "shebang": {}
 }

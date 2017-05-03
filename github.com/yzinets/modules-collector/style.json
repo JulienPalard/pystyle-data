@@ -29,13 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "glob2"
-    ],
     "license": null,
     "lines_of_code": {
         "py": 65
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "glob2"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cert-core>=0.0.15",
-        "jsonschema>=2.6",
-        "pyld>=0.7.1",
-        "requests>=2.13.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -46,7 +40,13 @@
         "sh": 7,
         "txt": 4
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 14,
+    "requirements": [
+        "cert-core>=0.0.15",
+        "jsonschema>=2.6",
+        "pyld>=0.7.1",
+        "requests>=2.13.0"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1
     }

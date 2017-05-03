@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "in": 3,
+        "md": 196,
+        "py": 3116,
+        "txt": 3
+    },
+    "pep8_infringement": 480,
     "requirements": [
         "beautifulsoup4==4.5.3",
         "lxml==3.7.3",
         "requests==2.13.0"
     ],
-    "license": null,
-    "lines_of_code": {
-        "in": 3,
-        "md": 196,
-        "py": 3007,
-        "txt": 3
-    },
-    "pep8_infringement": 453,
     "shebang": {}
 }

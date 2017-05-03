@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.11.0",
-        "pint>=0.7.2",
-        "pyked>=0.1.4",
-        "pyyaml>=3.12,<4.0",
-        "tables"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 8,
@@ -49,7 +42,14 @@
         "yaml": 381,
         "yml": 35
     },
-    "pep8_infringement": 103,
+    "pep8_infringement": 98,
+    "requirements": [
+        "numpy>=1.11.0",
+        "pint>=0.7.2",
+        "pyked>=0.1.4",
+        "pyyaml>=3.12,<4.0",
+        "tables"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

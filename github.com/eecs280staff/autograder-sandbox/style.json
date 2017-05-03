@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "redis>=2.10.5"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "bash": 2,
@@ -42,6 +39,9 @@
         "txt": 175
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "redis>=2.10.5"
+    ],
     "shebang": {
         "#! /usr/bin/env python3": 2,
         "#!/usr/bin/env python3": 1

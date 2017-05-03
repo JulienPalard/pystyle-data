@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "colander",
-        "crabpy",
-        "crabpy-pyramid",
-        "geoalchemy2",
-        "geojson",
-        "pycountry",
-        "pyramid",
-        "requests",
-        "shapely"
-    ],
     "license": null,
     "lines_of_code": {
         "geojson": 134823,
@@ -51,6 +40,17 @@
         "rst": 123,
         "txt": 52
     },
-    "pep8_infringement": 450,
+    "pep8_infringement": 445,
+    "requirements": [
+        "colander",
+        "crabpy",
+        "crabpy-pyramid",
+        "geoalchemy2",
+        "geojson",
+        "pycountry",
+        "pyramid",
+        "requests",
+        "shapely"
+    ],
     "shebang": {}
 }

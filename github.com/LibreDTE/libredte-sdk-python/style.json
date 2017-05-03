@@ -29,6 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 400,
+        "rst": 111
+    },
+    "pep8_infringement": 53,
     "requirements": [
         "datetime",
         "fpdf",
@@ -38,12 +44,6 @@
         "pyyaml",
         "requests"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 400,
-        "rst": 111
-    },
-    "pep8_infringement": 53,
     "shebang": {
         "#!/usr/bin/python": 4
     }

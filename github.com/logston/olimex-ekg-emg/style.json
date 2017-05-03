@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bokeh>=0.12.2",
-        "numpy>=1.9.1",
-        "pyserial>=2.7",
-        "scipy>=0.15.1"
-    ],
     "license": "GPL-1.0",
     "lines_of_code": {
         "in": 12,
@@ -44,6 +38,12 @@
         "txt": 3
     },
     "pep8_infringement": 122,
+    "requirements": [
+        "bokeh>=0.12.2",
+        "numpy>=1.9.1",
+        "pyserial>=2.7",
+        "scipy>=0.15.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

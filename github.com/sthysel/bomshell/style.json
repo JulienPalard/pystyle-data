@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "dataset",
-        "dbfread",
-        "ftputil",
-        "pyxdg",
-        "requests",
-        "tabulate"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 51,
@@ -50,6 +41,15 @@
         "txt": 26
     },
     "pep8_infringement": 41,
+    "requirements": [
+        "click",
+        "dataset",
+        "dbfread",
+        "ftputil",
+        "pyxdg",
+        "requests",
+        "tabulate"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

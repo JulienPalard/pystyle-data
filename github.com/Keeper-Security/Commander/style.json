@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "colorama",
-        "pycryptodomex",
-        "requests",
-        "tabulate"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 2,
@@ -44,6 +37,13 @@
         "sample": 10,
         "txt": 16
     },
-    "pep8_infringement": 721,
+    "pep8_infringement": 699,
+    "requirements": [
+        "click",
+        "colorama",
+        "pycryptodomex",
+        "requests",
+        "tabulate"
+    ],
     "shebang": {}
 }

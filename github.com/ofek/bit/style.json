@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "coincurve>=4.3.0",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -43,6 +39,10 @@
         "txt": 19
     },
     "pep8_infringement": 163,
+    "requirements": [
+        "coincurve>=4.3.0",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

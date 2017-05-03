@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "enum34",
-        "typing"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "a": 36,
@@ -47,6 +43,10 @@
         "txt": 280
     },
     "pep8_infringement": 265,
+    "requirements": [
+        "enum34",
+        "typing"
+    ],
     "shebang": {
         "#!/usr/bin/python": 11
     }

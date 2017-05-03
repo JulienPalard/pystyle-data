@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "prospector==0.12.4",
-        "pyinstaller==3.2.1",
-        "pylint==1.6.5",
-        "pypandoc==1.3.3",
-        "pytest==3.0.7",
-        "pytest-coverage==0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 10,
@@ -46,5 +38,13 @@
         "txt": 6
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "prospector==0.12.4",
+        "pyinstaller==3.2.1",
+        "pylint==1.6.5",
+        "pypandoc==1.3.3",
+        "pytest==3.0.7",
+        "pytest-coverage==0.0"
+    ],
     "shebang": {}
 }

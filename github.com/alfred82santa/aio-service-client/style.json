@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "aiohttp>=2.0.0",
-        "dirty-loader>=0.2.2"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "data": 1,
@@ -45,5 +41,9 @@
         "yaml": 7
     },
     "pep8_infringement": 383,
+    "requirements": [
+        "aiohttp>=2.0.0",
+        "dirty-loader>=0.2.2"
+    ],
     "shebang": {}
 }

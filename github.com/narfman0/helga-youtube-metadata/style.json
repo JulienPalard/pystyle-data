@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil",
-        "requests"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 4,
@@ -40,6 +36,10 @@
         "py": 91,
         "txt": 1
     },
-    "pep8_infringement": 6,
+    "pep8_infringement": 5,
+    "requirements": [
+        "python-dateutil",
+        "requests"
+    ],
     "shebang": {}
 }

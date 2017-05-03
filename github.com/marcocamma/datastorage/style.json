@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "h5py",
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 484,
         "rst": 17
     },
     "pep8_infringement": 139,
+    "requirements": [
+        "h5py",
+        "numpy"
+    ],
     "shebang": {}
 }

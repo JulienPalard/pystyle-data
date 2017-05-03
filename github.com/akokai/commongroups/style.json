@@ -29,17 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ashes",
-        "boltons",
-        "gspread",
-        "oauth2client",
-        "pandas",
-        "psycopg2",
-        "sqlalchemy",
-        "xlrd",
-        "xlsxwriter"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -51,6 +40,17 @@
         "sh": 165
     },
     "pep8_infringement": 54,
+    "requirements": [
+        "ashes",
+        "boltons",
+        "gspread",
+        "oauth2client",
+        "pandas",
+        "psycopg2",
+        "sqlalchemy",
+        "xlrd",
+        "xlsxwriter"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

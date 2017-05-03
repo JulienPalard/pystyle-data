@@ -29,6 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "csv": 10007,
+        "md": 111,
+        "py": 2926,
+        "tsv": 10001,
+        "yml": 56
+    },
+    "pep8_infringement": 185,
     "requirements": [
         "appdirs>=1.4.0",
         "future>=0.16.0",
@@ -43,14 +52,5 @@
         "tqdm>=4.11.2",
         "xlrd>=1.0.0"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "csv": 10007,
-        "md": 111,
-        "py": 2926,
-        "tsv": 10001,
-        "yml": 56
-    },
-    "pep8_infringement": 185,
     "shebang": {}
 }

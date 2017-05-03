@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "urwid"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -41,6 +38,9 @@
         "rst": 187,
         "txt": 288
     },
-    "pep8_infringement": 357,
+    "pep8_infringement": 342,
+    "requirements": [
+        "urwid"
+    ],
     "shebang": {}
 }

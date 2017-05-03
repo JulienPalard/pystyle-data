@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "opentc-util",
-        "pyicap",
-        "python-magic",
-        "python-multipart",
-        "pyyaml",
-        "textract"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -47,6 +39,14 @@
         "yml": 63
     },
     "pep8_infringement": 34,
+    "requirements": [
+        "opentc-util",
+        "pyicap",
+        "python-magic",
+        "python-multipart",
+        "pyyaml",
+        "textract"
+    ],
     "shebang": {
         "#!/bin/env python": 1
     }

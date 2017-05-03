@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "ini": 16,
@@ -37,5 +36,6 @@
         "py": 675
     },
     "pep8_infringement": 73,
+    "requirements": [],
     "shebang": {}
 }

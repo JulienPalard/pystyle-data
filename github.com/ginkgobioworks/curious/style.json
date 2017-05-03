@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django<1.7",
-        "humanize",
-        "parsedatetime~=1.0",
-        "parsimonious==0.5"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 18,
@@ -49,7 +43,13 @@
         "txt": 32,
         "yml": 20
     },
-    "pep8_infringement": 1091,
+    "pep8_infringement": 1082,
+    "requirements": [
+        "django<1.7",
+        "humanize",
+        "parsedatetime~=1.0",
+        "parsimonious==0.5"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

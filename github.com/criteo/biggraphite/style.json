@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 19,
+        "cql": 30,
+        "csv": 86,
+        "in": 6,
+        "ini": 83,
+        "java": 187,
+        "md": 497,
+        "py": 11890,
+        "sh": 50,
+        "txt": 241,
+        "xml": 279
+    },
+    "pep8_infringement": 424,
     "requirements": [
         "cachetools",
         "carbon (git+https://github.com/graphite-project/carbon.git@1.0.x)",
@@ -46,21 +61,6 @@
         "sortedcontainers",
         "whisper"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 19,
-        "cql": 30,
-        "csv": 86,
-        "in": 6,
-        "ini": 83,
-        "java": 187,
-        "md": 497,
-        "py": 11890,
-        "sh": 50,
-        "txt": 241,
-        "xml": 279
-    },
-    "pep8_infringement": 424,
     "shebang": {
         "#!/usr/bin/env python": 52
     }

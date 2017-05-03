@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "access-points",
-        "numpy",
-        "scikit-learn",
-        "scipy",
-        "tqdm"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "cfg": 5,
@@ -45,6 +38,13 @@
         "rst": 1,
         "txt": 5
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 24,
+    "requirements": [
+        "access-points",
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "tqdm"
+    ],
     "shebang": {}
 }

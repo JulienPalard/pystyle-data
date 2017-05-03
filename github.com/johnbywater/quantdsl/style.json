@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bbl": 26,
+        "bib": 31,
+        "md": 714,
+        "old": 15,
+        "py": 11224,
+        "rst": 402,
+        "tex": 293,
+        "txt": 687
+    },
+    "pep8_infringement": 2686,
     "requirements": [
         "argh",
         "blist",
@@ -42,18 +54,6 @@
         "scipy",
         "six==1.7.3"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "bbl": 26,
-        "bib": 31,
-        "md": 714,
-        "old": 15,
-        "py": 11224,
-        "rst": 402,
-        "tex": 293,
-        "txt": 687
-    },
-    "pep8_infringement": 2688,
     "shebang": {
         "#!/usr/bin/env python": 5
     }

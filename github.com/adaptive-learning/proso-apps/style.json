@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "css": 248,
@@ -46,7 +45,8 @@
         "yaml": 16293,
         "yml": 11
     },
-    "pep8_infringement": 2030,
+    "pep8_infringement": 2029,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

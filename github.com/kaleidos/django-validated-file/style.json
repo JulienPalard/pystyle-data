@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "distribute",
-        "python-magic>=0.4.2"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 3,
@@ -42,6 +38,10 @@
         "sh": 6
     },
     "pep8_infringement": 338,
+    "requirements": [
+        "distribute",
+        "python-magic>=0.4.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

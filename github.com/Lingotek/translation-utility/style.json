@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "blessings",
-        "click",
-        "gitpython",
-        "pexpect",
-        "requests",
-        "tinydb",
-        "watchdog"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -50,6 +41,15 @@
         "sample": 7,
         "txt": 1115
     },
-    "pep8_infringement": 3022,
+    "pep8_infringement": 3003,
+    "requirements": [
+        "blessings",
+        "click",
+        "gitpython",
+        "pexpect",
+        "requests",
+        "tinydb",
+        "watchdog"
+    ],
     "shebang": {}
 }

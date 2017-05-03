@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "attrs",
-        "docutils",
-        "od",
-        "sigtools>=2.0",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 190,
@@ -43,12 +36,19 @@
         "css": 4,
         "html": 12,
         "in": 3,
-        "ini": 44,
-        "py": 9835,
-        "rst": 4425,
+        "ini": 45,
+        "py": 9904,
+        "rst": 4435,
         "txt": 22
     },
-    "pep8_infringement": 300,
+    "pep8_infringement": 301,
+    "requirements": [
+        "attrs",
+        "docutils",
+        "od",
+        "sigtools>=2.0",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

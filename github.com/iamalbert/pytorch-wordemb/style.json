@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cffi>=1.0.0",
-        "torch"
-    ],
     "license": null,
     "lines_of_code": {
         "c": 139,
@@ -45,6 +41,10 @@
         "txt": 21
     },
     "pep8_infringement": 24,
+    "requirements": [
+        "cffi>=1.0.0",
+        "torch"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

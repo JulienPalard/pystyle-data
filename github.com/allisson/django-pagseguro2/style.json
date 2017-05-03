@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8",
-        "httpretty<0.8.7",
-        "python-dateutil",
-        "requests",
-        "six",
-        "xmltodict"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -46,6 +38,14 @@
         "rst": 448
     },
     "pep8_infringement": 91,
+    "requirements": [
+        "django>=1.8",
+        "httpretty<0.8.7",
+        "python-dateutil",
+        "requests",
+        "six",
+        "xmltodict"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

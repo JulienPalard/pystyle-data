@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "lxml",
-        "numpy",
-        "python-dateutil",
-        "vesna-spectrumsensor"
-    ],
     "license": null,
     "lines_of_code": {
         "cdf": 338,
@@ -47,6 +41,12 @@
         "txt": 2
     },
     "pep8_infringement": 2244,
+    "requirements": [
+        "lxml",
+        "numpy",
+        "python-dateutil",
+        "vesna-spectrumsensor"
+    ],
     "shebang": {
         "#!/usr/bin/bpython -i": 1,
         "#!/usr/bin/python": 1

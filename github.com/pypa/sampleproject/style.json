@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "peppercorn"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -43,5 +40,8 @@
         "txt": 19
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "peppercorn"
+    ],
     "shebang": {}
 }

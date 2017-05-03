@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "R": 236,
+        "bed": 50,
+        "conf": 286,
+        "coverage": 420,
+        "css": 267,
+        "csv": 2044,
+        "depths": 396,
+        "fai": 3,
+        "fasta": 3696,
+        "html": 1512,
+        "in": 19,
+        "ini": 23,
+        "md": 481,
+        "py": 46022,
+        "r": 1501,
+        "rst": 3679,
+        "sam": 3,
+        "sh": 902,
+        "summary": 1446,
+        "txt": 20821,
+        "yaml": 2276
+    },
+    "pep8_infringement": 2880,
+    "requirements": [
+        "pysam>=0.8.3",
+        "setproctitle>=1.1.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3,
+        "#!/usr/bin/python": 145,
+        "#!/usr/bin/python -3": 4
+    }
+}

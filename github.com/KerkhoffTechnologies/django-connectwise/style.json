@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django",
-        "django-braces",
-        "django-model-utils",
-        "easy-thumbnails",
-        "python-dateutil",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 3,
@@ -46,6 +38,14 @@
         "txt": 13
     },
     "pep8_infringement": 143,
+    "requirements": [
+        "django",
+        "django-braces",
+        "django-model-utils",
+        "easy-thumbnails",
+        "python-dateutil",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

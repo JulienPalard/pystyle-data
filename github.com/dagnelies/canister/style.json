@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bottle",
-        "pyjwt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +38,10 @@
         "py": 681
     },
     "pep8_infringement": 237,
+    "requirements": [
+        "bottle",
+        "pyjwt"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 5
     }

@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "boto>=2.36.0",
-        "cookies",
-        "dicttoxml",
-        "jinja2>=2.8",
-        "python-dateutil",
-        "pytz",
-        "requests>=2.0",
-        "six",
-        "werkzeug",
-        "xmltodict"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,
@@ -58,7 +46,19 @@
         "svg": 685,
         "txt": 903
     },
-    "pep8_infringement": 1943,
+    "pep8_infringement": 1969,
+    "requirements": [
+        "boto>=2.36.0",
+        "cookies",
+        "dicttoxml",
+        "jinja2>=2.8",
+        "python-dateutil",
+        "pytz",
+        "requests>=2.0",
+        "six",
+        "werkzeug",
+        "xmltodict"
+    ],
     "shebang": {
         "# #!/usr/bin/env python": 6,
         "#!/usr/bin/env python": 2,

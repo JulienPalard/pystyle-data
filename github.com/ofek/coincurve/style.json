@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "asn1crypto",
-        "cffi>=1.3.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -43,6 +39,10 @@
         "py": 1637,
         "rst": 230
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 46,
+    "requirements": [
+        "asn1crypto",
+        "cffi>=1.3.0"
+    ],
     "shebang": {}
 }

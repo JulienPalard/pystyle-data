@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cerberus==0.9.1",
-        "click>=5.0",
-        "cocaine>=0.12.6.0,<0.13",
-        "msgpack-python",
-        "pyyaml",
-        "tornado<5.0,>=4.3"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "bash-completion": 1,
@@ -58,7 +50,15 @@
         "txt": 10,
         "upstart": 26
     },
-    "pep8_infringement": 544,
+    "pep8_infringement": 542,
+    "requirements": [
+        "cerberus==0.9.1",
+        "click>=5.0",
+        "cocaine<0.13,>=0.12.6.0",
+        "msgpack-python",
+        "pyyaml",
+        "tornado>=4.3,<5.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

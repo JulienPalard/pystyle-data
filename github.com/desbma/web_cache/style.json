@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "in": 1,
         "md": 33,
         "py": 627
     },
-    "pep8_infringement": 248,
+    "pep8_infringement": 260,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

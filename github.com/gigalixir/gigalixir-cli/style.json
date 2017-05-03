@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click~=6.7",
-        "requests~=2.13.0",
-        "rollbar~=0.13.11",
-        "stripe~=1.51.0"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -43,6 +37,12 @@
         "py": 1809,
         "rst": 939
     },
-    "pep8_infringement": 423,
+    "pep8_infringement": 420,
+    "requirements": [
+        "click~=6.7",
+        "requests~=2.13.0",
+        "rollbar~=0.13.11",
+        "stripe~=1.51.0"
+    ],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycryptodome",
-        "stats"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -42,7 +38,11 @@
         "txt": 271,
         "yml": 34
     },
-    "pep8_infringement": 1145,
+    "pep8_infringement": 1135,
+    "requirements": [
+        "pycryptodome",
+        "stats"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 8
     }

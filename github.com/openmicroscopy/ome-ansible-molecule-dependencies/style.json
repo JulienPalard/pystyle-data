@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ansible==2.2.1.0",
-        "docker",
-        "molecule==1.23"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "in": 2,
@@ -42,6 +37,11 @@
         "txt": 280
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "ansible==2.2.1.0",
+        "docker",
+        "molecule==1.23"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

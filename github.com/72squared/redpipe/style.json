@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "redis>=2.10.2",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -44,6 +40,10 @@
         "txt": 12
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "redis>=2.10.2",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

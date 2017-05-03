@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytz",
-        "requests>=2.13.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "afm": 2575,
@@ -43,7 +39,11 @@
         "rst": 121,
         "txt": 3
     },
-    "pep8_infringement": 773,
+    "pep8_infringement": 767,
+    "requirements": [
+        "pytz",
+        "requests>=2.13.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

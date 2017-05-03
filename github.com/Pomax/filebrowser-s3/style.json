@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MPL-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -39,5 +38,6 @@
         "txt": 373
     },
     "pep8_infringement": 22,
+    "requirements": [],
     "shebang": {}
 }

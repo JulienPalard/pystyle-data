@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coverage",
-        "foster",
-        "jinja2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 5,
@@ -42,5 +37,10 @@
         "txt": 3
     },
     "pep8_infringement": 208,
+    "requirements": [
+        "coverage",
+        "foster",
+        "jinja2"
+    ],
     "shebang": {}
 }

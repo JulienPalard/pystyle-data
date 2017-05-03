@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gspread>=0.6.2",
-        "oauth2client>=4.0.0",
-        "pyopenssl"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +36,11 @@
         "py": 3914,
         "txt": 6
     },
-    "pep8_infringement": 1050,
+    "pep8_infringement": 1051,
+    "requirements": [
+        "gspread>=0.6.2",
+        "oauth2client>=4.0.0",
+        "pyopenssl"
+    ],
     "shebang": {}
 }

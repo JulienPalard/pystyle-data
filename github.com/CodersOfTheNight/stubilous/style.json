@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask",
-        "pyaml",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -44,5 +39,10 @@
         "txt": 3
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "flask",
+        "pyaml",
+        "six"
+    ],
     "shebang": {}
 }

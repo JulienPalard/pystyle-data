@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cc": 218,
@@ -41,5 +38,8 @@
         "txt": 41
     },
     "pep8_infringement": 12,
+    "requirements": [
+        "numpy"
+    ],
     "shebang": {}
 }

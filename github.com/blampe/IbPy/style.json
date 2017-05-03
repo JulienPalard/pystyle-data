@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "in": 2,
         "md": 74,
         "py": 8221
     },
-    "pep8_infringement": 694,
+    "pep8_infringement": 695,
+    "requirements": [],
     "shebang": {
         "#! /usr/bin/env python": 2,
         "#!/usr/bin/env jython": 1,

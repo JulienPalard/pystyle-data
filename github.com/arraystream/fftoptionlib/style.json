@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "autograd",
-        "numpy",
-        "pandas",
-        "scipy"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -42,5 +36,11 @@
         "py": 1314
     },
     "pep8_infringement": 96,
+    "requirements": [
+        "autograd",
+        "numpy",
+        "pandas",
+        "scipy"
+    ],
     "shebang": {}
 }

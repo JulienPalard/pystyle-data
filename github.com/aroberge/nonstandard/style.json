@@ -2,10 +2,10 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": true,
+        "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -25,16 +25,16 @@
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
-        "md": 2,
-        "py": 534
+        "md": 265,
+        "py": 956
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 102,
+    "requirements": [],
     "shebang": {}
 }

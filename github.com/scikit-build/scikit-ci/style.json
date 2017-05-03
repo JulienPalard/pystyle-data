@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyfiglet",
-        "ruamel.yaml"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -45,6 +41,10 @@
         "yml": 137
     },
     "pep8_infringement": 13,
+    "requirements": [
+        "pyfiglet",
+        "ruamel.yaml"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

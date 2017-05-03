@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "jupyter-core",
-        "notebook>=4.0",
-        "setuptools",
-        "tornado",
-        "traitlets"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 12,
@@ -48,6 +41,13 @@
         "yml": 77
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "jupyter-core",
+        "notebook>=4.0",
+        "setuptools",
+        "tornado",
+        "traitlets"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

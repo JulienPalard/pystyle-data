@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.10.1",
-        "pandas>=0.18.0",
-        "python-decouple>=3.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 9,
@@ -41,6 +36,11 @@
         "md": 143,
         "py": 721
     },
-    "pep8_infringement": 65,
+    "pep8_infringement": 64,
+    "requirements": [
+        "numpy>=1.10.1",
+        "pandas>=0.18.0",
+        "python-decouple>=3.0"
+    ],
     "shebang": {}
 }

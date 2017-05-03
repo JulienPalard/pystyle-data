@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3",
-        "moto",
-        "requests"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -43,5 +38,10 @@
         "txt": 206
     },
     "pep8_infringement": 35,
+    "requirements": [
+        "boto3",
+        "moto",
+        "requests"
+    ],
     "shebang": {}
 }

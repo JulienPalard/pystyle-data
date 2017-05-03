@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "bat": 9,
+        "c": 1947,
+        "def": 237,
+        "h": 10715,
+        "in": 21,
+        "md": 546,
+        "py": 43595,
+        "txt": 15
+    },
+    "pep8_infringement": 6206,
     "requirements": [
         "boto",
         "mo-collections",
@@ -45,18 +57,6 @@
         "pymysql",
         "requests"
     ],
-    "license": null,
-    "lines_of_code": {
-        "bat": 9,
-        "c": 1947,
-        "def": 237,
-        "h": 10715,
-        "in": 21,
-        "md": 546,
-        "py": 43595,
-        "txt": 15
-    },
-    "pep8_infringement": 6189,
     "shebang": {
         "#!/usr/bin/env python": 6
     }

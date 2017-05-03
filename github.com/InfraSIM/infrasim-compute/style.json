@@ -29,6 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 35,
+        "conf": 244,
+        "default": 94,
+        "emu": 22477,
+        "example": 271,
+        "py": 14281,
+        "rst": 152,
+        "txt": 19,
+        "yml": 90
+    },
+    "pep8_infringement": 588,
     "requirements": [
         "cffi==1.7.0",
         "coverage>=3.6",
@@ -50,19 +63,6 @@
         "ssh==1.8.0",
         "texttable==0.8.7"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 35,
-        "conf": 244,
-        "default": 94,
-        "emu": 22477,
-        "example": 271,
-        "py": 14281,
-        "rst": 152,
-        "txt": 19,
-        "yml": 90
-    },
-    "pep8_infringement": 648,
     "shebang": {
         "#!/usr/bin/env python": 10,
         "#!/usr/bin/python": 3

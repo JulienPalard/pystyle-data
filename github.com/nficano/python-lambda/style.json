@@ -29,6 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "ISC",
+    "lines_of_code": {
+        "cfg": 15,
+        "in": 11,
+        "ini": 12,
+        "json": 4,
+        "py": 515,
+        "rst": 146,
+        "txt": 10,
+        "yaml": 15
+    },
+    "pep8_infringement": 2,
     "requirements": [
         "boto3==1.4.1",
         "botocore==1.4.61",
@@ -41,18 +53,6 @@
         "pyyaml==3.11",
         "six==1.10.0"
     ],
-    "license": "ISC",
-    "lines_of_code": {
-        "cfg": 15,
-        "in": 11,
-        "ini": 12,
-        "json": 4,
-        "py": 515,
-        "rst": 146,
-        "txt": 10,
-        "yaml": 15
-    },
-    "pep8_infringement": 0,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

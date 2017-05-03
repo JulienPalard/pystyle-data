@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django==1.9",
-        "djangorestframework==3.3.3",
-        "djangorestframework-jwt==1.8.0",
-        "inflection==0.3.1",
-        "mock==2.0.0",
-        "requests==2.10.0",
-        "uritemplate==0.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,
@@ -47,5 +38,14 @@
         "txt": 28
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "django==1.9",
+        "djangorestframework==3.3.3",
+        "djangorestframework-jwt==1.8.0",
+        "inflection==0.3.1",
+        "mock==2.0.0",
+        "requests==2.10.0",
+        "uritemplate==0.6"
+    ],
     "shebang": {}
 }

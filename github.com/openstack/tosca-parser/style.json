@@ -29,15 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "babel>=2.3.4,!=2.4.0",
-        "cliff>=2.3.0",
-        "pbr!=2.1.0,>=2.0.0",
-        "python-dateutil>=2.4.2",
-        "pyyaml>=3.10.0",
-        "requests!=2.13.0,>=2.10.0,!=2.12.2",
-        "six>=1.9.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 52,
@@ -51,6 +42,15 @@
         "zip": 1
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "babel>=2.3.4,!=2.4.0",
+        "cliff>=2.3.0",
+        "pbr>=2.0.0,!=2.1.0",
+        "python-dateutil>=2.4.2",
+        "pyyaml>=3.10.0",
+        "requests!=2.13.0,!=2.12.2,>=2.10.0",
+        "six>=1.9.0"
+    ],
     "shebang": {
         "#!/usr/bin/python": 8
     }

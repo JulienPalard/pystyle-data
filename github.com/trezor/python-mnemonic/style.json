@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pbkdf2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -41,7 +38,10 @@
         "rst": 24,
         "txt": 4096
     },
-    "pep8_infringement": 99,
+    "pep8_infringement": 98,
+    "requirements": [
+        "pbkdf2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

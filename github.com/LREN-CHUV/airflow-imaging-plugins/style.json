@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "airflow>=1.7.0",
-        "data-tracking>=1.5.4"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 8,
@@ -45,5 +41,9 @@
         "yml": 103
     },
     "pep8_infringement": 208,
+    "requirements": [
+        "airflow>=1.7.0",
+        "data-tracking>=1.5.4"
+    ],
     "shebang": {}
 }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask>=0.12.0",
-        "jinja2>=2.9.0",
-        "littlefish>=0.0.3"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 3,
@@ -43,6 +38,11 @@
         "py": 2310,
         "txt": 201
     },
-    "pep8_infringement": 257,
+    "pep8_infringement": 263,
+    "requirements": [
+        "flask>=0.12.0",
+        "jinja2>=2.9.0",
+        "littlefish>=0.0.3"
+    ],
     "shebang": {}
 }

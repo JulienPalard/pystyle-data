@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "md": 29,
@@ -37,5 +36,6 @@
         "rst": 56
     },
     "pep8_infringement": 27,
+    "requirements": [],
     "shebang": {}
 }

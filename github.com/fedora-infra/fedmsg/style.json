@@ -29,14 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "arrow",
-        "cryptography",
-        "kitchen",
-        "pyzmq",
-        "requests",
-        "six"
-    ],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "attr": 2,
@@ -62,7 +54,15 @@
         "sh": 21,
         "txt": 203
     },
-    "pep8_infringement": 121,
+    "pep8_infringement": 116,
+    "requirements": [
+        "arrow",
+        "cryptography",
+        "kitchen",
+        "pyzmq",
+        "requests",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

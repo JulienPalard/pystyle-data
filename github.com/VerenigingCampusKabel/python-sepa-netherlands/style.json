@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "sepa",
-        "signxml"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 2,
@@ -41,5 +36,10 @@
         "py": 255
     },
     "pep8_infringement": 27,
+    "requirements": [
+        "requests",
+        "sepa",
+        "signxml"
+    ],
     "shebang": {}
 }

@@ -29,17 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "certifi",
-        "ipaddress",
-        "oauth2client",
-        "python-dateutil",
-        "pyyaml",
-        "setuptools",
-        "six",
-        "urllib3!=1.21",
-        "websocket-client"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 7,
@@ -54,5 +43,16 @@
         "yaml": 17
     },
     "pep8_infringement": 13878,
+    "requirements": [
+        "certifi",
+        "ipaddress",
+        "oauth2client",
+        "python-dateutil",
+        "pyyaml",
+        "setuptools",
+        "six",
+        "urllib3!=1.21",
+        "websocket-client"
+    ],
     "shebang": {}
 }

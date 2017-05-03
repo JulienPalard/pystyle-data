@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "oauthenticator>=0.5.1",
-        "tornado>=4.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -41,6 +37,10 @@
         "txt": 3
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "oauthenticator>=0.5.1",
+        "tornado>=4.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "tzlocal"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +38,8 @@
         "rst": 18
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "tzlocal"
+    ],
     "shebang": {}
 }

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "datetime",
-        "numpy>=1.10.2",
-        "pandas>=0.16.2",
-        "pylogit",
-        "scipy>=0.16.1"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "csv": 3648,
@@ -45,6 +38,13 @@
         "rst": 43,
         "txt": 39
     },
-    "pep8_infringement": 925,
+    "pep8_infringement": 923,
+    "requirements": [
+        "datetime",
+        "numpy>=1.10.2",
+        "pandas>=0.16.2",
+        "pylogit",
+        "scipy>=0.16.1"
+    ],
     "shebang": {}
 }

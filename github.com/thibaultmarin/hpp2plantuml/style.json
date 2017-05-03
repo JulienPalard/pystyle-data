@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "argparse",
-        "cppheaderparser"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 13,
@@ -44,6 +40,10 @@
         "rst": 3557,
         "txt": 1
     },
-    "pep8_infringement": 48,
+    "pep8_infringement": 49,
+    "requirements": [
+        "argparse",
+        "cppheaderparser"
+    ],
     "shebang": {}
 }

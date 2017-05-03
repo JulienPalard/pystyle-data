@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "acme-tiny",
-        "fdb",
-        "ipy",
-        "pysftp",
-        "python-ldap",
-        "sqlalchemy",
-        "unidecode",
-        "validate-email"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "conf": 71,
@@ -55,6 +45,16 @@
         "xml": 6733,
         "yml": 5
     },
-    "pep8_infringement": 65,
+    "pep8_infringement": 54,
+    "requirements": [
+        "acme-tiny",
+        "fdb",
+        "ipy",
+        "pysftp",
+        "python-ldap",
+        "sqlalchemy",
+        "unidecode",
+        "validate-email"
+    ],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyserial>=2.7"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +38,9 @@
         "rst": 44,
         "txt": 2074
     },
-    "pep8_infringement": 491,
+    "pep8_infringement": 482,
+    "requirements": [
+        "pyserial>=2.7"
+    ],
     "shebang": {}
 }

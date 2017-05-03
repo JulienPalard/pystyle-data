@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click",
-        "psutil",
-        "requests"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 18,
@@ -41,7 +36,12 @@
         "rst": 178,
         "txt": 12
     },
-    "pep8_infringement": 18,
+    "pep8_infringement": 17,
+    "requirements": [
+        "click",
+        "psutil",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

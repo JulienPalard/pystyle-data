@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyactiveresource>=2.1.2",
-        "pyyaml",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 4,
@@ -43,6 +38,11 @@
         "py": 2598
     },
     "pep8_infringement": 381,
+    "requirements": [
+        "pyactiveresource>=2.1.2",
+        "pyyaml",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

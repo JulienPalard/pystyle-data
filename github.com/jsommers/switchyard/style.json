@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cffi>=1.10.0",
-        "colorama>=0.3.3",
-        "networkx>=1.8.1",
-        "psutil>=5.2.0"
-    ],
     "license": null,
     "lines_of_code": {
         "graffle": 3454,
@@ -44,7 +38,13 @@
         "sh": 35,
         "txt": 57
     },
-    "pep8_infringement": 3351,
+    "pep8_infringement": 3332,
+    "requirements": [
+        "cffi>=1.10.0",
+        "colorama>=0.3.3",
+        "networkx>=1.8.1",
+        "psutil>=5.2.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3,
         "#!/usr/bin/env python3": 18,

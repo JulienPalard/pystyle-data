@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyserial"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 8,
         "py": 4256,
         "rst": 3
     },
-    "pep8_infringement": 474,
+    "pep8_infringement": 473,
+    "requirements": [
+        "pyserial"
+    ],
     "shebang": {}
 }

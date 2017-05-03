@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "elasticsearch"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "json": 200,
@@ -44,6 +41,9 @@
         "yml": 165
     },
     "pep8_infringement": 66,
+    "requirements": [
+        "elasticsearch"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

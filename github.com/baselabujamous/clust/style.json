@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "md": 379,
+        "py": 3396,
+        "txt": 16268
+    },
+    "pep8_infringement": 649,
     "requirements": [
         "joblib",
         "matplotlib",
@@ -38,12 +45,5 @@
         "sklearn",
         "sompy"
     ],
-    "license": null,
-    "lines_of_code": {
-        "md": 379,
-        "py": 3396,
-        "txt": 16268
-    },
-    "pep8_infringement": 654,
     "shebang": {}
 }

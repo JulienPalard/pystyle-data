@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "binaryornot>=0.2.0",
-        "click>=5.0",
-        "future>=0.15.2",
-        "jinja2>=2.7",
-        "jinja2-time>=0.1.0",
-        "poyo>=0.1.0",
-        "whichcraft>=0.4.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -58,6 +49,15 @@
         "yml": 64
     },
     "pep8_infringement": 93,
+    "requirements": [
+        "binaryornot>=0.2.0",
+        "click>=5.0",
+        "future>=0.15.2",
+        "jinja2>=2.7",
+        "jinja2-time>=0.1.0",
+        "poyo>=0.1.0",
+        "whichcraft>=0.4.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 7
     }

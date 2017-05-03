@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dill==0.2.5",
-        "future==0.15.2",
-        "pip",
-        "progressbar2==3.10.1",
-        "requests==2.11.1",
-        "requests-toolbelt==0.7.0",
-        "terragon==0.3.1"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 170,
@@ -48,6 +39,15 @@
         "yaml": 2,
         "yml": 40
     },
-    "pep8_infringement": 289,
+    "pep8_infringement": 268,
+    "requirements": [
+        "dill==0.2.5",
+        "future==0.15.2",
+        "pip",
+        "progressbar2==3.10.1",
+        "requests==2.11.1",
+        "requests-toolbelt==0.7.0",
+        "terragon==0.3.1"
+    ],
     "shebang": {}
 }

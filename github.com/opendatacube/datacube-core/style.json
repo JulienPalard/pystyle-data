@@ -29,6 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 12,
+        "conf": 11,
+        "dbf": 2,
+        "in": 2,
+        "ini": 4,
+        "ipynb": 11059,
+        "prj": 1,
+        "py": 30269,
+        "rst": 2135,
+        "sh": 65,
+        "sql": 231,
+        "txt": 77,
+        "xml": 706,
+        "yaml": 8250,
+        "yml": 80
+    },
+    "pep8_infringement": 2171,
     "requirements": [
         "affine",
         "cachetools",
@@ -48,25 +67,6 @@
         "sqlalchemy",
         "xarray"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 12,
-        "conf": 11,
-        "dbf": 2,
-        "in": 2,
-        "ini": 4,
-        "ipynb": 11059,
-        "prj": 1,
-        "py": 30269,
-        "rst": 2135,
-        "sh": 65,
-        "sql": 231,
-        "txt": 77,
-        "xml": 706,
-        "yaml": 8250,
-        "yml": 80
-    },
-    "pep8_infringement": 2173,
     "shebang": {
         "#!/usr/bin/env python": 4
     }

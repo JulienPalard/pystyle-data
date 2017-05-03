@@ -29,6 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "aiml": 42,
+        "cfg": 21,
+        "css": 11161,
+        "html": 4432,
+        "in": 34,
+        "js": 9237,
+        "json": 1730,
+        "md": 44,
+        "po": 2990,
+        "pot": 927,
+        "py": 7608,
+        "rst": 17,
+        "screen": 6,
+        "sh": 180,
+        "svg": 302,
+        "txt": 156,
+        "xml": 11
+    },
+    "pep8_infringement": 1274,
     "requirements": [
         "aiml",
         "babel",
@@ -77,27 +98,6 @@
         "werkzeug",
         "wikipedia"
     ],
-    "license": null,
-    "lines_of_code": {
-        "aiml": 42,
-        "cfg": 21,
-        "css": 11161,
-        "html": 4432,
-        "in": 34,
-        "js": 9237,
-        "json": 1730,
-        "md": 44,
-        "po": 2990,
-        "pot": 927,
-        "py": 7608,
-        "rst": 17,
-        "screen": 6,
-        "sh": 180,
-        "svg": 302,
-        "txt": 156,
-        "xml": 11
-    },
-    "pep8_infringement": 1308,
     "shebang": {
         "#!/usr/bin/env python": 4
     }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django",
-        "django-annoying",
-        "premailer"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -46,5 +41,10 @@
         "txt": 11
     },
     "pep8_infringement": 43,
+    "requirements": [
+        "django",
+        "django-annoying",
+        "premailer"
+    ],
     "shebang": {}
 }

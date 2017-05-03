@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "six==1.10.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 3,
@@ -41,6 +38,9 @@
         "sh": 9
     },
     "pep8_infringement": 52,
+    "requirements": [
+        "six==1.10.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 5
     }

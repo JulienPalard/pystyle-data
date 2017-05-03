@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "nnpack>=0.1.0",
-        "numpy>=1.12.0",
-        "scipy>=0.18.1",
-        "tensorflow>=0.12.1"
-    ],
     "license": null,
     "lines_of_code": {
         "cc": 755,
@@ -47,6 +41,12 @@
         "pyx": 86,
         "txt": 277
     },
-    "pep8_infringement": 945,
+    "pep8_infringement": 944,
+    "requirements": [
+        "nnpack>=0.1.0",
+        "numpy>=1.12.0",
+        "scipy>=0.18.1",
+        "tensorflow>=0.12.1"
+    ],
     "shebang": {}
 }

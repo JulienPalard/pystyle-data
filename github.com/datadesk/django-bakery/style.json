@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3>=1.4.4",
-        "six>1.5.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bar": 1,
@@ -49,6 +45,10 @@
         "txt": 1271
     },
     "pep8_infringement": 120,
+    "requirements": [
+        "boto3>=1.4.4",
+        "six>1.5.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

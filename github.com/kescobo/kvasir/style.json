@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "biopython",
-        "pandas",
-        "pymongo"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,7 +37,12 @@
         "rb": 346,
         "txt": 3
     },
-    "pep8_infringement": 480,
+    "pep8_infringement": 479,
+    "requirements": [
+        "biopython",
+        "pandas",
+        "pymongo"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

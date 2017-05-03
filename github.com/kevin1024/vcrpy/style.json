@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyyaml",
-        "six>=1.5",
-        "wrapt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -47,6 +42,11 @@
         "yaml": 299
     },
     "pep8_infringement": 178,
+    "requirements": [
+        "pyyaml",
+        "six>=1.5",
+        "wrapt"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

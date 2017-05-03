@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "libtcod-cffi>=2.3.0,<3"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 281,
@@ -43,7 +40,10 @@
         "txt": 606,
         "txt#": 22
     },
-    "pep8_infringement": 838,
+    "pep8_infringement": 835,
+    "requirements": [
+        "libtcod-cffi>=2.3.0,<3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 16,
         "#!/usr/bin/env python2": 1,

@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click>=3.3",
-        "iso8601>=0.1.10",
-        "jsonpointer>=1.7",
-        "pyyaml>=3.11",
-        "requests>=2.4.3",
-        "rfc3987>=1.3.4",
-        "six>=1.7.3",
-        "validate-email>=1.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 7,
@@ -49,7 +39,17 @@
         "txt": 17,
         "yaml": 827
     },
-    "pep8_infringement": 374,
+    "pep8_infringement": 373,
+    "requirements": [
+        "click>=3.3",
+        "iso8601>=0.1.10",
+        "jsonpointer>=1.7",
+        "pyyaml>=3.11",
+        "requests>=2.4.3",
+        "rfc3987>=1.3.4",
+        "six>=1.7.3",
+        "validate-email>=1.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

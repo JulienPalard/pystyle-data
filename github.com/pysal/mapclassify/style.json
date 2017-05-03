@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pandas",
-        "scipy"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 59,
@@ -42,6 +37,11 @@
         "py": 2932,
         "txt": 3
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 162,
+    "requirements": [
+        "numpy",
+        "pandas",
+        "scipy"
+    ],
     "shebang": {}
 }

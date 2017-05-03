@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml",
-        "watchdog"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -45,6 +41,10 @@
         "txt": 3,
         "yml": 23
     },
-    "pep8_infringement": 465,
+    "pep8_infringement": 464,
+    "requirements": [
+        "pyyaml",
+        "watchdog"
+    ],
     "shebang": {}
 }

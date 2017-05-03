@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "btk",
-        "numpy",
-        "scipy",
-        "vtk"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 3,
@@ -43,6 +37,12 @@
         "rst": 57,
         "txt": 215
     },
-    "pep8_infringement": 669,
+    "pep8_infringement": 668,
+    "requirements": [
+        "btk",
+        "numpy",
+        "scipy",
+        "vtk"
+    ],
     "shebang": {}
 }

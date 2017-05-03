@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "joblib",
-        "numpy",
-        "scikit-learn",
-        "symfeat"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 598,
@@ -42,5 +36,11 @@
         "txt": 4
     },
     "pep8_infringement": 40,
+    "requirements": [
+        "joblib",
+        "numpy",
+        "scikit-learn",
+        "symfeat"
+    ],
     "shebang": {}
 }

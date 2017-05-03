@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "chorde",
-        "cython>=0.22",
-        "lz4",
-        "numpy",
-        "xxhash"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "nja": 31,
@@ -44,6 +37,13 @@
         "rst": 245,
         "txt": 6
     },
-    "pep8_infringement": 2376,
+    "pep8_infringement": 2374,
+    "requirements": [
+        "chorde",
+        "cython>=0.22",
+        "lz4",
+        "numpy",
+        "xxhash"
+    ],
     "shebang": {}
 }

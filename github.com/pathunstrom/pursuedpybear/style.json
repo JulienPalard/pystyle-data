@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pygame"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -39,5 +36,8 @@
         "py": 467
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "pygame"
+    ],
     "shebang": {}
 }

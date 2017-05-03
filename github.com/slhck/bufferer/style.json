@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docopt"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -40,6 +37,9 @@
         "txt": 1
     },
     "pep8_infringement": 57,
+    "requirements": [
+        "docopt"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

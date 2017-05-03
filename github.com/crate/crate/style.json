@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "Plugin": 3,
+        "bat": 208,
+        "conf": 14,
+        "css": 36,
+        "css_t": 256,
+        "g4": 835,
+        "gradle": 2037,
+        "groovy": 377,
+        "html": 258,
+        "java": 237746,
+        "json": 287,
+        "plugin": 0,
+        "properties": 242,
+        "py": 2944,
+        "rst": 558,
+        "sh": 184,
+        "sql": 781,
+        "tsv": 672,
+        "txt": 46782,
+        "xml": 223,
+        "yml": 1731,
+        "zone": 6
+    },
+    "pep8_infringement": 68,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

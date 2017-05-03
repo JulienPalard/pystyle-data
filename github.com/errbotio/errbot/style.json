@@ -29,22 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "ansi",
-        "bottle",
-        "colorlog",
-        "dnspython3",
-        "jinja2",
-        "markdown",
-        "pygments>=2.0.2",
-        "pygments-markdown-lexer>=0.1.0.dev39",
-        "pyopenssl",
-        "requests",
-        "rocket-errbot",
-        "setuptools",
-        "webtest",
-        "yapsy>=1.11"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 7,
@@ -68,6 +52,22 @@
         "txt": 1334
     },
     "pep8_infringement": 163,
+    "requirements": [
+        "ansi",
+        "bottle",
+        "colorlog",
+        "dnspython3",
+        "jinja2",
+        "markdown",
+        "pygments>=2.0.2",
+        "pygments-markdown-lexer>=0.1.0.dev39",
+        "pyopenssl",
+        "requests",
+        "rocket-errbot",
+        "setuptools",
+        "webtest",
+        "yapsy>=1.11"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4,
         "#!/usr/bin/env python3": 3

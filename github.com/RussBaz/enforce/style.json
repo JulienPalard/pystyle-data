@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "wrapt"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 315,
@@ -42,5 +39,8 @@
         "yml": 14
     },
     "pep8_infringement": 397,
+    "requirements": [
+        "wrapt"
+    ],
     "shebang": {}
 }

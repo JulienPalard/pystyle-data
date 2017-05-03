@@ -29,27 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "Unknown (setuptools!=24.0.0,!=34.0.0,!=34.0.1,!=34.0.2,!=34.0.3,!=34.1.0,!=34.1.1,!=34.2.0,!=34.3.0,!=34.3.1,!=34.3.2,>=16.0 )",
-        "apscheduler",
-        "keystoneauth1>=2.18.0",
-        "os-brick>=1.8.0",
-        "oslo.config>=3.22.0",
-        "oslo.log>=3.22.0",
-        "oslo.utils>=3.20.0",
-        "paramiko>=2.0",
-        "pbr!=2.1.0,>=2.0.0",
-        "psutil>=3.2.2",
-        "pycrypto>=2.6",
-        "pymongo>=3.0.2,!=3.1",
-        "pymysql>=0.7.6",
-        "python-cinderclient>=2.0.1",
-        "python-freezerclient>=1.3.0",
-        "python-glanceclient>=2.5.0",
-        "python-novaclient>=7.1.0",
-        "python-swiftclient>=3.2.0",
-        "six>=1.9.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 71,
@@ -64,7 +43,28 @@
         "txt": 62,
         "yaml": 19
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 117,
+    "requirements": [
+        "Unknown (setuptools!=24.0.0,!=34.0.0,!=34.0.1,!=34.0.2,!=34.0.3,!=34.1.0,!=34.1.1,!=34.2.0,!=34.3.0,!=34.3.1,!=34.3.2,>=16.0 )",
+        "apscheduler",
+        "keystoneauth1>=2.18.0",
+        "os-brick>=1.8.0",
+        "oslo.config>=3.22.0",
+        "oslo.log>=3.22.0",
+        "oslo.utils>=3.20.0",
+        "paramiko>=2.0",
+        "pbr>=2.0.0,!=2.1.0",
+        "psutil>=3.2.2",
+        "pycrypto>=2.6",
+        "pymongo>=3.0.2,!=3.1",
+        "pymysql>=0.7.6",
+        "python-cinderclient>=2.0.1",
+        "python-freezerclient>=1.3.0",
+        "python-glanceclient>=2.5.0",
+        "python-novaclient>=7.1.0",
+        "python-swiftclient>=3.2.0",
+        "six>=1.9.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

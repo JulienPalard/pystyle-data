@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gymail",
-        "helputils",
-        "psycopg2"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 120,
@@ -42,7 +37,12 @@
         "rules": 1,
         "txt": 51
     },
-    "pep8_infringement": 317,
+    "pep8_infringement": 312,
+    "requirements": [
+        "gymail",
+        "helputils",
+        "psycopg2"
+    ],
     "shebang": {
         "#!/usr/bin/python3": 14
     }

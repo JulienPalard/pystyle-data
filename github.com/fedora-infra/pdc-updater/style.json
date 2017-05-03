@@ -29,6 +29,17 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "in": 7,
+        "json": 1357897,
+        "py": 5530,
+        "rpm": 0,
+        "rst": 825,
+        "txt": 29,
+        "yaml": 36
+    },
+    "pep8_infringement": 144,
     "requirements": [
         "dogpile.cache",
         "fedmsg",
@@ -41,16 +52,5 @@
         "requests",
         "six"
     ],
-    "license": "LGPL-2.1",
-    "lines_of_code": {
-        "in": 7,
-        "json": 1357897,
-        "py": 5530,
-        "rpm": 0,
-        "rst": 825,
-        "txt": 29,
-        "yaml": 36
-    },
-    "pep8_infringement": 144,
     "shebang": {}
 }

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "fs>=2",
-        "geoid",
-        "pandas",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "csv": 8,
@@ -42,7 +36,13 @@
         "py": 1255,
         "rst": 18
     },
-    "pep8_infringement": 154,
+    "pep8_infringement": 153,
+    "requirements": [
+        "fs>=2",
+        "geoid",
+        "pandas",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

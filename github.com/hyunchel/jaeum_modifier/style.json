@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "hangulize<=0.0.7"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 531,
@@ -39,5 +36,8 @@
         "txt": 18
     },
     "pep8_infringement": 15,
+    "requirements": [
+        "hangulize<=0.0.7"
+    ],
     "shebang": {}
 }

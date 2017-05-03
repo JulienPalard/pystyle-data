@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "mpich2",
     "lines_of_code": {
         "arff": 865,
@@ -42,6 +41,7 @@
         "txt": 429
     },
     "pep8_infringement": 547,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

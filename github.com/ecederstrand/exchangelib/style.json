@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 3,
+        "md": 11,
+        "py": 12910,
+        "rst": 702,
+        "sample": 5,
+        "yml": 15
+    },
+    "pep8_infringement": 2508,
     "requirements": [
         "cached-property",
         "dnspython>=1.14.0",
@@ -40,16 +50,6 @@
         "six",
         "tzlocal"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 3,
-        "md": 11,
-        "py": 12910,
-        "rst": 702,
-        "sample": 5,
-        "yml": 15
-    },
-    "pep8_infringement": 2510,
     "shebang": {
         "#!/usr/bin/env python": 2
     }

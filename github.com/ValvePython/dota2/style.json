@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gevent>=1.1",
-        "gevent-eventemitter>=2.0",
-        "protobuf>=3.0.0",
-        "steam>=0.8.12"
-    ],
     "license": null,
     "lines_of_code": {
         "proto": 10888,
@@ -43,6 +37,12 @@
         "txt": 25
     },
     "pep8_infringement": 12177,
+    "requirements": [
+        "gevent>=1.1",
+        "gevent-eventemitter>=2.0",
+        "protobuf>=3.0.0",
+        "steam>=0.8.12"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

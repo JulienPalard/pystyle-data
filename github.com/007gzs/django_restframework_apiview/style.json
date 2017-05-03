@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django",
-        "django-extensions",
-        "djangorestframework",
-        "peppercorn"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "html": 177,
@@ -44,7 +38,13 @@
         "rst": 16,
         "txt": 5
     },
-    "pep8_infringement": 437,
+    "pep8_infringement": 433,
+    "requirements": [
+        "django",
+        "django-extensions",
+        "djangorestframework",
+        "peppercorn"
+    ],
     "shebang": {
         "#! usr/bin/env python": 20,
         "#!/usr/bin/env python": 1

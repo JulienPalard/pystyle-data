@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3",
-        "click",
-        "configparser",
-        "lxml",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -44,6 +37,13 @@
         "py": 1640
     },
     "pep8_infringement": 121,
+    "requirements": [
+        "boto3",
+        "click",
+        "configparser",
+        "lxml",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

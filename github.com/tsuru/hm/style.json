@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "py": 2651,
+        "rst": 6
+    },
+    "pep8_infringement": 190,
     "requirements": [
         "boto==2.25.0",
         "globonetworkapi==0.2.2",
         "pymongo==3.3.0",
         "requests==2.4.3"
     ],
-    "license": "BSD-3-Clause",
-    "lines_of_code": {
-        "py": 2651,
-        "rst": 6
-    },
-    "pep8_infringement": 195,
     "shebang": {}
 }

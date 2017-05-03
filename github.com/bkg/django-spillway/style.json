@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django",
-        "djangorestframework>=3.1.0",
-        "greenwich>=0.3"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 2,
@@ -43,7 +38,12 @@
         "svg": 9,
         "txt": 4
     },
-    "pep8_infringement": 234,
+    "pep8_infringement": 233,
+    "requirements": [
+        "django",
+        "djangorestframework>=3.1.0",
+        "greenwich>=0.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

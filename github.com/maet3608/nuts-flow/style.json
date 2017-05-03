@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest>=3.0.3"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "css": 708,
@@ -46,6 +43,9 @@
         "tsv": 3,
         "txt": 2616
     },
-    "pep8_infringement": 55,
+    "pep8_infringement": 62,
+    "requirements": [
+        "pytest>=3.0.3"
+    ],
     "shebang": {}
 }

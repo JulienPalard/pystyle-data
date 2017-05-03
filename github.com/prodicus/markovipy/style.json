@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "bumpversion==0.5.3",
-        "coverage==4.1",
-        "flake8==2.6.0",
-        "pytest==2.9.2",
-        "sphinx==1.4.8",
-        "tox==2.3.1",
-        "watchdog==0.8.3"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "bat": 242,
@@ -49,6 +40,15 @@
         "txt": 5388
     },
     "pep8_infringement": 63,
+    "requirements": [
+        "bumpversion==0.5.3",
+        "coverage==4.1",
+        "flake8==2.6.0",
+        "pytest==2.9.2",
+        "sphinx==1.4.8",
+        "tox==2.3.1",
+        "watchdog==0.8.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 6
     }

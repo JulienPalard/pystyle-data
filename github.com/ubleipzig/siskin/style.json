@@ -29,6 +29,31 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "bib": 90,
+        "bst": 1258,
+        "cfg": 22,
+        "csv": 4695,
+        "dat": 24,
+        "dot": 157,
+        "flux": 194,
+        "gp": 9,
+        "gz": 0,
+        "ini": 132,
+        "js": 136,
+        "json": 164,
+        "ldj": 1000,
+        "md": 2120,
+        "py": 10068,
+        "sh": 385,
+        "template": 0,
+        "tex": 515,
+        "tsv": 1795,
+        "txt": 8,
+        "xml": 2157
+    },
+    "pep8_infringement": 707,
     "requirements": [
         "argparse>=1.2",
         "astroid>=1.1.1",
@@ -65,31 +90,6 @@
         "urllib3>=1.10",
         "wsgiref>=0.1.2"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "bib": 90,
-        "bst": 1258,
-        "cfg": 22,
-        "csv": 4695,
-        "dat": 24,
-        "dot": 157,
-        "flux": 194,
-        "gp": 9,
-        "gz": 0,
-        "ini": 132,
-        "js": 136,
-        "json": 164,
-        "ldj": 1000,
-        "md": 2120,
-        "py": 10068,
-        "sh": 385,
-        "template": 0,
-        "tex": 515,
-        "tsv": 1795,
-        "txt": 8,
-        "xml": 2157
-    },
-    "pep8_infringement": 707,
     "shebang": {
         "#!/usr/bin/env python": 31
     }

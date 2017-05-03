@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "marshmallow",
-        "pyramid",
-        "six",
-        "sqlalchemy"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -44,6 +38,12 @@
         "py": 3233
     },
     "pep8_infringement": 120,
+    "requirements": [
+        "marshmallow",
+        "pyramid",
+        "six",
+        "sqlalchemy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

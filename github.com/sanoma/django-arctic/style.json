@@ -29,25 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "Unknown (.)",
-        "django>=1.8.12,<1.11",
-        "django-betterforms==1.1.4",
-        "django-extra-views==0.9.0",
-        "django-filter==1.0.1",
-        "django-widget-tweaks==1.4.1",
-        "factory-boy==2.8.1",
-        "faker==0.7.7",
-        "flake8==3.3.0",
-        "isort==4.2.5",
-        "mixer==5.6.6",
-        "pep8==1.7.0",
-        "pypandoc==1.4",
-        "pytest==3.0.6",
-        "pytest-cov==2.4.0",
-        "pytest-django==3.1.2",
-        "pytest-pythonpath==0.7.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 25,
@@ -65,7 +46,26 @@
         "txt": 21,
         "yml": 99
     },
-    "pep8_infringement": 19,
+    "pep8_infringement": 15,
+    "requirements": [
+        "Unknown (.)",
+        "django<1.11,>=1.8.12",
+        "django-betterforms==1.1.4",
+        "django-extra-views==0.9.0",
+        "django-filter==1.0.1",
+        "django-widget-tweaks==1.4.1",
+        "factory-boy==2.8.1",
+        "faker==0.7.7",
+        "flake8==3.3.0",
+        "isort==4.2.5",
+        "mixer==5.6.6",
+        "pep8==1.7.0",
+        "pypandoc==1.4",
+        "pytest==3.0.6",
+        "pytest-cov==2.4.0",
+        "pytest-django==3.1.2",
+        "pytest-pythonpath==0.7.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

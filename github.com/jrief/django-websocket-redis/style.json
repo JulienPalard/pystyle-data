@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "gevent",
-        "greenlet",
-        "redis",
-        "setuptools",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 274,
@@ -48,7 +41,14 @@
         "sample": 33,
         "txt": 46
     },
-    "pep8_infringement": 659,
+    "pep8_infringement": 657,
+    "requirements": [
+        "gevent",
+        "greenlet",
+        "redis",
+        "setuptools",
+        "six"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 2,
         "#!/usr/bin/env python": 2

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cement",
-        "colorlog",
-        "pyyaml",
-        "requests"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 9,
@@ -44,5 +38,11 @@
         "yml": 53
     },
     "pep8_infringement": 87,
+    "requirements": [
+        "cement",
+        "colorlog",
+        "pyyaml",
+        "requests"
+    ],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "Unknown (.)"
-    ],
     "license": null,
     "lines_of_code": {
         "asc": 16325,
@@ -54,7 +51,10 @@
         "yaml": 482,
         "yml": 9
     },
-    "pep8_infringement": 273,
+    "pep8_infringement": 271,
+    "requirements": [
+        "Unknown (.)"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

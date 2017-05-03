@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8",
-        "ldap3==2.2.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 4,
@@ -41,6 +37,10 @@
         "rst": 321
     },
     "pep8_infringement": 37,
+    "requirements": [
+        "django>=1.8",
+        "ldap3==2.2.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "future",
-        "requests",
-        "websocket-client"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 17,
@@ -44,6 +39,11 @@
         "txt": 34
     },
     "pep8_infringement": 60,
+    "requirements": [
+        "future",
+        "requests",
+        "websocket-client"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 7
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycrypto"
-    ],
     "license": null,
     "lines_of_code": {
         "csv": 2,
@@ -44,5 +41,8 @@
         "yml": 10
     },
     "pep8_infringement": 29,
+    "requirements": [
+        "pycrypto"
+    ],
     "shebang": {}
 }

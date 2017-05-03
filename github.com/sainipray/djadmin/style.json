@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "geocoder",
-        "user-agents"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 2038,
@@ -44,7 +40,11 @@
         "rst": 170,
         "svg": 769
     },
-    "pep8_infringement": 261,
+    "pep8_infringement": 260,
+    "requirements": [
+        "geocoder",
+        "user-agents"
+    ],
     "shebang": {
         "#!/usr/bin/python": 4
     }

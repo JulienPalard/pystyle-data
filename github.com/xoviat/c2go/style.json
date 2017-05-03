@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycparser"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "c": 3029,
@@ -46,6 +43,9 @@
         "txt": 5
     },
     "pep8_infringement": 102,
+    "requirements": [
+        "pycparser"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

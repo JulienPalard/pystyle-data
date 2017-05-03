@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cffi>=1.0",
-        "fibers>=0.4",
-        "pyuv>=1.1",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "c": 3176,
@@ -46,6 +40,12 @@
         "rst": 1163,
         "txt": 78
     },
-    "pep8_infringement": 1277,
+    "pep8_infringement": 1270,
+    "requirements": [
+        "cffi>=1.0",
+        "fibers>=0.4",
+        "pyuv>=1.1",
+        "six"
+    ],
     "shebang": {}
 }

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "LGPL-2.1",
     "lines_of_code": {
         "glade": 4519,
@@ -45,7 +44,8 @@
         "ui": 2470,
         "xml": 50
     },
-    "pep8_infringement": 2646,
+    "pep8_infringement": 2637,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

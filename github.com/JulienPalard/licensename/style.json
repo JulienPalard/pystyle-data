@@ -29,9 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "textunwrap"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 22,
@@ -40,6 +37,9 @@
         "txt": 20802
     },
     "pep8_infringement": 124,
+    "requirements": [
+        "textunwrap"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 2

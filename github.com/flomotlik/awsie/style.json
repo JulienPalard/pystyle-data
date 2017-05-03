@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
@@ -42,5 +39,8 @@
         "yml": 13
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "boto3"
+    ],
     "shebang": {}
 }

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 15,
@@ -40,6 +39,7 @@
         "sublime-project": 28
     },
     "pep8_infringement": 108,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

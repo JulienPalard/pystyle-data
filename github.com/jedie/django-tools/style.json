@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 9,
@@ -44,6 +41,9 @@
         "txt": 17
     },
     "pep8_infringement": 957,
+    "requirements": [
+        "django>=1.8"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

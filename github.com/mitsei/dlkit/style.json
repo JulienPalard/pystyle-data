@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto",
-        "bs4",
-        "inflection",
-        "lxml",
-        "numpy",
-        "pymongo",
-        "python-memcached",
-        "sympy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 5,
@@ -54,6 +44,16 @@
         "txt": 25,
         "xml": 11
     },
-    "pep8_infringement": 30354,
+    "pep8_infringement": 30303,
+    "requirements": [
+        "boto",
+        "bs4",
+        "inflection",
+        "lxml",
+        "numpy",
+        "pymongo",
+        "python-memcached",
+        "sympy"
+    ],
     "shebang": {}
 }

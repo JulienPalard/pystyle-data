@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "iso8601",
-        "translationstring"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 37,
@@ -44,5 +40,9 @@
         "txt": 188
     },
     "pep8_infringement": 477,
+    "requirements": [
+        "iso8601",
+        "translationstring"
+    ],
     "shebang": {}
 }

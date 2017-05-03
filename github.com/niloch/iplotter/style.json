@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ipython>=3.0",
-        "jinja2>=2.0",
-        "notebook>=3.0",
-        "selenium>=3.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -44,5 +38,11 @@
         "yml": 8
     },
     "pep8_infringement": 23,
+    "requirements": [
+        "ipython>=3.0",
+        "jinja2>=2.0",
+        "notebook>=3.0",
+        "selenium>=3.0"
+    ],
     "shebang": {}
 }

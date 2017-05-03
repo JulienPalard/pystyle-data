@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bottle",
-        "pyreact"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "jsx": 32,
@@ -41,5 +37,9 @@
         "tpl": 26
     },
     "pep8_infringement": 497,
+    "requirements": [
+        "bottle",
+        "pyreact"
+    ],
     "shebang": {}
 }

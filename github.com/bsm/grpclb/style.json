@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "gemspec": 13,
@@ -42,5 +41,6 @@
         "yaml": 23
     },
     "pep8_infringement": 153,
+    "requirements": [],
     "shebang": {}
 }

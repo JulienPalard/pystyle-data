@@ -29,6 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 847
+    },
+    "pep8_infringement": 113,
     "requirements": [
         "click>=6.6",
         "formaller>=0.1.2",
@@ -36,10 +41,5 @@
         "profig>=0.4.1",
         "six"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 847
-    },
-    "pep8_infringement": 113,
     "shebang": {}
 }

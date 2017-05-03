@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 5,
+        "css": 352,
+        "html": 1886,
+        "in": 15,
+        "ini": 50,
+        "js": 2415,
+        "json": 745,
+        "py": 11830,
+        "rst": 410,
+        "tsv": 40666,
+        "txt": 18119
+    },
+    "pep8_infringement": 1244,
     "requirements": [
         "click",
         "flask",
@@ -46,21 +61,6 @@
         "scipy",
         "sqlalchemy"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 5,
-        "css": 352,
-        "html": 1820,
-        "in": 15,
-        "ini": 50,
-        "js": 2353,
-        "json": 745,
-        "py": 11652,
-        "rst": 410,
-        "tsv": 40666,
-        "txt": 18119
-    },
-    "pep8_infringement": 1221,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
@@ -38,5 +37,6 @@
         "rst": 721
     },
     "pep8_infringement": 377,
+    "requirements": [],
     "shebang": {}
 }

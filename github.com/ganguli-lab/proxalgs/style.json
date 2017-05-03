@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "scipy",
-        "tableprint",
-        "toolz"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 605,
@@ -47,6 +41,12 @@
         "svg": 414,
         "txt": 226
     },
-    "pep8_infringement": 103,
+    "pep8_infringement": 106,
+    "requirements": [
+        "numpy",
+        "scipy",
+        "tableprint",
+        "toolz"
+    ],
     "shebang": {}
 }

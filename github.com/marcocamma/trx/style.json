@@ -29,6 +29,13 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 24,
+        "py": 2035,
+        "rst": 4
+    },
+    "pep8_infringement": 2489,
     "requirements": [
         "datastorage",
         "fabio",
@@ -36,12 +43,5 @@
         "numpy",
         "pyfai"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "md": 24,
-        "py": 2035,
-        "rst": 4
-    },
-    "pep8_infringement": 2490,
     "shebang": {}
 }

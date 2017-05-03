@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 152,
@@ -44,7 +41,10 @@
         "rockspec": 35,
         "sh": 72
     },
-    "pep8_infringement": 72,
+    "pep8_infringement": 71,
+    "requirements": [
+        "numpy"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

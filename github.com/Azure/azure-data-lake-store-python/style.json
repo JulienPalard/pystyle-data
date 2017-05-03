@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "adal>=0.4.2",
-        "cffi",
-        "msrest~=0.4.5"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 263,
@@ -49,7 +44,12 @@
         "yaml": 26567,
         "yml": 20
     },
-    "pep8_infringement": 336,
+    "pep8_infringement": 337,
+    "requirements": [
+        "adal>=0.4.2",
+        "cffi",
+        "msrest~=0.4.5"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 1

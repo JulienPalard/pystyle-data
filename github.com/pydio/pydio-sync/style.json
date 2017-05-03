@@ -29,24 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "appdirs==1.4.0",
-        "argh==0.24.1",
-        "cffi==0.8.6",
-        "flask==0.10.1",
-        "flask-restful==0.2.12",
-        "keyring==4.0",
-        "memory-profiler>=0.32",
-        "netifaces==0.10.4",
-        "pathlib==0.97",
-        "pathtools==0.1.2",
-        "pydispatcher==2.0.3",
-        "pyyaml==3.10",
-        "requests==2.5.1",
-        "six>=1.9.0",
-        "watchdog==0.8.1",
-        "xmltodict"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 5,
@@ -65,6 +47,24 @@
         "txt": 217,
         "wflow": 217
     },
-    "pep8_infringement": 1466,
+    "pep8_infringement": 1464,
+    "requirements": [
+        "appdirs==1.4.0",
+        "argh==0.24.1",
+        "cffi==0.8.6",
+        "flask==0.10.1",
+        "flask-restful==0.2.12",
+        "keyring==4.0",
+        "memory-profiler>=0.32",
+        "netifaces==0.10.4",
+        "pathlib==0.97",
+        "pathtools==0.1.2",
+        "pydispatcher==2.0.3",
+        "pyyaml==3.10",
+        "requests==2.5.1",
+        "six>=1.9.0",
+        "watchdog==0.8.1",
+        "xmltodict"
+    ],
     "shebang": {}
 }

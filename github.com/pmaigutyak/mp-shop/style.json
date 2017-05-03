@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django-model-search",
-        "natsort"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 3,
@@ -45,5 +41,9 @@
         "txt": 16
     },
     "pep8_infringement": 69,
+    "requirements": [
+        "django-model-search",
+        "natsort"
+    ],
     "shebang": {}
 }

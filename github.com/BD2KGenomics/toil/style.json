@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bd2k-python-lib>=1.14a1.dev35",
-        "dill==0.2.5",
-        "six>=1.10.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
@@ -45,6 +40,11 @@
         "sh": 702,
         "txt": 32
     },
-    "pep8_infringement": 5420,
+    "pep8_infringement": 5386,
+    "requirements": [
+        "bd2k-python-lib>=1.14a1.dev35",
+        "dill==0.2.5",
+        "six>=1.10.0"
+    ],
     "shebang": {}
 }

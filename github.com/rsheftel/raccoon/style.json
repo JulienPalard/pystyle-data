@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "blist",
-        "tabulate"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 262,
@@ -42,7 +38,11 @@
         "rst": 2851,
         "sh": 7
     },
-    "pep8_infringement": 523,
+    "pep8_infringement": 524,
+    "requirements": [
+        "blist",
+        "tabulate"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

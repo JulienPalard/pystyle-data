@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "glfw==1.4.0",
-        "pillow==4.0.0",
-        "pyopengl==3.1.0",
-        "pyrocket==0.2.5",
-        "pyrr==0.8.2"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "bat": 36,
@@ -49,7 +42,14 @@
         "sh": 4,
         "txt": 23
     },
-    "pep8_infringement": 188,
+    "pep8_infringement": 187,
+    "requirements": [
+        "glfw==1.4.0",
+        "pillow==4.0.0",
+        "pyopengl==3.1.0",
+        "pyrocket==0.2.5",
+        "pyrr==0.8.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

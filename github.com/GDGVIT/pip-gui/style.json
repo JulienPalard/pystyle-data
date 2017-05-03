@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4<4.5.4,>=4.5"
-    ],
     "license": null,
     "lines_of_code": {
         "json": 10,
@@ -39,6 +36,9 @@
         "py": 951,
         "txt": 104638
     },
-    "pep8_infringement": 130,
+    "pep8_infringement": 128,
+    "requirements": [
+        "beautifulsoup4>=4.5,<4.5.4"
+    ],
     "shebang": {}
 }

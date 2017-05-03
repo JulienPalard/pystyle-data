@@ -29,6 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 242,
+        "cfg": 19,
+        "in": 17,
+        "ini": 24,
+        "py": 629,
+        "rst": 362,
+        "txt": 16,
+        "wsdl": 64,
+        "xsd": 125,
+        "yaml": 164
+    },
+    "pep8_infringement": 49,
     "requirements": [
         "bumpversion==0.5.3",
         "click==6.7",
@@ -46,20 +60,6 @@
         "wheel==0.29.0",
         "zeep==1.5.0"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "bat": 242,
-        "cfg": 19,
-        "in": 17,
-        "ini": 24,
-        "py": 629,
-        "rst": 362,
-        "txt": 16,
-        "wsdl": 64,
-        "xsd": 125,
-        "yaml": 164
-    },
-    "pep8_infringement": 49,
     "shebang": {
         "#!/usr/bin/env python": 3
     }

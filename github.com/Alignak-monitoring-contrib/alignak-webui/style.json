@@ -29,23 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "alignak-backend",
-        "alignak-backend-client",
-        "beaker==1.8.0",
-        "bottle<0.13,>=0.12.9",
-        "cherrypy<9.0.0",
-        "configparser",
-        "docopt",
-        "future",
-        "pymongo>=3.2",
-        "python-dateutil==2.4.2",
-        "python-gettext",
-        "pytz",
-        "requests>=2.9.1",
-        "termcolor",
-        "uwsgi"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "attr": 1,
@@ -78,7 +61,24 @@
         "trig": 13,
         "txt": 37
     },
-    "pep8_infringement": 2022,
+    "pep8_infringement": 2018,
+    "requirements": [
+        "alignak-backend",
+        "alignak-backend-client",
+        "beaker==1.8.0",
+        "bottle<0.13,>=0.12.9",
+        "cherrypy<9.0.0",
+        "configparser",
+        "docopt",
+        "future",
+        "pymongo>=3.2",
+        "python-dateutil==2.4.2",
+        "python-gettext",
+        "pytz",
+        "requests>=2.9.1",
+        "termcolor",
+        "uwsgi"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 43,
         "#!/usr/bin/python": 67,

@@ -29,12 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "certifi",
-        "python-dateutil",
-        "six>=1.10",
-        "urllib3>=1.15"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "ini": 10,
@@ -43,5 +37,11 @@
         "txt": 10
     },
     "pep8_infringement": 333,
+    "requirements": [
+        "certifi",
+        "python-dateutil",
+        "six>=1.10",
+        "urllib3>=1.15"
+    ],
     "shebang": {}
 }

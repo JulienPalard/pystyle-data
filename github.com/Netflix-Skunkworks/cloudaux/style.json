@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto>=2.41.0",
-        "boto3>=1.4.2",
-        "botocore>=1.4.81",
-        "google-api-python-client>=1.6.1",
-        "google-cloud-storage==0.22.0",
-        "inflection",
-        "joblib>=0.9.4"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -47,5 +38,14 @@
         "py": 3100
     },
     "pep8_infringement": 182,
+    "requirements": [
+        "boto>=2.41.0",
+        "boto3>=1.4.2",
+        "botocore>=1.4.81",
+        "google-api-python-client>=1.6.1",
+        "google-cloud-storage==0.22.0",
+        "inflection",
+        "joblib>=0.9.4"
+    ],
     "shebang": {}
 }

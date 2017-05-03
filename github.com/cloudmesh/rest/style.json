@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "coverage",
-        "detox",
-        "eve",
-        "flake8",
-        "psutil",
-        "pygments",
-        "ruamel.yaml",
-        "tox"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bst": 7549,
@@ -56,6 +46,16 @@
         "yml": 941
     },
     "pep8_infringement": 82,
+    "requirements": [
+        "coverage",
+        "detox",
+        "eve",
+        "flake8",
+        "psutil",
+        "pygments",
+        "ruamel.yaml",
+        "tox"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

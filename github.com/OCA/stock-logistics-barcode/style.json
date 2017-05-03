@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "viivakoodi"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "csv": 164,
@@ -48,7 +45,10 @@
         "xml": 3308,
         "yml": 22
     },
-    "pep8_infringement": 55,
+    "pep8_infringement": 52,
+    "requirements": [
+        "viivakoodi"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

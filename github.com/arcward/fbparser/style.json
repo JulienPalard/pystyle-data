@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "python-dateutil>=2.5.3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 687,
         "rst": 90
     },
     "pep8_infringement": 74,
+    "requirements": [
+        "python-dateutil>=2.5.3"
+    ],
     "shebang": {}
 }

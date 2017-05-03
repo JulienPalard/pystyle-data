@@ -21,7 +21,7 @@
         "Makefile": false,
         "README": false,
         "README.md": true,
-        "README.rst": true,
+        "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 340,
@@ -44,5 +43,6 @@
         "xml": 7636
     },
     "pep8_infringement": 9,
+    "requirements": [],
     "shebang": {}
 }

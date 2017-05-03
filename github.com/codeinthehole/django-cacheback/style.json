@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django>=1.8,<2.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "celery": 2,
@@ -47,6 +44,9 @@
         "txt": 1
     },
     "pep8_infringement": 114,
+    "requirements": [
+        "django<2.0,>=1.8"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

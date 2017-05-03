@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 4,
+        "py": 4010,
+        "rst": 496,
+        "txt": 14
+    },
+    "pep8_infringement": 217,
     "requirements": [
         "aiohttp==0.21.5",
         "beautifulsoup4==4.5.3",
@@ -45,14 +53,6 @@
         "selenium==3.0.2",
         "sqlalchemy==1.0.12"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "in": 4,
-        "py": 4010,
-        "rst": 496,
-        "txt": 14
-    },
-    "pep8_infringement": 225,
     "shebang": {
         "#!/usr/bin/env python3": 2,
         "#!/usr/bin/python3": 15

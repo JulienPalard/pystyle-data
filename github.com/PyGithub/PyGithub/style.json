@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyjwt"
-    ],
     "license": null,
     "lines_of_code": {
         "LESSER": 165,
@@ -43,6 +40,9 @@
         "txt": 11216
     },
     "pep8_infringement": 5458,
+    "requirements": [
+        "pyjwt"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4
     }

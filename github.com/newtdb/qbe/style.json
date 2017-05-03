@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "newt.db>=0.5.1",
-        "relstorage>=2.1a2",
-        "setuptools"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 13,
@@ -43,5 +38,10 @@
         "txt": 21
     },
     "pep8_infringement": 93,
+    "requirements": [
+        "newt.db>=0.5.1",
+        "relstorage>=2.1a2",
+        "setuptools"
+    ],
     "shebang": {}
 }

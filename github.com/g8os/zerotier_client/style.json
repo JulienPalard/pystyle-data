@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "json": 1498,
@@ -39,5 +38,6 @@
         "sh": 1
     },
     "pep8_infringement": 55,
+    "requirements": [],
     "shebang": {}
 }

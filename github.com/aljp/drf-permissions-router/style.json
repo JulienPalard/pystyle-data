@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.8",
-        "djangorestframework>=2.4.3"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 1,
@@ -41,6 +37,10 @@
         "txt": 5
     },
     "pep8_infringement": 23,
+    "requirements": [
+        "django>=1.8",
+        "djangorestframework>=2.4.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

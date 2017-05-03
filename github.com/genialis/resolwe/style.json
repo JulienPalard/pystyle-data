@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 29,
+        "in": 27,
+        "ini": 50,
+        "json": 796,
+        "md": 16,
+        "py": 15914,
+        "rst": 1373,
+        "sh": 168,
+        "txt": 17,
+        "yaml": 664,
+        "yml": 710
+    },
+    "pep8_infringement": 50,
     "requirements": [
         "django~=1.10.5",
         "django-autoslug==1.9.4-dev",
@@ -46,21 +61,6 @@
         "six>=1.10.0",
         "sphinx>=1.5.1"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 29,
-        "in": 27,
-        "ini": 50,
-        "json": 796,
-        "md": 16,
-        "py": 15914,
-        "rst": 1373,
-        "sh": 168,
-        "txt": 17,
-        "yaml": 664,
-        "yml": 710
-    },
-    "pep8_infringement": 53,
     "shebang": {
         "#!/usr/bin/env python": 2,
         "#!/usr/bin/env python3": 2

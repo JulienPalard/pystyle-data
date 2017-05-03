@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "flask>=0.10",
-        "mongonorm>=2.0"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "py": 40,
@@ -40,5 +36,9 @@
         "txt": 25
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "flask>=0.10",
+        "mongonorm>=2.0"
+    ],
     "shebang": {}
 }

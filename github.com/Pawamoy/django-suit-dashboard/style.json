@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "django-braces"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 41,
@@ -45,6 +42,9 @@
         "txt": 56
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "django-braces"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

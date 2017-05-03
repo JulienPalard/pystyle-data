@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cffi>=1.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cmd": 88,
@@ -45,6 +42,9 @@
         "yml": 103
     },
     "pep8_infringement": 83,
+    "requirements": [
+        "cffi>=1.0.0"
+    ],
     "shebang": {
         "#!./venv/bin/python": 1,
         "#!/usr/bin/env python": 1

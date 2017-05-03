@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "keyring",
-        "pyxdg",
-        "sharepoint",
-        "stravalib"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +36,12 @@
         "py": 129
     },
     "pep8_infringement": 9,
+    "requirements": [
+        "keyring",
+        "pyxdg",
+        "sharepoint",
+        "stravalib"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

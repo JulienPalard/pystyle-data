@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "futures",
-        "numpy",
-        "pyopencl"
-    ],
     "license": null,
     "lines_of_code": {
         "cl": 692,
@@ -45,5 +40,10 @@
         "yaml": 23
     },
     "pep8_infringement": 292,
+    "requirements": [
+        "futures",
+        "numpy",
+        "pyopencl"
+    ],
     "shebang": {}
 }

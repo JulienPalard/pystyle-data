@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "websockets",
-        "werkzeug"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 636,
@@ -40,6 +36,10 @@
         "md": 156,
         "py": 522
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 46,
+    "requirements": [
+        "websockets",
+        "werkzeug"
+    ],
     "shebang": {}
 }
