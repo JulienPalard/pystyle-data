@@ -40,7 +40,7 @@
     "requirements": [
         "cherrypy>=7.1.0",
         "h5py",
-        "keras>=1.0.6,<2",
+        "keras<2,>=1.0.6",
         "numpy",
         "pillow>=4.0.0",
         "psutil",

@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 61,
     "requirements": [
-        "flake8<4.0.0,>=2"
+        "flake8>=2,<4.0.0"
     ],
     "shebang": {}
 }

@@ -37,7 +37,7 @@
     "pep8_infringement": 39,
     "requirements": [
         "elasticsearch",
-        "opentracing>=1.1,<1.2"
+        "opentracing<1.2,>=1.1"
     ],
     "shebang": {}
 }

@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 79,
     "requirements": [
-        "aiohttp>=0.15.0,<0.21"
+        "aiohttp<0.21,>=0.15.0"
     ],
     "shebang": {
         "#!/usr/bin/env python3": 1

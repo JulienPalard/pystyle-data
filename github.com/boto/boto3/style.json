@@ -45,7 +45,7 @@
     "pep8_infringement": 168,
     "requirements": [
         "botocore>=1.5.0,<1.6.0",
-        "jmespath>=0.7.1,<1.0.0",
+        "jmespath<1.0.0,>=0.7.1",
         "s3transfer<0.2.0,>=0.1.10"
     ],
     "shebang": {

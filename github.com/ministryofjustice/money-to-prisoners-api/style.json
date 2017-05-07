@@ -64,7 +64,7 @@
         "money-to-prisoners-common<5.6,>=5.5",
         "psycopg2<2.7,>=2.6",
         "pytz>=2016.7",
-        "requests>=2.12,<3",
+        "requests<3,>=2.12",
         "transifex-client>=0.12",
         "uwsgi==2.0.12",
         "xlrd<2,>=1.0.0"

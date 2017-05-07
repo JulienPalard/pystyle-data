@@ -57,7 +57,7 @@
         "pyaml>=15.8.2",
         "python-magic>=0.4.6",
         "requests>=2.6.0",
-        "sqlalchemy<1.1,>=1.0.14",
+        "sqlalchemy>=1.0.14,<1.1",
         "tailer",
         "tornado>=4.4"
     ],

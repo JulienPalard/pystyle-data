@@ -218,9 +218,9 @@
         "pyrss2gen",
         "python-dateutil>=2.5.3",
         "pyyaml",
-        "requests<3.0,>=2.8.0",
+        "requests>=2.8.0,<3.0",
         "rpyc",
-        "sqlalchemy>=1.0.9,<1.999",
+        "sqlalchemy<1.999,>=1.0.9",
         "terminaltables>=3.1.0",
         "zxcvbn-python"
     ],
