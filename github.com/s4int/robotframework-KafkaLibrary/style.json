@@ -35,7 +35,7 @@
         "md": 22,
         "py": 385
     },
-    "pep8_infringement": 82,
+    "pep8_infringement": 83,
     "requirements": [
         "kafka-python",
         "robotframework>=2.6.0"

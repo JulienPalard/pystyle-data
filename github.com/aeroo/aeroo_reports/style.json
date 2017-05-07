@@ -39,7 +39,7 @@
         "py": 9910,
         "xml": 930
     },
-    "pep8_infringement": 3227,
+    "pep8_infringement": 3234,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 63

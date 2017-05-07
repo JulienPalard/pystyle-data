@@ -38,7 +38,7 @@
         "rst": 1088,
         "txt": 79
     },
-    "pep8_infringement": 124,
+    "pep8_infringement": 125,
     "requirements": [
         "matplotlib>=2.0.0",
         "numpy>=1.12.1",

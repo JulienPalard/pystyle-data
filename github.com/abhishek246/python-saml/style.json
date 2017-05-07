@@ -47,7 +47,7 @@
         "xml": 992,
         "xsd": 2687
     },
-    "pep8_infringement": 1427,
+    "pep8_infringement": 1432,
     "requirements": [
         "defusedxml==0.4.1",
         "dm.xmlsec.binding==1.3.2",

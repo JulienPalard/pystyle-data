@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "fabric",
-        "pyyaml"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 4,
@@ -41,5 +37,9 @@
         "rst": 11
     },
     "pep8_infringement": 5,
+    "requirements": [
+        "fabric",
+        "pyyaml"
+    ],
     "shebang": {}
 }

@@ -29,9 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "pamqp>=1.6.1,<2.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 272,
@@ -43,5 +40,8 @@
         "txt": 9
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "pamqp<2.0,>=1.6.1"
+    ],
     "shebang": {}
 }

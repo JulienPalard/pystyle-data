@@ -37,7 +37,7 @@
         "sh": 52,
         "txt": 10
     },
-    "pep8_infringement": 715,
+    "pep8_infringement": 716,
     "requirements": [
         "certifi",
         "python-dateutil",

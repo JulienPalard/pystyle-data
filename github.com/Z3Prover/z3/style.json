@@ -58,7 +58,7 @@
         "txt": 3223,
         "vcxproj": 137
     },
-    "pep8_infringement": 4089,
+    "pep8_infringement": 4133,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 9

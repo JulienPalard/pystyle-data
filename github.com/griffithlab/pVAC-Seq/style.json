@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "connexion",
-        "pyvcf",
-        "pyyaml",
-        "requests"
-    ],
     "license": "NPOSL-3.0",
     "lines_of_code": {
         "bam_readcount": 1431,
@@ -58,6 +52,12 @@
         "yml": 103
     },
     "pep8_infringement": 1694,
+    "requirements": [
+        "connexion",
+        "pyvcf",
+        "pyyaml",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

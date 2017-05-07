@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "filemagic",
-        "h5py",
-        "lmfit",
-        "matplotlib>=1.5",
-        "numpy>=1.7",
-        "pillow",
-        "scikit-image",
-        "scipy>=0.14"
-    ],
     "license": null,
     "lines_of_code": {
         "340": 209,
@@ -63,7 +53,17 @@
         "tex": 1570,
         "txt": 8854
     },
-    "pep8_infringement": 10196,
+    "pep8_infringement": 10241,
+    "requirements": [
+        "filemagic",
+        "h5py",
+        "lmfit",
+        "matplotlib>=1.5",
+        "numpy>=1.7",
+        "pillow",
+        "scikit-image",
+        "scipy>=0.14"
+    ],
     "shebang": {
         "#!/usr/bin/env python2": 1
     }

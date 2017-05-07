@@ -36,7 +36,7 @@
         "rst": 135,
         "txt": 1
     },
-    "pep8_infringement": 57,
+    "pep8_infringement": 62,
     "requirements": [
         "argparse",
         "logging",

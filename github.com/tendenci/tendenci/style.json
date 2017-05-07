@@ -55,7 +55,7 @@
         "tsv": 87,
         "txt": 5792
     },
-    "pep8_infringement": 21163,
+    "pep8_infringement": 21549,
     "requirements": [
         "anyjson>=0.2.4",
         "beautifulsoup==3.2.1",
@@ -64,12 +64,12 @@
         "celery==3.1.23",
         "chardet==2.3.0",
         "createsend==4.1.1",
-        "django<1.9,>=1.8",
+        "django>=1.8,<1.9",
         "django-admin-bootstrapped==2.5.7",
         "django-annoying",
         "django-app-namespace-template-loader==0.4",
         "django-authority>=0.4",
-        "django-bootstrap-form>=3.1,<4",
+        "django-bootstrap-form<4,>=3.1",
         "django-bootstrap3==7.0.1",
         "django-celery==3.1.17",
         "django-countries==3.4.1",

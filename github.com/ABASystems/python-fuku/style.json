@@ -38,7 +38,7 @@
         "sh": 157,
         "txt": 44
     },
-    "pep8_infringement": 103,
+    "pep8_infringement": 113,
     "requirements": [
         "boto3",
         "fabric3",

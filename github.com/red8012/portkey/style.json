@@ -36,7 +36,7 @@
         "md": 156,
         "py": 522
     },
-    "pep8_infringement": 46,
+    "pep8_infringement": 47,
     "requirements": [
         "websockets",
         "werkzeug"

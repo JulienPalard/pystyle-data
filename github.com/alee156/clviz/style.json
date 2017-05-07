@@ -40,7 +40,7 @@
         "sh": 110,
         "txt": 28
     },
-    "pep8_infringement": 1082,
+    "pep8_infringement": 1046,
     "requirements": [
         "networkx",
         "nibabel>=2.1.0",

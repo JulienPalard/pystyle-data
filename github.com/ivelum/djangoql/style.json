@@ -29,20 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "ply>=3.8"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 51,
         "html": 479,
         "in": 3,
-        "js": 1239,
+        "js": 1279,
         "json": 19,
-        "py": 1726,
-        "rst": 312
+        "py": 1981,
+        "rst": 514
     },
-    "pep8_infringement": 830,
+    "pep8_infringement": 838,
+    "requirements": [
+        "ply>=3.8"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

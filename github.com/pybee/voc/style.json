@@ -42,7 +42,7 @@
         "txt": 12,
         "xml": 493
     },
-    "pep8_infringement": 761,
+    "pep8_infringement": 769,
     "requirements": [
         "apipkg==1.4",
         "execnet==1.4.1",

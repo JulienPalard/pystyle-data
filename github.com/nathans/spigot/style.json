@@ -39,7 +39,7 @@
         "sql": 18,
         "txt": 3
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 8,
     "requirements": [
         "argparse>=1.0",
         "feedparser>=5.0",

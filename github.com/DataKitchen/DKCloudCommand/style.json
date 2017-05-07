@@ -41,7 +41,7 @@
         "template": 8,
         "txt": 689
     },
-    "pep8_infringement": 1008,
+    "pep8_infringement": 987,
     "requirements": [
         "aniso8601",
         "click==6.2",

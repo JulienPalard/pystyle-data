@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "ISC",
+    "lines_of_code": {
+        "bat": 190,
+        "cfg": 3,
+        "css": 151,
+        "html": 1455,
+        "js": 224,
+        "json": 14,
+        "py": 9360,
+        "rst": 462,
+        "sh": 24,
+        "txt": 46,
+        "xml": 124
+    },
+    "pep8_infringement": 208,
     "requirements": [
         "diff-match-patch",
         "django>=1.8",
@@ -48,21 +63,6 @@
         "pytz",
         "requests"
     ],
-    "license": "ISC",
-    "lines_of_code": {
-        "bat": 190,
-        "cfg": 3,
-        "css": 151,
-        "html": 1455,
-        "js": 224,
-        "json": 14,
-        "py": 9360,
-        "rst": 462,
-        "sh": 24,
-        "txt": 46,
-        "xml": 124
-    },
-    "pep8_infringement": 208,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

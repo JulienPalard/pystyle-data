@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "docopt",
-        "gevent>=1.2.1",
-        "gunicorn",
-        "schema",
-        "takumi",
-        "takumi-config",
-        "takumi-ext",
-        "thriftpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 3,
@@ -51,6 +41,16 @@
         "yml": 159
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "docopt",
+        "gevent>=1.2.1",
+        "gunicorn",
+        "schema",
+        "takumi",
+        "takumi-config",
+        "takumi-ext",
+        "thriftpy"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1
     }

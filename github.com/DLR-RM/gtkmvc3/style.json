@@ -44,7 +44,7 @@
         "ui": 2470,
         "xml": 50
     },
-    "pep8_infringement": 2637,
+    "pep8_infringement": 2649,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

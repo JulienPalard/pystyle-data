@@ -54,7 +54,7 @@
         "trig": 13,
         "txt": 49
     },
-    "pep8_infringement": 2153,
+    "pep8_infringement": 2164,
     "requirements": [
         "configparser",
         "docopt",

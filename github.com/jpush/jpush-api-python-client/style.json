@@ -37,7 +37,7 @@
         "rst": 69,
         "txt": 9
     },
-    "pep8_infringement": 225,
+    "pep8_infringement": 234,
     "requirements": [
         "requests>=1.2"
     ],

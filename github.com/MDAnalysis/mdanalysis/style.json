@@ -69,7 +69,7 @@
         "xyz": 12908,
         "yaml": 55
     },
-    "pep8_infringement": 5355,
+    "pep8_infringement": 5353,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

@@ -38,7 +38,7 @@
         "rst": 32,
         "txt": 37
     },
-    "pep8_infringement": 22,
+    "pep8_infringement": 14,
     "requirements": [
         "backports.tempfile",
         "ipython>=4.0.0",

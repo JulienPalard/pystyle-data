@@ -36,7 +36,7 @@
         "py": 1675,
         "txt": 8
     },
-    "pep8_infringement": 102,
+    "pep8_infringement": 103,
     "requirements": [
         "observable>=0.3.1",
         "pubnub==4.*",

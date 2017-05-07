@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 7,
+        "py": 2689,
+        "rst": 39
+    },
+    "pep8_infringement": 128,
     "requirements": [
         "coloredlogs",
         "cryptography>=0.7",
@@ -46,14 +54,6 @@
         "six",
         "sqlalchemy"
     ],
-    "license": "MIT",
-    "lines_of_code": {
-        "cfg": 2,
-        "in": 7,
-        "py": 2689,
-        "rst": 39
-    },
-    "pep8_infringement": 128,
     "shebang": {
         "#!/usr/bin/env python": 9
     }

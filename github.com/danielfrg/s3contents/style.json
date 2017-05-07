@@ -37,7 +37,7 @@
         "py": 2987,
         "txt": 5
     },
-    "pep8_infringement": 54,
+    "pep8_infringement": 55,
     "requirements": [
         "boto3",
         "jupyter",

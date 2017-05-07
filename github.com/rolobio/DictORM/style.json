@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coverage",
-        "coveralls",
-        "green",
-        "psycopg2"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "md": 402,
@@ -42,6 +36,12 @@
         "txt": 4
     },
     "pep8_infringement": 538,
+    "requirements": [
+        "coverage",
+        "coveralls",
+        "green",
+        "psycopg2"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 2
     }

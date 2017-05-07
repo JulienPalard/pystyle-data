@@ -37,7 +37,7 @@
         "py": 1705,
         "ui": 1063
     },
-    "pep8_infringement": 408,
+    "pep8_infringement": 410,
     "requirements": [
         "numpy",
         "pandas",

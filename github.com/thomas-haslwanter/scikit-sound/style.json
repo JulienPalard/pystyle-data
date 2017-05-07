@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "appdirs",
-        "docutils>=0.3",
-        "easygui"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -44,5 +39,10 @@
         "txt#": 22
     },
     "pep8_infringement": 309,
+    "requirements": [
+        "appdirs",
+        "docutils>=0.3",
+        "easygui"
+    ],
     "shebang": {}
 }

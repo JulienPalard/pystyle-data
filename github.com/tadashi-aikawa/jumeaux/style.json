@@ -38,7 +38,7 @@
         "txt": 9,
         "yaml": 64
     },
-    "pep8_infringement": 310,
+    "pep8_infringement": 113,
     "requirements": [
         "boto3",
         "deepdiff",

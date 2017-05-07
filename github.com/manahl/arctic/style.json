@@ -40,7 +40,7 @@
         "rst": 19,
         "svg": 539
     },
-    "pep8_infringement": 2398,
+    "pep8_infringement": 2429,
     "requirements": [
         "decorator",
         "enum34",

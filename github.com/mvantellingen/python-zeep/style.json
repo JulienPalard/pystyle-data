@@ -44,7 +44,7 @@
         "xsd": 916,
         "yml": 49
     },
-    "pep8_infringement": 453,
+    "pep8_infringement": 454,
     "requirements": [
         "appdirs>=1.4.0",
         "cached-property>=1.3.0",

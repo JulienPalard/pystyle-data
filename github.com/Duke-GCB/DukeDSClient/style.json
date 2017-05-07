@@ -38,7 +38,7 @@
         "tar": 9,
         "txt": 6
     },
-    "pep8_infringement": 741,
+    "pep8_infringement": 746,
     "requirements": [
         "future",
         "pyyaml",

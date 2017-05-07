@@ -37,7 +37,7 @@
         "sh": 65,
         "txt": 5
     },
-    "pep8_infringement": 92,
+    "pep8_infringement": 94,
     "requirements": [
         "numpy>=1.7",
         "properties>=0.3.2",

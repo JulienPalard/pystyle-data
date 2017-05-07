@@ -38,7 +38,7 @@
         "sh": 12,
         "txt": 8
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 6,
     "requirements": [
         "appdirs>=1.4.0",
         "click>=6.2",

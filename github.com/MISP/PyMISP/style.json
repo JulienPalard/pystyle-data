@@ -43,7 +43,7 @@
         "rst": 55,
         "sample": 100
     },
-    "pep8_infringement": 629,
+    "pep8_infringement": 638,
     "requirements": [
         "jsonschema",
         "python-dateutil",

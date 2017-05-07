@@ -1,0 +1,69 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 190,
+        "bdf": 2676,
+        "bmp": 118,
+        "c": 32097,
+        "container": 8,
+        "cur": 1,
+        "eps": 24965,
+        "ggr": 13,
+        "gnuplot": 30,
+        "gpl": 40,
+        "h": 1543,
+        "html": 582,
+        "in": 33,
+        "ini": 14,
+        "lut": 6,
+        "md": 131,
+        "opt": 218,
+        "p7": 2,
+        "ppm": 1,
+        "py": 42606,
+        "rst": 10376,
+        "sh": 155,
+        "txt": 53,
+        "xbm": 348,
+        "xpm": 178,
+        "yml": 71
+    },
+    "pep8_infringement": 742,
+    "requirements": [
+        "olefile"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 19,
+        "#!/usr/bin/env python3": 2
+    }
+}

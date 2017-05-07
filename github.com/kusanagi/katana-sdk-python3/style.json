@@ -40,7 +40,7 @@
         "rst": 289,
         "txt": 10
     },
-    "pep8_infringement": 4,
+    "pep8_infringement": 21,
     "requirements": [
         "click==6.4",
         "msgpack-python==0.4.7",

@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bs4",
-        "selenium",
-        "time",
-        "tqdm",
-        "webbrowser"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 6,
@@ -45,6 +38,13 @@
         "txt": 10
     },
     "pep8_infringement": 104,
+    "requirements": [
+        "bs4",
+        "selenium",
+        "time",
+        "tqdm",
+        "webbrowser"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

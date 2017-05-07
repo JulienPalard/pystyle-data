@@ -35,7 +35,7 @@
         "py": 672,
         "txt": 5
     },
-    "pep8_infringement": 165,
+    "pep8_infringement": 167,
     "requirements": [
         "celery",
         "redis"

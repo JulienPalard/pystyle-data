@@ -43,7 +43,7 @@
         "txt": 685,
         "yml": 25
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 1,
     "requirements": [
         "click",
         "jinja2",

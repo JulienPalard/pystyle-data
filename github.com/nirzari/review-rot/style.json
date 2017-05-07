@@ -37,7 +37,7 @@
         "py": 834,
         "yaml": 32
     },
-    "pep8_infringement": 13,
+    "pep8_infringement": 14,
     "requirements": [
         "dateutils",
         "pygithub",

@@ -36,7 +36,7 @@
         "rst": 81,
         "txt": 94
     },
-    "pep8_infringement": 75,
+    "pep8_infringement": 74,
     "requirements": [
         "jinja2>=2.3",
         "sphinx>=1.2.3"

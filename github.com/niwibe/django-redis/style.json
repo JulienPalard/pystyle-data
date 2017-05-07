@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "redis>=2.10.0"
-    ],
     "license": null,
     "lines_of_code": {
         "adoc": 820,
@@ -44,5 +41,8 @@
         "txt": 383
     },
     "pep8_infringement": 83,
+    "requirements": [
+        "redis>=2.10.0"
+    ],
     "shebang": {}
 }

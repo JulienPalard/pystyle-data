@@ -41,7 +41,7 @@
         "rst": 4435,
         "txt": 22
     },
-    "pep8_infringement": 301,
+    "pep8_infringement": 302,
     "requirements": [
         "attrs",
         "docutils",

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "zope.interface"
-    ],
     "license": "ZPL-2.1",
     "lines_of_code": {
         "bat": 170,
@@ -45,6 +42,9 @@
         "txt": 46,
         "yml": 38
     },
-    "pep8_infringement": 433,
+    "pep8_infringement": 436,
+    "requirements": [
+        "zope.interface"
+    ],
     "shebang": {}
 }

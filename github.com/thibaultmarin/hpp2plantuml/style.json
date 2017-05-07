@@ -40,7 +40,7 @@
         "rst": 3557,
         "txt": 1
     },
-    "pep8_infringement": 49,
+    "pep8_infringement": 51,
     "requirements": [
         "argparse",
         "cppheaderparser"

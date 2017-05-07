@@ -52,7 +52,7 @@
         "svg": 685,
         "txt": 682
     },
-    "pep8_infringement": 908,
+    "pep8_infringement": 967,
     "requirements": [
         "flask==0.12",
         "ftputil==3.2",

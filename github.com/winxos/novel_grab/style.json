@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "lxml"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 1,
@@ -43,5 +40,8 @@
         "txt": 1
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "lxml"
+    ],
     "shebang": {}
 }

@@ -45,7 +45,7 @@
         "xml": 1136,
         "yml": 404
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 15,
     "requirements": [],
     "shebang": {}
 }

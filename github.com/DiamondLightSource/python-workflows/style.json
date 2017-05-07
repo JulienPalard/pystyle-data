@@ -36,7 +36,7 @@
         "py": 5430,
         "txt": 28
     },
-    "pep8_infringement": 3011,
+    "pep8_infringement": 3014,
     "requirements": [
         "stomp.py"
     ],

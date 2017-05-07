@@ -44,7 +44,7 @@
         "txt": 15,
         "xml": 513252
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 6,
     "requirements": [
         "pycrypto",
         "requests",

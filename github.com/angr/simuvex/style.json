@@ -40,7 +40,7 @@
         "py": 24669,
         "txt": 9
     },
-    "pep8_infringement": 5116,
+    "pep8_infringement": 5117,
     "requirements": [
         "ana",
         "archinfo",

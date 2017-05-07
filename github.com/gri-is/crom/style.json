@@ -41,7 +41,7 @@
         "txt": 1,
         "xml": 11055
     },
-    "pep8_infringement": 3092,
+    "pep8_infringement": 3162,
     "requirements": [
         "ordereddict"
     ],

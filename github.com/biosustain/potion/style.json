@@ -39,7 +39,7 @@
         "rst": 1994,
         "txt": 10
     },
-    "pep8_infringement": 1002,
+    "pep8_infringement": 1005,
     "requirements": [
         "aniso8601>=0.84",
         "blinker>=1.3",

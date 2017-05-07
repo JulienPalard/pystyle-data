@@ -46,7 +46,7 @@
         "xml": 68,
         "yml": 26
     },
-    "pep8_infringement": 656,
+    "pep8_infringement": 665,
     "requirements": [
         "deap>=1.0",
         "numpy>=1.12.1",

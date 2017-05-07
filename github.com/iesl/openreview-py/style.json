@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pycrypto",
-        "requests"
-    ],
     "license": null,
     "lines_of_code": {
         "md": 48,
         "py": 662
     },
     "pep8_infringement": 481,
+    "requirements": [
+        "pycrypto",
+        "requests"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

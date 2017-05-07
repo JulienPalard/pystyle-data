@@ -41,7 +41,7 @@
         "txt": 1,
         "yml": 22
     },
-    "pep8_infringement": 998,
+    "pep8_infringement": 1013,
     "requirements": [
         "cryptography",
         "futures",

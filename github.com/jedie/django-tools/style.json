@@ -40,7 +40,7 @@
         "sh": 5,
         "txt": 17
     },
-    "pep8_infringement": 957,
+    "pep8_infringement": 959,
     "requirements": [
         "django>=1.8"
     ],

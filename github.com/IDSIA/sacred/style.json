@@ -41,11 +41,11 @@
         "txt": 57,
         "yml": 27
     },
-    "pep8_infringement": 78,
+    "pep8_infringement": 80,
     "requirements": [
-        "docopt>=0.3,<1.0",
-        "jsonpickle<1.0,>=0.7.2",
-        "munch>=2.0.2,<3.0",
+        "docopt<1.0,>=0.3",
+        "jsonpickle>=0.7.2,<1.0",
+        "munch<3.0,>=2.0.2",
         "wrapt>=1.0,<2.0"
     ],
     "shebang": {

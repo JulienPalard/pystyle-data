@@ -51,7 +51,7 @@
         "txt": 64,
         "xml": 1
     },
-    "pep8_infringement": 14114,
+    "pep8_infringement": 14149,
     "requirements": [
         "cairocffi",
         "django>=1.9,<1.9.99",

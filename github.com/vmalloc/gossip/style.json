@@ -39,7 +39,7 @@
         "rst": 844,
         "txt": 7
     },
-    "pep8_infringement": 258,
+    "pep8_infringement": 263,
     "requirements": [
         "logbook>=0.12.0",
         "sentinels",

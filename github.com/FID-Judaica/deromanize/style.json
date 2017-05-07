@@ -36,7 +36,7 @@
         "txt": 714,
         "yml": 415
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 3,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env pytest": 1

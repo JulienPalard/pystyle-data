@@ -43,7 +43,7 @@
         "txt": 48,
         "yml": 40
     },
-    "pep8_infringement": 152,
+    "pep8_infringement": 157,
     "requirements": [
         "cee-syslog-handler==0.3.4",
         "cornice==2.4.0",

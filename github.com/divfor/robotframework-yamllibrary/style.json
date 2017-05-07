@@ -34,7 +34,7 @@
         "md": 50,
         "py": 355
     },
-    "pep8_infringement": 79,
+    "pep8_infringement": 84,
     "requirements": [
         "pyyaml>=3.0"
     ],

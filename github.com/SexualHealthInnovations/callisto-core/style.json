@@ -41,7 +41,7 @@
         "rst": 77,
         "txt": 33
     },
-    "pep8_infringement": 722,
+    "pep8_infringement": 725,
     "requirements": [
         "argon2-cffi",
         "autopep8>=1.2.4",

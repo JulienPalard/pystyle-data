@@ -43,7 +43,7 @@
         "spec": 56,
         "txt": 74
     },
-    "pep8_infringement": 569,
+    "pep8_infringement": 572,
     "requirements": [
         "django==1.4.5",
         "django-sendfile==0.3.6",

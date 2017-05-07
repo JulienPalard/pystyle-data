@@ -37,7 +37,7 @@
         "rst": 57,
         "txt": 215
     },
-    "pep8_infringement": 668,
+    "pep8_infringement": 672,
     "requirements": [
         "btk",
         "numpy",

@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.4.1",
-        "pillow",
-        "pykdtree",
-        "pyresample>=1.4.0",
-        "pyyaml",
-        "six",
-        "trollimage",
-        "trollsift"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "cfg": 289,
@@ -52,7 +42,17 @@
         "yaml": 7356,
         "yml": 91
     },
-    "pep8_infringement": 971,
+    "pep8_infringement": 973,
+    "requirements": [
+        "numpy>=1.4.1",
+        "pillow",
+        "pykdtree",
+        "pyresample>=1.4.0",
+        "pyyaml",
+        "six",
+        "trollimage",
+        "trollsift"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 82,
         "#!/usr/bin/python": 4

@@ -39,7 +39,7 @@
         "py": 5018,
         "txt": 21
     },
-    "pep8_infringement": 2253,
+    "pep8_infringement": 2264,
     "requirements": [
         "click",
         "requests"

@@ -35,7 +35,7 @@
         "py": 2035,
         "rst": 4
     },
-    "pep8_infringement": 2489,
+    "pep8_infringement": 2490,
     "requirements": [
         "datastorage",
         "fabio",

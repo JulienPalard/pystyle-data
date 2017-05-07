@@ -41,7 +41,7 @@
         "txt": 7,
         "ui": 1034
     },
-    "pep8_infringement": 52,
+    "pep8_infringement": 14,
     "requirements": [
         "matplotlib>=1.2.0",
         "numpy",

@@ -35,7 +35,7 @@
         "rst": 47,
         "txt": 19
     },
-    "pep8_infringement": 96,
+    "pep8_infringement": 98,
     "requirements": [
         "build-utils",
         "jupyter",

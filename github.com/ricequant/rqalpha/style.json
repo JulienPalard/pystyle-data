@@ -29,6 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "bat": 281,
+        "cfg": 11,
+        "csv": 249,
+        "html": 8,
+        "in": 4,
+        "po": 507,
+        "pot": 478,
+        "py": 18069,
+        "rst": 5990,
+        "txt": 25,
+        "yml": 77
+    },
+    "pep8_infringement": 933,
     "requirements": [
         "bcolz>=1.1.0",
         "better-exceptions",
@@ -46,26 +61,11 @@
         "pytz>=2016.4",
         "ruamel.yaml>=0.13.14",
         "simplejson>=3.10.0",
-        "six>=1.10.0",
         "six",
+        "six>=1.10.0",
         "tabulate",
         "xlsxwriter>=0.9.6"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "bat": 281,
-        "cfg": 11,
-        "csv": 249,
-        "html": 8,
-        "in": 4,
-        "po": 507,
-        "pot": 478,
-        "py": 18069,
-        "rst": 5990,
-        "txt": 25,
-        "yml": 77
-    },
-    "pep8_infringement": 933,
     "shebang": {
         "#!/usr/bin/env python": 6,
         "#!/usr/bin/env python3": 1

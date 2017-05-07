@@ -29,22 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "csv": 11,
+        "in": 4,
+        "json": 5667,
+        "py": 2127,
+        "rst": 39,
+        "txt": 10
+    },
+    "pep8_infringement": 663,
     "requirements": [
         "boto3>=1.4.4",
         "iampoliciesgonewild>=1.0.6.2",
         "netaddr>=0.7.11",
         "requests>=2.4.0,<3.0.0"
     ],
-    "license": "GPL-2.0",
-    "lines_of_code": {
-        "csv": 11,
-        "in": 4,
-        "json": 5667,
-        "py": 2120,
-        "rst": 39,
-        "txt": 10
-    },
-    "pep8_infringement": 651,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

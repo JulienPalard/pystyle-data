@@ -39,7 +39,7 @@
         "sh": 44,
         "txt": 40002
     },
-    "pep8_infringement": 3821,
+    "pep8_infringement": 3826,
     "requirements": [
         "nose-parameterized>=0.6.0",
         "tensorflow>=1.0.1"

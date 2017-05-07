@@ -29,12 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": false
     },
-    "requirements": [
-        "pandas>=0.19",
-        "pytz",
-        "requests",
-        "zipline"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 78,
@@ -44,6 +38,12 @@
         "txt": 40
     },
     "pep8_infringement": 26,
+    "requirements": [
+        "pandas>=0.19",
+        "pytz",
+        "requests",
+        "zipline"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

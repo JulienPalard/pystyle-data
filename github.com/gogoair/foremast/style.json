@@ -41,7 +41,7 @@
         "rst": 3391,
         "txt": 29
     },
-    "pep8_infringement": 463,
+    "pep8_infringement": 466,
     "requirements": [
         "awscli",
         "boto3",

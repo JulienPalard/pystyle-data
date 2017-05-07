@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pandas>=0.19",
-        "python-highcharts>=0.3.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 1391,
@@ -44,6 +40,10 @@
         "txt": 66
     },
     "pep8_infringement": 165,
+    "requirements": [
+        "pandas>=0.19",
+        "python-highcharts>=0.3.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

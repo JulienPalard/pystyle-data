@@ -60,7 +60,7 @@
         "yaml": 73,
         "yml": 193
     },
-    "pep8_infringement": 328,
+    "pep8_infringement": 354,
     "requirements": [
         "biopython>=1.65",
         "ete3",

@@ -49,7 +49,7 @@
         "txt": 1870,
         "yml": 99
     },
-    "pep8_infringement": 677,
+    "pep8_infringement": 688,
     "requirements": [
         "argparse",
         "cligj",

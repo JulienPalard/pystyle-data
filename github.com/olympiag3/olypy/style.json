@@ -39,7 +39,7 @@
         "txt": 22,
         "yml": 59
     },
-    "pep8_infringement": 492,
+    "pep8_infringement": 493,
     "requirements": [
         "coverage==4.3.4",
         "coveralls==1.1",

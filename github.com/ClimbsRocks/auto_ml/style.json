@@ -29,16 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dill",
-        "h5py",
-        "numpy",
-        "pandas",
-        "pathos",
-        "python-dateutil",
-        "scikit-learn",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
@@ -49,5 +39,15 @@
         "txt": 11
     },
     "pep8_infringement": 1210,
+    "requirements": [
+        "dill",
+        "h5py",
+        "numpy",
+        "pandas",
+        "pathos",
+        "python-dateutil",
+        "scikit-learn",
+        "scipy"
+    ],
     "shebang": {}
 }

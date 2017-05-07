@@ -44,7 +44,7 @@
         "txt": 2,
         "vbf": 25
     },
-    "pep8_infringement": 2225,
+    "pep8_infringement": 2243,
     "requirements": [
         "mako",
         "numpy",

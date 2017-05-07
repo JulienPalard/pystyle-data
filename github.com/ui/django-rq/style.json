@@ -39,7 +39,7 @@
         "rst": 548,
         "txt": 25
     },
-    "pep8_infringement": 59,
+    "pep8_infringement": 61,
     "requirements": [
         "django>=1.8.0",
         "rq>=0.5.5"

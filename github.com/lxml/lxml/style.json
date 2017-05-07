@@ -59,7 +59,7 @@
         "xsl": 4047,
         "xslt": 27
     },
-    "pep8_infringement": 3546,
+    "pep8_infringement": 3545,
     "requirements": [
         "cython>=0.20"
     ],

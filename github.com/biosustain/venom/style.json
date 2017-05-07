@@ -35,7 +35,7 @@
         "py": 4206,
         "rst": 75
     },
-    "pep8_infringement": 300,
+    "pep8_infringement": 271,
     "requirements": [
         "blinker>=1.4.0"
     ],

@@ -41,7 +41,7 @@
         "txt": 22,
         "xml": 118
     },
-    "pep8_infringement": 685,
+    "pep8_infringement": 695,
     "requirements": [
         "requests>=2.3.0",
         "six>=1.7.3"

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pygit2",
-        "pygments",
-        "pyyaml"
-    ],
     "license": null,
     "lines_of_code": {
         "c": 1247,
@@ -56,7 +51,12 @@
         "ui": 283,
         "yml": 72
     },
-    "pep8_infringement": 1685,
+    "pep8_infringement": 1688,
+    "requirements": [
+        "pygit2",
+        "pygments",
+        "pyyaml"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 2,
         "#!/usr/bin/env python": 1

@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "boto3>=1.4",
-        "future>=0.14"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "py": 479,
         "rst": 98
     },
     "pep8_infringement": 147,
+    "requirements": [
+        "boto3>=1.4",
+        "future>=0.14"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

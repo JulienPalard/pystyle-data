@@ -38,7 +38,7 @@
         "rst": 726,
         "txt": 8
     },
-    "pep8_infringement": 133,
+    "pep8_infringement": 134,
     "requirements": [
         "rarfile",
         "scandir"

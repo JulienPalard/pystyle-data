@@ -35,7 +35,7 @@
         "py": 408,
         "txt": 5
     },
-    "pep8_infringement": 161,
+    "pep8_infringement": 163,
     "requirements": [
         "pubnub>=4.0.6",
         "pycrypto>=2.6.1",

@@ -49,7 +49,7 @@
         "yaml": 951,
         "yml": 58
     },
-    "pep8_infringement": 314,
+    "pep8_infringement": 316,
     "requirements": [
         "awacs==0.6.0",
         "aws-mfa>=0.0.8",

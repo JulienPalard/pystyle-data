@@ -39,9 +39,9 @@
         "scss": 4,
         "svg": 1
     },
-    "pep8_infringement": 13,
+    "pep8_infringement": 15,
     "requirements": [
-        "django<2,>=1.10"
+        "django>=1.10,<2"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

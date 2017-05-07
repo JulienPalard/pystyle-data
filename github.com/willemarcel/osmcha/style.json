@@ -38,7 +38,7 @@
         "rst": 221,
         "yaml": 56
     },
-    "pep8_infringement": 17,
+    "pep8_infringement": 20,
     "requirements": [
         "click",
         "homura",

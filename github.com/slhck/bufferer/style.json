@@ -36,7 +36,7 @@
         "py": 341,
         "txt": 1
     },
-    "pep8_infringement": 57,
+    "pep8_infringement": 58,
     "requirements": [
         "docopt"
     ],

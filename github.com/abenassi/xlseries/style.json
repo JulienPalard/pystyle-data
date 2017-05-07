@@ -43,7 +43,7 @@
         "rst": 155,
         "txt": 4433
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 36,
     "requirements": [
         "arrow==0.5.4",
         "coverage>=3.7.1",

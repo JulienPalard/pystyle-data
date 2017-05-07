@@ -43,7 +43,7 @@
         "rst": 404,
         "txt": 8
     },
-    "pep8_infringement": 119,
+    "pep8_infringement": 118,
     "requirements": [
         "beautifulsoup4>=4.3.2",
         "requests>=2.6.0",

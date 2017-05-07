@@ -39,7 +39,7 @@
         "txt": 12,
         "yml": 22
     },
-    "pep8_infringement": 418,
+    "pep8_infringement": 420,
     "requirements": [
         "baiji>=2.5.3",
         "baiji-pod>=1.0.0",

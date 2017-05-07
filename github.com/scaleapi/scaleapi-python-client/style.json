@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "enum34",
-        "requests>=2.4.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +37,9 @@
         "rst": 219
     },
     "pep8_infringement": 50,
+    "requirements": [
+        "enum34",
+        "requests>=2.4.2"
+    ],
     "shebang": {}
 }

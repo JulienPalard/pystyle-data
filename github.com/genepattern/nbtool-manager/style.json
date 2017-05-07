@@ -37,7 +37,7 @@
         "md": 88,
         "py": 469
     },
-    "pep8_infringement": 34,
+    "pep8_infringement": 36,
     "requirements": [
         "ipywidgets>=5.0.0",
         "jupyter",

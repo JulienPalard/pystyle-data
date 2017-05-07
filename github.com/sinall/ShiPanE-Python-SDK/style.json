@@ -40,7 +40,7 @@
         "template": 25,
         "txt": 21
     },
-    "pep8_infringement": 107,
+    "pep8_infringement": 108,
     "requirements": [
         "apscheduler",
         "bs4",

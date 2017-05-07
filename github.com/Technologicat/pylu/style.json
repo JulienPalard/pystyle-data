@@ -36,7 +36,7 @@
         "py": 334,
         "pyx": 265
     },
-    "pep8_infringement": 201,
+    "pep8_infringement": 200,
     "requirements": [
         "numpy"
     ],

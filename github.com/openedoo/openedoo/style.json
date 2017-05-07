@@ -41,7 +41,7 @@
         "txt": 2,
         "yaml": 16
     },
-    "pep8_infringement": 1292,
+    "pep8_infringement": 1298,
     "requirements": [
         "alembic",
         "click",

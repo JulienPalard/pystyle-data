@@ -45,7 +45,7 @@
         "xml": 3308,
         "yml": 22
     },
-    "pep8_infringement": 52,
+    "pep8_infringement": 55,
     "requirements": [
         "viivakoodi"
     ],

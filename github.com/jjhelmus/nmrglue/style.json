@@ -43,7 +43,7 @@
         "tab": 14,
         "txt": 410
     },
-    "pep8_infringement": 818,
+    "pep8_infringement": 793,
     "requirements": [
         "numpy",
         "scipy"

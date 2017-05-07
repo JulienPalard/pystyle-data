@@ -37,7 +37,7 @@
         "tmpl": 15,
         "txt": 4
     },
-    "pep8_infringement": 54,
+    "pep8_infringement": 55,
     "requirements": [
         "pycrypto==2.6.1",
         "pydispatcher==2.0.5"

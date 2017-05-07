@@ -38,7 +38,7 @@
         "txt": 5,
         "yml": 16
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 21,
     "requirements": [
         "lxml"
     ],

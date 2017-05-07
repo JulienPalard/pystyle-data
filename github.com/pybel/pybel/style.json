@@ -43,7 +43,7 @@
         "rst": 1663,
         "txt": 9
     },
-    "pep8_infringement": 1517,
+    "pep8_infringement": 1542,
     "requirements": [
         "click",
         "configparser",

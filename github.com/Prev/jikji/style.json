@@ -38,7 +38,7 @@
         "py": 1680,
         "txt": 5
     },
-    "pep8_infringement": 1362,
+    "pep8_infringement": 1413,
     "requirements": [
         "click>=5.0",
         "flask>=0.10",

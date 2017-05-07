@@ -45,7 +45,7 @@
         "txt": 362,
         "yaml": 81
     },
-    "pep8_infringement": 276,
+    "pep8_infringement": 277,
     "requirements": [
         "aniso8601==1.2.0",
         "flask==0.12.1",

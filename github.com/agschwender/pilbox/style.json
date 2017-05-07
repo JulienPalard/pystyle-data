@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pillow==2.9.0",
-        "sphinx-me==0.2.1",
-        "tornado==4.5.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 3,
@@ -44,6 +39,11 @@
         "yml": 81
     },
     "pep8_infringement": 33,
+    "requirements": [
+        "pillow==2.9.0",
+        "sphinx-me==0.2.1",
+        "tornado==4.5.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 7
     }

@@ -38,7 +38,7 @@
         "py": 2035,
         "txt": 760
     },
-    "pep8_infringement": 78,
+    "pep8_infringement": 79,
     "requirements": [
         "colorama"
     ],

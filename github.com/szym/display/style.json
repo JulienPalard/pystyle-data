@@ -41,7 +41,7 @@
         "rockspec": 35,
         "sh": 72
     },
-    "pep8_infringement": 71,
+    "pep8_infringement": 72,
     "requirements": [
         "numpy"
     ],

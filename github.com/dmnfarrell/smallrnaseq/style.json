@@ -41,7 +41,7 @@
         "py": 4840,
         "sam": 6895
     },
-    "pep8_infringement": 2436,
+    "pep8_infringement": 2455,
     "requirements": [
         "bx-python>=0.5",
         "forgi>=0.4",

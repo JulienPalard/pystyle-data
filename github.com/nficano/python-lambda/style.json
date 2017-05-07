@@ -40,7 +40,7 @@
         "txt": 10,
         "yaml": 15
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 0,
     "requirements": [
         "boto3==1.4.1",
         "botocore==1.4.61",

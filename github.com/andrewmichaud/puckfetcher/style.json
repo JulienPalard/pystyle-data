@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 324,
     "requirements": [
-        "appdirs<2.0.0,>=1.4.0",
+        "appdirs>=1.4.0,<2.0.0",
         "clint>=0.5.1,<0.6.0",
         "feedparser<6.0.0,>=5.2.1",
         "pyyaml<4.0.0,>=3.12",

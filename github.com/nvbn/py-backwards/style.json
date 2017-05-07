@@ -35,7 +35,7 @@
         "py": 1359,
         "txt": 3
     },
-    "pep8_infringement": 45,
+    "pep8_infringement": 47,
     "requirements": [
         "astunparse",
         "autopep8",

@@ -25,11 +25,10 @@
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "css": 2981,
@@ -38,10 +37,12 @@
         "json": 294,
         "map": 7,
         "md": 31,
+        "py": 39,
         "scss": 10635,
         "svg": 885,
         "ts": 2512
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 17,
+    "requirements": [],
     "shebang": {}
 }

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "beautifulsoup4>=4.4.1",
-        "click>=6.2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -42,6 +38,10 @@
         "txt": 2
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "beautifulsoup4>=4.4.1",
+        "click>=6.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

@@ -40,7 +40,7 @@
         "slf": 70,
         "txt": 217
     },
-    "pep8_infringement": 1059,
+    "pep8_infringement": 1075,
     "requirements": [
         "h5py",
         "numpy",

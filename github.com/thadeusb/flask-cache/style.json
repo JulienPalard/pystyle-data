@@ -42,7 +42,7 @@
         "rst": 438,
         "txt": 2
     },
-    "pep8_infringement": 325,
+    "pep8_infringement": 314,
     "requirements": [
         "flask"
     ],

@@ -44,7 +44,7 @@
         "rst": 784,
         "txt": 335
     },
-    "pep8_infringement": 2166,
+    "pep8_infringement": 2217,
     "requirements": [
         "numpy",
         "pandas",

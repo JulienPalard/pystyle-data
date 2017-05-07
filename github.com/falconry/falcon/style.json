@@ -42,7 +42,7 @@
         "rst": 4956,
         "sh": 161
     },
-    "pep8_infringement": 182,
+    "pep8_infringement": 184,
     "requirements": [
         "python-mimeparse>=1.5.2",
         "six>=1.4.0"

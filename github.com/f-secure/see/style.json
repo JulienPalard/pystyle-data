@@ -37,7 +37,7 @@
         "rst": 2074,
         "txt": 177
     },
-    "pep8_infringement": 222,
+    "pep8_infringement": 213,
     "requirements": [
         "libvirt-python"
     ],

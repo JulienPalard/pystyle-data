@@ -45,7 +45,7 @@
         "tac": 51,
         "txt": 38
     },
-    "pep8_infringement": 454,
+    "pep8_infringement": 463,
     "requirements": [
         "automat",
         "incremental",

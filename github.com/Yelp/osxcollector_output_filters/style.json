@@ -39,7 +39,7 @@
         "txt": 19,
         "yaml": 50
     },
-    "pep8_infringement": 452,
+    "pep8_infringement": 456,
     "requirements": [
         "simplejson",
         "threat-intel",

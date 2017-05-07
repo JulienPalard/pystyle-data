@@ -37,7 +37,7 @@
         "py": 453,
         "txt": 21
     },
-    "pep8_infringement": 68,
+    "pep8_infringement": 70,
     "requirements": [
         "asyncio",
         "websockets"

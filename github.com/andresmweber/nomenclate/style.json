@@ -42,7 +42,7 @@
         "txt": 43,
         "yml": 205
     },
-    "pep8_infringement": 514,
+    "pep8_infringement": 520,
     "requirements": [
         "configparser",
         "future",

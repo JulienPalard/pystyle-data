@@ -47,7 +47,7 @@
         "yaml": 8250,
         "yml": 80
     },
-    "pep8_infringement": 2171,
+    "pep8_infringement": 2174,
     "requirements": [
         "affine",
         "cachetools",

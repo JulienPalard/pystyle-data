@@ -60,7 +60,7 @@
         "yaml": 1186,
         "yml": 27
     },
-    "pep8_infringement": 2437,
+    "pep8_infringement": 2562,
     "requirements": [
         "biokit",
         "bioservices>=1.4.5",

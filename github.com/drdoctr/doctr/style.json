@@ -38,7 +38,7 @@
         "py": 3801,
         "rst": 627
     },
-    "pep8_infringement": 240,
+    "pep8_infringement": 246,
     "requirements": [
         "cryptography",
         "pyyaml",

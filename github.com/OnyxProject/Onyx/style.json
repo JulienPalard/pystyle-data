@@ -49,7 +49,7 @@
         "txt": 156,
         "xml": 11
     },
-    "pep8_infringement": 1274,
+    "pep8_infringement": 1316,
     "requirements": [
         "aiml",
         "babel",

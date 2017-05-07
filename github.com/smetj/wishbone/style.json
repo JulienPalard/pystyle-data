@@ -38,7 +38,7 @@
         "txt": 62,
         "yaml": 90
     },
-    "pep8_infringement": 329,
+    "pep8_infringement": 342,
     "requirements": [
         "arrow==0.7.0",
         "attrdict==2.0.0",

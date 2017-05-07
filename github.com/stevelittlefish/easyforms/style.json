@@ -38,7 +38,7 @@
         "py": 2310,
         "txt": 201
     },
-    "pep8_infringement": 263,
+    "pep8_infringement": 257,
     "requirements": [
         "flask>=0.12.0",
         "jinja2>=2.9.0",

@@ -46,7 +46,7 @@
         "xml": 226,
         "yml": 40
     },
-    "pep8_infringement": 824,
+    "pep8_infringement": 849,
     "requirements": [
         "cffi",
         "perfmetrics",

@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "applicationinsights",
-        "azure-cli",
-        "jmespath",
-        "prompt-toolkit",
-        "pyyaml",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 7,
@@ -49,6 +41,14 @@
         "txt": 11
     },
     "pep8_infringement": 221,
+    "requirements": [
+        "applicationinsights",
+        "azure-cli",
+        "jmespath",
+        "prompt-toolkit",
+        "pyyaml",
+        "six"
+    ],
     "shebang": {
         "#!usr/bin/env python": 1
     }

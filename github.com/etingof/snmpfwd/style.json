@@ -39,7 +39,7 @@
         "rst": 1198,
         "txt": 74
     },
-    "pep8_infringement": 393,
+    "pep8_infringement": 402,
     "requirements": [
         "pycryptodome",
         "pysnmp>=4.3.0"

@@ -42,7 +42,7 @@
         "sh": 36,
         "txt": 4
     },
-    "pep8_infringement": 3211,
+    "pep8_infringement": 3216,
     "requirements": [
         "babel>=0.9.4",
         "biryani>=0.10.4",

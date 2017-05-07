@@ -43,7 +43,7 @@
         "txt": 16,
         "xml": 66
     },
-    "pep8_infringement": 995,
+    "pep8_infringement": 997,
     "requirements": [
         "future"
     ],

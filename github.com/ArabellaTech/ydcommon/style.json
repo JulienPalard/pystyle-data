@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "fabric3>=1.11.1.post1",
-        "pycrypto>=2.6.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -45,6 +41,10 @@
         "txt": 2
     },
     "pep8_infringement": 67,
+    "requirements": [
+        "fabric3>=1.11.1.post1",
+        "pycrypto>=2.6.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

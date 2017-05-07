@@ -40,7 +40,7 @@
         "rst": 47,
         "txt": 5
     },
-    "pep8_infringement": 9,
+    "pep8_infringement": 8,
     "requirements": [
         "docopt>=0.6",
         "numpy",

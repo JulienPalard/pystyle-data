@@ -41,7 +41,7 @@
         "svg": 685,
         "txt": 934
     },
-    "pep8_infringement": 465,
+    "pep8_infringement": 468,
     "requirements": [
         "certifi",
         "python-dateutil",

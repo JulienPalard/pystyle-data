@@ -39,7 +39,7 @@
         "rst": 958,
         "txt": 22
     },
-    "pep8_infringement": 135,
+    "pep8_infringement": 139,
     "requirements": [
         "marshmallow>=2.3.0"
     ],

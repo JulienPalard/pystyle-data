@@ -40,7 +40,7 @@
         "py": 667,
         "py__": 0
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 28,
     "requirements": [
         "hcsr04sensor"
     ],

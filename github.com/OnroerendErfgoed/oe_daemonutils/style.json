@@ -39,7 +39,7 @@
         "txt": 54,
         "xml": 134
     },
-    "pep8_infringement": 231,
+    "pep8_infringement": 233,
     "requirements": [
         "feedparser",
         "oe-geoutils",

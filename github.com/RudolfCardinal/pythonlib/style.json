@@ -34,7 +34,7 @@
         "py": 7505,
         "txt": 28
     },
-    "pep8_infringement": 6,
+    "pep8_infringement": 23,
     "requirements": [
         "semver>=2.7.5",
         "six"

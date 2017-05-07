@@ -39,7 +39,7 @@
         "txt": 9,
         "yml": 42
     },
-    "pep8_infringement": 423,
+    "pep8_infringement": 428,
     "requirements": [
         "astropy>=1.3",
         "numpy>=1.6",

@@ -43,7 +43,7 @@
         "txt": 32,
         "yml": 20
     },
-    "pep8_infringement": 1082,
+    "pep8_infringement": 1091,
     "requirements": [
         "django<1.7",
         "humanize",

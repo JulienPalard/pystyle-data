@@ -48,7 +48,7 @@
         "template": 20,
         "txt": 1060
     },
-    "pep8_infringement": 4737,
+    "pep8_infringement": 4764,
     "requirements": [
         "django<1.11,>=1.8",
         "django-classy-tags>=0.7.2",

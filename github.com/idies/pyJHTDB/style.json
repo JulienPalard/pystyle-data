@@ -37,7 +37,7 @@
         "py": 4132,
         "rst": 112
     },
-    "pep8_infringement": 2624,
+    "pep8_infringement": 2625,
     "requirements": [
         "numpy>=1.8",
         "sympy>=0.7.4.1"

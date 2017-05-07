@@ -42,7 +42,7 @@
         "sln": 49,
         "txt": 24
     },
-    "pep8_infringement": 4657,
+    "pep8_infringement": 4671,
     "requirements": [
         "requests>=2.10.0",
         "six>=1.6"

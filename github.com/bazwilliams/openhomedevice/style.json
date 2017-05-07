@@ -36,7 +36,7 @@
         "py": 657,
         "txt": 7
     },
-    "pep8_infringement": 246,
+    "pep8_infringement": 253,
     "requirements": [
         "lxml",
         "requests"

@@ -42,14 +42,14 @@
         "yaml": 1105,
         "yml": 30
     },
-    "pep8_infringement": 238,
+    "pep8_infringement": 249,
     "requirements": [
         "cerberus>=1.0.0",
         "habanero>=0.2.6",
         "numpy>=1.11.0",
         "orcid>=0.7.0,<1.0",
         "pint>=0.7.2",
-        "pyyaml>=3.12,<4.0",
+        "pyyaml<4.0,>=3.12",
         "uncertainties>=3.0.1"
     ],
     "shebang": {

@@ -38,7 +38,7 @@
         "py": 6470,
         "pycfg": 66
     },
-    "pep8_infringement": 342,
+    "pep8_infringement": 360,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

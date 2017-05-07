@@ -36,7 +36,7 @@
         "md": 105,
         "py": 1214
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 17,
     "requirements": [
         "anglerfish",
         "anglerfish"

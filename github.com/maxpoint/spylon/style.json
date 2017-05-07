@@ -42,7 +42,7 @@
         "sh": 18,
         "svg": 120
     },
-    "pep8_infringement": 297,
+    "pep8_infringement": 301,
     "requirements": [
         "six"
     ],

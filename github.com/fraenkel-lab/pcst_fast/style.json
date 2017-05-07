@@ -61,7 +61,7 @@
         "xcconfig": 146,
         "yml": 77
     },
-    "pep8_infringement": 2916,
+    "pep8_infringement": 2825,
     "requirements": [
         "pybind11>=2.1.0"
     ],

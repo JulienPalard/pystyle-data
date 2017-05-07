@@ -43,7 +43,7 @@
         "txt": 52,
         "wsgi": 20
     },
-    "pep8_infringement": 154,
+    "pep8_infringement": 120,
     "requirements": [
         "python-pam",
         "six"

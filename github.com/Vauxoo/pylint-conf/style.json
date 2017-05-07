@@ -36,7 +36,7 @@
         "patch": 70,
         "py": 490
     },
-    "pep8_infringement": 167,
+    "pep8_infringement": 170,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

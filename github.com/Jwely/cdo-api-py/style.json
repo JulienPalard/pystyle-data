@@ -38,7 +38,7 @@
         "sh": 9,
         "txt": 21
     },
-    "pep8_infringement": 71,
+    "pep8_infringement": 72,
     "requirements": [
         "pandas",
         "requests"

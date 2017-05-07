@@ -40,7 +40,7 @@
         "rst": 3,
         "txt": 23
     },
-    "pep8_infringement": 1690,
+    "pep8_infringement": 1710,
     "requirements": [
         "aiohttp",
         "beautifulsoup4",

@@ -39,7 +39,7 @@
         "md": 152,
         "py": 2857
     },
-    "pep8_infringement": 424,
+    "pep8_infringement": 264,
     "requirements": [
         "boto",
         "mock",

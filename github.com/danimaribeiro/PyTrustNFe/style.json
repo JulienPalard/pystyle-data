@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "jinja2>=2.8",
-        "lxml<3.7,>=3.6.0",
-        "reportlab",
-        "signxml==2.2.6",
-        "suds>=0.4",
-        "suds-requests>=0.3"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,
@@ -48,5 +40,13 @@
         "xsd": 7878
     },
     "pep8_infringement": 87,
+    "requirements": [
+        "jinja2>=2.8",
+        "lxml>=3.6.0,<3.7",
+        "reportlab",
+        "signxml==2.2.6",
+        "suds>=0.4",
+        "suds-requests>=0.3"
+    ],
     "shebang": {}
 }

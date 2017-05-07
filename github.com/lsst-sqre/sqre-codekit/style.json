@@ -36,7 +36,7 @@
         "py": 1686,
         "txt": 3
     },
-    "pep8_infringement": 6,
+    "pep8_infringement": 8,
     "requirements": [
         "github3.py==1.0.0a4",
         "gitpython==1.0.1",

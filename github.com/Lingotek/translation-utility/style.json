@@ -41,7 +41,7 @@
         "sample": 7,
         "txt": 1115
     },
-    "pep8_infringement": 3003,
+    "pep8_infringement": 3024,
     "requirements": [
         "blessings",
         "click",

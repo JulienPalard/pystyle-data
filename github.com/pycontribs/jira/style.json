@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "argparse",
-        "defusedxml",
-        "ipython>=4.0.0",
-        "ordereddict",
-        "pbr",
-        "requests>=2.10.0",
-        "requests-oauthlib>=0.6.1",
-        "requests-toolbelt",
-        "setuptools>=20.10.1",
-        "six>=1.10.0"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 89,
@@ -55,6 +43,18 @@
         "xml": 4
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "argparse",
+        "defusedxml",
+        "ipython>=4.0.0",
+        "ordereddict",
+        "pbr",
+        "requests>=2.10.0",
+        "requests-oauthlib>=0.6.1",
+        "requests-toolbelt",
+        "setuptools>=20.10.1",
+        "six>=1.10.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4,
         "#!/usr/bin/python": 1

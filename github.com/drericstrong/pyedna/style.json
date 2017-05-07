@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "numba",
-        "numpy",
-        "pandas"
-    ],
     "license": "AGPL-3.0",
     "lines_of_code": {
         "bat": 263,
@@ -50,6 +44,12 @@
         "txt": 1129
     },
     "pep8_infringement": 109,
+    "requirements": [
+        "matplotlib",
+        "numba",
+        "numpy",
+        "pandas"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

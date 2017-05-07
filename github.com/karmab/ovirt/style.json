@@ -36,7 +36,7 @@
         "py": 1969,
         "yml": 15
     },
-    "pep8_infringement": 102,
+    "pep8_infringement": 113,
     "requirements": [
         "ovirt-engine-sdk-python<=4.0",
         "prettytable",

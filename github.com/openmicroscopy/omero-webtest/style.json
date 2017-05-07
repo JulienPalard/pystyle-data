@@ -40,7 +40,7 @@
         "rst": 74,
         "txt": 1
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 6,
     "requirements": [
         "omego"
     ],

@@ -39,7 +39,7 @@
         "rst": 245,
         "txt": 12
     },
-    "pep8_infringement": 50,
+    "pep8_infringement": 51,
     "requirements": [
         "bumpversion==0.5.3",
         "coverage==4.1",

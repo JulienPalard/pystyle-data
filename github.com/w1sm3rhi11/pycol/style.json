@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "codeclimate-test-reporter",
-        "pytest-cov"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 70,
@@ -40,6 +36,10 @@
         "rst": 93,
         "txt": 2
     },
-    "pep8_infringement": 30,
+    "pep8_infringement": 31,
+    "requirements": [
+        "codeclimate-test-reporter",
+        "pytest-cov"
+    ],
     "shebang": {}
 }

@@ -29,6 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 5,
+        "dat": 4762,
+        "md": 59,
+        "py": 302
+    },
+    "pep8_infringement": 20,
     "requirements": [
         "aiodns",
         "aiohttp>=2.0",
@@ -37,13 +45,5 @@
         "dnslib",
         "dnspython"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 5,
-        "dat": 4762,
-        "md": 54,
-        "py": 276
-    },
-    "pep8_infringement": 16,
     "shebang": {}
 }

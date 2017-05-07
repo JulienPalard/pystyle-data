@@ -29,20 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "html": 33,
+        "in": 4,
+        "md": 81,
+        "po": 64,
+        "py": 1695,
+        "txt": 2
+    },
+    "pep8_infringement": 312,
     "requirements": [
         "py-wsse==0.1",
         "suds==0.4"
     ],
-    "license": null,
-    "lines_of_code": {
-        "html": 15,
-        "in": 4,
-        "md": 81,
-        "po": 64,
-        "py": 1670,
-        "txt": 2
-    },
-    "pep8_infringement": 312,
     "shebang": {
         "#! -*- coding: utf-8 -*-": 1
     }

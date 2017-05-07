@@ -36,7 +36,7 @@
         "txt": 2,
         "yml": 18
     },
-    "pep8_infringement": 2907,
+    "pep8_infringement": 2908,
     "requirements": [
         "ana",
         "angr-only-z3-custom==9002"

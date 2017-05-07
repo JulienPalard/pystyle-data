@@ -35,7 +35,7 @@
         "md": 143,
         "py": 379
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 24,
     "requirements": [
         "flask",
         "markdown"

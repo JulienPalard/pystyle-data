@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "md": 169,
+        "py": 843,
+        "sh": 3
+    },
+    "pep8_infringement": 55,
     "requirements": [
         "jsonpath-rw",
         "lxml",
         "requests>=2.11.1"
     ],
-    "license": "Apache-2.0",
-    "lines_of_code": {
-        "cfg": 2,
-        "md": 163,
-        "py": 833,
-        "sh": 3
-    },
-    "pep8_infringement": 64,
     "shebang": {}
 }

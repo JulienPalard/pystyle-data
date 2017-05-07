@@ -40,7 +40,7 @@
         "txt": 12,
         "yaml": 81
     },
-    "pep8_infringement": 479,
+    "pep8_infringement": 488,
     "requirements": [
         "bottle",
         "ciscosparkapi",

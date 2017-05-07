@@ -46,7 +46,7 @@
         "sql": 12,
         "tmpl": 6
     },
-    "pep8_infringement": 241,
+    "pep8_infringement": 257,
     "requirements": [
         "py-ioticagent>=0.4.1"
     ],

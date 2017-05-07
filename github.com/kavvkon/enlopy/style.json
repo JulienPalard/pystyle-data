@@ -40,7 +40,7 @@
         "txt": 7,
         "yml": 7
     },
-    "pep8_infringement": 261,
+    "pep8_infringement": 262,
     "requirements": [
         "matplotlib>=1.5",
         "numpy>=1.10",

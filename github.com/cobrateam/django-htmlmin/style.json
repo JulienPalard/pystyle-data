@@ -39,7 +39,7 @@
         "rst": 213,
         "txt": 6
     },
-    "pep8_infringement": 42,
+    "pep8_infringement": 44,
     "requirements": [
         "beautifulsoup4",
         "html5lib"

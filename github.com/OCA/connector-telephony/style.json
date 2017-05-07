@@ -43,7 +43,7 @@
         "txt": 7,
         "xml": 1830
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 8,
     "requirements": [
         "phonenumbers",
         "py-asterisk",

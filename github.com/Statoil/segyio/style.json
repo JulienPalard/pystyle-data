@@ -43,7 +43,7 @@
         "txt": 293,
         "yml": 48
     },
-    "pep8_infringement": 594,
+    "pep8_infringement": 596,
     "requirements": [
         "numpy",
         "numpy"

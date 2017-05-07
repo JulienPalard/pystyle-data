@@ -38,7 +38,7 @@
         "rst": 75,
         "sh": 8
     },
-    "pep8_infringement": 715,
+    "pep8_infringement": 716,
     "requirements": [
         "pyyaml>=3.08"
     ],

@@ -37,7 +37,7 @@
         "md": 62,
         "py": 2950
     },
-    "pep8_infringement": 135,
+    "pep8_infringement": 136,
     "requirements": [
         "requests"
     ],

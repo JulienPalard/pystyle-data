@@ -38,7 +38,7 @@
         "py": 13691,
         "types": 23
     },
-    "pep8_infringement": 3733,
+    "pep8_infringement": 3737,
     "requirements": [
         "argparse",
         "python-axolotl>=0.1.39",

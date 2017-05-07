@@ -36,7 +36,7 @@
         "md": 14,
         "py": 534
     },
-    "pep8_infringement": 39,
+    "pep8_infringement": 40,
     "requirements": [
         "matplotlib",
         "numpy"

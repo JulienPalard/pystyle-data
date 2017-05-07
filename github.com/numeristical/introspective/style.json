@@ -42,7 +42,7 @@
         "txt": 3,
         "yml": 2
     },
-    "pep8_infringement": 366,
+    "pep8_infringement": 369,
     "requirements": [
         "numpy",
         "pandas"

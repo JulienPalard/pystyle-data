@@ -61,12 +61,12 @@
         "trig": 13,
         "txt": 37
     },
-    "pep8_infringement": 2018,
+    "pep8_infringement": 2028,
     "requirements": [
         "alignak-backend",
         "alignak-backend-client",
         "beaker==1.8.0",
-        "bottle<0.13,>=0.12.9",
+        "bottle>=0.12.9,<0.13",
         "cherrypy<9.0.0",
         "configparser",
         "docopt",

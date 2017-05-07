@@ -39,7 +39,7 @@
         "sh": 32,
         "txt": 17
     },
-    "pep8_infringement": 142,
+    "pep8_infringement": 143,
     "requirements": [
         "cssselect",
         "lxml",

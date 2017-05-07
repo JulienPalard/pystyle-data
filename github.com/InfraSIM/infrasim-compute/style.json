@@ -41,7 +41,7 @@
         "txt": 19,
         "yml": 90
     },
-    "pep8_infringement": 588,
+    "pep8_infringement": 648,
     "requirements": [
         "cffi==1.7.0",
         "coverage>=3.6",

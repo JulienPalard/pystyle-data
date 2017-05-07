@@ -38,7 +38,7 @@
         "txt": 21,
         "yaml": 38
     },
-    "pep8_infringement": 2913,
+    "pep8_infringement": 2919,
     "requirements": [
         "future>=0.15.2",
         "numpy>=1.12",

@@ -36,7 +36,7 @@
         "rst": 496,
         "txt": 14
     },
-    "pep8_infringement": 217,
+    "pep8_infringement": 227,
     "requirements": [
         "aiohttp==0.21.5",
         "beautifulsoup4==4.5.3",

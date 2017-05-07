@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 320,
+        "rst": 41,
+        "txt": 13
+    },
+    "pep8_infringement": 52,
     "requirements": [
         "pycorpora",
         "tracery"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 320,
-        "rst": 36,
-        "txt": 13
-    },
-    "pep8_infringement": 52,
     "shebang": {}
 }

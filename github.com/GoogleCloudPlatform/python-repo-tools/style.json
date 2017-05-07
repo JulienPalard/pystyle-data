@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "packaging",
-        "requests",
-        "retrying",
-        "setuptools>=25.0.0"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -44,5 +38,11 @@
         "rst": 22
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "packaging",
+        "requests",
+        "retrying",
+        "setuptools>=25.0.0"
+    ],
     "shebang": {}
 }

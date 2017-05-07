@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "aioredis"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "ini": 3,
@@ -40,6 +37,9 @@
         "txt": 3
     },
     "pep8_infringement": 50,
+    "requirements": [
+        "aioredis"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 4
     }

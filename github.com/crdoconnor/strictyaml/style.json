@@ -38,7 +38,7 @@
         "test": 1437,
         "txt": 97
     },
-    "pep8_infringement": 72,
+    "pep8_infringement": 73,
     "requirements": [
         "python-dateutil>=2.6.0",
         "ruamel.yaml>=0.14.2"

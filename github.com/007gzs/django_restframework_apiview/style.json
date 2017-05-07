@@ -38,7 +38,7 @@
         "rst": 16,
         "txt": 5
     },
-    "pep8_infringement": 433,
+    "pep8_infringement": 437,
     "requirements": [
         "django",
         "django-extensions",

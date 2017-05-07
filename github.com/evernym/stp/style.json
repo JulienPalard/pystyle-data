@@ -35,7 +35,7 @@
         "md": 5,
         "py": 5576
     },
-    "pep8_infringement": 200,
+    "pep8_infringement": 203,
     "requirements": [
         "ioflo==1.5.4",
         "portalocker==0.5.7",

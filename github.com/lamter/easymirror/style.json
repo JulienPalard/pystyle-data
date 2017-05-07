@@ -38,7 +38,7 @@
         "sh": 18,
         "txt": 4
     },
-    "pep8_infringement": 64,
+    "pep8_infringement": 74,
     "requirements": [
         "arrow",
         "logbook",

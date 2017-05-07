@@ -48,7 +48,7 @@
         "ts": 84427,
         "yml": 69
     },
-    "pep8_infringement": 104,
+    "pep8_infringement": 105,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,

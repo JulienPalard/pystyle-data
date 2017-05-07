@@ -39,7 +39,7 @@
         "rst": 3533,
         "txt": 188
     },
-    "pep8_infringement": 477,
+    "pep8_infringement": 480,
     "requirements": [
         "iso8601",
         "translationstring"

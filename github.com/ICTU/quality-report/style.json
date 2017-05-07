@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4==4.5.3",
-        "coverage==4.3.4",
-        "lxml==3.7.3",
-        "python-dateutil==2.6.0",
-        "setuptools==35.0.0",
-        "xmlrunner==1.7.7"
-    ],
     "license": null,
     "lines_of_code": {
         "css": 91,
@@ -51,7 +43,15 @@
         "svg": 576,
         "txt": 359
     },
-    "pep8_infringement": 2477,
+    "pep8_infringement": 2482,
+    "requirements": [
+        "beautifulsoup4==4.5.3",
+        "coverage==4.3.4",
+        "lxml==3.7.3",
+        "python-dateutil==2.6.0",
+        "setuptools==35.0.0",
+        "xmlrunner==1.7.7"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

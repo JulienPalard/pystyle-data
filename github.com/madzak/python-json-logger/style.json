@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "setuptools"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "ini": 13,
@@ -40,5 +37,8 @@
         "txt": 3
     },
     "pep8_infringement": 34,
+    "requirements": [
+        "setuptools"
+    ],
     "shebang": {}
 }

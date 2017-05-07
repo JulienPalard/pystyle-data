@@ -42,7 +42,7 @@
         "tex": 212,
         "txt": 1
     },
-    "pep8_infringement": 888,
+    "pep8_infringement": 896,
     "requirements": [
         "numpy",
         "pyparsing",

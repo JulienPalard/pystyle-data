@@ -38,7 +38,7 @@
         "tex": 192,
         "txt": 69
     },
-    "pep8_infringement": 73,
+    "pep8_infringement": 76,
     "requirements": [
         "requests"
     ],

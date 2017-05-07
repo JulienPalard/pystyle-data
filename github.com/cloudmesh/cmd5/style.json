@@ -37,7 +37,7 @@
         "rst": 275,
         "txt": 9
     },
-    "pep8_infringement": 78,
+    "pep8_infringement": 79,
     "requirements": [
         "cloudmesh.common",
         "coverage",

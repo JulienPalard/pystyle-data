@@ -29,10 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "futures<=2.2.0",
-        "six>=1.6"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 190,
@@ -53,7 +49,11 @@
         "yaml": 139,
         "yml": 26
     },
-    "pep8_infringement": 5170,
+    "pep8_infringement": 5180,
+    "requirements": [
+        "futures<=2.2.0",
+        "six>=1.6"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3,
         "#!python": 1

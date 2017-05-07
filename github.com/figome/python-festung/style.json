@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "enum34==1.1.6",
-        "furl==1.0.0",
-        "orderedmultidict==0.7.11",
-        "requests==2.13.0",
-        "simplejson==3.10.0",
-        "six==1.10.0"
-    ],
     "license": "ISC",
     "lines_of_code": {
         "cfg": 26,
@@ -47,6 +39,14 @@
         "txt": 12
     },
     "pep8_infringement": 24,
+    "requirements": [
+        "enum34==1.1.6",
+        "furl==1.0.0",
+        "orderedmultidict==0.7.11",
+        "requests==2.13.0",
+        "simplejson==3.10.0",
+        "six==1.10.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

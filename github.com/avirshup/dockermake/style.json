@@ -39,7 +39,7 @@
         "txt": 3,
         "yml": 56
     },
-    "pep8_infringement": 94,
+    "pep8_infringement": 96,
     "requirements": [
         "docker",
         "future",

@@ -66,7 +66,7 @@
         "txt": 5973,
         "zypper": 6
     },
-    "pep8_infringement": 20677,
+    "pep8_infringement": 20719,
     "requirements": [],
     "shebang": {
         "# #!/usr/bin/env python": 1,

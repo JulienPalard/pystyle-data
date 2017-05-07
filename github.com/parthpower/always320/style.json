@@ -35,7 +35,7 @@
         "py": 302,
         "txt": 16
     },
-    "pep8_infringement": 114,
+    "pep8_infringement": 117,
     "requirements": [
         "beautifulsoup4",
         "html5lib",

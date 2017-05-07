@@ -35,7 +35,7 @@
         "py": 1126,
         "txt": 233
     },
-    "pep8_infringement": 1790,
+    "pep8_infringement": 1798,
     "requirements": [
         "numpy",
         "pybigwig",

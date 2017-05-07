@@ -34,7 +34,7 @@
         "py": 326,
         "rst": 46
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 26,
     "requirements": [
         "helga",
         "requests"

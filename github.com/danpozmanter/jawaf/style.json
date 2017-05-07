@@ -39,7 +39,7 @@
         "tpl": 200,
         "txt": 24
     },
-    "pep8_infringement": 507,
+    "pep8_infringement": 516,
     "requirements": [
         "aiohttp>=2.0.5",
         "argon2-cffi>=16.3.0",

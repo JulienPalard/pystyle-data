@@ -41,7 +41,7 @@
         "sample": 33,
         "txt": 46
     },
-    "pep8_infringement": 657,
+    "pep8_infringement": 659,
     "requirements": [
         "gevent",
         "greenlet",

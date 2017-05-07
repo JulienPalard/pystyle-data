@@ -39,7 +39,7 @@
         "txt": 15,
         "yaml": 228
     },
-    "pep8_infringement": 1388,
+    "pep8_infringement": 1395,
     "requirements": [
         "flask>=0.12",
         "flask-cors>=3.0.2",

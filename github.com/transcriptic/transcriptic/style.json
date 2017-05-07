@@ -42,7 +42,7 @@
         "svg": 60,
         "txt": 10
     },
-    "pep8_infringement": 377,
+    "pep8_infringement": 390,
     "requirements": [
         "click>=5.1",
         "future>=0.15",

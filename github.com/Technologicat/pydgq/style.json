@@ -38,7 +38,7 @@
         "pyx": 3478,
         "sh": 4
     },
-    "pep8_infringement": 1596,
+    "pep8_infringement": 1599,
     "requirements": [
         "numpy",
         "pylu"

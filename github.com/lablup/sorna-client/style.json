@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiohttp~=2.0.7",
-        "namedlist",
-        "python-dateutil>=2.5",
-        "requests",
-        "simplejson"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 14,
@@ -47,5 +40,12 @@
         "yml": 12
     },
     "pep8_infringement": 36,
+    "requirements": [
+        "aiohttp~=2.0.7",
+        "namedlist",
+        "python-dateutil>=2.5",
+        "requests",
+        "simplejson"
+    ],
     "shebang": {}
 }

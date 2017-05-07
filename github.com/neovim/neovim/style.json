@@ -59,7 +59,7 @@
         "vim": 206561,
         "yml": 13
     },
-    "pep8_infringement": 148,
+    "pep8_infringement": 152,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 3,

@@ -42,7 +42,7 @@
         "txt": 20,
         "yml": 1974
     },
-    "pep8_infringement": 864,
+    "pep8_infringement": 883,
     "requirements": [
         "ckanapi",
         "colorlog",

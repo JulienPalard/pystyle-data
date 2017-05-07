@@ -39,7 +39,7 @@
         "txt": 50,
         "xml": 226832
     },
-    "pep8_infringement": 601,
+    "pep8_infringement": 608,
     "requirements": [
         "ansicolors==1.0.2",
         "gitpython==2.1.0",

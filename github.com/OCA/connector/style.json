@@ -42,7 +42,7 @@
         "rst": 4550,
         "xml": 1314
     },
-    "pep8_infringement": 44,
+    "pep8_infringement": 50,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

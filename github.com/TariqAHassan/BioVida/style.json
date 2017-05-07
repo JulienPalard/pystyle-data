@@ -38,7 +38,7 @@
         "py": 15152,
         "rst": 570
     },
-    "pep8_infringement": 2306,
+    "pep8_infringement": 2326,
     "requirements": [
         "bs4",
         "h5py",

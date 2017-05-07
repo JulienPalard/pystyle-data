@@ -43,7 +43,7 @@
         "tsv": 3,
         "txt": 2616
     },
-    "pep8_infringement": 62,
+    "pep8_infringement": 55,
     "requirements": [
         "pytest>=3.0.3"
     ],

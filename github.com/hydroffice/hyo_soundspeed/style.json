@@ -90,7 +90,7 @@
         "v21": 67,
         "yml": 61
     },
-    "pep8_infringement": 3345,
+    "pep8_infringement": 3371,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

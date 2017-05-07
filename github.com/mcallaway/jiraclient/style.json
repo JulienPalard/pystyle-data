@@ -37,7 +37,7 @@
         "yaml": 65,
         "yml": 14
     },
-    "pep8_infringement": 1168,
+    "pep8_infringement": 1167,
     "requirements": [
         "pyyaml",
         "restkit"

@@ -29,18 +29,18 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "click==6.6",
-        "cryptography==1.7.1",
-        "pyyaml==3.12",
-        "requests==2.12.5"
-    ],
     "license": null,
     "lines_of_code": {
         "ini": 2,
         "py": 255,
         "rst": 230
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 24,
+    "requirements": [
+        "click==6.6",
+        "cryptography==1.7.1",
+        "pyyaml==3.12",
+        "requests==2.12.5"
+    ],
     "shebang": {}
 }

@@ -35,7 +35,7 @@
         "py": 1050,
         "txt": 18
     },
-    "pep8_infringement": 78,
+    "pep8_infringement": 79,
     "requirements": [
         "click==6.6",
         "colorlog==2.10.0",

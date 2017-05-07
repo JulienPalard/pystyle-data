@@ -51,7 +51,7 @@
         "vue": 14906,
         "yml": 104
     },
-    "pep8_infringement": 99,
+    "pep8_infringement": 116,
     "requirements": [
         "awesome-slugify==1.6.5",
         "bcrypt==3.1.2",

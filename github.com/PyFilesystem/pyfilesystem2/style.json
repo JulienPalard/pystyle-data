@@ -41,7 +41,7 @@
         "sh": 16,
         "txt": 14
     },
-    "pep8_infringement": 200,
+    "pep8_infringement": 205,
     "requirements": [
         "appdirs~=1.4.0",
         "enum34~=1.1.6",

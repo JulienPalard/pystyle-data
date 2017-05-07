@@ -38,7 +38,7 @@
         "rst": 16,
         "txt": 1
     },
-    "pep8_infringement": 2217,
+    "pep8_infringement": 2224,
     "requirements": [
         "decorator>=4.0.10",
         "numpy>=1.7",

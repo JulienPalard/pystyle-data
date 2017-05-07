@@ -35,7 +35,7 @@
         "html": 56,
         "py": 171
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 24,
     "requirements": [
         "pygments"
     ],

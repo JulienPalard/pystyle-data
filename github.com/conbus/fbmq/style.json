@@ -36,7 +36,7 @@
         "py": 1880,
         "txt": 3
     },
-    "pep8_infringement": 189,
+    "pep8_infringement": 187,
     "requirements": [
         "flask",
         "requests>=2.0"

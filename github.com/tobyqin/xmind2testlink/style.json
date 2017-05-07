@@ -41,7 +41,7 @@
         "txt": 3,
         "xml": 520
     },
-    "pep8_infringement": 13,
+    "pep8_infringement": 14,
     "requirements": [],
     "shebang": {}
 }

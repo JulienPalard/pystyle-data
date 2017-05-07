@@ -41,7 +41,7 @@
         "txt": 51,
         "yaml": 15463
     },
-    "pep8_infringement": 275,
+    "pep8_infringement": 281,
     "requirements": [
         "beautifulsoup4==4.5.1",
         "certifi==2016.9.26",

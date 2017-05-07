@@ -44,7 +44,7 @@
         "sh": 235,
         "sql": 5507
     },
-    "pep8_infringement": 90546,
+    "pep8_infringement": 90557,
     "requirements": [
         "setuptools>=1.0"
     ],

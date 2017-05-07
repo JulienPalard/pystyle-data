@@ -40,7 +40,7 @@
         "py": 5080,
         "rst": 411
     },
-    "pep8_infringement": 988,
+    "pep8_infringement": 996,
     "requirements": [
         "beautifulsoup4==4.5.1",
         "cachecontrol==0.12.0",

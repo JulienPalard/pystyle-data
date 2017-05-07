@@ -73,7 +73,7 @@
         "yaml": 9,
         "yml": 67
     },
-    "pep8_infringement": 3887,
+    "pep8_infringement": 3390,
     "requirements": [
         "alembic>=0.6.7",
         "argparse>=1.2.1",

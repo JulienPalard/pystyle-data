@@ -52,7 +52,7 @@
         "ui": 8948,
         "yml": 79
     },
-    "pep8_infringement": 4153,
+    "pep8_infringement": 4158,
     "requirements": [
         "numpy",
         "psutil",

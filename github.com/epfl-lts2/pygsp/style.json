@@ -40,7 +40,7 @@
         "rst": 1456,
         "txt": 110
     },
-    "pep8_infringement": 345,
+    "pep8_infringement": 347,
     "requirements": [
         "flake8",
         "matplotlib==1.4.3",

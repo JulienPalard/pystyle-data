@@ -38,7 +38,7 @@
         "rst": 743,
         "txt": 50
     },
-    "pep8_infringement": 566,
+    "pep8_infringement": 568,
     "requirements": [
         "ordereddict",
         "ply",

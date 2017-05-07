@@ -59,7 +59,7 @@
         "txt": 73457,
         "word-map": 8
     },
-    "pep8_infringement": 16041,
+    "pep8_infringement": 16053,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 6,

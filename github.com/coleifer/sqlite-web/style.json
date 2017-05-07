@@ -40,7 +40,7 @@
         "svg": 229,
         "txt": 3
     },
-    "pep8_infringement": 37,
+    "pep8_infringement": 38,
     "requirements": [
         "flask",
         "peewee",

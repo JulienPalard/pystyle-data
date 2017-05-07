@@ -37,7 +37,7 @@
         "rst": 169,
         "sh": 9
     },
-    "pep8_infringement": 52,
+    "pep8_infringement": 55,
     "requirements": [
         "six==1.10.0"
     ],

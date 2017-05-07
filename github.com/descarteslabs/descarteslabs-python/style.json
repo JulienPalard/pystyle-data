@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cachetools",
-        "requests>=2.11.1",
-        "six"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -46,7 +41,12 @@
         "rst": 95,
         "txt": 43
     },
-    "pep8_infringement": 95,
+    "pep8_infringement": 96,
+    "requirements": [
+        "cachetools",
+        "requests>=2.11.1",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

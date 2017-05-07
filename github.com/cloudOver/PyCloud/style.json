@@ -37,7 +37,7 @@
         "test": 40,
         "txt": 14
     },
-    "pep8_infringement": 758,
+    "pep8_infringement": 777,
     "requirements": [
         "pytest",
         "pytest-cov",

@@ -42,7 +42,7 @@
         "svg": 254,
         "txt": 1
     },
-    "pep8_infringement": 1866,
+    "pep8_infringement": 1871,
     "requirements": [
         "boto>=2.27.0",
         "dj-database-url>=0.4.0",

@@ -42,7 +42,7 @@
         "xml": 54,
         "yaml": 17
     },
-    "pep8_infringement": 13878,
+    "pep8_infringement": 13882,
     "requirements": [
         "certifi",
         "ipaddress",

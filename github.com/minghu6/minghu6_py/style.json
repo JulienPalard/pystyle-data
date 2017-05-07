@@ -41,7 +41,7 @@
         "txt": 9,
         "ui": 324
     },
-    "pep8_infringement": 4952,
+    "pep8_infringement": 4968,
     "requirements": [
         "beautifulsoup4",
         "cchardet",

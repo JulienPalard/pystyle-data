@@ -37,7 +37,7 @@
         "rst": 1335,
         "txt": 2
     },
-    "pep8_infringement": 110,
+    "pep8_infringement": 114,
     "requirements": [
         "itchat==1.2.32",
         "requests"

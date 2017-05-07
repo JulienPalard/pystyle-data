@@ -41,7 +41,7 @@
         "tex": 254,
         "txt": 699
     },
-    "pep8_infringement": 4291,
+    "pep8_infringement": 4246,
     "requirements": [
         "networkx>=1.10",
         "numpy",

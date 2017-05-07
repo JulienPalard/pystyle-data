@@ -38,7 +38,7 @@
         "rst": 429,
         "txt": 293
     },
-    "pep8_infringement": 269,
+    "pep8_infringement": 270,
     "requirements": [
         "jsonpickle"
     ],

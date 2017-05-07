@@ -39,7 +39,7 @@
         "py": 1637,
         "rst": 230
     },
-    "pep8_infringement": 46,
+    "pep8_infringement": 47,
     "requirements": [
         "asn1crypto",
         "cffi>=1.3.0"

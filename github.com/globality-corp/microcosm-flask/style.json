@@ -37,7 +37,7 @@
         "py": 8027,
         "yml": 35
     },
-    "pep8_infringement": 252,
+    "pep8_infringement": 260,
     "requirements": [
         "enum34>=1.1.2",
         "flask>=0.11",

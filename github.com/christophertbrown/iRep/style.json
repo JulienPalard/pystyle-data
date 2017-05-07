@@ -38,7 +38,7 @@
         "tsv": 38,
         "txt": 7
     },
-    "pep8_infringement": 1535,
+    "pep8_infringement": 1550,
     "requirements": [
         "lmfit",
         "matplotlib",

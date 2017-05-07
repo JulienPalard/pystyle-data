@@ -39,7 +39,7 @@
         "py": 2072,
         "rst": 585
     },
-    "pep8_infringement": 316,
+    "pep8_infringement": 319,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1

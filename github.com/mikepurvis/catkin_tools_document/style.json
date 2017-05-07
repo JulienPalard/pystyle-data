@@ -37,7 +37,7 @@
         "py": 1016,
         "xml": 55299
     },
-    "pep8_infringement": 72,
+    "pep8_infringement": 74,
     "requirements": [
         "catkin-pkg",
         "catkin-sphinx",

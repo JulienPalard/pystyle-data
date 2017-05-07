@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "html": 909,
+        "in": 1,
+        "js": 961,
+        "po": 476,
+        "py": 4459,
+        "rst": 109,
+        "txt": 34
+    },
+    "pep8_infringement": 1053,
     "requirements": [
         "django-filter>=0.7",
         "django-ipware>=0.0.8",
@@ -41,17 +52,6 @@
         "pyotp>=1.3.1",
         "slowaes==0.1a1"
     ],
-    "license": "GPL-3.0",
-    "lines_of_code": {
-        "html": 909,
-        "in": 1,
-        "js": 961,
-        "po": 476,
-        "py": 4459,
-        "rst": 109,
-        "txt": 34
-    },
-    "pep8_infringement": 1053,
     "shebang": {
         "#!/usr/bin/env python": 1
     }

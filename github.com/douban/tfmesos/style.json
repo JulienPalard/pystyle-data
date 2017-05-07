@@ -37,7 +37,7 @@
         "sh": 73,
         "txt": 23
     },
-    "pep8_infringement": 54,
+    "pep8_infringement": 55,
     "requirements": [
         "addict",
         "pymesos>=0.2.10",

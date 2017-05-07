@@ -41,7 +41,7 @@
         "rst": 300,
         "txt": 1
     },
-    "pep8_infringement": 68,
+    "pep8_infringement": 61,
     "requirements": [
         "arrow",
         "arrow",

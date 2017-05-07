@@ -36,7 +36,7 @@
         "rst": 16,
         "yaml": 27
     },
-    "pep8_infringement": 181,
+    "pep8_infringement": 182,
     "requirements": [
         "paramiko",
         "pymongo",

@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "flask",
-        "itsdangerous",
-        "passlib>=1.6",
-        "tox"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 6,
@@ -44,6 +38,12 @@
         "txt": 8
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "flask",
+        "itsdangerous",
+        "passlib>=1.6",
+        "tox"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

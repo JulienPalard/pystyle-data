@@ -36,7 +36,7 @@
         "py": 727,
         "txt": 49
     },
-    "pep8_infringement": 202,
+    "pep8_infringement": 203,
     "requirements": [
         "environment-manager==0.2.5",
         "python-dateutil",

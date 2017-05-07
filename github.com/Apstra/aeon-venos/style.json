@@ -38,7 +38,7 @@
         "py": 1616,
         "txt": 9
     },
-    "pep8_infringement": 54,
+    "pep8_infringement": 59,
     "requirements": [
         "lxml",
         "paramiko<2.0.0",

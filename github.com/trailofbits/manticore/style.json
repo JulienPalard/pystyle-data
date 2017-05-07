@@ -41,7 +41,7 @@
         "sh": 52,
         "txt": 6934
     },
-    "pep8_infringement": 55245,
+    "pep8_infringement": 55256,
     "requirements": [
         "capstone",
         "ply",

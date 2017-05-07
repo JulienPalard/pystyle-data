@@ -39,7 +39,7 @@
         "sh": 198,
         "txt": 26
     },
-    "pep8_infringement": 975,
+    "pep8_infringement": 983,
     "requirements": [
         "aenum==1.4.5",
         "coapthon==4.0.2",

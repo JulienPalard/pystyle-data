@@ -37,7 +37,7 @@
         "rst": 172,
         "txt": 10
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 10,
     "requirements": [
         "beautifulsoup4",
         "click",

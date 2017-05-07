@@ -50,7 +50,7 @@
         "sublime-project": 176,
         "user": 9
     },
-    "pep8_infringement": 349,
+    "pep8_infringement": 360,
     "requirements": [
         "matplotlib",
         "numpy",

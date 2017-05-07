@@ -38,7 +38,7 @@
         "rst": 1,
         "yml": 2
     },
-    "pep8_infringement": 321,
+    "pep8_infringement": 325,
     "requirements": [
         "requests"
     ],

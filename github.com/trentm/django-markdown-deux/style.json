@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "markdown2"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "html": 85,
@@ -41,6 +38,9 @@
         "txt": 28
     },
     "pep8_infringement": 106,
+    "requirements": [
+        "markdown2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

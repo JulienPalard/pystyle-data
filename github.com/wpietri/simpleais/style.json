@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bitstring",
-        "click",
-        "numpy",
-        "python-dateutil",
-        "testfixtures"
-    ],
     "license": null,
     "lines_of_code": {
         "ais": 10000,
@@ -45,6 +38,13 @@
         "py": 3071
     },
     "pep8_infringement": 173,
+    "requirements": [
+        "bitstring",
+        "click",
+        "numpy",
+        "python-dateutil",
+        "testfixtures"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

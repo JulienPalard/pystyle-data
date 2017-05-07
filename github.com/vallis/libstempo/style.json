@@ -42,7 +42,7 @@
         "tim": 1211,
         "txt": 102
     },
-    "pep8_infringement": 1709,
+    "pep8_infringement": 1713,
     "requirements": [
         "cython>=0.22",
         "numpy"

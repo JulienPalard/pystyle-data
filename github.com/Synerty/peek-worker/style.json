@@ -36,7 +36,7 @@
         "rst": 13,
         "sh": 226
     },
-    "pep8_infringement": 43,
+    "pep8_infringement": 42,
     "requirements": [
         "peek-platform"
     ],

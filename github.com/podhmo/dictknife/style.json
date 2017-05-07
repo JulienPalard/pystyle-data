@@ -40,7 +40,7 @@
         "txt": 15,
         "yaml": 328
     },
-    "pep8_infringement": 46,
+    "pep8_infringement": 47,
     "requirements": [
         "namedlist"
     ],

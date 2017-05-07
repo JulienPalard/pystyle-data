@@ -34,7 +34,7 @@
         "md": 291,
         "py": 395
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 16,
     "requirements": [
         "basicevents",
         "kombu",

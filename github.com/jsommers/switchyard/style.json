@@ -38,7 +38,7 @@
         "sh": 35,
         "txt": 57
     },
-    "pep8_infringement": 3332,
+    "pep8_infringement": 3354,
     "requirements": [
         "cffi>=1.10.0",
         "colorama>=0.3.3",

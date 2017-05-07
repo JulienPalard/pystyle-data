@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "kudubot",
-        "python-telegram-bot",
-        "raven",
-        "typing"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 64,
@@ -43,6 +37,12 @@
         "svg": 107
     },
     "pep8_infringement": 32,
+    "requirements": [
+        "kudubot",
+        "python-telegram-bot",
+        "raven",
+        "typing"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

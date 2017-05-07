@@ -44,7 +44,7 @@
         "rst": 61,
         "txt": 9
     },
-    "pep8_infringement": 6403,
+    "pep8_infringement": 6422,
     "requirements": [
         "astropy",
         "astroquery",

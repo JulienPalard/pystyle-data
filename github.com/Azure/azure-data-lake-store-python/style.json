@@ -44,7 +44,7 @@
         "yaml": 26567,
         "yml": 20
     },
-    "pep8_infringement": 337,
+    "pep8_infringement": 338,
     "requirements": [
         "adal>=0.4.2",
         "cffi",

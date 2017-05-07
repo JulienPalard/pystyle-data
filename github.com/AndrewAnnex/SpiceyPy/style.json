@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "pytest",
-        "six",
-        "six"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 314,
@@ -52,6 +46,12 @@
         "yml": 162
     },
     "pep8_infringement": 1219,
+    "requirements": [
+        "numpy",
+        "pytest",
+        "six",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 2
     }

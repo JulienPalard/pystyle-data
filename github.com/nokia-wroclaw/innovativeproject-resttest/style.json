@@ -38,7 +38,7 @@
         "txt": 49,
         "xml": 64
     },
-    "pep8_infringement": 239,
+    "pep8_infringement": 218,
     "requirements": [
         "beautifulsoup4",
         "junit-xml",

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "opencv-python",
-        "pyautogui"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -43,5 +39,9 @@
         "py": 211
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "opencv-python",
+        "pyautogui"
+    ],
     "shebang": {}
 }

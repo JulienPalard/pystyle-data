@@ -37,7 +37,7 @@
         "rst": 228,
         "sh": 122
     },
-    "pep8_infringement": 193,
+    "pep8_infringement": 204,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env GoodTests.py": 1,

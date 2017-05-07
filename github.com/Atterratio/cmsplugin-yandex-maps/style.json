@@ -43,7 +43,7 @@
         "txt": 2,
         "xml": 67
     },
-    "pep8_infringement": 600,
+    "pep8_infringement": 606,
     "requirements": [
         "django>=1.8.0",
         "django-cms>=3.3.0",

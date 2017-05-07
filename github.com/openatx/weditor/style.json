@@ -41,7 +41,7 @@
         "txt": 4,
         "xml": 20
     },
-    "pep8_infringement": 45,
+    "pep8_infringement": 47,
     "requirements": [
         "atx>=1.1.1.dev47",
         "futures==3.0.5",

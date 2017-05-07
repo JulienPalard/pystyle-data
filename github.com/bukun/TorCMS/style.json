@@ -46,7 +46,7 @@
         "txt": 45,
         "yaml": 327
     },
-    "pep8_infringement": 466,
+    "pep8_infringement": 508,
     "requirements": [
         "beautifulsoup4",
         "html2text",

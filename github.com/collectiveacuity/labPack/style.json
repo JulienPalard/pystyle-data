@@ -38,7 +38,7 @@
         "txt": 23,
         "yaml": 3
     },
-    "pep8_infringement": 1065,
+    "pep8_infringement": 1073,
     "requirements": [
         "jsonmodel",
         "pyjwt>=1.4.2",

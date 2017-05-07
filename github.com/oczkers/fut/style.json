@@ -36,7 +36,7 @@
         "rst": 700,
         "txt": 2
     },
-    "pep8_infringement": 248,
+    "pep8_infringement": 250,
     "requirements": [
         "requests>=2.2.1",
         "xmltodict"

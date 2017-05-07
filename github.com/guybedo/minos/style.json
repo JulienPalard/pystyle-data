@@ -36,7 +36,7 @@
         "py": 4557,
         "txt": 3
     },
-    "pep8_infringement": 189,
+    "pep8_infringement": 190,
     "requirements": [
         "deap>=1.0.2",
         "keras==1.2.2",

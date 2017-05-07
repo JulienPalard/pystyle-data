@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "virtualenv"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 3,
@@ -42,6 +38,10 @@
         "yml": 18
     },
     "pep8_infringement": 10,
+    "requirements": [
+        "click",
+        "virtualenv"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

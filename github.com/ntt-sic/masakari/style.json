@@ -44,7 +44,7 @@
         "sql": 64,
         "txt": 124
     },
-    "pep8_infringement": 299,
+    "pep8_infringement": 337,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 12,

@@ -43,7 +43,7 @@
         "txt": 27,
         "yaml": 50
     },
-    "pep8_infringement": 192,
+    "pep8_infringement": 193,
     "requirements": [
         "click>=6.0",
         "dedupe>=1.6.0",

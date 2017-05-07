@@ -45,11 +45,11 @@
         "txt": 50,
         "yaml": 65
     },
-    "pep8_infringement": 104,
+    "pep8_infringement": 107,
     "requirements": [
-        "elasticsearch<=3.0.0,>=2.0.0",
+        "elasticsearch>=2.0.0,<=3.0.0",
         "falcon>=1.0.0",
-        "jsonschema!=2.5.0,>=2.0.0,<3.0.0",
+        "jsonschema!=2.5.0,<3.0.0,>=2.0.0",
         "keystonemiddleware>=4.12.0",
         "oslo.config>=3.22.0",
         "oslo.context>=2.12.0",

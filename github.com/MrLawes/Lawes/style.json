@@ -41,7 +41,7 @@
         "rst": 468,
         "txt": 20
     },
-    "pep8_infringement": 94,
+    "pep8_infringement": 95,
     "requirements": [
         "pymongo>=2.8"
     ],

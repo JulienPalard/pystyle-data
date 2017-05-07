@@ -39,7 +39,7 @@
         "yaml": 2,
         "yml": 40
     },
-    "pep8_infringement": 268,
+    "pep8_infringement": 291,
     "requirements": [
         "dill==0.2.5",
         "future==0.15.2",

@@ -39,7 +39,7 @@
         "txt": 204,
         "yaml": 33
     },
-    "pep8_infringement": 557,
+    "pep8_infringement": 560,
     "requirements": [
         "googleappenginecloudstorageclient",
         "yccloudpickle"

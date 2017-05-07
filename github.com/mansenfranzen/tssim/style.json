@@ -39,7 +39,7 @@
         "rst": 270,
         "txt": 17
     },
-    "pep8_infringement": 107,
+    "pep8_infringement": 104,
     "requirements": [
         "bokeh",
         "numpy",

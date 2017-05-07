@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "psutil>=2.1.1",
-        "python-dateutil>=2.2",
-        "six>=1.7.2",
-        "toposort>=1.0"
-    ],
     "license": null,
     "lines_of_code": {
         "html": 83,
@@ -51,6 +45,12 @@
         "yml": 10
     },
     "pep8_infringement": 1771,
+    "requirements": [
+        "psutil>=2.1.1",
+        "python-dateutil>=2.2",
+        "six>=1.7.2",
+        "toposort>=1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

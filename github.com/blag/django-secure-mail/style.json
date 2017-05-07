@@ -39,7 +39,7 @@
         "sh": 5,
         "txt": 4
     },
-    "pep8_infringement": 7,
+    "pep8_infringement": 8,
     "requirements": [
         "python-gnupg"
     ],

@@ -37,7 +37,7 @@
         "py": 1509,
         "rst": 245
     },
-    "pep8_infringement": 269,
+    "pep8_infringement": 274,
     "requirements": [
         "enum34"
     ],

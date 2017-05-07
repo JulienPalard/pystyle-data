@@ -47,7 +47,7 @@
     },
     "pep8_infringement": 2,
     "requirements": [
-        "requests<2.12.0a0,>=2.11"
+        "requests>=2.11,<2.12.0a0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

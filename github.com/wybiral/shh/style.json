@@ -38,7 +38,7 @@
         "py": 215,
         "txt": 3
     },
-    "pep8_infringement": 13,
+    "pep8_infringement": 14,
     "requirements": [
         "stem==1.4.0"
     ],

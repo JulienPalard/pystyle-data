@@ -46,7 +46,7 @@
         "stan": 245,
         "txt": 111
     },
-    "pep8_infringement": 1803,
+    "pep8_infringement": 1804,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 6,

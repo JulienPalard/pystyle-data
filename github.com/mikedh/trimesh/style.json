@@ -48,7 +48,7 @@
         "txt": 5,
         "xaml": 76
     },
-    "pep8_infringement": 449,
+    "pep8_infringement": 457,
     "requirements": [
         "networkx",
         "numpy",

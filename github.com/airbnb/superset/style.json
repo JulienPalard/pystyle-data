@@ -51,7 +51,7 @@
         "svg": 282,
         "txt": 249
     },
-    "pep8_infringement": 649,
+    "pep8_infringement": 658,
     "requirements": [
         "boto3==1.4.4",
         "celery==3.1.23",
@@ -63,7 +63,7 @@
         "flask-sqlalchemy==2.0",
         "flask-testing==0.6.2",
         "flask-wtf==0.14.2",
-        "future>=0.16.0,<0.17",
+        "future<0.17,>=0.16.0",
         "gunicorn==19.7.1",
         "humanize==0.5.1",
         "markdown==2.6.8",

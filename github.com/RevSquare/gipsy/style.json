@@ -47,7 +47,7 @@
         "svg": 1498,
         "txt": 27
     },
-    "pep8_infringement": 66,
+    "pep8_infringement": 67,
     "requirements": [
         "google-api-python-client==1.5.5"
     ],

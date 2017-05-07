@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "boto3",
-        "boto3facade>=0.4.5",
-        "click",
-        "jinja2",
-        "pyyaml",
-        "s3keyring>=0.2.3"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -48,6 +40,14 @@
         "yaml": 59
     },
     "pep8_infringement": 12,
+    "requirements": [
+        "boto3",
+        "boto3facade>=0.4.5",
+        "click",
+        "jinja2",
+        "pyyaml",
+        "s3keyring>=0.2.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -36,7 +36,7 @@
         "py": 1250,
         "txt": 87
     },
-    "pep8_infringement": 289,
+    "pep8_infringement": 292,
     "requirements": [
         "requests",
         "simplejson"

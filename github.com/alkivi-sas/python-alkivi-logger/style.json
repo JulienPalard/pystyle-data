@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest",
-        "pytest-cov"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "cfg": 5,
@@ -42,5 +38,9 @@
         "txt": 2
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "pytest",
+        "pytest-cov"
+    ],
     "shebang": {}
 }

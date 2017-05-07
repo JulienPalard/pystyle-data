@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "paramiko (git+https://github.com/paramiko/paramiko@1.17)"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -43,6 +40,9 @@
         "txt": 29
     },
     "pep8_infringement": 664,
+    "requirements": [
+        "paramiko (git+https://github.com/paramiko/paramiko@1.17)"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

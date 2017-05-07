@@ -40,7 +40,7 @@
         "txt": 521,
         "xml": 13
     },
-    "pep8_infringement": 4556,
+    "pep8_infringement": 4493,
     "requirements": [],
     "shebang": {
         "#! /usr/bin/env python3": 9,

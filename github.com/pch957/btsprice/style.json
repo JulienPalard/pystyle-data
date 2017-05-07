@@ -39,7 +39,7 @@
         "sample": 49,
         "txt": 28
     },
-    "pep8_infringement": 61,
+    "pep8_infringement": 74,
     "requirements": [
         "aiohttp",
         "bts",

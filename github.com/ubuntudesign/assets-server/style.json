@@ -39,7 +39,7 @@
         "sh": 93,
         "txt": 41
     },
-    "pep8_infringement": 6,
+    "pep8_infringement": 10,
     "requirements": [
         "aniso8601==0.82",
         "argparse==1.2.1",

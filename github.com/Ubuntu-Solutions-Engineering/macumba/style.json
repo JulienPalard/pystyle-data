@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyyaml",
-        "requests",
-        "ws4py"
-    ],
     "license": "LGPL-3.0",
     "lines_of_code": {
         "in": 2,
@@ -43,6 +38,11 @@
         "yaml": 3
     },
     "pep8_infringement": 17,
+    "requirements": [
+        "pyyaml",
+        "requests",
+        "ws4py"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 5,
         "#!python3": 1

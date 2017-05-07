@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "future",
-        "requests>=2.0.0<3.0.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,6 +37,10 @@
         "rst": 42
     },
     "pep8_infringement": 2,
+    "requirements": [
+        "future",
+        "requests>=2.0.0<3.0.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

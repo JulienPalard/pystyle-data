@@ -42,7 +42,7 @@
         "rss": 17,
         "txt": 3
     },
-    "pep8_infringement": 1489,
+    "pep8_infringement": 1420,
     "requirements": [
         "django>=1.5.0",
         "pillow>=2.3.0"

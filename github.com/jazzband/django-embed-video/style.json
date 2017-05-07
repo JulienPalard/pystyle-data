@@ -39,7 +39,7 @@
         "txt": 5,
         "yaml": 54
     },
-    "pep8_infringement": 174,
+    "pep8_infringement": 175,
     "requirements": [
         "django>=1.5",
         "requests>=1.2.3"

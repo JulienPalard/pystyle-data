@@ -57,7 +57,7 @@
         "wmd": 156,
         "xml": 550
     },
-    "pep8_infringement": 26158,
+    "pep8_infringement": 25846,
     "requirements": [
         "bokeh>=0.11.1",
         "coverage",

@@ -43,7 +43,7 @@
         "txt": 241,
         "xml": 279
     },
-    "pep8_infringement": 424,
+    "pep8_infringement": 429,
     "requirements": [
         "cachetools",
         "carbon (git+https://github.com/graphite-project/carbon.git@1.0.x)",

@@ -36,7 +36,7 @@
         "sql": 6,
         "txt": 11
     },
-    "pep8_infringement": 49,
+    "pep8_infringement": 24,
     "requirements": [
         "gevent",
         "psycogreen",

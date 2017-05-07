@@ -44,18 +44,18 @@
         "txt": 63,
         "xml": 8554
     },
-    "pep8_infringement": 124,
+    "pep8_infringement": 130,
     "requirements": [
         "babel>=2.3.4,<3.0.0",
-        "chardet>=2.3.0,<3.0.0",
+        "chardet<3.0.0,>=2.3.0",
         "feedparser<6.0.0,>=5.2.1",
         "html5lib==0.999999999",
-        "meza<0.37.0,>=0.36.2",
+        "meza>=0.36.2,<0.37.0",
         "mezmorize>=0.18.2,<0.19.0",
-        "pygogo>=0.9.0,<0.11.0",
+        "pygogo<0.11.0,>=0.9.0",
         "python-dateutil<3.0.0,>=2.4.2",
         "pytz>=2016.10",
-        "requests<3.0.0,>=2.10.0",
+        "requests>=2.10.0,<3.0.0",
         "six>=1.10.0,<2.0.0"
     ],
     "shebang": {

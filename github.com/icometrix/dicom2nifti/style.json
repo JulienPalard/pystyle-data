@@ -42,7 +42,7 @@
         "rst": 224,
         "txt": 155
     },
-    "pep8_infringement": 659,
+    "pep8_infringement": 666,
     "requirements": [
         "future",
         "nibabel",

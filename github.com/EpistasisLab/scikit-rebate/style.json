@@ -42,7 +42,7 @@
         "xml": 70,
         "yml": 27
     },
-    "pep8_infringement": 237,
+    "pep8_infringement": 238,
     "requirements": [
         "numpy",
         "scikit-learn",

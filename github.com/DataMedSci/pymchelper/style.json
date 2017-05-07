@@ -45,11 +45,11 @@
         "txt": 18,
         "yml": 161
     },
-    "pep8_infringement": 730,
+    "pep8_infringement": 827,
     "requirements": [
         "enum34",
-        "numpy>=1.10.4",
-        "numpy<1.12"
+        "numpy<1.12",
+        "numpy>=1.10.4"
     ],
     "shebang": {
         "#!/bin/env python": 2,

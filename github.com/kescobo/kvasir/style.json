@@ -37,7 +37,7 @@
         "rb": 346,
         "txt": 3
     },
-    "pep8_infringement": 479,
+    "pep8_infringement": 481,
     "requirements": [
         "biopython",
         "pandas",

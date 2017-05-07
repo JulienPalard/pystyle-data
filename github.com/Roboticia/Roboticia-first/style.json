@@ -40,7 +40,7 @@
         "step": 113291,
         "svg": 388
     },
-    "pep8_infringement": 50,
+    "pep8_infringement": 51,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

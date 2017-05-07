@@ -38,7 +38,7 @@
         "rst": 1,
         "txt": 5
     },
-    "pep8_infringement": 24,
+    "pep8_infringement": 21,
     "requirements": [
         "access-points",
         "numpy",

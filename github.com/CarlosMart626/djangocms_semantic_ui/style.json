@@ -37,7 +37,7 @@
         "rst": 38,
         "txt": 27
     },
-    "pep8_infringement": 42,
+    "pep8_infringement": 44,
     "requirements": [
         "django-cms>=3.2.0"
     ],

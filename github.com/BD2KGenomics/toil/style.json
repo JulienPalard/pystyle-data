@@ -40,7 +40,7 @@
         "sh": 702,
         "txt": 32
     },
-    "pep8_infringement": 5386,
+    "pep8_infringement": 5424,
     "requirements": [
         "bd2k-python-lib>=1.14a1.dev35",
         "dill==0.2.5",

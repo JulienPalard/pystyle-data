@@ -42,7 +42,7 @@
         "svg": 685,
         "txt": 217
     },
-    "pep8_infringement": 155,
+    "pep8_infringement": 156,
     "requirements": [
         "codecov==2.0.5",
         "coverage==4.3.4",

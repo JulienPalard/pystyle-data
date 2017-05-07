@@ -44,7 +44,7 @@
         "txt": 46,
         "yml": 886
     },
-    "pep8_infringement": 1194,
+    "pep8_infringement": 1193,
     "requirements": [
         "exifread",
         "frozendict",

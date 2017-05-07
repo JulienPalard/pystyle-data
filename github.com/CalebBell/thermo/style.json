@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "coolprop",
-        "fluids",
-        "pandas",
-        "scipy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "csv": 34721,
@@ -46,6 +40,12 @@
         "txt": 269,
         "yml": 49
     },
-    "pep8_infringement": 7945,
+    "pep8_infringement": 7982,
+    "requirements": [
+        "coolprop",
+        "fluids",
+        "pandas",
+        "scipy"
+    ],
     "shebang": {}
 }

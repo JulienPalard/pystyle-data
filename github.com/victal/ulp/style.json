@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pyperclip",
-        "urwid"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 52,
@@ -40,6 +36,10 @@
         "txt": 9
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "pyperclip",
+        "urwid"
+    ],
     "shebang": {
         "#!/usr/bi/env python": 1,
         "#!/usr/bin/env python": 2

@@ -40,7 +40,7 @@
         "svg": 603,
         "txt": 160
     },
-    "pep8_infringement": 767,
+    "pep8_infringement": 781,
     "requirements": [
         "parse>=1.6.6"
     ],

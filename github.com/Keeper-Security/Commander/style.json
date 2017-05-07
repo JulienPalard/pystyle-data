@@ -37,7 +37,7 @@
         "sample": 10,
         "txt": 16
     },
-    "pep8_infringement": 699,
+    "pep8_infringement": 721,
     "requirements": [
         "click",
         "colorama",

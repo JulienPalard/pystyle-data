@@ -48,7 +48,7 @@
         "xml": 776,
         "yml": 12
     },
-    "pep8_infringement": 407,
+    "pep8_infringement": 408,
     "requirements": [
         "colorlover",
         "matplotlib",

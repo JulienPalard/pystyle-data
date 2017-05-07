@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "iso8601"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
@@ -40,6 +37,9 @@
         "rst": 192,
         "txt": 7
     },
-    "pep8_infringement": 229,
+    "pep8_infringement": 230,
+    "requirements": [
+        "iso8601"
+    ],
     "shebang": {}
 }

@@ -36,7 +36,7 @@
         "py": 1196,
         "sh": 4
     },
-    "pep8_infringement": 176,
+    "pep8_infringement": 177,
     "requirements": [
         "requests"
     ],

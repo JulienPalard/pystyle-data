@@ -54,7 +54,7 @@
         "yml": 1731,
         "zone": 6
     },
-    "pep8_infringement": 68,
+    "pep8_infringement": 71,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,

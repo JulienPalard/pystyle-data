@@ -57,7 +57,7 @@
         "xml": 62760,
         "yml": 17
     },
-    "pep8_infringement": 73854,
+    "pep8_infringement": 73843,
     "requirements": [
         "argparse>=1.4.0",
         "coverage>=4.2",

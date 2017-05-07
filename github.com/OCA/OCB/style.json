@@ -82,7 +82,7 @@
         "xul": 193,
         "yml": 4595
     },
-    "pep8_infringement": 32380,
+    "pep8_infringement": 32631,
     "requirements": [
         "babel>=1.0",
         "decorator",

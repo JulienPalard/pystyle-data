@@ -43,7 +43,7 @@
         "txt": 26,
         "yml": 3
     },
-    "pep8_infringement": 1076,
+    "pep8_infringement": 1099,
     "requirements": [
         "functools32",
         "msgpack-numpy",

@@ -58,7 +58,7 @@
         "txt": 246,
         "xml": 635
     },
-    "pep8_infringement": 933,
+    "pep8_infringement": 947,
     "requirements": [
         "alembic>=0.7.1",
         "clldutils>=1.9.0",

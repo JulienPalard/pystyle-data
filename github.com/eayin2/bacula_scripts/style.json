@@ -37,7 +37,7 @@
         "rules": 1,
         "txt": 51
     },
-    "pep8_infringement": 312,
+    "pep8_infringement": 317,
     "requirements": [
         "gymail",
         "helputils",

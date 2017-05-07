@@ -37,7 +37,7 @@
         "py": 1250,
         "txt": 4
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 26,
     "requirements": [
         "enum34==1.1.6",
         "nose==1.3.7"

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pytest>=2.7"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 2,
@@ -39,6 +36,9 @@
         "py": 284
     },
     "pep8_infringement": 0,
+    "requirements": [
+        "pytest>=2.7"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

@@ -43,7 +43,7 @@
         "xml": 69,
         "yaml": 36
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 22,
     "requirements": [
         "ashes>=17.0.0",
         "boltons>=17.1.0",

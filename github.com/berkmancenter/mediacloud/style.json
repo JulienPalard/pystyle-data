@@ -59,7 +59,7 @@
         "xsl": 2016,
         "yml": 974
     },
-    "pep8_infringement": 1143,
+    "pep8_infringement": 1152,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 11

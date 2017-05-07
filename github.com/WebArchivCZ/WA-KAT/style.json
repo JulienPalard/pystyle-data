@@ -50,7 +50,7 @@
         "xml": 1011,
         "yml": 3001
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 26,
     "requirements": [
         "backports.functools-lru-cache==1.2.1",
         "bottle==0.12.9",

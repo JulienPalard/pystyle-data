@@ -39,7 +39,7 @@
         "sh": 12,
         "txt": 7
     },
-    "pep8_infringement": 299,
+    "pep8_infringement": 306,
     "requirements": [
         "gevent==1.2.1",
         "holster==1.0.11",

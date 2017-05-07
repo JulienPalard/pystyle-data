@@ -43,7 +43,7 @@
         "tsv": 40666,
         "txt": 18119
     },
-    "pep8_infringement": 1244,
+    "pep8_infringement": 1268,
     "requirements": [
         "click",
         "flask",

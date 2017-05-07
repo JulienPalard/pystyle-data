@@ -38,7 +38,7 @@
         "rst": 178,
         "txt": 396
     },
-    "pep8_infringement": 181,
+    "pep8_infringement": 182,
     "requirements": [
         "pycrc"
     ],

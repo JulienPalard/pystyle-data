@@ -39,7 +39,7 @@
         "txt": 17,
         "yaml": 827
     },
-    "pep8_infringement": 373,
+    "pep8_infringement": 374,
     "requirements": [
         "click>=3.3",
         "iso8601>=0.1.10",

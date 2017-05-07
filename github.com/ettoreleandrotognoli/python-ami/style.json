@@ -37,7 +37,7 @@
         "txt": 0,
         "yml": 2
     },
-    "pep8_infringement": 517,
+    "pep8_infringement": 521,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 2

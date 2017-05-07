@@ -37,7 +37,7 @@
         "rst": 191,
         "txt": 22
     },
-    "pep8_infringement": 242,
+    "pep8_infringement": 256,
     "requirements": [
         "flask>=0.10.1",
         "flask-sqlalchemy==2.1",

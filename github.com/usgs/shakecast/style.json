@@ -45,7 +45,7 @@
         "xml": 349,
         "yml": 80
     },
-    "pep8_infringement": 1464,
+    "pep8_infringement": 1496,
     "requirements": [
         "click==6.6",
         "flask==0.10.1",

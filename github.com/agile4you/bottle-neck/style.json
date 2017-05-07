@@ -35,7 +35,7 @@
         "rst": 17,
         "txt": 6
     },
-    "pep8_infringement": 40,
+    "pep8_infringement": 14,
     "requirements": [
         "bottle",
         "coverage",

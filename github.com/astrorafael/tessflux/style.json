@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "twisted==16.6.0",
-        "twisted-mqtt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
@@ -44,5 +39,10 @@
         "service": 21
     },
     "pep8_infringement": 511,
+    "requirements": [
+        "requests",
+        "twisted==16.6.0",
+        "twisted-mqtt"
+    ],
     "shebang": {}
 }

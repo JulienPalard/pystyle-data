@@ -39,7 +39,7 @@
         "txt": 14,
         "yaml": 411
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 15,
     "requirements": [
         "bson",
         "coveralls",

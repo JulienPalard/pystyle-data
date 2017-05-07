@@ -39,7 +39,7 @@
         "txt": 16,
         "yml": 1
     },
-    "pep8_infringement": 171,
+    "pep8_infringement": 181,
     "requirements": [
         "cheroot==5.3.0",
         "cherrypy==10.2.0",

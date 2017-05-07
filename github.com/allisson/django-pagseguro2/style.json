@@ -37,7 +37,7 @@
         "py": 2961,
         "rst": 448
     },
-    "pep8_infringement": 91,
+    "pep8_infringement": 93,
     "requirements": [
         "django>=1.8",
         "httpretty<0.8.7",

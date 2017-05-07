@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "virtualenv==15.1.0"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 1,
@@ -41,6 +38,9 @@
         "txt": 5
     },
     "pep8_infringement": 19,
+    "requirements": [
+        "virtualenv==15.1.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

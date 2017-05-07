@@ -37,7 +37,7 @@
         "txt": 4,
         "yml": 8
     },
-    "pep8_infringement": 45,
+    "pep8_infringement": 47,
     "requirements": [
         "daemonize==2.4.7",
         "requests==2.13.0"

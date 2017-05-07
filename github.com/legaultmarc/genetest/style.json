@@ -40,7 +40,7 @@
         "rst": 317,
         "txt": 406
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 2,
     "requirements": [
         "geneparse>=0.1.0",
         "grako>=3.10.0",

@@ -39,7 +39,7 @@
         "rst": 1046,
         "txt": 1
     },
-    "pep8_infringement": 387,
+    "pep8_infringement": 389,
     "requirements": [
         "boto3",
         "filelock",
@@ -49,7 +49,7 @@
         "python-dateutil",
         "python-magic",
         "rackspacesdk",
-        "requests!=2.13.0,!=2.12.2,>=2.10.0",
+        "requests!=2.12.2,>=2.10.0,!=2.13.0",
         "rfc6266-parser",
         "xattr"
     ],

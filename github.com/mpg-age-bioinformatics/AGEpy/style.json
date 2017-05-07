@@ -35,7 +35,7 @@
         "py": 2082,
         "txt": 12
     },
-    "pep8_infringement": 1671,
+    "pep8_infringement": 1678,
     "requirements": [
         "biomart",
         "matplotlib",

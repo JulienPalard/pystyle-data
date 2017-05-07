@@ -38,7 +38,7 @@
         "rst": 44,
         "txt": 2074
     },
-    "pep8_infringement": 482,
+    "pep8_infringement": 491,
     "requirements": [
         "pyserial>=2.7"
     ],

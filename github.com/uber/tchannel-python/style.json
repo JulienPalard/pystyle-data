@@ -44,16 +44,16 @@
         "yaml": 38,
         "yml": 33
     },
-    "pep8_infringement": 5107,
+    "pep8_infringement": 5115,
     "requirements": [
         "contextlib2",
         "crcmod<2,>=1",
         "futures",
         "opentracing>=1.1,<2",
-        "opentracing-instrumentation<3,>=2",
+        "opentracing-instrumentation>=2,<3",
         "threadloop<2,>=1",
-        "thriftrw<2,>=0.4",
-        "tornado>=4.3,<5"
+        "thriftrw>=0.4,<2",
+        "tornado<5,>=4.3"
     ],
     "shebang": {
         "#!/usr/bin/env python": 3

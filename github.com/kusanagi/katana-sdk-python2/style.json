@@ -39,7 +39,7 @@
         "py": 11679,
         "txt": 11
     },
-    "pep8_infringement": 4,
+    "pep8_infringement": 21,
     "requirements": [
         "click==6.4",
         "gevent==1.2.1",

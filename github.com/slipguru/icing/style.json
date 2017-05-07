@@ -48,7 +48,7 @@
         "tab": 3718,
         "txt": 199
     },
-    "pep8_infringement": 978,
+    "pep8_infringement": 999,
     "requirements": [
         "matplotlib>=1.5.1",
         "numpy>=1.10.1",

@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "MIT",
     "lines_of_code": {
         "coffee": 33,
@@ -41,7 +40,8 @@
         "py": 2055,
         "txt": 17
     },
-    "pep8_infringement": 491,
+    "pep8_infringement": 492,
+    "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -42,7 +42,7 @@
         "svg": 685,
         "txt": 19
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 6,
     "requirements": [
         "django<1.11.9999,>=1.10"
     ],

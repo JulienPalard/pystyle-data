@@ -29,7 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "md": 14,
@@ -37,5 +36,6 @@
         "yaml": 95
     },
     "pep8_infringement": 103,
+    "requirements": [],
     "shebang": {}
 }

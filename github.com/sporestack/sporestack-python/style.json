@@ -36,7 +36,7 @@
         "py": 1002,
         "txt": 26
     },
-    "pep8_infringement": 4,
+    "pep8_infringement": 15,
     "requirements": [
         "pyqrcode",
         "pyyaml"

@@ -46,7 +46,7 @@
         "yaml": 3210,
         "yml": 62
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 20,
     "requirements": [
         "bitmath>=1.3.0",
         "cachez>=0.1.0",

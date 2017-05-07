@@ -29,14 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "py": 966,
+        "rst": 87
+    },
+    "pep8_infringement": 132,
     "requirements": [
         "pymysql"
     ],
-    "license": null,
-    "lines_of_code": {
-        "py": 964,
-        "rst": 87
-    },
-    "pep8_infringement": 131,
     "shebang": {}
 }

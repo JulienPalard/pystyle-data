@@ -40,7 +40,7 @@
         "tplx": 8,
         "txt": 1311
     },
-    "pep8_infringement": 10232,
+    "pep8_infringement": 10357,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 3

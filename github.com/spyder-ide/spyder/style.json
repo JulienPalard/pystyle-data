@@ -60,7 +60,7 @@
         "yaml": 41,
         "yml": 75
     },
-    "pep8_infringement": 5434,
+    "pep8_infringement": 5502,
     "requirements": [
         "chardet>=2.0.0",
         "cython",

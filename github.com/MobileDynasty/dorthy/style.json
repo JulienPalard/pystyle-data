@@ -36,18 +36,18 @@
         "py": 4300,
         "txt": 12
     },
-    "pep8_infringement": 196,
+    "pep8_infringement": 204,
     "requirements": [
         "cachetools<2.1,>=2.0",
-        "decorator>=4.0,<4.1",
+        "decorator<4.1,>=4.0",
         "dogpile.cache>=0.6,<0.7",
         "jinja2>=2.8",
         "py3k-bcrypt==0.3",
         "pycrypto==2.6.1",
         "pytz",
         "pyyaml==3.12",
-        "raven>=5.9,<6.0",
-        "redis<2.11,>=2.10",
+        "raven<6.0,>=5.9",
+        "redis>=2.10,<2.11",
         "sqlalchemy>=1.0,<1.2",
         "tornado<5.0,>=4.0"
     ],

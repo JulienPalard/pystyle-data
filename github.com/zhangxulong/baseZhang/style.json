@@ -35,7 +35,7 @@
         "md": 4108,
         "py": 6230
     },
-    "pep8_infringement": 1122,
+    "pep8_infringement": 1138,
     "requirements": [
         "h5py==2.7.0",
         "keras==1.2.2",

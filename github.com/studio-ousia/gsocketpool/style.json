@@ -37,7 +37,7 @@
         "rst": 211,
         "txt": 4
     },
-    "pep8_infringement": 67,
+    "pep8_infringement": 69,
     "requirements": [
         "gevent"
     ],

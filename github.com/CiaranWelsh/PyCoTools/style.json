@@ -42,7 +42,7 @@
         "txt": 2804,
         "xml": 1601
     },
-    "pep8_infringement": 17337,
+    "pep8_infringement": 17345,
     "requirements": [
         "argparse",
         "lxml",

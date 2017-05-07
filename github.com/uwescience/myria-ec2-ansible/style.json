@@ -41,7 +41,7 @@
         "xml": 490,
         "yml": 1057
     },
-    "pep8_infringement": 604,
+    "pep8_infringement": 608,
     "requirements": [
         "ansible==2.1.2.0",
         "boto>=2.40.0",

@@ -46,7 +46,7 @@
         "svg": 685,
         "txt": 903
     },
-    "pep8_infringement": 1969,
+    "pep8_infringement": 2015,
     "requirements": [
         "boto>=2.36.0",
         "cookies",

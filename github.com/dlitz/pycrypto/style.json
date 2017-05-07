@@ -49,7 +49,7 @@
         "sub": 1773,
         "txt": 462
     },
-    "pep8_infringement": 5094,
+    "pep8_infringement": 4870,
     "requirements": [],
     "shebang": {
         "#! /usr/bin/env python": 1,

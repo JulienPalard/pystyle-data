@@ -37,7 +37,7 @@
         "py": 3681,
         "rst": 1527
     },
-    "pep8_infringement": 601,
+    "pep8_infringement": 613,
     "requirements": [
         "gensim",
         "keras",

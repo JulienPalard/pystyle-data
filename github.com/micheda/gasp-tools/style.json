@@ -39,7 +39,7 @@
         "sh": 15,
         "txt": 19
     },
-    "pep8_infringement": 207,
+    "pep8_infringement": 208,
     "requirements": [
         "watchdog"
     ],

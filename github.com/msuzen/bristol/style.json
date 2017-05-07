@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "multiprocessing",
-        "numpy"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 32,
         "py": 371
     },
     "pep8_infringement": 185,
+    "requirements": [
+        "multiprocessing",
+        "numpy"
+    ],
     "shebang": {}
 }

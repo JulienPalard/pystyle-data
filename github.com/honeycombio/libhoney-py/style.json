@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "six",
-        "statsd"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "md": 76,
         "py": 1487
     },
     "pep8_infringement": 38,
+    "requirements": [
+        "requests",
+        "six",
+        "statsd"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

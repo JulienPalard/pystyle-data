@@ -48,7 +48,7 @@
         "rst": 294,
         "txt": 1717
     },
-    "pep8_infringement": 1151,
+    "pep8_infringement": 1153,
     "requirements": [],
     "shebang": {
         "#!/Library/Frameworks/Python.framework/Versions/3.4/bin/python3": 1,

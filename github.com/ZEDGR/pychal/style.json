@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "iso8601",
-        "pytz",
-        "requests",
-        "tzlocal"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "ini": 10,
@@ -43,5 +37,11 @@
         "txt": 4
     },
     "pep8_infringement": 62,
+    "requirements": [
+        "iso8601",
+        "pytz",
+        "requests",
+        "tzlocal"
+    ],
     "shebang": {}
 }

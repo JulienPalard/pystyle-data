@@ -81,7 +81,7 @@
         "y": 408,
         "yy": 5858
     },
-    "pep8_infringement": 2306,
+    "pep8_infringement": 2303,
     "requirements": [],
     "shebang": {
         "#! /usr/bin/python": 1,

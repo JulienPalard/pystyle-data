@@ -36,7 +36,7 @@
         "txt": 7,
         "yml": 3
     },
-    "pep8_infringement": 198,
+    "pep8_infringement": 199,
     "requirements": [
         "requests"
     ],

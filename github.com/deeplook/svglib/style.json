@@ -39,7 +39,7 @@
         "svg": 15917,
         "txt": 167
     },
-    "pep8_infringement": 132,
+    "pep8_infringement": 134,
     "requirements": [
         "lxml",
         "reportlab"

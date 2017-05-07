@@ -50,12 +50,12 @@
         "yaml": 2599958,
         "yml": 20
     },
-    "pep8_infringement": 26824,
+    "pep8_infringement": 27235,
     "requirements": [
         "coverage",
         "futures",
-        "msrest<0.5.0,>=0.4.0",
-        "msrestazure<0.5.0,>=0.4.0",
+        "msrest>=0.4.0,<0.5.0",
+        "msrestazure>=0.4.0,<0.5.0",
         "pyopenssl",
         "python-dateutil",
         "requests",

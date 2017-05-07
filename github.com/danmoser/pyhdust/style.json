@@ -50,7 +50,7 @@
         "rst": 489,
         "txt": 105432
     },
-    "pep8_infringement": 6660,
+    "pep8_infringement": 6740,
     "requirements": [
         "numpy>=1.9.0",
         "six"

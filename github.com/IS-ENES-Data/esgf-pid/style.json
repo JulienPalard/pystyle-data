@@ -38,7 +38,7 @@
         "py": 19681,
         "rst": 399
     },
-    "pep8_infringement": 4137,
+    "pep8_infringement": 4146,
     "requirements": [
         "pika",
         "requests"

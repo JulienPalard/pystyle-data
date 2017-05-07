@@ -47,7 +47,7 @@
         "sh": 50,
         "txt": 12
     },
-    "pep8_infringement": 879,
+    "pep8_infringement": 888,
     "requirements": [
         "configparser",
         "future",

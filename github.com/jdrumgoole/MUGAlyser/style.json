@@ -39,7 +39,7 @@
         "template": 1,
         "txt": 87
     },
-    "pep8_infringement": 5615,
+    "pep8_infringement": 5617,
     "requirements": [
         "nose",
         "pymongo",

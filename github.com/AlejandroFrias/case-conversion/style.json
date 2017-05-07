@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "regex>=2016.2.25"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +38,8 @@
         "txt": 9
     },
     "pep8_infringement": 3,
+    "requirements": [
+        "regex>=2016.2.25"
+    ],
     "shebang": {}
 }

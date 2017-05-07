@@ -40,7 +40,7 @@
         "rst": 2267,
         "txt": 10
     },
-    "pep8_infringement": 907,
+    "pep8_infringement": 908,
     "requirements": [
         "beautifulsoup4==4.5.3",
         "jinja2>=2.9.6",

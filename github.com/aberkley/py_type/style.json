@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pandas==0.19.2",
-        "pytest==3.0.5"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +37,9 @@
         "txt": 9
     },
     "pep8_infringement": 70,
+    "requirements": [
+        "pandas==0.19.2",
+        "pytest==3.0.5"
+    ],
     "shebang": {}
 }

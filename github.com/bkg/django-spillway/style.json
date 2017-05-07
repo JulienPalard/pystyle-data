@@ -38,7 +38,7 @@
         "svg": 9,
         "txt": 4
     },
-    "pep8_infringement": 233,
+    "pep8_infringement": 234,
     "requirements": [
         "django",
         "djangorestframework>=3.1.0",

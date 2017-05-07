@@ -35,7 +35,7 @@
         "py": 307,
         "rst": 72
     },
-    "pep8_infringement": 46,
+    "pep8_infringement": 48,
     "requirements": [
         "deform",
         "paginate",

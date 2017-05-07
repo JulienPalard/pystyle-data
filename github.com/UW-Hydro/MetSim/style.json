@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numba",
-        "xarray"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "0625": 730,
@@ -47,6 +43,10 @@
         "yml": 46
     },
     "pep8_infringement": 6,
+    "requirements": [
+        "numba",
+        "xarray"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 2

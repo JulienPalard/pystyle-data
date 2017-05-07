@@ -35,7 +35,7 @@
         "pkl": 6978,
         "py": 1847
     },
-    "pep8_infringement": 613,
+    "pep8_infringement": 609,
     "requirements": [
         "matplotlib>=2.0.0",
         "numpy>=1.12.0",

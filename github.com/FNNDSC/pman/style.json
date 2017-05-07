@@ -37,7 +37,7 @@
         "rst": 178,
         "sh": 40
     },
-    "pep8_infringement": 4028,
+    "pep8_infringement": 4053,
     "requirements": [
         "psutil",
         "pudb",

@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "kudubot",
-        "typing"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "md": 81,
@@ -41,6 +37,10 @@
         "svg": 149
     },
     "pep8_infringement": 39,
+    "requirements": [
+        "kudubot",
+        "typing"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

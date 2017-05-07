@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "networkx"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -41,5 +38,8 @@
         "yml": 13
     },
     "pep8_infringement": 205,
+    "requirements": [
+        "networkx"
+    ],
     "shebang": {}
 }

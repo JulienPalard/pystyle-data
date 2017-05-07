@@ -37,7 +37,7 @@
         "rst": 204,
         "txt": 201
     },
-    "pep8_infringement": 17,
+    "pep8_infringement": 21,
     "requirements": [
         "future>=0.15.2",
         "rdflib>=4.2.0",

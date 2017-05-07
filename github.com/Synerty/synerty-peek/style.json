@@ -38,7 +38,7 @@
         "sh": 745,
         "txt": 5
     },
-    "pep8_infringement": 22,
+    "pep8_infringement": 21,
     "requirements": [
         "peek-agent",
         "peek-client",

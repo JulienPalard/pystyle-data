@@ -45,7 +45,7 @@
         "txt": 2,
         "yml": 26
     },
-    "pep8_infringement": 2324,
+    "pep8_infringement": 2326,
     "requirements": [
         "certifi",
         "elasticsearch==5.1.0",

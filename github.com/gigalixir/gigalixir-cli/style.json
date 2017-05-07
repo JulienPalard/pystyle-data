@@ -37,7 +37,7 @@
         "py": 1809,
         "rst": 939
     },
-    "pep8_infringement": 420,
+    "pep8_infringement": 424,
     "requirements": [
         "click~=6.7",
         "requests~=2.13.0",

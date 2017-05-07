@@ -41,7 +41,7 @@
         "rst": 667,
         "txt": 17
     },
-    "pep8_infringement": 88,
+    "pep8_infringement": 85,
     "requirements": [
         "click",
         "codecov",

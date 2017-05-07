@@ -43,7 +43,7 @@
         "txt": 384,
         "xml": 69
     },
-    "pep8_infringement": 3067,
+    "pep8_infringement": 3130,
     "requirements": [
         "requests",
         "setuptools"

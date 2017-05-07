@@ -40,7 +40,7 @@
         "sh": 84,
         "txt": 6
     },
-    "pep8_infringement": 2372,
+    "pep8_infringement": 2373,
     "requirements": [
         "argparse",
         "boto==2.40.0",

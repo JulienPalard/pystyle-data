@@ -38,7 +38,7 @@
         "rst": 2851,
         "sh": 7
     },
-    "pep8_infringement": 524,
+    "pep8_infringement": 523,
     "requirements": [
         "blist",
         "tabulate"

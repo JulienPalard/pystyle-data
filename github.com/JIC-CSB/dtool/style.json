@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "click",
-        "jinja2",
-        "python-magic",
-        "pyyaml"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 10,
@@ -51,5 +45,11 @@
         "yml": 37
     },
     "pep8_infringement": 1,
+    "requirements": [
+        "click",
+        "jinja2",
+        "python-magic",
+        "pyyaml"
+    ],
     "shebang": {}
 }

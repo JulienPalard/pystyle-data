@@ -44,7 +44,7 @@
         "txt": 9,
         "yaml": 255
     },
-    "pep8_infringement": 693,
+    "pep8_infringement": 699,
     "requirements": [
         "blessings",
         "bundletester",

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "colorama",
-        "pip",
-        "pylint"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -42,7 +37,12 @@
         "rst": 101,
         "txt": 3
     },
-    "pep8_infringement": 18,
+    "pep8_infringement": 19,
+    "requirements": [
+        "colorama",
+        "pip",
+        "pylint"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

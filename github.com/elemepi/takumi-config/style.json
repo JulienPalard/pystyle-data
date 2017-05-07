@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyyaml"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +39,9 @@
         "yaml": 7
     },
     "pep8_infringement": 7,
+    "requirements": [
+        "pyyaml"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1

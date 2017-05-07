@@ -43,7 +43,7 @@
         "txt": 22,
         "yaml": 2222
     },
-    "pep8_infringement": 565,
+    "pep8_infringement": 570,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,

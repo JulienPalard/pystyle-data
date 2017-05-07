@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cssselect>=0.9",
-        "lxml",
-        "parsel>=1.1",
-        "pydispatcher>=2.0.5",
-        "pyopenssl",
-        "queuelib",
-        "service-identity",
-        "six>=1.5.2",
-        "twisted>=13.1.0",
-        "w3lib>=1.17.0"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "1": 74,
@@ -67,7 +55,19 @@
         "types": 750,
         "xml": 300
     },
-    "pep8_infringement": 2772,
+    "pep8_infringement": 2775,
+    "requirements": [
+        "cssselect>=0.9",
+        "lxml",
+        "parsel>=1.1",
+        "pydispatcher>=2.0.5",
+        "pyopenssl",
+        "queuelib",
+        "service-identity",
+        "six>=1.5.2",
+        "twisted>=13.1.0",
+        "w3lib>=1.17.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 1

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "colorama",
-        "pygments",
-        "six"
-    ],
     "license": null,
     "lines_of_code": {
         "in": 3,
@@ -43,6 +38,11 @@
         "txt": 16
     },
     "pep8_infringement": 1079,
+    "requirements": [
+        "colorama",
+        "pygments",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 7
     }

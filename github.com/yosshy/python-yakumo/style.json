@@ -41,7 +41,7 @@
         "sh": 24,
         "txt": 4765
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 22,
     "requirements": [
         "os-client-config>=1.13.0",
         "pbr",

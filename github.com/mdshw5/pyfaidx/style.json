@@ -43,7 +43,7 @@
         "txt": 5,
         "yml": 31
     },
-    "pep8_infringement": 258,
+    "pep8_infringement": 261,
     "requirements": [
         "setuptools>=0.7",
         "six"

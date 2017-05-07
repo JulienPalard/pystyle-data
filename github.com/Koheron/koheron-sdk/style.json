@@ -51,7 +51,7 @@
         "xdc": 790,
         "yml": 688
     },
-    "pep8_infringement": 335,
+    "pep8_infringement": 341,
     "requirements": [
         "cppheaderparser==2.7.4",
         "jinja2==2.9.6",

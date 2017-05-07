@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bumpversion==0.5.3",
-        "wagtail>=1.7",
-        "wheel==0.29.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 242,
@@ -46,6 +41,11 @@
         "txt": 6
     },
     "pep8_infringement": 72,
+    "requirements": [
+        "bumpversion==0.5.3",
+        "wagtail>=1.7",
+        "wheel==0.29.0"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

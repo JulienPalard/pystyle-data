@@ -46,7 +46,7 @@
         "txt": 0,
         "yml": 37
     },
-    "pep8_infringement": 7407,
+    "pep8_infringement": 7413,
     "requirements": [
         "deap",
         "descartes",

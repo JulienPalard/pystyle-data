@@ -38,7 +38,7 @@
         "rst": 24,
         "txt": 4096
     },
-    "pep8_infringement": 98,
+    "pep8_infringement": 99,
     "requirements": [
         "pbkdf2"
     ],

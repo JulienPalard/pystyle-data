@@ -39,7 +39,7 @@
         "rst": 313,
         "txt": 21
     },
-    "pep8_infringement": 175,
+    "pep8_infringement": 178,
     "requirements": [
         "slackclient"
     ],

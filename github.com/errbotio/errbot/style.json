@@ -51,7 +51,7 @@
         "tmpl": 112,
         "txt": 1334
     },
-    "pep8_infringement": 163,
+    "pep8_infringement": 164,
     "requirements": [
         "ansi",
         "bottle",

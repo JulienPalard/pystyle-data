@@ -40,7 +40,7 @@
         "txt": 223,
         "yml": 21
     },
-    "pep8_infringement": 127,
+    "pep8_infringement": 128,
     "requirements": [
         "boto3",
         "pyfiglet",

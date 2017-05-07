@@ -39,7 +39,7 @@
         "py": 3548,
         "txt": 8
     },
-    "pep8_infringement": 160,
+    "pep8_infringement": 164,
     "requirements": [
         "requests>=2.9.1"
     ],

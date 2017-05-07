@@ -37,7 +37,7 @@
         "rst": 37,
         "txt": 7
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 1,
     "requirements": [
         "six",
         "spinnutilities<4.0.0,>=3.0.0"

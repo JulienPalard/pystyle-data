@@ -34,7 +34,7 @@
         "md": 11,
         "py": 545
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 16,
     "requirements": [
         "grandfatherson",
         "paramiko",

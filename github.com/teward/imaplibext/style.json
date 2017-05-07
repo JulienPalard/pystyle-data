@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "typing"
-    ],
     "license": null,
     "lines_of_code": {
         "cfg": 5,
@@ -44,5 +41,8 @@
         "yml": 16
     },
     "pep8_infringement": 20,
+    "requirements": [
+        "typing"
+    ],
     "shebang": {}
 }

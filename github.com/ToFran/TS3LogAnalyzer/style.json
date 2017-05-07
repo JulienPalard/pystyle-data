@@ -37,7 +37,7 @@
         "sql": 57,
         "txt": 1
     },
-    "pep8_infringement": 177,
+    "pep8_infringement": 168,
     "requirements": [
         "docopt>=0.6.2"
     ],

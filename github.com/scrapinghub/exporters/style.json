@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "decorator",
-        "pyyaml",
-        "requests",
-        "retrying",
-        "six"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -54,7 +47,14 @@
         "txt": 77,
         "yaml": 74
     },
-    "pep8_infringement": 705,
+    "pep8_infringement": 706,
+    "requirements": [
+        "decorator",
+        "pyyaml",
+        "requests",
+        "retrying",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 3
     }

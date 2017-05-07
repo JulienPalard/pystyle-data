@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cvxpy",
-        "numpy"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -43,6 +39,10 @@
         "txt": 33
     },
     "pep8_infringement": 288,
+    "requirements": [
+        "cvxpy",
+        "numpy"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

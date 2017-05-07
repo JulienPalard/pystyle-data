@@ -43,7 +43,7 @@
         "xml": 710,
         "yml": 181
     },
-    "pep8_infringement": 3,
+    "pep8_infringement": 5,
     "requirements": [
         "pycountry",
         "pyserial",

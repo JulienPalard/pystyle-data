@@ -29,15 +29,15 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "beautifulsoup4==4.5.3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 2,
         "py": 260
     },
     "pep8_infringement": 13,
+    "requirements": [
+        "beautifulsoup4==4.5.3"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

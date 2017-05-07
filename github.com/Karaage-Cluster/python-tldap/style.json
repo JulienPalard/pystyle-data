@@ -40,7 +40,7 @@
         "sh": 40,
         "txt": 713
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 13,
     "requirements": [
         "ldap3",
         "passlib",

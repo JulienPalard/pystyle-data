@@ -38,7 +38,7 @@
         "rst": 58,
         "txt": 209
     },
-    "pep8_infringement": 31,
+    "pep8_infringement": 21,
     "requirements": [
         "colorama",
         "tox",

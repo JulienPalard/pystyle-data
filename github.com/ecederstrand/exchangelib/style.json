@@ -38,7 +38,7 @@
         "sample": 5,
         "yml": 15
     },
-    "pep8_infringement": 2508,
+    "pep8_infringement": 2511,
     "requirements": [
         "cached-property",
         "dnspython>=1.14.0",

@@ -37,7 +37,7 @@
         "py": 1047,
         "txt": 1
     },
-    "pep8_infringement": 220,
+    "pep8_infringement": 228,
     "requirements": [
         "pyzmq"
     ],

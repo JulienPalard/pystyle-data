@@ -41,7 +41,7 @@
         "rst": 59,
         "xml": 24
     },
-    "pep8_infringement": 1232,
+    "pep8_infringement": 1234,
     "requirements": [
         "base58",
         "ioflo==1.5.4",

@@ -38,7 +38,7 @@
         "rst": 222,
         "txt": 15
     },
-    "pep8_infringement": 105,
+    "pep8_infringement": 106,
     "requirements": [
         "asyncssh",
         "booby-ng",

@@ -59,7 +59,7 @@
         "toc": 7,
         "txt": 84
     },
-    "pep8_infringement": 266,
+    "pep8_infringement": 254,
     "requirements": [
         "pyopenssl"
     ],

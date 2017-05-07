@@ -29,12 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "cryptography",
-        "jwcrypto",
-        "requests",
-        "six"
-    ],
     "license": "GPL-3.0",
     "lines_of_code": {
         "7": 10,
@@ -54,6 +48,12 @@
         "txt": 82
     },
     "pep8_infringement": 54,
+    "requirements": [
+        "cryptography",
+        "jwcrypto",
+        "requests",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

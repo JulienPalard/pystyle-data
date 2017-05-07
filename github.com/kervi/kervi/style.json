@@ -39,7 +39,7 @@
         "sql": 14,
         "txt": 9
     },
-    "pep8_infringement": 870,
+    "pep8_infringement": 900,
     "requirements": [
         "autobahn",
         "kervi-cli",

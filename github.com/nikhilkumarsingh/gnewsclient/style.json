@@ -37,7 +37,7 @@
         "rst": 158,
         "txt": 21
     },
-    "pep8_infringement": 402,
+    "pep8_infringement": 404,
     "requirements": [
         "bs4",
         "html5lib",

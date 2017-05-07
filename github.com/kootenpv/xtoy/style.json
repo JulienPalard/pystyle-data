@@ -37,7 +37,7 @@
         "md": 42,
         "py": 879
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 45,
     "requirements": [
         "bitstring",
         "deap",

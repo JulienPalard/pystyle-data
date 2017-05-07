@@ -43,7 +43,7 @@
         "yaml": 135649,
         "yml": 1
     },
-    "pep8_infringement": 1316,
+    "pep8_infringement": 1327,
     "requirements": [
         "boto==2.39.0",
         "cloudpickle",

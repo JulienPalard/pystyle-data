@@ -37,7 +37,7 @@
         "py": 1844,
         "yml": 5
     },
-    "pep8_infringement": 1800,
+    "pep8_infringement": 1816,
     "requirements": [
         "pymongo>=3.2.1"
     ],

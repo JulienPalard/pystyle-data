@@ -29,16 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "blinker",
-        "redis",
-        "tqdm"
-    ],
     "license": null,
     "lines_of_code": {
         "markdown": 211,
         "py": 731
     },
     "pep8_infringement": 14,
+    "requirements": [
+        "blinker",
+        "redis",
+        "tqdm"
+    ],
     "shebang": {}
 }

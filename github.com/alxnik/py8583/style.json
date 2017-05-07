@@ -36,7 +36,7 @@
         "md": 36,
         "py": 1053
     },
-    "pep8_infringement": 1136,
+    "pep8_infringement": 1142,
     "requirements": [
         "enum34"
     ],

@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "pandas<0.20,>=0.18.1",
-        "shapely>=1.5.1,<=1.6",
-        "utm>=0.3.1"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "css": 1009,
@@ -47,6 +42,11 @@
         "txt": 176
     },
     "pep8_infringement": 727,
+    "requirements": [
+        "pandas<0.20,>=0.18.1",
+        "shapely>=1.5.1,<=1.6",
+        "utm>=0.3.1"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

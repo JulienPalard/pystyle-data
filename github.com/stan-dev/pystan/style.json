@@ -47,10 +47,10 @@
         "txt": 158,
         "yml": 94
     },
-    "pep8_infringement": 904,
+    "pep8_infringement": 906,
     "requirements": [
         "cython!=0.25.1,>=0.22",
-        "numpy<2.0,>=1.7"
+        "numpy>=1.7,<2.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1,

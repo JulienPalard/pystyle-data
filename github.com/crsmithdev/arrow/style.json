@@ -42,7 +42,7 @@
         "rst": 648,
         "txt": 30
     },
-    "pep8_infringement": 817,
+    "pep8_infringement": 827,
     "requirements": [
         "python-dateutil"
     ],

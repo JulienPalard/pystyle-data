@@ -35,7 +35,7 @@
         "py": 3396,
         "txt": 16268
     },
-    "pep8_infringement": 649,
+    "pep8_infringement": 654,
     "requirements": [
         "joblib",
         "matplotlib",

@@ -52,7 +52,7 @@
         "xml": 4928,
         "xsd": 626
     },
-    "pep8_infringement": 6385,
+    "pep8_infringement": 6437,
     "requirements": [
         "requests>=2.4.0"
     ],

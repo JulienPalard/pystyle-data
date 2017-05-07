@@ -45,7 +45,7 @@
         "txt": 1509,
         "yaml": 2
     },
-    "pep8_infringement": 89,
+    "pep8_infringement": 77,
     "requirements": [
         "dplython>=0.0.7",
         "matplotlib>=1.5.1",

@@ -43,7 +43,7 @@
         "yaml": 245,
         "yml": 4129
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 59,
     "requirements": [
         "autosemver",
         "idutils",

@@ -47,7 +47,7 @@
         "txt": 217,
         "wflow": 217
     },
-    "pep8_infringement": 1464,
+    "pep8_infringement": 1470,
     "requirements": [
         "appdirs==1.4.0",
         "argh==0.24.1",

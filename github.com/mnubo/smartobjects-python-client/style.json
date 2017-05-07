@@ -37,7 +37,7 @@
         "sh": 8,
         "txt": 2
     },
-    "pep8_infringement": 521,
+    "pep8_infringement": 524,
     "requirements": [
         "requests>=2.5",
         "six>=1.0.0"

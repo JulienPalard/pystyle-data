@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "celery",
-        "cryptography",
-        "flask",
-        "pyyaml",
-        "redis",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "example": 4,
@@ -46,5 +38,13 @@
         "yaml": 2
     },
     "pep8_infringement": 71,
+    "requirements": [
+        "celery",
+        "cryptography",
+        "flask",
+        "pyyaml",
+        "redis",
+        "requests"
+    ],
     "shebang": {}
 }

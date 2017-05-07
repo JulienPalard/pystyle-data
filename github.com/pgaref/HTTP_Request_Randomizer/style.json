@@ -38,7 +38,7 @@
         "txt": 908,
         "yml": 13
     },
-    "pep8_infringement": 61,
+    "pep8_infringement": 62,
     "requirements": [
         "beautifulsoup4>=4.5.3",
         "httmock>=1.2.6",

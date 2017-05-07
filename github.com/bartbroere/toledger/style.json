@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "docopt"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,5 +36,8 @@
         "py": 372
     },
     "pep8_infringement": 90,
+    "requirements": [
+        "docopt"
+    ],
     "shebang": {}
 }

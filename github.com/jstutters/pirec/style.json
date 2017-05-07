@@ -37,7 +37,7 @@
         "sh": 6,
         "txt": 67
     },
-    "pep8_infringement": 105,
+    "pep8_infringement": 107,
     "requirements": [
         "wrapt"
     ],

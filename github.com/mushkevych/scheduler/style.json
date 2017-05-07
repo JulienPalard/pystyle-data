@@ -41,7 +41,7 @@
         "sh": 189,
         "svg": 685
     },
-    "pep8_infringement": 2373,
+    "pep8_infringement": 1750,
     "requirements": [
         "amqp",
         "jinja2",

@@ -47,11 +47,11 @@
         "xml": 107,
         "xsd": 75
     },
-    "pep8_infringement": 264,
+    "pep8_infringement": 266,
     "requirements": [
         "flask",
         "mock",
-        "pillow<4.0.0,>=3.2.0",
+        "pillow>=3.2.0,<4.0.0",
         "python-magic"
     ],
     "shebang": {

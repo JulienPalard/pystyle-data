@@ -38,7 +38,7 @@
         "rst": 25,
         "txt": 19
     },
-    "pep8_infringement": 10,
+    "pep8_infringement": 11,
     "requirements": [
         "click"
     ],

@@ -43,7 +43,7 @@
         "txt": 5,
         "xml": 623
     },
-    "pep8_infringement": 191,
+    "pep8_infringement": 197,
     "requirements": [
         "cartopy",
         "decorator",

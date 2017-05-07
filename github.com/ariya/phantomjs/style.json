@@ -67,7 +67,7 @@
         "xml": 16,
         "xsl": 37
     },
-    "pep8_infringement": 148,
+    "pep8_infringement": 151,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

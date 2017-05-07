@@ -37,7 +37,7 @@
         "py": 2533,
         "txt": 13
     },
-    "pep8_infringement": 197,
+    "pep8_infringement": 203,
     "requirements": [
         "grequests",
         "requests",

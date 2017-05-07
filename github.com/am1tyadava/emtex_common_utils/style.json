@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.6"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
@@ -40,5 +37,8 @@
         "txt": 28
     },
     "pep8_infringement": 9,
+    "requirements": [
+        "django>=1.6"
+    ],
     "shebang": {}
 }

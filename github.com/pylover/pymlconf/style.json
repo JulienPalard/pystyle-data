@@ -41,7 +41,7 @@
         "txt": 5,
         "yaml": 42
     },
-    "pep8_infringement": 161,
+    "pep8_infringement": 162,
     "requirements": [
         "pyyaml>=3.10"
     ],

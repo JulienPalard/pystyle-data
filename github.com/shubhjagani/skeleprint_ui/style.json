@@ -43,7 +43,7 @@
         "sh": 25,
         "txt": 23
     },
-    "pep8_infringement": 216,
+    "pep8_infringement": 217,
     "requirements": [
         "image",
         "pillow"

@@ -35,7 +35,7 @@
         "md": 84,
         "py": 235
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 16,
     "requirements": [
         "boto3>=1.4.0",
         "simplejson>=3.10.0"

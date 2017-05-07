@@ -38,7 +38,7 @@
         "py": 2735,
         "rst": 1363
     },
-    "pep8_infringement": 628,
+    "pep8_infringement": 579,
     "requirements": [
         "matplotlib",
         "numpy",

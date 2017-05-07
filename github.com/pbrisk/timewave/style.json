@@ -41,7 +41,7 @@
         "svg": 520,
         "txt": 253
     },
-    "pep8_infringement": 132,
+    "pep8_infringement": 133,
     "requirements": [
         "numpy",
         "scipy"

@@ -49,7 +49,7 @@
         "yaml": 498,
         "yml": 7
     },
-    "pep8_infringement": 2057,
+    "pep8_infringement": 2047,
     "requirements": [
         "flask>=0.11.1",
         "flask-paginate>=0.4.5",

@@ -38,7 +38,7 @@
     "pep8_infringement": 39,
     "requirements": [
         "coverage",
-        "twine>=1,<2"
+        "twine<2,>=1"
     ],
     "shebang": {}
 }

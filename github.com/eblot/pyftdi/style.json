@@ -37,7 +37,7 @@
         "sh": 12,
         "yml": 1
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 22,
     "requirements": [
         "pyserial>=3.0",
         "pyusb>=1.0.0"

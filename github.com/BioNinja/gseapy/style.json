@@ -46,7 +46,7 @@
         "svg": 520,
         "txt": 13160
     },
-    "pep8_infringement": 1507,
+    "pep8_infringement": 1514,
     "requirements": [
         "beautifulsoup4>=4.4.1",
         "html5lib",

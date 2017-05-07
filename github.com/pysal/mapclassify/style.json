@@ -37,7 +37,7 @@
         "py": 2932,
         "txt": 3
     },
-    "pep8_infringement": 162,
+    "pep8_infringement": 164,
     "requirements": [
         "numpy",
         "pandas",

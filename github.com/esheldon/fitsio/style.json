@@ -64,7 +64,7 @@
         "win32": 72,
         "y": 11558
     },
-    "pep8_infringement": 2124,
+    "pep8_infringement": 2139,
     "requirements": [
         "numpy"
     ],

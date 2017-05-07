@@ -41,7 +41,7 @@
         "pyx": 86,
         "txt": 277
     },
-    "pep8_infringement": 944,
+    "pep8_infringement": 945,
     "requirements": [
         "nnpack>=0.1.0",
         "numpy>=1.12.0",

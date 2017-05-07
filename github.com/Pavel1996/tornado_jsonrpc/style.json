@@ -35,7 +35,7 @@
         "md": 50,
         "py": 177
     },
-    "pep8_infringement": 7,
+    "pep8_infringement": 8,
     "requirements": [
         "tornado>=4.0"
     ],

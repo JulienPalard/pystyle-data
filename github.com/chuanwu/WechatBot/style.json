@@ -36,7 +36,7 @@
         "rst": 39,
         "txt": 13
     },
-    "pep8_infringement": 80,
+    "pep8_infringement": 81,
     "requirements": [
         "anyjson==0.3.3",
         "beautifulsoup4==4.5.1",

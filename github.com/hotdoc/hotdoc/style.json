@@ -48,7 +48,7 @@
         "svg": 68,
         "txt": 1115
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 27,
     "requirements": [
         "appdirs",
         "lxml",

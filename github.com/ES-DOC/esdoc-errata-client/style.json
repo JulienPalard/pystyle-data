@@ -29,6 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 3,
+        "in": 3,
+        "json": 568,
+        "md": 58,
+        "py": 1764,
+        "rst": 927,
+        "txt": 12
+    },
+    "pep8_infringement": 212,
     "requirements": [
         "argparse",
         "functools32",
@@ -40,17 +51,6 @@
         "requests",
         "simplejson"
     ],
-    "license": null,
-    "lines_of_code": {
-        "cfg": 3,
-        "in": 3,
-        "json": 568,
-        "md": 58,
-        "py": 1764,
-        "rst": 927,
-        "txt": 12
-    },
-    "pep8_infringement": 209,
     "shebang": {
         "#!/usr/bin/env python": 3
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "enum34"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "bat": 311,
@@ -54,6 +51,9 @@
         "yml": 53
     },
     "pep8_infringement": 317,
+    "requirements": [
+        "enum34"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 4,
         "#!/usr/bin/env python3": 1

@@ -29,14 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "matplotlib",
-        "mock",
-        "networkx",
-        "numpy",
-        "pyquil",
-        "scipy"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -47,7 +39,15 @@
         "rst": 1101,
         "txt": 1
     },
-    "pep8_infringement": 146,
+    "pep8_infringement": 148,
+    "requirements": [
+        "matplotlib",
+        "mock",
+        "networkx",
+        "numpy",
+        "pyquil",
+        "scipy"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

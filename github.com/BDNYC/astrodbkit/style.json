@@ -29,13 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "astropy",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "requests"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "bat": 263,
@@ -44,7 +37,14 @@
         "rst": 225,
         "txt": 5
     },
-    "pep8_infringement": 599,
+    "pep8_infringement": 600,
+    "requirements": [
+        "astropy",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "requests"
+    ],
     "shebang": {
         "#! /usr/bin/env python": 1,
         "#!/usr/bin/python": 2

@@ -39,7 +39,7 @@
         "txt": 353,
         "yaml": 42
     },
-    "pep8_infringement": 517,
+    "pep8_infringement": 519,
     "requirements": [
         "brian2>=2.0",
         "matplotlib",

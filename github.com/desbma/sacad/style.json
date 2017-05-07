@@ -37,7 +37,7 @@
         "py": 2543,
         "txt": 9
     },
-    "pep8_infringement": 1068,
+    "pep8_infringement": 1058,
     "requirements": [
         "appdirs>=1.4.0",
         "cssselect>=0.9.1",

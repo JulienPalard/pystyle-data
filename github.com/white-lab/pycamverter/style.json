@@ -41,7 +41,7 @@
         "txt": 5,
         "yml": 39
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 3,
     "requirements": [
         "numpydoc==0.6",
         "openpyxl>=2.4.4",

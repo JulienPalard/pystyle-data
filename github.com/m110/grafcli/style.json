@@ -40,7 +40,7 @@
         "sh": 24,
         "txt": 8
     },
-    "pep8_infringement": 65,
+    "pep8_infringement": 67,
     "requirements": [
         "climb>=0.3.2",
         "pygments",

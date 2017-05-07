@@ -39,7 +39,7 @@
         "sh": 21,
         "txt": 69
     },
-    "pep8_infringement": 802,
+    "pep8_infringement": 815,
     "requirements": [
         "apscheduler",
         "certifi",

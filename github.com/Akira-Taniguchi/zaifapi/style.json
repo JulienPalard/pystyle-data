@@ -29,17 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "cerberus==1.0.1",
-        "future==0.16.0",
-        "requests==2.12.4",
-        "websocket-client==0.40.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "md": 14,
         "py": 345
     },
     "pep8_infringement": 25,
+    "requirements": [
+        "cerberus==1.0.1",
+        "future==0.16.0",
+        "requests==2.12.4",
+        "websocket-client==0.40.0"
+    ],
     "shebang": {}
 }

@@ -29,12 +29,12 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": null,
     "lines_of_code": {
         "py": 678,
         "rst": 140
     },
     "pep8_infringement": 72,
+    "requirements": [],
     "shebang": {}
 }

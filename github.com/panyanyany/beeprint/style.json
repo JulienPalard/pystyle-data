@@ -38,7 +38,7 @@
         "rst": 187,
         "txt": 288
     },
-    "pep8_infringement": 342,
+    "pep8_infringement": 358,
     "requirements": [
         "urwid"
     ],

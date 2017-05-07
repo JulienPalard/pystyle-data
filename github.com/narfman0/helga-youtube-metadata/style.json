@@ -36,7 +36,7 @@
         "py": 91,
         "txt": 1
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 6,
     "requirements": [
         "python-dateutil",
         "requests"

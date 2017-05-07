@@ -37,7 +37,7 @@
         "rst": 39,
         "txt": 12
     },
-    "pep8_infringement": 259,
+    "pep8_infringement": 271,
     "requirements": [
         "colorama",
         "coverage",

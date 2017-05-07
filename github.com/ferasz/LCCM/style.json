@@ -38,7 +38,7 @@
         "rst": 43,
         "txt": 39
     },
-    "pep8_infringement": 923,
+    "pep8_infringement": 925,
     "requirements": [
         "datetime",
         "numpy>=1.10.2",

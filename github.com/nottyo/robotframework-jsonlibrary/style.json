@@ -40,7 +40,7 @@
         "sh": 1,
         "txt": 4
     },
-    "pep8_infringement": 29,
+    "pep8_infringement": 27,
     "requirements": [
         "coverage",
         "jsonpath-rw==1.4.0",

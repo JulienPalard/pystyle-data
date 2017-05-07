@@ -37,7 +37,7 @@
         "py": 592,
         "txt": 33
     },
-    "pep8_infringement": 92,
+    "pep8_infringement": 93,
     "requirements": [
         "pyyaml",
         "requests"

@@ -46,7 +46,7 @@
         "sh": 87,
         "txt": 19
     },
-    "pep8_infringement": 10,
+    "pep8_infringement": 12,
     "requirements": [
         "flake8",
         "jupyter",

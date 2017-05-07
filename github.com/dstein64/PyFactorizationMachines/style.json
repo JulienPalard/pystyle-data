@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy",
-        "theano>=0.8.0"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
@@ -40,6 +36,10 @@
         "py": 421,
         "rst": 49
     },
-    "pep8_infringement": 78,
+    "pep8_infringement": 79,
+    "requirements": [
+        "numpy",
+        "theano>=0.8.0"
+    ],
     "shebang": {}
 }

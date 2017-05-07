@@ -36,7 +36,7 @@
         "rst": 766,
         "txt": 40
     },
-    "pep8_infringement": 216,
+    "pep8_infringement": 218,
     "requirements": [
         "colorama",
         "pyserial>=3"

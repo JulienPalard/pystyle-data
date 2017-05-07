@@ -38,7 +38,7 @@
         "rst": 718,
         "sh": 469
     },
-    "pep8_infringement": 359,
+    "pep8_infringement": 380,
     "requirements": [
         "docopt",
         "dohq-art",

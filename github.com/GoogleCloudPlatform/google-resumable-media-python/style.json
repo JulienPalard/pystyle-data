@@ -29,20 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
-        "css": 2832,
+        "css": 3540,
         "enc": 52,
-        "html": 10557,
-        "js": 52540,
-        "py": 5289,
-        "rst": 55,
+        "html": 15695,
+        "js": 65675,
+        "py": 6275,
+        "rst": 83,
         "sh": 87,
-        "svg": 2741,
-        "txt": 141
+        "svg": 3426,
+        "txt": 232
     },
     "pep8_infringement": 1,
+    "requirements": [],
     "shebang": {}
 }

@@ -41,7 +41,7 @@
         "sample": 7,
         "vcf": 14
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 3,
     "requirements": [
         "biopython>=1.68",
         "numpy>=1.12.0",

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyldap==2.4.25.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -42,6 +39,9 @@
         "txt": 7
     },
     "pep8_infringement": 95,
+    "requirements": [
+        "pyldap==2.4.25.1"
+    ],
     "shebang": {
         "#!/usr/bin/python": 1
     }

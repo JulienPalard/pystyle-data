@@ -38,7 +38,7 @@
         "py": 793,
         "txt": 3
     },
-    "pep8_infringement": 22,
+    "pep8_infringement": 23,
     "requirements": [
         "jinja2==2.9.6",
         "pyyaml==3.12",

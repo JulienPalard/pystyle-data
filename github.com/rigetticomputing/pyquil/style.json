@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy>=1.10",
-        "requests>=2.4.2"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
@@ -45,6 +41,10 @@
         "txt": 1
     },
     "pep8_infringement": 217,
+    "requirements": [
+        "numpy>=1.10",
+        "requests>=2.4.2"
+    ],
     "shebang": {
         "#!/usr/bin/python": 17
     }

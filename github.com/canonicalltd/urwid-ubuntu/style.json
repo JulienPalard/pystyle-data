@@ -35,7 +35,7 @@
         "md": 3,
         "py": 1329
     },
-    "pep8_infringement": 4,
+    "pep8_infringement": 5,
     "requirements": [
         "urwid"
     ],

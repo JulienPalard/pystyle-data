@@ -39,10 +39,10 @@
         "rst": 954,
         "txt": 181
     },
-    "pep8_infringement": 17,
+    "pep8_infringement": 26,
     "requirements": [
         "eventlet>=0.16.1",
-        "kombu>=3.0.1,<4",
+        "kombu<4,>=3.0.1",
         "mock>=1.2",
         "path.py>=6.2",
         "pyyaml>=3.10",

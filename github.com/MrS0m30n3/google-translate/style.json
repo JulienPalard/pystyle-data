@@ -42,7 +42,7 @@
         "sh": 101,
         "svg": 520
     },
-    "pep8_infringement": 447,
+    "pep8_infringement": 444,
     "requirements": [
         "mock",
         "twodict"

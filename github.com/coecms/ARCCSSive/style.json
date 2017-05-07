@@ -42,7 +42,7 @@
         "txt": 3,
         "yaml": 29
     },
-    "pep8_infringement": 2193,
+    "pep8_infringement": 2215,
     "requirements": [
         "esgf-pyclient>=0.1.8",
         "six",

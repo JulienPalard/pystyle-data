@@ -40,7 +40,7 @@
         "rst": 1163,
         "txt": 78
     },
-    "pep8_infringement": 1270,
+    "pep8_infringement": 1278,
     "requirements": [
         "cffi>=1.0",
         "fibers>=0.4",

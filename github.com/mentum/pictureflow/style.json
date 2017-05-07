@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "numpy==1.12.1",
-        "opencv-python==3.2.0.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +37,9 @@
         "txt": 2
     },
     "pep8_infringement": 11,
+    "requirements": [
+        "numpy==1.12.1",
+        "opencv-python==3.2.0.6"
+    ],
     "shebang": {}
 }

@@ -46,7 +46,7 @@
         "xml": 40488,
         "xslt": 1782
     },
-    "pep8_infringement": 1269,
+    "pep8_infringement": 1314,
     "requirements": [
         "lxml>=3.3.4",
         "picles.plumber>=0.11"

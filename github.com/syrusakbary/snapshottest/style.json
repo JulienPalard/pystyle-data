@@ -37,7 +37,7 @@
         "py": 804,
         "rst": 118
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 27,
     "requirements": [
         "six>=1.10.0",
         "termcolor"

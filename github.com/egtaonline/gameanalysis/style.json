@@ -39,7 +39,7 @@
         "rst": 60,
         "txt": 9
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 3,
     "requirements": [
         "autopep8~=1.2",
         "flake8~=3.0",

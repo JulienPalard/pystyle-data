@@ -29,18 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "attrs>=16.3.0",
-        "biocommons.seqrepo",
-        "biopython>=1.66",
-        "bioutils>=0.2.2",
-        "configparser>=3.3.0",
-        "enum34",
-        "ipython<6",
-        "parsley",
-        "psycopg2!=2.7",
-        "unicodecsv"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "acs": 709,
@@ -64,7 +52,19 @@
         "txt": 457,
         "vcf": 25
     },
-    "pep8_infringement": 1372,
+    "pep8_infringement": 1379,
+    "requirements": [
+        "attrs>=16.3.0",
+        "biocommons.seqrepo",
+        "biopython>=1.66",
+        "bioutils>=0.2.2",
+        "configparser>=3.3.0",
+        "enum34",
+        "ipython<6",
+        "parsley",
+        "psycopg2!=2.7",
+        "unicodecsv"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

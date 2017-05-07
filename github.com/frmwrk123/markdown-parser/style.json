@@ -38,7 +38,7 @@
         "rst": 200,
         "txt": 1
     },
-    "pep8_infringement": 71,
+    "pep8_infringement": 72,
     "requirements": [
         "modgrammar"
     ],

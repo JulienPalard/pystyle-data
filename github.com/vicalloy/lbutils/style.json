@@ -39,7 +39,7 @@
         "py": 1642,
         "rst": 74
     },
-    "pep8_infringement": 85,
+    "pep8_infringement": 86,
     "requirements": [
         "django>=1.6.0"
     ],

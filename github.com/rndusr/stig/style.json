@@ -35,7 +35,7 @@
         "py": 19955,
         "theme": 458
     },
-    "pep8_infringement": 1981,
+    "pep8_infringement": 1987,
     "requirements": [
         "aiohttp>=0.22.5",
         "appdirs",

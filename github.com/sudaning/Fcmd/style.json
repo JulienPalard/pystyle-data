@@ -37,7 +37,7 @@
         "py": 172,
         "txt": 1
     },
-    "pep8_infringement": 146,
+    "pep8_infringement": 145,
     "requirements": [
         "pyfneko>=3.4"
     ],

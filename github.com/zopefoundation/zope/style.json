@@ -29,6 +29,27 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "ZPL-2.1",
+    "lines_of_code": {
+        "bat": 100,
+        "cfg": 350,
+        "css": 1,
+        "dtml": 3866,
+        "htm": 8,
+        "html": 810,
+        "in": 67,
+        "ini": 18,
+        "po": 73,
+        "pot": 48,
+        "pt": 239,
+        "py": 45574,
+        "rst": 1028,
+        "txt": 4428,
+        "xml": 656,
+        "zcml": 1231,
+        "zpt": 147
+    },
+    "pep8_infringement": 366,
     "requirements": [
         "accesscontrol>=4.0a4",
         "acquisition",
@@ -84,26 +105,5 @@
         "zope.traversing",
         "zope.viewlet"
     ],
-    "license": "ZPL-2.1",
-    "lines_of_code": {
-        "bat": 100,
-        "cfg": 350,
-        "css": 1,
-        "dtml": 3866,
-        "htm": 8,
-        "html": 810,
-        "in": 67,
-        "ini": 18,
-        "po": 73,
-        "pot": 48,
-        "pt": 239,
-        "py": 45574,
-        "rst": 1028,
-        "txt": 4428,
-        "xml": 656,
-        "zcml": 1231,
-        "zpt": 147
-    },
-    "pep8_infringement": 366,
     "shebang": {}
 }

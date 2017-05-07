@@ -42,7 +42,7 @@
         "sh": 4,
         "txt": 23
     },
-    "pep8_infringement": 187,
+    "pep8_infringement": 188,
     "requirements": [
         "glfw==1.4.0",
         "pillow==4.0.0",

@@ -37,7 +37,7 @@
         "sh": 9,
         "txt": 9
     },
-    "pep8_infringement": 182,
+    "pep8_infringement": 190,
     "requirements": [
         "mhcnames",
         "numpy>=1.7",

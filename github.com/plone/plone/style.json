@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
+    "license": null,
+    "lines_of_code": {
+        "GPL": 280,
+        "ZPL": 44,
+        "in": 3,
+        "py": 43,
+        "rst": 417,
+        "txt": 55
+    },
+    "pep8_infringement": 0,
     "requirements": [
         "archetypes.multilingual",
         "plone.app.caching",
@@ -41,15 +51,5 @@
         "products.cmfplone",
         "setuptools"
     ],
-    "license": null,
-    "lines_of_code": {
-        "GPL": 280,
-        "ZPL": 44,
-        "in": 3,
-        "py": 43,
-        "rst": 417,
-        "txt": 55
-    },
-    "pep8_infringement": 0,
     "shebang": {}
 }

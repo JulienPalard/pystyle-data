@@ -38,7 +38,7 @@
         "rst": 29,
         "txt": 2
     },
-    "pep8_infringement": 769,
+    "pep8_infringement": 770,
     "requirements": [
         "antlr-plsql>=0.1.0",
         "antlr-tsql>=0.1.0",

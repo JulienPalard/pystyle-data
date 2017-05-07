@@ -43,7 +43,7 @@
         "svg": 481,
         "yml": 39
     },
-    "pep8_infringement": 646,
+    "pep8_infringement": 647,
     "requirements": [
         "beautifulsoup4",
         "docutils",

@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "bs4",
-        "chromedriver",
-        "phantomjs",
-        "selenium",
-        "time",
-        "tqdm",
-        "webbrowser"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 5,
@@ -47,6 +38,15 @@
         "txt": 296
     },
     "pep8_infringement": 106,
+    "requirements": [
+        "bs4",
+        "chromedriver",
+        "phantomjs",
+        "selenium",
+        "time",
+        "tqdm",
+        "webbrowser"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

@@ -38,7 +38,7 @@
         "rst": 124,
         "txt": 263
     },
-    "pep8_infringement": 10,
+    "pep8_infringement": 11,
     "requirements": [
         "setuptools"
     ],

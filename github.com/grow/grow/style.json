@@ -49,7 +49,7 @@
         "xml": 17,
         "yaml": 324
     },
-    "pep8_infringement": 649,
+    "pep8_infringement": 653,
     "requirements": [
         "babel==2.4.0",
         "beautifulsoup4==4.5.3",

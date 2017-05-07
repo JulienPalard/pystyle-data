@@ -29,6 +29,16 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
+    "license": "UPL-1.0",
+    "lines_of_code": {
+        "cfg": 16,
+        "in": 3,
+        "ini": 12,
+        "py": 24328,
+        "rst": 1115,
+        "txt": 98
+    },
+    "pep8_infringement": 1583,
     "requirements": [
         "certifi",
         "configparser==3.5.0",
@@ -39,16 +49,6 @@
         "requests==2.11.1",
         "six==1.10.0"
     ],
-    "license": "UPL-1.0",
-    "lines_of_code": {
-        "cfg": 16,
-        "in": 3,
-        "ini": 12,
-        "py": 24328,
-        "rst": 1115,
-        "txt": 98
-    },
-    "pep8_infringement": 1582,
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

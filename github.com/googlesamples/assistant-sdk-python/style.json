@@ -37,7 +37,7 @@
         "py": 2198,
         "rst": 119
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 168,
     "requirements": [
         "googleapis-common-protos==1.5.2",
         "grpcio==1.2.1"

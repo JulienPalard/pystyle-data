@@ -35,9 +35,9 @@
         "py": 1430,
         "txt": 30
     },
-    "pep8_infringement": 128,
+    "pep8_infringement": 136,
     "requirements": [
-        "django<2,>=1.7",
+        "django>=1.7,<2",
         "django-cors-headers",
         "djangorestframework",
         "faker",

@@ -43,7 +43,7 @@
         "txt": 6,
         "yml": 108
     },
-    "pep8_infringement": 1321,
+    "pep8_infringement": 1355,
     "requirements": [
         "mysql-python>=1.2",
         "requests>=2.13",

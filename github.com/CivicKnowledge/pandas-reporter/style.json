@@ -36,7 +36,7 @@
         "py": 1255,
         "rst": 18
     },
-    "pep8_infringement": 153,
+    "pep8_infringement": 154,
     "requirements": [
         "fs>=2",
         "geoid",

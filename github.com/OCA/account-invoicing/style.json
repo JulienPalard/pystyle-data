@@ -42,7 +42,7 @@
         "xml": 1211,
         "yml": 730
     },
-    "pep8_infringement": 3,
+    "pep8_infringement": 5,
     "requirements": [],
     "shebang": {}
 }

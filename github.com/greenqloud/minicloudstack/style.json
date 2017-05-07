@@ -37,7 +37,7 @@
         "rst": 271,
         "txt": 1
     },
-    "pep8_infringement": 282,
+    "pep8_infringement": 283,
     "requirements": [
         "requests-toolbelt>=0.7.0"
     ],

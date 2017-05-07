@@ -46,7 +46,7 @@
         "yaml": 80,
         "yml": 70
     },
-    "pep8_infringement": 358,
+    "pep8_infringement": 368,
     "requirements": [
         "decorator",
         "nbformat>=4.2",

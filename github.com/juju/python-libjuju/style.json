@@ -39,7 +39,7 @@
         "txt": 5,
         "yaml": 50
     },
-    "pep8_infringement": 9195,
+    "pep8_infringement": 9196,
     "requirements": [
         "python-dateutil",
         "pyyaml",

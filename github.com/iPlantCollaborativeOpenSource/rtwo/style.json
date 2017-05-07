@@ -37,7 +37,7 @@
         "py": 7382,
         "txt": 14
     },
-    "pep8_infringement": 546,
+    "pep8_infringement": 561,
     "requirements": [
         "apache-libcloud==0.20.1",
         "ipython==4.0.0",

@@ -37,7 +37,7 @@
         "rst": 303,
         "sh": 13
     },
-    "pep8_infringement": 59,
+    "pep8_infringement": 60,
     "requirements": [
         "geneparse>=0.1.0",
         "genetest>=0.1.0",

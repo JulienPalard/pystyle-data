@@ -41,7 +41,7 @@
         "sh": 37,
         "txt": 59
     },
-    "pep8_infringement": 1285,
+    "pep8_infringement": 1390,
     "requirements": [
         "chardet>=2.3.0",
         "coverage==4.2",

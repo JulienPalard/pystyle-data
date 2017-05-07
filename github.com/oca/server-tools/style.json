@@ -45,7 +45,7 @@
         "xml": 6629,
         "yml": 5
     },
-    "pep8_infringement": 54,
+    "pep8_infringement": 66,
     "requirements": [
         "acme-tiny",
         "fdb",

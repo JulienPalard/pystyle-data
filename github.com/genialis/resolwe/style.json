@@ -43,7 +43,7 @@
         "yaml": 664,
         "yml": 710
     },
-    "pep8_infringement": 50,
+    "pep8_infringement": 53,
     "requirements": [
         "django~=1.10.5",
         "django-autoslug==1.9.4-dev",

@@ -38,7 +38,7 @@
         "py": 12904,
         "rst": 17
     },
-    "pep8_infringement": 782,
+    "pep8_infringement": 753,
     "requirements": [
         "argparse",
         "numpy",

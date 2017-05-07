@@ -42,7 +42,7 @@
         "ttl": 9690,
         "txt": 15
     },
-    "pep8_infringement": 1602,
+    "pep8_infringement": 1595,
     "requirements": [
         "jsonpath-rw>=0.0",
         "jsonpickle>=0.0",

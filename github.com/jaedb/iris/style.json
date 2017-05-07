@@ -44,7 +44,7 @@
         "sh": 21,
         "svg": 3034
     },
-    "pep8_infringement": 169,
+    "pep8_infringement": 173,
     "requirements": [
         "configobj>=5.0.6",
         "mopidy>=2.0",

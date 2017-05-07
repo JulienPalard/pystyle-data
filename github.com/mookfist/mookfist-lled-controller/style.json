@@ -35,7 +35,7 @@
         "md": 160,
         "py": 1357
     },
-    "pep8_infringement": 127,
+    "pep8_infringement": 128,
     "requirements": [
         "colorama",
         "docopt"

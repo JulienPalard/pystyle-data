@@ -38,7 +38,7 @@
         "rst": 890,
         "txt": 12
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 2,
     "requirements": [
         "grappa~=0.1.4",
         "jsonschema~=2.5.1"

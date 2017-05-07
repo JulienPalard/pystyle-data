@@ -38,7 +38,7 @@
         "md": 302,
         "py": 3678
     },
-    "pep8_infringement": 133,
+    "pep8_infringement": 134,
     "requirements": [
         "click>=6",
         "first",

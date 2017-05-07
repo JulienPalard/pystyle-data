@@ -43,7 +43,7 @@
         "sql": 6,
         "txt": 1
     },
-    "pep8_infringement": 157,
+    "pep8_infringement": 163,
     "requirements": [
         "python-dateutil",
         "sovrin-common-dev==0.2.50"

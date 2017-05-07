@@ -42,7 +42,7 @@
         "spec": 78,
         "txt": 675
     },
-    "pep8_infringement": 388,
+    "pep8_infringement": 393,
     "requirements": [
         "appdirs",
         "configargparse",

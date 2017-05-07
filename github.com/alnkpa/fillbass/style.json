@@ -37,7 +37,7 @@
         "md": 31,
         "py": 803
     },
-    "pep8_infringement": 36,
+    "pep8_infringement": 40,
     "requirements": [
         "beautifulsoup4",
         "click",

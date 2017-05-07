@@ -37,7 +37,7 @@
         "tmpl": 38,
         "txt": 170
     },
-    "pep8_infringement": 481,
+    "pep8_infringement": 482,
     "requirements": [
         "dateutil",
         "future",

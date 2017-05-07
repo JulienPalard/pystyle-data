@@ -40,7 +40,7 @@
         "py": 1803,
         "rst": 346
     },
-    "pep8_infringement": 45,
+    "pep8_infringement": 47,
     "requirements": [
         "pygments"
     ],

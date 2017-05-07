@@ -40,7 +40,7 @@
         "txt": 20001,
         "yaml": 193
     },
-    "pep8_infringement": 124,
+    "pep8_infringement": 128,
     "requirements": [
         "numpy",
         "pandas",

@@ -40,7 +40,7 @@
         "py": 281,
         "rst": 133
     },
-    "pep8_infringement": 41,
+    "pep8_infringement": 43,
     "requirements": [
         "configobj>=4.0.0",
         "jinja2>=2.7",

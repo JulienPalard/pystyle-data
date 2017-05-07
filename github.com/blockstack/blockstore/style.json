@@ -47,7 +47,7 @@
         "wsgi": 38,
         "yml": 9
     },
-    "pep8_infringement": 48402,
+    "pep8_infringement": 48619,
     "requirements": [
         "basicrpc>=0.0.2",
         "blockstack-profiles>=0.14.1",

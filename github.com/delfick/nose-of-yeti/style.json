@@ -41,7 +41,7 @@
         "rst": 667,
         "sh": 9
     },
-    "pep8_infringement": 1433,
+    "pep8_infringement": 1434,
     "requirements": [
         "six"
     ],

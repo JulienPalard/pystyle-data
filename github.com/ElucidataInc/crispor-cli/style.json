@@ -29,24 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "biopython==1.68",
-        "cycler==0.10.0",
-        "matplotlib==1.5.3",
-        "numpy==1.11.2",
-        "pandas==0.19.1",
-        "py==1.4.31",
-        "pyparsing==2.1.10",
-        "pytabix==0.1",
-        "pytest==3.0.4",
-        "python-dateutil==2.6.0",
-        "pytz==2016.7",
-        "scikit-learn==0.16.1",
-        "scipy==0.18.1",
-        "six==1.10.0",
-        "twobitreader==3.1.4",
-        "xlwt==1.1.2"
-    ],
     "license": null,
     "lines_of_code": {
         "7": 22,
@@ -107,7 +89,25 @@
         "xls": 3728,
         "xml": 15
     },
-    "pep8_infringement": 93041,
+    "pep8_infringement": 93070,
+    "requirements": [
+        "biopython==1.68",
+        "cycler==0.10.0",
+        "matplotlib==1.5.3",
+        "numpy==1.11.2",
+        "pandas==0.19.1",
+        "py==1.4.31",
+        "pyparsing==2.1.10",
+        "pytabix==0.1",
+        "pytest==3.0.4",
+        "python-dateutil==2.6.0",
+        "pytz==2016.7",
+        "scikit-learn==0.16.1",
+        "scipy==0.18.1",
+        "six==1.10.0",
+        "twobitreader==3.1.4",
+        "xlwt==1.1.2"
+    ],
     "shebang": {
         "#! /usr/bin/python2.7": 1,
         "#!/usr/bin/env python": 15,

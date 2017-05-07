@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "django>=1.10.1",
-        "faker>=0.7.3"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 1,
@@ -40,6 +36,10 @@
         "rst": 419
     },
     "pep8_infringement": 87,
+    "requirements": [
+        "django>=1.10.1",
+        "faker>=0.7.3"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

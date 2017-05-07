@@ -35,7 +35,7 @@
         "py": 4256,
         "rst": 3
     },
-    "pep8_infringement": 473,
+    "pep8_infringement": 474,
     "requirements": [
         "pyserial"
     ],

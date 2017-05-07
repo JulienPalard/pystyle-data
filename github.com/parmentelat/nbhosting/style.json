@@ -46,7 +46,7 @@
         "sh": 133,
         "xfs+overlay2": 40
     },
-    "pep8_infringement": 246,
+    "pep8_infringement": 250,
     "requirements": [
         "django"
     ],

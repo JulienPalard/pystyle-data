@@ -29,10 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "requests",
-        "simpletr64"
-    ],
     "license": "GPL-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -51,7 +47,11 @@
         "svg": 655,
         "tab": 1101
     },
-    "pep8_infringement": 200649,
+    "pep8_infringement": 200744,
+    "requirements": [
+        "requests",
+        "simpletr64"
+    ],
     "shebang": {
         "#! /usr/bin/python2.7": 10,
         "#!/usr/bin/env python": 59

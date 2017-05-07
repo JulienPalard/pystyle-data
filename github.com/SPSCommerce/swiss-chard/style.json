@@ -36,7 +36,7 @@
         "py": 314,
         "txt": 21
     },
-    "pep8_infringement": 33,
+    "pep8_infringement": 34,
     "requirements": [
         "redis"
     ],

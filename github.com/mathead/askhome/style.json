@@ -38,7 +38,7 @@
         "rst": 438,
         "txt": 4
     },
-    "pep8_infringement": 145,
+    "pep8_infringement": 146,
     "requirements": [
         "inflection"
     ],

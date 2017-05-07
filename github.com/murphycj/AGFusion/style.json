@@ -29,15 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "biomart>=0.9.0",
-        "biopython>=1.67",
-        "jsonpickle>=0.9.3",
-        "matplotlib>=1.5.0",
-        "pandas>=0.18.1",
-        "pyensembl>=0.9.5",
-        "tqdm>=4.8.4"
-    ],
     "license": null,
     "lines_of_code": {
         "bat": 281,
@@ -51,5 +42,14 @@
         "txt": 9
     },
     "pep8_infringement": 955,
+    "requirements": [
+        "biomart>=0.9.0",
+        "biopython>=1.67",
+        "jsonpickle>=0.9.3",
+        "matplotlib>=1.5.0",
+        "pandas>=0.18.1",
+        "pyensembl>=0.9.5",
+        "tqdm>=4.8.4"
+    ],
     "shebang": {}
 }

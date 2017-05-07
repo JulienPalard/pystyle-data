@@ -40,7 +40,7 @@
         "rst": 1306,
         "txt": 132
     },
-    "pep8_infringement": 124,
+    "pep8_infringement": 125,
     "requirements": [
         "coveralls",
         "django>1.8",

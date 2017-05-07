@@ -38,7 +38,7 @@
         "txt": 271,
         "yml": 34
     },
-    "pep8_infringement": 1135,
+    "pep8_infringement": 1145,
     "requirements": [
         "pycryptodome",
         "stats"

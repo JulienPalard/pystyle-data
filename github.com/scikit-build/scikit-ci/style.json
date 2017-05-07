@@ -40,7 +40,7 @@
         "txt": 13,
         "yml": 137
     },
-    "pep8_infringement": 13,
+    "pep8_infringement": 14,
     "requirements": [
         "pyfiglet",
         "ruamel.yaml"

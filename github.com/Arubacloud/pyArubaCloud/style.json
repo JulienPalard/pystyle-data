@@ -36,7 +36,7 @@
         "py": 2455,
         "txt": 202
     },
-    "pep8_infringement": 248,
+    "pep8_infringement": 249,
     "requirements": [
         "codeclimate-test-reporter",
         "jsonpickle",

@@ -41,7 +41,7 @@
         "rst": 26,
         "sh": 214
     },
-    "pep8_infringement": 18791,
+    "pep8_infringement": 18794,
     "requirements": [
         "lxml",
         "mock",

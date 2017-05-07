@@ -48,7 +48,7 @@
         "yaml": 171,
         "yml": 85
     },
-    "pep8_infringement": 321,
+    "pep8_infringement": 331,
     "requirements": [
         "celery==3.1.23",
         "chardet==2.3.0",

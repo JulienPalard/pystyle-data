@@ -29,20 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "aiocache",
-        "aioconsole",
-        "aiohttp>=2.0.0<3.0.0",
-        "asyncpg",
-        "cffi",
-        "jsonschema",
-        "pycrypto",
-        "pyjwt",
-        "python-dateutil",
-        "setuptools",
-        "ujson",
-        "zope.interface"
-    ],
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "c": 113,
@@ -58,7 +44,21 @@
         "tmpl": 46,
         "txt": 3
     },
-    "pep8_infringement": 808,
+    "pep8_infringement": 809,
+    "requirements": [
+        "aiocache",
+        "aioconsole",
+        "aiohttp>=2.0.0<3.0.0",
+        "asyncpg",
+        "cffi",
+        "jsonschema",
+        "pycrypto",
+        "pyjwt",
+        "python-dateutil",
+        "setuptools",
+        "ujson",
+        "zope.interface"
+    ],
     "shebang": {
         "#!/usr/bin/env python3": 1
     }

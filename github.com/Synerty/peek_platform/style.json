@@ -37,7 +37,7 @@
         "rst": 5,
         "sh": 89
     },
-    "pep8_infringement": 202,
+    "pep8_infringement": 199,
     "requirements": [
         "alembic>=0.8.7",
         "celery",

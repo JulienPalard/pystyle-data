@@ -39,7 +39,7 @@
         "qss": 3,
         "rst": 403
     },
-    "pep8_infringement": 159,
+    "pep8_infringement": 150,
     "requirements": [
         "pyqt5",
         "pytc-fitter",

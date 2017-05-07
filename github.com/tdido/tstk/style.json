@@ -38,7 +38,7 @@
         "sh": 1,
         "yaml": 64
     },
-    "pep8_infringement": 958,
+    "pep8_infringement": 959,
     "requirements": [
         "biopython",
         "matplotlib",

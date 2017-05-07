@@ -47,7 +47,7 @@
         "xml": 69,
         "yml": 70
     },
-    "pep8_infringement": 1966,
+    "pep8_infringement": 2008,
     "requirements": [
         "aircv==1.4.5",
         "atx-androguard==3.0",

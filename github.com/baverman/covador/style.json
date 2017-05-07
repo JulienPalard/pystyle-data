@@ -38,7 +38,7 @@
         "sh": 12,
         "txt": 1
     },
-    "pep8_infringement": 82,
+    "pep8_infringement": 83,
     "requirements": [
         "pytest-coverage"
     ],

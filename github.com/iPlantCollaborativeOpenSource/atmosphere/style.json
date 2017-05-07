@@ -57,7 +57,7 @@
         "uwsgi+nginx": 142,
         "yaml": 140
     },
-    "pep8_infringement": 3496,
+    "pep8_infringement": 3554,
     "requirements": [
         "amqp==2.1.4",
         "ansible==2.3.0.0",

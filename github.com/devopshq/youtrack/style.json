@@ -37,7 +37,7 @@
         "txt": 4,
         "yml": 1
     },
-    "pep8_infringement": 217,
+    "pep8_infringement": 216,
     "requirements": [
         "httplib2"
     ],

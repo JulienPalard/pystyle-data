@@ -38,7 +38,7 @@
         "txt": 7,
         "yml": 109
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 3,
     "requirements": [
         "celery>=4.0.0",
         "flask>=0.11.1",

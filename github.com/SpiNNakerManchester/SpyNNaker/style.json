@@ -49,7 +49,7 @@
         "xml": 156,
         "xsd": 64
     },
-    "pep8_infringement": 3879,
+    "pep8_infringement": 3877,
     "requirements": [
         "lxml",
         "numpy",

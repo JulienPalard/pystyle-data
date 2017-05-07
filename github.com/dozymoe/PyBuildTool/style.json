@@ -41,7 +41,7 @@
         "txt": 3,
         "yml": 23
     },
-    "pep8_infringement": 464,
+    "pep8_infringement": 465,
     "requirements": [
         "pyyaml",
         "watchdog"

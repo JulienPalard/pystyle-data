@@ -37,7 +37,7 @@
         "py": 1073,
         "txt": 30
     },
-    "pep8_infringement": 65,
+    "pep8_infringement": 59,
     "requirements": [
         "jsonstruct>=0.2a1",
         "requests>=2.7.0"

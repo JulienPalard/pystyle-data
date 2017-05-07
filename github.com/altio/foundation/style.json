@@ -42,7 +42,7 @@
     },
     "pep8_infringement": 180,
     "requirements": [
-        "django>=1.10,<1.11",
+        "django<1.11,>=1.10",
         "django-sekizai>=0.10"
     ],
     "shebang": {

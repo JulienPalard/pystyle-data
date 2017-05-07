@@ -38,7 +38,7 @@
         "rst": 259,
         "txt": 2
     },
-    "pep8_infringement": 119,
+    "pep8_infringement": 124,
     "requirements": [
         "pyyaml",
         "setuptools>=20.3"

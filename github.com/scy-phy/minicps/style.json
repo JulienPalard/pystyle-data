@@ -42,7 +42,7 @@
         "svg": 14055,
         "txt": 110
     },
-    "pep8_infringement": 405,
+    "pep8_infringement": 407,
     "requirements": [
         "coverage",
         "cpppo",

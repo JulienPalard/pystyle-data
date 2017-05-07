@@ -39,7 +39,7 @@
         "sh": 27,
         "xml": 14
     },
-    "pep8_infringement": 2979,
+    "pep8_infringement": 2987,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

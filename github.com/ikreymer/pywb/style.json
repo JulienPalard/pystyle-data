@@ -49,7 +49,7 @@
         "warc": 401,
         "yaml": 863
     },
-    "pep8_infringement": 2003,
+    "pep8_infringement": 2029,
     "requirements": [
         "brotlipy",
         "chardet",

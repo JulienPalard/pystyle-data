@@ -41,7 +41,7 @@
         "template": 30,
         "txt": 16
     },
-    "pep8_infringement": 69,
+    "pep8_infringement": 71,
     "requirements": [
         "python-dateutil>=2.0.0",
         "pytz",

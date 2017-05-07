@@ -46,7 +46,7 @@
         "tabix": 155,
         "txt": 383
     },
-    "pep8_infringement": 37291,
+    "pep8_infringement": 37252,
     "requirements": [
         "biopython>=1.64",
         "cython>=0.22",

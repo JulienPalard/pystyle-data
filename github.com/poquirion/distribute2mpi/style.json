@@ -29,11 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "dill",
-        "mpi4py",
-        "psutil"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
@@ -43,6 +38,11 @@
         "txt": 2
     },
     "pep8_infringement": 36,
+    "requirements": [
+        "dill",
+        "mpi4py",
+        "psutil"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

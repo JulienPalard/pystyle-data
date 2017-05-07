@@ -41,7 +41,7 @@
         "str": 50592,
         "txt": 5445
     },
-    "pep8_infringement": 374,
+    "pep8_infringement": 382,
     "requirements": [
         "docopt>=0.6.2",
         "graphviz>=0.5.2",

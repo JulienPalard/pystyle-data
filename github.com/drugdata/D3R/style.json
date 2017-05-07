@@ -44,7 +44,7 @@
         "sh": 163,
         "txt": 19
     },
-    "pep8_infringement": 3274,
+    "pep8_infringement": 2968,
     "requirements": [
         "argparse",
         "biopython==1.68",

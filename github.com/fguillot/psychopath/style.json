@@ -29,9 +29,6 @@
         "test-requirements.txt": true,
         "tox.ini": true
     },
-    "requirements": [
-        "psycopg2>=2.7.1"
-    ],
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
@@ -41,5 +38,8 @@
         "txt": 4
     },
     "pep8_infringement": 22,
+    "requirements": [
+        "psycopg2>=2.7.1"
+    ],
     "shebang": {}
 }

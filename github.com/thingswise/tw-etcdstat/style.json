@@ -35,7 +35,7 @@
         "py": 504,
         "rst": 5
     },
-    "pep8_infringement": 90,
+    "pep8_infringement": 94,
     "requirements": [
         "cachetools",
         "jinja2",

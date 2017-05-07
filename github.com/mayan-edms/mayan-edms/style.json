@@ -54,7 +54,7 @@
         "textile": 121,
         "txt": 91
     },
-    "pep8_infringement": 543,
+    "pep8_infringement": 549,
     "requirements": [
         "celery==3.1.19",
         "codecov==1.4.1",

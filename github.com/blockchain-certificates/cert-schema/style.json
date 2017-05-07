@@ -40,7 +40,7 @@
         "sh": 7,
         "txt": 4
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 15,
     "requirements": [
         "cert-core>=0.0.15",
         "jsonschema>=2.6",

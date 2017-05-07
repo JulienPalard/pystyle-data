@@ -37,7 +37,7 @@
         "rst": 245,
         "txt": 6
     },
-    "pep8_infringement": 2374,
+    "pep8_infringement": 2376,
     "requirements": [
         "chorde",
         "cython>=0.22",

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "requirements": [
-        "pyzabbix"
-    ],
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "bat": 242,
@@ -43,6 +40,9 @@
         "txt": 6
     },
     "pep8_infringement": 57,
+    "requirements": [
+        "pyzabbix"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 5
     }

@@ -29,9 +29,6 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "requirements": [
-        "mongoengine>=0.8.6"
-    ],
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
@@ -39,7 +36,10 @@
         "py": 898,
         "txt": 9
     },
-    "pep8_infringement": 56,
+    "pep8_infringement": 58,
+    "requirements": [
+        "mongoengine>=0.8.6"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

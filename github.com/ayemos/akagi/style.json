@@ -37,7 +37,7 @@
         "rst": 86,
         "txt": 9
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 22,
     "requirements": [
         "boto3>=1.4.4",
         "psycopg2>=2.7"

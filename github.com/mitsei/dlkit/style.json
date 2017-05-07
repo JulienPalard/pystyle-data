@@ -44,7 +44,7 @@
         "txt": 25,
         "xml": 11
     },
-    "pep8_infringement": 30303,
+    "pep8_infringement": 32069,
     "requirements": [
         "boto",
         "bs4",

@@ -42,7 +42,7 @@
         "rst": 2305,
         "txt": 15
     },
-    "pep8_infringement": 3108,
+    "pep8_infringement": 3102,
     "requirements": [
         "future",
         "matplotlib>=1.3.1",
