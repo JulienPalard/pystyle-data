@@ -43,7 +43,7 @@
     "pep8_infringement": 70,
     "requirements": [
         "boto",
-        "django<1.10,>=1.6.0"
+        "django>=1.6.0,<1.10"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1
