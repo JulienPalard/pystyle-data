@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 202,
     "requirements": [
-        "shortuuid<1.0.0,>=0.4.3"
+        "shortuuid>=0.4.3,<1.0.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2

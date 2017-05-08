@@ -40,7 +40,7 @@
     "pep8_infringement": 1,
     "requirements": [
         "six",
-        "spinnutilities>=3.0.0,<4.0.0"
+        "spinnutilities<4.0.0,>=3.0.0"
     ],
     "shebang": {}
 }

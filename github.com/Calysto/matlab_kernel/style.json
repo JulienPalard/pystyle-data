@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "lines_of_code": {
         "cfg": 7,
         "in": 2,

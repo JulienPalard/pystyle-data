@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "BSD-2-Clause",
     "lines_of_code": {
         "in": 2,
         "md": 46,

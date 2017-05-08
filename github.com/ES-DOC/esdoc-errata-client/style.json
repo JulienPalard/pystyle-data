@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "CECILL-2.1",
     "lines_of_code": {
         "cfg": 3,
         "in": 3,

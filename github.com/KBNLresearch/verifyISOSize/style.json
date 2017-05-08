@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
         "bat": 136,
         "cfg": 2,

@@ -43,10 +43,10 @@
     },
     "pep8_infringement": 63,
     "requirements": [
-        "dill<0.3dev,>=0.2.5",
-        "future<0.17dev,>=0.16.0",
+        "dill>=0.2.5,<0.3dev",
+        "future>=0.16.0,<0.17dev",
         "google-auth>=0.8.0,<2.0dev",
-        "googleapis-common-protos>=1.5.2,<2.0dev",
+        "googleapis-common-protos<2.0dev,>=1.5.2",
         "grpcio>=1.0.2,<2.0dev",
         "ply==3.8",
         "protobuf<4.0dev,>=3.0.0"

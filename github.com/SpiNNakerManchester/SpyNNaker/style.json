@@ -53,10 +53,10 @@
     "requirements": [
         "lxml",
         "numpy",
-        "pynn<0.8,>=0.7",
+        "pynn>=0.7,<0.8",
         "scipy",
         "six",
-        "spinnfrontendcommon>=3.0.0,<4.0.0"
+        "spinnfrontendcommon<4.0.0,>=3.0.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 17,

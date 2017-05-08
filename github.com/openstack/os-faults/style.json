@@ -46,7 +46,7 @@
         "appdirs>=1.3.0",
         "click>=6.7",
         "iso8601>=0.1.11",
-        "jsonschema>=2.0.0,!=2.5.0,<3.0.0",
+        "jsonschema!=2.5.0,<3.0.0,>=2.0.0",
         "oslo.i18n>=2.1.0",
         "oslo.serialization>=1.10.0",
         "oslo.utils>=3.20.0",

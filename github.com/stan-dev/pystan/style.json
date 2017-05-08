@@ -50,7 +50,7 @@
     "pep8_infringement": 906,
     "requirements": [
         "cython!=0.25.1,>=0.22",
-        "numpy>=1.7,<2.0"
+        "numpy<2.0,>=1.7"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1,

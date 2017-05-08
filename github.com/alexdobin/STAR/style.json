@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-1.0",
+    "license": "GPL-3.0",
     "lines_of_code": {
         "1": 132,
         "5": 265,

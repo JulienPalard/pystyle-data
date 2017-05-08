@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause",
+    "license": "BSD-2-Clause-FreeBSD",
     "lines_of_code": {
         "cfg": 4,
         "conf": 14,

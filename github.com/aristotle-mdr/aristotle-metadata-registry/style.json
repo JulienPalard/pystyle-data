@@ -29,7 +29,7 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "BSD-2-Clause",
+    "license": "BSD-2-Clause-FreeBSD",
     "lines_of_code": {
         "css": 8645,
         "html": 10747,
@@ -65,7 +65,7 @@
         "django-model-utils>=2.3.1",
         "django-notifications-hq>=1.0",
         "django-reversion>=2.0,<2.1",
-        "django-reversion-compare<0.8,>=0.7",
+        "django-reversion-compare>=0.7,<0.8",
         "django-static-precompiler",
         "docutils",
         "html5lib==1.0b10",

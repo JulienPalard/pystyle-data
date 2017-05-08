@@ -45,7 +45,7 @@
     },
     "pep8_infringement": 8,
     "requirements": [
-        "django<2,>=1.8",
+        "django>=1.8,<2",
         "pyjwt>=1.4.2",
         "requests>=2.11.0"
     ],
