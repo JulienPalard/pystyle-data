@@ -38,7 +38,7 @@
     },
     "pep8_infringement": 874,
     "requirements": [
-        "elasticsearch<6.0.0,>=5.0.0",
+        "elasticsearch>=5.0.0,<6.0.0",
         "python-dateutil",
         "six"
     ],

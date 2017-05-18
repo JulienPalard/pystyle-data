@@ -46,7 +46,7 @@
     },
     "pep8_infringement": 73,
     "requirements": [
-        "requests>=2.0.0,<3.0.0",
+        "requests<3.0.0,>=2.0.0",
         "six<2.0.0,>=1.10.0"
     ],
     "shebang": {

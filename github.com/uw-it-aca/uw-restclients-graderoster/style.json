@@ -42,7 +42,7 @@
         "jinja2",
         "lxml",
         "mock",
-        "uw-restclients-core>0.8,<1.0",
+        "uw-restclients-core<1.0,>0.8",
         "uw-restclients-pws<1.0",
         "uw-restclients-sws<1.0"
     ],

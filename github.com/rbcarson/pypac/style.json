@@ -43,7 +43,7 @@
     "pep8_infringement": 213,
     "requirements": [
         "js2py>=0.43",
-        "requests>=2.0.0,<3.0.0",
+        "requests<3.0.0,>=2.0.0",
         "tld<1.0.0,>=0.7.3"
     ],
     "shebang": {

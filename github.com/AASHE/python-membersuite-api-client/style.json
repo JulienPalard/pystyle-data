@@ -33,10 +33,10 @@
     "lines_of_code": {
         "in": 4,
         "md": 113,
-        "py": 1567,
+        "py": 1855,
         "txt": 7
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 3,
     "requirements": [
         "future==0.16.0",
         "retrying>=1.3.3",

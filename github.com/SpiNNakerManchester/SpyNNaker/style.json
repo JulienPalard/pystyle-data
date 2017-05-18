@@ -53,7 +53,7 @@
     "requirements": [
         "lxml",
         "numpy",
-        "pynn>=0.7,<0.8",
+        "pynn<0.8,>=0.7",
         "scipy",
         "six",
         "spinnfrontendcommon<4.0.0,>=3.0.0"

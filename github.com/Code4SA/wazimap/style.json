@@ -51,7 +51,7 @@
         "django-pipeline>=1.6.4",
         "ecdsa>=0.11",
         "futures>=3.0.4",
-        "paramiko>=1.12.3,<2",
+        "paramiko<2,>=1.12.3",
         "psycopg2>=2.5.2",
         "requests>=1.2.0",
         "sqlalchemy>=0.9.4",

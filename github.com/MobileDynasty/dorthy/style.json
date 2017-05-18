@@ -46,7 +46,7 @@
         "pycrypto==2.6.1",
         "pytz",
         "pyyaml==3.12",
-        "raven<6.0,>=5.9",
+        "raven>=5.9,<6.0",
         "redis<2.11,>=2.10",
         "sqlalchemy>=1.0,<1.2",
         "tornado>=4.0,<5.0"

@@ -49,7 +49,7 @@
     "pep8_infringement": 19,
     "requirements": [
         "Unknown (.)",
-        "django<1.11,>=1.8.12",
+        "django>=1.8.12,<1.11",
         "django-betterforms==1.1.4",
         "django-extra-views==0.9.0",
         "django-filter==1.0.1",

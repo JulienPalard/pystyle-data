@@ -32,10 +32,10 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 12,
-        "md": 106,
-        "py": 393
+        "md": 108,
+        "py": 406
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 30,
     "requirements": [
         "requests>=2.10.0",
         "requests-oauthlib>=0.6.0"

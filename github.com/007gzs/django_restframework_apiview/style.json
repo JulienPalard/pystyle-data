@@ -34,11 +34,11 @@
         "html": 177,
         "in": 2,
         "js": 42,
-        "py": 4429,
-        "rst": 16,
+        "py": 4440,
+        "rst": 163,
         "txt": 5
     },
-    "pep8_infringement": 437,
+    "pep8_infringement": 433,
     "requirements": [
         "django",
         "django-extensions",

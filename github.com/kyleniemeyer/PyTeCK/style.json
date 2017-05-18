@@ -47,7 +47,7 @@
         "numpy>=1.11.0",
         "pint>=0.7.2",
         "pyked>=0.1.4",
-        "pyyaml>=3.12,<4.0",
+        "pyyaml<4.0,>=3.12",
         "tables"
     ],
     "shebang": {

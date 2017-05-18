@@ -42,7 +42,7 @@
     },
     "pep8_infringement": 856,
     "requirements": [
-        "libtcod-cffi>=2.3.0,<3"
+        "libtcod-cffi<3,>=2.3.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 16,

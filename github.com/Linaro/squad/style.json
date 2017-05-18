@@ -46,7 +46,7 @@
     },
     "pep8_infringement": 139,
     "requirements": [
-        "celery>=3.1,<4.0",
+        "celery<4.0,>=3.1",
         "django>=1.10",
         "django-celery",
         "gunicorn",

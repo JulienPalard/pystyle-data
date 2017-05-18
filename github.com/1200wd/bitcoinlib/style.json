@@ -21,7 +21,7 @@
         "Makefile": false,
         "README": false,
         "README.md": true,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": true,
@@ -36,13 +36,13 @@
         "html": 20,
         "in": 8,
         "ini": 7,
-        "json": 524,
+        "json": 542,
         "md": 226,
-        "py": 6810,
-        "rst": 30,
+        "py": 7366,
+        "rst": 369,
         "txt": 16384
     },
-    "pep8_infringement": 977,
+    "pep8_infringement": 1112,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1

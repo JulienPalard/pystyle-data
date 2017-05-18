@@ -47,14 +47,14 @@
     "requirements": [
         "cchardet<2.0a,>=1.0",
         "click<7.0a,>=6.0",
-        "ezodf>=0.3,<1.0a",
+        "ezodf<1.0a,>=0.3",
         "ijson>=2.0,<3.0a",
         "jsonlines>=1.1,<2.0a",
         "linear-tsv<2.0a,>=1.0",
         "lxml<4.0a,>=3.0",
         "openpyxl>=2.4,<3.0a",
-        "requests>=2.8,<3.0a",
-        "six<2.0a,>=1.9",
+        "requests<3.0a,>=2.8",
+        "six>=1.9,<2.0a",
         "unicodecsv<1.0a,>=0.14",
         "xlrd<2.0a,>=1.0"
     ],

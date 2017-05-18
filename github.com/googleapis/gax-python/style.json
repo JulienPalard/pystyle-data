@@ -44,12 +44,12 @@
     "pep8_infringement": 63,
     "requirements": [
         "dill>=0.2.5,<0.3dev",
-        "future>=0.16.0,<0.17dev",
-        "google-auth>=0.8.0,<2.0dev",
+        "future<0.17dev,>=0.16.0",
+        "google-auth<2.0dev,>=0.8.0",
         "googleapis-common-protos<2.0dev,>=1.5.2",
         "grpcio>=1.0.2,<2.0dev",
         "ply==3.8",
-        "protobuf<4.0dev,>=3.0.0"
+        "protobuf>=3.0.0,<4.0dev"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1
