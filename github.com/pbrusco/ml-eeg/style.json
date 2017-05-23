@@ -33,11 +33,14 @@
     "lines_of_code": {
         "in": 3,
         "praat": 160,
-        "py": 1767,
+        "py": 1943,
         "rst": 2,
-        "sh": 6
+        "sh": 4
     },
-    "pep8_infringement": 140,
-    "requirements": [],
+    "pep8_infringement": 142,
+    "requirements": [
+        "liac-arff",
+        "pydub"
+    ],
     "shebang": {}
 }

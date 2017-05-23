@@ -31,17 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 18,
+        "cfg": 19,
         "in": 13,
         "ini": 22,
         "pip": 12,
-        "po": 56,
-        "py": 250,
-        "rst": 241
+        "po": 144,
+        "py": 1358,
+        "rst": 1565
     },
     "pep8_infringement": 1,
     "requirements": [
-        "story>=1.1.5"
+        "story>=1.2.3"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2

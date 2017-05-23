@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "css": 528,
+        "html": 2516,
+        "js": 6308,
+        "py": 3270,
+        "rdf": 166,
+        "robot": 157,
+        "rst": 101,
+        "sh": 37
+    },
+    "pep8_infringement": 406,
+    "requirements": [
+        "gspread",
+        "oauth2client",
+        "openpyxl",
+        "robotframework>=3.0",
+        "robotframework-appiumlibrary",
+        "robotframework-databaselibrary",
+        "robotframework-httplibrary",
+        "robotframework-imaplibrary",
+        "robotframework-pabot",
+        "robotframework-ride>=1.5.2.1",
+        "robotframework-selenium2library",
+        "robotframework-sudslibrary",
+        "robotframework-testmanagement",
+        "selenium",
+        "unicodecsv"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 17
+    }
+}

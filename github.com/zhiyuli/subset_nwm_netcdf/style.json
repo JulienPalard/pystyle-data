@@ -34,13 +34,21 @@
         "cdl": 273,
         "cdl_template": 1631,
         "cdl_template_chunked_merge": 2418,
+        "cdl_template_chunked_merge_resize": 2418,
         "in": 3,
-        "md": 82,
+        "md": 114,
         "prj": 3,
-        "py": 1833,
+        "py": 2065,
         "xml": 2
     },
-    "pep8_infringement": 335,
-    "requirements": [],
+    "pep8_infringement": 399,
+    "requirements": [
+        "fiona>=1.7.5",
+        "netcdf4>=1.2.7",
+        "numpy>=1.2.1",
+        "pyproj>=1.9.5.1",
+        "pysqlite>=2.8.3",
+        "shapely>=1.5.17"
+    ],
     "shebang": {}
 }

@@ -36,12 +36,12 @@
         "env": 3,
         "ini": 12,
         "md": 95,
-        "py": 3227,
+        "py": 3239,
         "sh": 3,
         "txt": 51,
         "yaml": 15463
     },
-    "pep8_infringement": 281,
+    "pep8_infringement": 297,
     "requirements": [
         "beautifulsoup4==4.5.1",
         "certifi==2016.9.26",

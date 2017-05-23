@@ -41,7 +41,7 @@
     "pep8_infringement": 55,
     "requirements": [
         "oauthlib",
-        "pyjwt<2.0.0,>=1.0.1",
+        "pyjwt>=1.0.1,<2.0.0",
         "requests",
         "requests-oauthlib",
         "six"

@@ -31,15 +31,15 @@
     },
     "license": null,
     "lines_of_code": {
-        "conf": 216,
+        "conf": 229,
         "in": 61,
-        "json": 37,
-        "md": 648,
-        "py": 13907,
+        "json": 38,
+        "md": 657,
+        "py": 14086,
         "sh": 198,
         "txt": 26
     },
-    "pep8_infringement": 983,
+    "pep8_infringement": 1049,
     "requirements": [
         "aenum==1.4.5",
         "coapthon==4.0.2",

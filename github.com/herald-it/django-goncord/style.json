@@ -38,7 +38,7 @@
     },
     "pep8_infringement": 2,
     "requirements": [
-        "django<1.11,>=1.10",
+        "django>=1.10,<1.11",
         "requests",
         "setuptools"
     ],

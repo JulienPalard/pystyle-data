@@ -58,7 +58,7 @@
     "pep8_infringement": 1556,
     "requirements": [
         "basemap>=1.0.7",
-        "lipd<0.2.0.3,>=0.2.0.2",
+        "lipd>=0.2.0.2,<0.2.0.3",
         "matplotlib>=2.0.0",
         "numpy>=1.12.1",
         "pandas>=0.19.2",

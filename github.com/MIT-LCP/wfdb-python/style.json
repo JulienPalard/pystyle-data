@@ -34,11 +34,11 @@
         "dat": 1,
         "hea": 350,
         "in": 12,
-        "ipynb": 434,
-        "py": 4615,
-        "rst": 453
+        "ipynb": 459,
+        "py": 4747,
+        "rst": 454
     },
-    "pep8_infringement": 1516,
+    "pep8_infringement": 1579,
     "requirements": [
         "matplotlib>=1.5.1",
         "nose>=1.3.7",

@@ -36,12 +36,12 @@
         "css": 1395,
         "html": 311,
         "js": 12962,
-        "md": 23,
-        "py": 860,
-        "rst": 468,
+        "md": 27,
+        "py": 1169,
+        "rst": 475,
         "txt": 20
     },
-    "pep8_infringement": 95,
+    "pep8_infringement": 106,
     "requirements": [
         "pymongo>=2.8"
     ],

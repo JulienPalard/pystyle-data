@@ -33,12 +33,12 @@
     "lines_of_code": {
         "in": 1,
         "md": 31,
-        "py": 303,
+        "py": 311,
         "sample": 85,
         "txt": 6,
-        "yml": 63
+        "yml": 75
     },
-    "pep8_infringement": 34,
+    "pep8_infringement": 32,
     "requirements": [
         "opentc-util",
         "pyicap",

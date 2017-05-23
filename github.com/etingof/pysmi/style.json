@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 4,
-        "md": 195,
-        "py": 10173,
-        "rst": 743,
+        "md": 198,
+        "py": 10186,
+        "rst": 752,
         "txt": 50
     },
-    "pep8_infringement": 568,
+    "pep8_infringement": 570,
     "requirements": [
         "ordereddict",
         "ply",

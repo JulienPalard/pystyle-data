@@ -32,25 +32,26 @@
     "license": null,
     "lines_of_code": {
         "css": 91,
-        "html": 1061,
+        "html": 1052,
         "in": 8,
-        "js": 1195,
+        "js": 1264,
         "json": 44,
         "map": 2,
-        "md": 1513,
+        "md": 1556,
         "properties": 35,
-        "py": 21572,
+        "py": 21450,
         "svg": 576,
-        "txt": 359
+        "txt": 360
     },
-    "pep8_infringement": 2482,
+    "pep8_infringement": 2454,
     "requirements": [
-        "beautifulsoup4==4.5.3",
+        "beautifulsoup4==4.6.0",
         "coverage==4.3.4",
         "lxml==3.7.3",
         "python-dateutil==2.6.0",
-        "setuptools==35.0.0",
-        "xmlrunner==1.7.7"
+        "setuptools==35.0.2",
+        "xmlrunner==1.7.7",
+        "yattag==1.8.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2

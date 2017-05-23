@@ -35,11 +35,11 @@
         "ini": 31,
         "j2": 57,
         "md": 576,
-        "py": 1978,
+        "py": 1966,
         "txt": 16,
         "yaml": 59
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 11,
     "requirements": [
         "boto3",
         "boto3facade>=0.4.5",

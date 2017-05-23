@@ -32,13 +32,13 @@
     "license": "LGPL-3.0",
     "lines_of_code": {
         "in": 10,
-        "ini": 60,
-        "md": 141,
-        "py": 2337,
+        "ini": 68,
+        "md": 158,
+        "py": 2393,
         "sql": 65,
         "txt": 19
     },
-    "pep8_infringement": 125,
+    "pep8_infringement": 131,
     "requirements": [
         "cached-property==1.3.0",
         "clint==0.5.1",

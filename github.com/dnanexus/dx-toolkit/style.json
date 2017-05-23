@@ -49,14 +49,14 @@
         "ini": 19,
         "java": 47175,
         "json": 5394,
-        "md": 1410,
+        "md": 1434,
         "mw": 72,
         "nsh": 327,
         "nsi": 144,
         "pl": 19,
         "pm": 1508,
         "ps1": 38,
-        "py": 47192,
+        "py": 48055,
         "rb": 1610,
         "redirector": 27,
         "rst": 485,
@@ -64,14 +64,14 @@
         "static": 86,
         "t": 30,
         "template": 279,
-        "txt": 697,
+        "txt": 694,
         "url": 2,
         "xml": 171
     },
-    "pep8_infringement": 8452,
+    "pep8_infringement": 8552,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 46,
+        "#!/usr/bin/env python": 47,
         "#!/usr/bin/env python2.7": 8
     }
 }

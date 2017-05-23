@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 5,
+        "in": 7,
+        "ini": 20,
+        "md": 156,
+        "py": 1395,
+        "sh": 19,
+        "txt": 12,
+        "yml": 313
+    },
+    "pep8_infringement": 10,
+    "requirements": [
+        "boto3>=1.4.2",
+        "botocore>=1.4.85",
+        "docker>=2.0.0",
+        "jinja2>=2.8",
+        "jsonref>=0.1",
+        "lambda-uploader>=1.2.0",
+        "retrying>=1.3.3",
+        "ruamel.yaml>=0.11.11"
+    ],
+    "shebang": {}
+}

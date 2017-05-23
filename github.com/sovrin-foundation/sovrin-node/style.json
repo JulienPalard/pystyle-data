@@ -31,22 +31,22 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "bat": 118,
+        "bat": 117,
         "conf": 33,
-        "dockerfile": 37,
+        "dockerfile": 36,
         "in": 2,
         "list": 200,
-        "md": 347,
-        "py": 4380,
+        "md": 324,
+        "py": 5109,
         "service": 17,
-        "sh": 123,
+        "sh": 121,
         "sql": 6,
         "txt": 1
     },
-    "pep8_infringement": 163,
+    "pep8_infringement": 183,
     "requirements": [
         "python-dateutil",
-        "sovrin-common-dev==0.2.50"
+        "sovrin-common-dev==0.2.63"
     ],
     "shebang": {
         "#! /usr/bin/env python3": 3,

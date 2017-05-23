@@ -41,7 +41,7 @@
         "mkv": 2,
         "mp4": 0,
         "nfo": 140,
-        "py": 84483,
+        "py": 85325,
         "rst": 2652,
         "scss": 703,
         "srt": 1,
@@ -220,7 +220,7 @@
         "pyyaml",
         "requests>=2.8.0,<3.0",
         "rpyc",
-        "sqlalchemy<1.999,>=1.0.9",
+        "sqlalchemy>=1.0.9,<1.999",
         "terminaltables>=3.1.0",
         "zxcvbn-python"
     ],

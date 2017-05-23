@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 2,
         "md": 61,
-        "py": 367,
+        "py": 380,
         "txt": 23
     },
-    "pep8_infringement": 81,
+    "pep8_infringement": 84,
     "requirements": [
         "better-exceptions",
         "hypothesis"

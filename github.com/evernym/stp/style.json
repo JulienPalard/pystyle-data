@@ -33,9 +33,9 @@
     "lines_of_code": {
         "dockerfile": 54,
         "md": 5,
-        "py": 5576
+        "py": 5640
     },
-    "pep8_infringement": 203,
+    "pep8_infringement": 185,
     "requirements": [
         "ioflo==1.5.4",
         "portalocker==0.5.7",

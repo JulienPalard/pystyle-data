@@ -31,25 +31,24 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "abridged": 25,
         "bat": 281,
         "cfg": 10,
         "fa": 1153,
-        "in": 7,
-        "md": 204,
-        "py": 3815,
+        "in": 5,
+        "md": 202,
+        "py": 4195,
         "rst": 206,
-        "sh": 100,
-        "txt": 9
+        "sh": 64,
+        "txt": 40
     },
-    "pep8_infringement": 955,
+    "pep8_infringement": 1022,
     "requirements": [
-        "biomart>=0.9.0",
         "biopython>=1.67",
-        "jsonpickle>=0.9.3",
+        "future>=0.16.0",
         "matplotlib>=1.5.0",
         "pandas>=0.18.1",
-        "pyensembl>=0.9.5",
-        "tqdm>=4.8.4"
+        "pyensembl>=1.1.0"
     ],
     "shebang": {}
 }

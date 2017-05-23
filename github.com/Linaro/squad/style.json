@@ -32,19 +32,19 @@
     "license": null,
     "lines_of_code": {
         "cfg": 4,
-        "css": 29,
+        "css": 44,
         "csv": 4,
-        "html": 674,
+        "html": 816,
         "in": 14,
         "js": 15131,
         "json": 14,
         "log": 1,
-        "py": 4937,
-        "rst": 342,
-        "txt": 16,
+        "py": 6030,
+        "rst": 509,
+        "txt": 37,
         "yaml": 1
     },
-    "pep8_infringement": 139,
+    "pep8_infringement": 169,
     "requirements": [
         "celery<4.0,>=3.1",
         "django>=1.10",
@@ -55,6 +55,7 @@
         "pyyaml",
         "pyzmq",
         "sqlparse",
+        "tabulate",
         "whitenoise"
     ],
     "shebang": {

@@ -41,7 +41,7 @@
     },
     "pep8_infringement": 1,
     "requirements": [
-        "pamqp<2.0,>=1.6.1"
+        "pamqp>=1.6.1,<2.0"
     ],
     "shebang": {}
 }

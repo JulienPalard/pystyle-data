@@ -32,13 +32,13 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,
-        "py": 3170,
-        "rst": 140
+        "py": 3187,
+        "rst": 144
     },
-    "pep8_infringement": 418,
+    "pep8_infringement": 411,
     "requirements": [
         "appium-python-client>=0.24",
-        "selenium>=3.4.0"
+        "selenium>=3.4.1"
     ],
     "shebang": {}
 }

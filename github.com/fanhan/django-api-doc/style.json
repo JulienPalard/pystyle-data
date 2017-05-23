@@ -36,11 +36,13 @@
         "in": 3,
         "js": 96,
         "md": 203,
-        "py": 249,
+        "py": 260,
         "sh": 1,
-        "txt": 0
+        "txt": 1
     },
     "pep8_infringement": 15,
-    "requirements": [],
+    "requirements": [
+        "markdown"
+    ],
     "shebang": {}
 }

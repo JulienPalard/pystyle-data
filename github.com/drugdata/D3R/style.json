@@ -33,18 +33,18 @@
     "lines_of_code": {
         "bat": 242,
         "cfg": 3,
-        "def": 39,
+        "def": 41,
         "ent": 3210,
         "in": 11,
         "ini": 9,
         "mol": 89,
         "pdb": 3085,
-        "py": 26547,
-        "rst": 555,
+        "py": 27139,
+        "rst": 582,
         "sh": 163,
         "txt": 19
     },
-    "pep8_infringement": 2968,
+    "pep8_infringement": 3267,
     "requirements": [
         "argparse",
         "biopython==1.68",
@@ -56,7 +56,7 @@
         "xlsxwriter"
     ],
     "shebang": {
-        "#! /usr/bin/env python": 2,
-        "#!/usr/bin/env python": 36
+        "#! /usr/bin/env python": 3,
+        "#!/usr/bin/env python": 35
     }
 }

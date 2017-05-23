@@ -32,15 +32,16 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 5,
-        "md": 85,
-        "py": 295,
+        "md": 118,
+        "po": 45,
+        "py": 769,
         "sh": 93
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 89,
     "requirements": [
         "django>=1.8.18"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 2
+        "#!/usr/bin/env python": 4
     }
 }

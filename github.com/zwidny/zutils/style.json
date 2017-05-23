@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -21,17 +21,26 @@
         "Makefile": false,
         "README": false,
         "README.md": false,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
-        "setup.py": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": null,
-    "lines_of_code": {},
-    "pep8_infringement": 0,
-    "requirements": [],
+    "lines_of_code": {
+        "cfg": 0,
+        "html": 43,
+        "js": 250,
+        "py": 317,
+        "rst": 9,
+        "txt": 1
+    },
+    "pep8_infringement": 15,
+    "requirements": [
+        "django"
+    ],
     "shebang": {}
 }

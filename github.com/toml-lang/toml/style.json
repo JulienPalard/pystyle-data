@@ -32,7 +32,7 @@
     "license": "MIT",
     "lines_of_code": {
         "abnf": 219,
-        "md": 6071,
+        "md": 6073,
         "toml": 555,
         "yaml": 58
     },

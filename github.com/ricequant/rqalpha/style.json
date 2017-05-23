@@ -61,8 +61,8 @@
         "pytz>=2016.4",
         "ruamel.yaml>=0.13.14",
         "simplejson>=3.10.0",
-        "six>=1.10.0",
         "six",
+        "six>=1.10.0",
         "tabulate",
         "xlsxwriter>=0.9.6"
     ],

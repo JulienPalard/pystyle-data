@@ -36,11 +36,11 @@
         "in": 5,
         "ini": 25,
         "ps1": 12,
-        "py": 2108,
+        "py": 2430,
         "rst": 152,
         "txt": 23
     },
-    "pep8_infringement": 75,
+    "pep8_infringement": 79,
     "requirements": [
         "future",
         "requests>=2.9.1"

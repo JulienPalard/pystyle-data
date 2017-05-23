@@ -43,7 +43,7 @@
         "boto3>=1.4.4",
         "iampoliciesgonewild>=1.0.6.2",
         "netaddr>=0.7.11",
-        "requests<3.0.0,>=2.4.0"
+        "requests>=2.4.0,<3.0.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

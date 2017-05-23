@@ -35,12 +35,14 @@
         "cfg": 18,
         "in": 14,
         "ini": 22,
-        "json": 289,
-        "md": 263,
-        "py": 5080,
-        "rst": 411
+        "json": 294,
+        "md": 266,
+        "py": 5178,
+        "rst": 411,
+        "svg": 1,
+        "vtt": 34
     },
-    "pep8_infringement": 996,
+    "pep8_infringement": 1022,
     "requirements": [
         "beautifulsoup4==4.5.1",
         "cachecontrol==0.12.0",
@@ -48,7 +50,7 @@
         "css-html-js-minify==2.2.2",
         "docopt>=0.6.2",
         "html5lib",
-        "le-utils==0.0.9rc18",
+        "le-utils==0.0.9rc24",
         "lockfile==0.12.2",
         "pillow>=3.3.1",
         "pressurecooker==0.0.11",

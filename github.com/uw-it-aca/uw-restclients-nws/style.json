@@ -42,7 +42,7 @@
     "requirements": [
         "mock",
         "python-dateutil",
-        "uw-restclients-core<1.0,>0.8"
+        "uw-restclients-core>0.8,<1.0"
     ],
     "shebang": {}
 }

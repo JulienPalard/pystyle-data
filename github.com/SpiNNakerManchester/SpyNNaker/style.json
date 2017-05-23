@@ -56,7 +56,7 @@
         "pynn<0.8,>=0.7",
         "scipy",
         "six",
-        "spinnfrontendcommon<4.0.0,>=3.0.0"
+        "spinnfrontendcommon>=3.0.0,<4.0.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 17,

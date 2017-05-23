@@ -32,13 +32,13 @@
     "license": "MIT",
     "lines_of_code": {
         "json": 16,
-        "py": 4612,
-        "rst": 27,
+        "py": 4545,
+        "rst": 26,
         "sh": 26,
         "txt": 12,
         "yaml": 19
     },
-    "pep8_infringement": 154,
+    "pep8_infringement": 144,
     "requirements": [
         "botstory==0.0.63",
         "emoji==0.4.5",

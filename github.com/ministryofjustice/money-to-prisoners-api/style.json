@@ -49,7 +49,7 @@
     "requirements": [
         "Unknown (git+git://github.com/ministryofjustice/django-moj-irat.git)",
         "crontab==0.21.3",
-        "django<1.11,>=1.10",
+        "django>=1.10,<1.11",
         "django-extended-choices==1.0.7",
         "django-filter==1.0.1",
         "django-jenkins==0.18.1",
@@ -61,13 +61,13 @@
         "drf-nested-routers==0.11.1",
         "faker<0.8,>=0.7",
         "model-mommy==1.2.6",
-        "money-to-prisoners-common>=5.5,<5.6",
+        "money-to-prisoners-common<5.6,>=5.5",
         "psycopg2<2.7,>=2.6",
         "pytz>=2016.7",
         "requests>=2.12,<3",
         "transifex-client>=0.12",
         "uwsgi==2.0.12",
-        "xlrd<2,>=1.0.0"
+        "xlrd>=1.0.0,<2"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2

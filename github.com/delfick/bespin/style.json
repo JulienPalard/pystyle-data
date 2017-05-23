@@ -35,12 +35,12 @@
         "css": 51,
         "html": 6,
         "ini": 8,
-        "py": 7967,
-        "rst": 2053,
-        "sh": 84,
+        "py": 8257,
+        "rst": 2478,
+        "sh": 87,
         "txt": 6
     },
-    "pep8_infringement": 2373,
+    "pep8_infringement": 2462,
     "requirements": [
         "argparse",
         "boto==2.40.0",

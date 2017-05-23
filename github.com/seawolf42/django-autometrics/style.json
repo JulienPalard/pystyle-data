@@ -40,7 +40,7 @@
     "pep8_infringement": 0,
     "requirements": [
         "djangae==0.9.8",
-        "django>=1.8,<1.9"
+        "django<1.9,>=1.8"
     ],
     "shebang": {}
 }

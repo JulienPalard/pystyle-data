@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bib": 471,
+        "cfg": 2,
+        "csl": 342,
+        "in": 1,
+        "ini": 2,
+        "kv": 583,
+        "md": 1590,
+        "py": 1372,
+        "spec": 145,
+        "sty": 1462,
+        "svg": 12,
+        "tex": 631,
+        "txt": 21,
+        "yaml": 30
+    },
+    "pep8_infringement": 94,
+    "requirements": [
+        "coloredlogs",
+        "cython",
+        "kivy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+    ],
+    "shebang": {}
+}

@@ -45,12 +45,14 @@
         "ini": 64,
         "ipynb": 2337,
         "js": 6,
+        "json": 31,
         "md": 27,
-        "py": 4079,
+        "py": 4692,
         "sublime-project": 176,
-        "user": 9
+        "user": 9,
+        "yaml": 23
     },
-    "pep8_infringement": 360,
+    "pep8_infringement": 420,
     "requirements": [
         "matplotlib",
         "numpy",
@@ -58,6 +60,7 @@
         "progressbar2",
         "pyserial",
         "pyusb",
+        "pyyaml",
         "requests",
         "scipy",
         "seaborn",

@@ -36,18 +36,18 @@
         "j2": 10,
         "js": 96,
         "md": 5,
-        "ps1": 21,
-        "py": 2717,
+        "ps1": 44,
+        "py": 2852,
         "repo": 37,
-        "sh": 3893,
+        "sh": 3914,
         "te": 21,
         "txt": 201,
-        "yaml": 625,
+        "yaml": 626,
         "yml": 417
     },
-    "pep8_infringement": 415,
+    "pep8_infringement": 381,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 4
+        "#!/usr/bin/env python": 5
     }
 }

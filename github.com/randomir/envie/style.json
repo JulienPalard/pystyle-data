@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 1,
-        "inc": 82,
-        "py": 456,
-        "rst": 684,
-        "sh": 1804,
+        "inc": 94,
+        "py": 454,
+        "rst": 830,
+        "sh": 1819,
         "txt": 2
     },
     "pep8_infringement": 24,

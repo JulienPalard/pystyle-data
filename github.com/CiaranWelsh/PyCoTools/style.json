@@ -35,14 +35,14 @@
         "cps": 13186,
         "html": 51920,
         "ipynb": 7200,
-        "log": 358,
+        "log": 223637,
         "md": 225,
         "pickle": 40844,
-        "py": 46649,
-        "txt": 2804,
+        "py": 47607,
+        "txt": 2805,
         "xml": 1601
     },
-    "pep8_infringement": 17345,
+    "pep8_infringement": 18036,
     "requirements": [
         "argparse",
         "lxml",

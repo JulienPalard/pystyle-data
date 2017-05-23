@@ -32,23 +32,24 @@
     "license": "MIT",
     "lines_of_code": {
         "ini": 56,
-        "md": 104,
-        "py": 440,
+        "log": 0,
+        "md": 105,
+        "py": 437,
         "sh": 7,
         "txt": 26
     },
-    "pep8_infringement": 101,
+    "pep8_infringement": 94,
     "requirements": [
-        "aiofiles>=0.3.1",
-        "appdirs>=1.4.3",
-        "httptools>=0.0.9",
-        "packaging>=16.8",
-        "pika>=0.10.0",
-        "sanic>=0.5.1",
-        "six>=1.10.0",
-        "ujson>=1.35",
-        "uvloop>=0.8.0",
-        "websockets>=3.3"
+        "aiofiles==0.3.1",
+        "appdirs==1.4.3",
+        "httptools==0.0.9",
+        "packaging==16.8",
+        "pika==0.10.0",
+        "sanic==0.5.4",
+        "six==1.10.0",
+        "ujson==1.35",
+        "uvloop==0.8.0",
+        "websockets==3.3"
     ],
     "shebang": {}
 }

@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -17,32 +17,32 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": true,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": true,
-        "setup.py": true,
+        "setup.cfg": false,
+        "setup.py": false,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 6,
-        "in": 2,
-        "md": 61,
-        "py": 2198,
-        "rst": 119
+        "cfg": 11,
+        "in": 3,
+        "md": 114,
+        "py": 2320,
+        "rst": 576,
+        "third_party": 833,
+        "txt": 9
     },
     "pep8_infringement": 168,
-    "requirements": [
-        "googleapis-common-protos==1.5.2",
-        "grpcio==1.2.1"
-    ],
+    "requirements": [],
     "shebang": {
+        "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 1
     }
 }

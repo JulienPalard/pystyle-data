@@ -33,10 +33,10 @@
     "lines_of_code": {
         "in": 5,
         "json": 18,
-        "py": 249,
-        "rst": 42
+        "py": 228,
+        "rst": 43
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 1,
     "requirements": [
         "elasticsearch",
         "lz4",

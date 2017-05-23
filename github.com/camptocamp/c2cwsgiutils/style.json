@@ -33,20 +33,21 @@
     "lines_of_code": {
         "asc": 75,
         "cfg": 3,
-        "dot": 36,
-        "html": 210,
-        "iml": 38,
+        "dot": 41,
+        "html": 239,
+        "iml": 40,
         "ini": 62,
-        "md": 282,
-        "py": 1639,
+        "md": 290,
+        "py": 1747,
         "svg": 57,
-        "txt": 48,
-        "yml": 40
+        "txt": 49,
+        "yml": 42
     },
-    "pep8_infringement": 157,
+    "pep8_infringement": 168,
     "requirements": [
         "cee-syslog-handler==0.3.4",
         "cornice==2.4.0",
+        "coverage==4.3.4",
         "flake8==3.3.0",
         "gunicorn==19.7.1",
         "junit2html",
@@ -63,6 +64,6 @@
         "zope.sqlalchemy==0.7.7"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python3": 3
     }
 }

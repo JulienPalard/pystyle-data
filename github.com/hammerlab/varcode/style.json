@@ -47,7 +47,7 @@
     "requirements": [
         "biopython>=1.64",
         "memoized-property>=1.0.2",
-        "numpy<2.0,>=1.7",
+        "numpy>=1.7,<2.0",
         "pandas>=0.15",
         "pyensembl>=1.0.3",
         "pyvcf>=0.6.7",

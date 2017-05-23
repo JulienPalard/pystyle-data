@@ -37,26 +37,25 @@
         "in": 1,
         "ini": 0,
         "md": 540,
-        "py": 32897,
+        "py": 34578,
         "rst": 59,
         "xml": 24
     },
-    "pep8_infringement": 1234,
+    "pep8_infringement": 1241,
     "requirements": [
         "base58",
         "ioflo==1.5.4",
         "jsonpickle",
-        "ledger-dev==0.2.4",
+        "ledger-dev==0.2.26",
         "orderedset",
         "pip",
-        "portalocker==0.5.7",
         "prompt-toolkit==0.57",
         "psutil",
         "pygments",
-        "pyorient",
         "semver",
         "sortedcontainers==1.5.7",
-        "stp-dev==0.1.43"
+        "state-trie==0.1.14",
+        "stp-dev==0.1.48"
     ],
     "shebang": {
         "#! /usr/bin/env python3": 3,

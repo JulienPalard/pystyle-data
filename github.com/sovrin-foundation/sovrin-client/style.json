@@ -31,23 +31,23 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "dockerfile": 37,
+        "dockerfile": 36,
         "in": 3,
         "key": 13,
         "lock": 112,
         "log": 0,
-        "md": 990,
-        "py": 13998,
+        "md": 1000,
+        "py": 15713,
         "rs": 749,
         "sh": 110,
-        "sovrin": 74,
+        "sovrin": 100,
         "toml": 17,
         "txt": 1
     },
-    "pep8_infringement": 547,
+    "pep8_infringement": 648,
     "requirements": [
         "anoncreds-dev==0.3.8",
-        "sovrin-common-dev==0.2.51"
+        "sovrin-common-dev==0.2.63"
     ],
     "shebang": {
         "# #! /usr/bin/env python3": 1,

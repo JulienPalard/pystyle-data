@@ -34,11 +34,11 @@
         "cfg": 16,
         "in": 3,
         "ini": 12,
-        "py": 24328,
-        "rst": 1115,
+        "py": 31434,
+        "rst": 1141,
         "txt": 98
     },
-    "pep8_infringement": 1583,
+    "pep8_infringement": 2002,
     "requirements": [
         "certifi",
         "configparser==3.5.0",

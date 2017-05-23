@@ -36,10 +36,10 @@
         "in": 2,
         "json": 5,
         "md": 22,
-        "py": 1571,
+        "py": 1667,
         "sh": 16
     },
-    "pep8_infringement": 17,
+    "pep8_infringement": 13,
     "requirements": [
         "commonconf>=0.6",
         "urllib3"

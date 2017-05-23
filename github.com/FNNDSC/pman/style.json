@@ -33,11 +33,11 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 2,
-        "py": 8159,
+        "py": 8325,
         "rst": 178,
         "sh": 40
     },
-    "pep8_infringement": 4053,
+    "pep8_infringement": 4137,
     "requirements": [
         "psutil",
         "pudb",

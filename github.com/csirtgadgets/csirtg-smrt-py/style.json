@@ -53,7 +53,7 @@
         "docker==2.2.1",
         "feedparser>=5.2.1",
         "ipaddress>=1.0.16",
-        "nltk<3.3,>=3.2",
+        "nltk>=3.2,<3.3",
         "pyaml>=15.8.2",
         "python-magic>=0.4.6",
         "requests>=2.6.0",

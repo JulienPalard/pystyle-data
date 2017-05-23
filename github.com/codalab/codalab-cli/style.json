@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 3,
+        "css": 51,
+        "html": 133,
+        "in": 1,
+        "ini": 59,
+        "mako": 22,
+        "md": 855,
+        "pl": 24,
+        "py": 25802,
+        "sh": 134,
+        "tpl": 114,
+        "txt": 34,
+        "vim": 30,
+        "ws": 56,
+        "yaml": 47,
+        "yml": 35
+    },
+    "pep8_infringement": 2672,
+    "requirements": [
+        "argcomplete==1.1.0",
+        "psutil==3.3.0",
+        "pyyaml==3.11",
+        "six==1.10.0",
+        "sqlalchemy==1.0.8",
+        "watchdog==0.8.3"
+    ],
+    "shebang": {
+        "#!./venv/bin/python": 5,
+        "#!/usr/bin/env python": 5,
+        "#!/usr/bin/env python2.7": 1,
+        "#!/usr/bin/python": 1
+    }
+}

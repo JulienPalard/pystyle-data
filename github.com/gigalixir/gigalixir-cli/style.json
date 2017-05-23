@@ -33,11 +33,11 @@
     "lines_of_code": {
         "cfg": 2,
         "ini": 2,
-        "md": 30,
-        "py": 1809,
-        "rst": 939
+        "md": 38,
+        "py": 2093,
+        "rst": 1061
     },
-    "pep8_infringement": 424,
+    "pep8_infringement": 465,
     "requirements": [
         "click~=6.7",
         "requests~=2.13.0",

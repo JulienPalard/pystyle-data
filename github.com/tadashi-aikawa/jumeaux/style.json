@@ -32,13 +32,13 @@
     "license": "MIT",
     "lines_of_code": {
         "csv": 5,
-        "py": 2650,
-        "rst": 275,
+        "py": 2775,
+        "rst": 277,
         "sh": 8,
         "txt": 9,
-        "yaml": 64
+        "yaml": 69
     },
-    "pep8_infringement": 113,
+    "pep8_infringement": 126,
     "requirements": [
         "boto3",
         "deepdiff",
