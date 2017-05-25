@@ -31,25 +31,35 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 56,
-        "log": 0,
+        "ini": 43,
         "md": 105,
-        "py": 437,
-        "sh": 7,
-        "txt": 26
+        "py": 340,
+        "txt": 20
     },
-    "pep8_infringement": 94,
+    "pep8_infringement": 119,
     "requirements": [
         "aiofiles==0.3.1",
+        "amqp==2.1.4",
         "appdirs==1.4.3",
+        "billiard==3.5.0.2",
+        "celery==4.0.2",
+        "enum-compat==0.0.2",
+        "eventlet==0.21.0",
+        "greenlet==0.4.12",
         "httptools==0.0.9",
+        "kombu==4.0.2",
         "packaging==16.8",
-        "pika==0.10.0",
+        "pyparsing==2.2.0",
+        "pytz==2017.2",
+        "redis==2.10.5",
         "sanic==0.5.4",
         "six==1.10.0",
         "ujson==1.35",
         "uvloop==0.8.0",
+        "vine==1.1.3",
         "websockets==3.3"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

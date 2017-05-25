@@ -34,10 +34,10 @@
         "cfg": 2,
         "ini": 2,
         "md": 38,
-        "py": 2093,
-        "rst": 1061
+        "py": 2130,
+        "rst": 1074
     },
-    "pep8_infringement": 465,
+    "pep8_infringement": 470,
     "requirements": [
         "click~=6.7",
         "requests~=2.13.0",

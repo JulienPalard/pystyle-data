@@ -32,11 +32,11 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 1,
-        "py": 1757,
-        "rst": 700,
+        "py": 1855,
+        "rst": 777,
         "txt": 2
     },
-    "pep8_infringement": 250,
+    "pep8_infringement": 277,
     "requirements": [
         "requests>=2.2.1",
         "xmltodict"

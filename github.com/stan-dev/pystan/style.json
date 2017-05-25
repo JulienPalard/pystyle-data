@@ -49,7 +49,7 @@
     },
     "pep8_infringement": 906,
     "requirements": [
-        "cython>=0.22,!=0.25.1",
+        "cython!=0.25.1,>=0.22",
         "numpy>=1.7,<2.0"
     ],
     "shebang": {

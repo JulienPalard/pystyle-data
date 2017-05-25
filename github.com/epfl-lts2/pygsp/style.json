@@ -43,8 +43,8 @@
     "pep8_infringement": 347,
     "requirements": [
         "flake8",
-        "matplotlib==1.4.3",
         "matplotlib",
+        "matplotlib==1.4.3",
         "numpy",
         "numpydoc",
         "pyopengl",

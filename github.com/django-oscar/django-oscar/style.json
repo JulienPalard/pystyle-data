@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 23,
+        "css": 20174,
+        "csv": 227,
+        "html": 11839,
+        "in": 6,
+        "ini": 86,
+        "js": 10730,
+        "json": 1238,
+        "less": 13444,
+        "map": 2,
+        "po": 510106,
+        "py": 49172,
+        "rst": 9638,
+        "sh": 52,
+        "svg": 687,
+        "txt": 152,
+        "yml": 20
+    },
+    "pep8_infringement": 1103,
+    "requirements": [
+        "babel<3.0,>=1.0",
+        "django>=1.8.8,<1.12",
+        "django-extra-views>=0.2,<0.6.5",
+        "django-haystack>=2.5.0,<2.6.0",
+        "django-phonenumber-field<2.0.0,>=1.0.0",
+        "django-tables2<2.0,>=1.2",
+        "django-treebeard>=4.1.0",
+        "django-widget-tweaks>=1.4.1",
+        "factory-boy<3.0,>=2.4.1",
+        "mock<3.0,>=1.0.1",
+        "pillow>=3.4.2",
+        "purl>=0.7",
+        "sorl-thumbnail>=12.4a1",
+        "unidecode<0.05,>=0.04.12"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

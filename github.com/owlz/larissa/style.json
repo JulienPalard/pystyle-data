@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -32,12 +32,15 @@
     "license": null,
     "lines_of_code": {
         "in": 5,
-        "md": 19,
-        "py": 308
+        "md": 34,
+        "py": 2007,
+        "txt": 5
     },
-    "pep8_infringement": 48,
+    "pep8_infringement": 950,
     "requirements": [
         "pyelftools"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

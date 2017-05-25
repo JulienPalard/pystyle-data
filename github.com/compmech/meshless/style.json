@@ -35,11 +35,11 @@
         "csv": 32,
         "dat": 520,
         "md": 18,
-        "py": 10890,
+        "py": 11417,
         "rst": 180,
-        "txt": 1108
+        "txt": 1420
     },
-    "pep8_infringement": 3494,
+    "pep8_infringement": 3891,
     "requirements": [
         "coveralls",
         "numpy",

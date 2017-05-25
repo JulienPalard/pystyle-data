@@ -31,13 +31,15 @@
     },
     "license": null,
     "lines_of_code": {
-        "md": 2,
-        "py": 543
+        "md": 3,
+        "py": 602
     },
-    "pep8_infringement": 44,
+    "pep8_infringement": 50,
     "requirements": [
         "gymail",
-        "pymongo"
+        "pillow",
+        "pymongo",
+        "requests"
     ],
     "shebang": {}
 }

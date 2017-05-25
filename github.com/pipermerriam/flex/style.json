@@ -32,14 +32,14 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 7,
-        "ini": 112,
+        "ini": 133,
         "md": 59,
-        "py": 19885,
-        "rst": 373,
+        "py": 20092,
+        "rst": 375,
         "txt": 17,
         "yaml": 827
     },
-    "pep8_infringement": 374,
+    "pep8_infringement": 382,
     "requirements": [
         "click>=3.3",
         "iso8601>=0.1.10",

@@ -41,13 +41,13 @@
         "ini": 3,
         "json": 268,
         "md": 51,
-        "py": 21194,
-        "rst": 1205,
+        "py": 21700,
+        "rst": 1222,
         "sh": 14,
         "txt": 11,
-        "yaml": 775
+        "yaml": 888
     },
-    "pep8_infringement": 845,
+    "pep8_infringement": 861,
     "requirements": [
         "boto>=2.38.0",
         "click",

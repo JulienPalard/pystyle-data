@@ -36,7 +36,7 @@
         "py": 310,
         "sh": 8
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 14,
     "requirements": [
         "jsonpickle",
         "requests",

@@ -31,12 +31,12 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "py": 277,
+        "py": 301,
         "rst": 135,
         "sh": 18,
         "txt": 13
     },
-    "pep8_infringement": 19,
+    "pep8_infringement": 16,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 1

@@ -32,10 +32,10 @@
     "license": null,
     "lines_of_code": {
         "m": 23,
-        "md": 4088,
-        "py": 6395
+        "md": 4089,
+        "py": 6410
     },
-    "pep8_infringement": 1140,
+    "pep8_infringement": 1142,
     "requirements": [
         "h5py==2.7.0",
         "keras==1.2.2",

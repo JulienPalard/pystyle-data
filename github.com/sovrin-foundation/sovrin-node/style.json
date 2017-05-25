@@ -37,16 +37,16 @@
         "in": 2,
         "list": 200,
         "md": 324,
-        "py": 5109,
+        "py": 5110,
         "service": 17,
         "sh": 121,
         "sql": 6,
         "txt": 1
     },
-    "pep8_infringement": 183,
+    "pep8_infringement": 181,
     "requirements": [
         "python-dateutil",
-        "sovrin-common-dev==0.2.63"
+        "sovrin-common-dev==0.2.66"
     ],
     "shebang": {
         "#! /usr/bin/env python3": 3,

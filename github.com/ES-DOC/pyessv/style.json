@@ -20,7 +20,7 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
@@ -33,15 +33,14 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 5,
-        "ipynb": 869,
+        "ipynb": 2106,
         "json": 32,
-        "md": 2,
-        "py": 4580,
+        "py": 4739,
         "rst": 34,
         "sh": 92,
         "txt": 54
     },
-    "pep8_infringement": 305,
+    "pep8_infringement": 274,
     "requirements": [
         "arrow",
         "feedparser",

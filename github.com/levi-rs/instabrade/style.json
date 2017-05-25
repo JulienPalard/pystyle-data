@@ -33,14 +33,15 @@
     "lines_of_code": {
         "cfg": 52,
         "ini": 19,
-        "py": 703,
+        "py": 814,
         "rst": 115,
-        "txt": 3
+        "txt": 4
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 29,
     "requirements": [
         "explicit>=0.0.8",
         "pbr>=2.0",
+        "selenium",
         "six"
     ],
     "shebang": {}

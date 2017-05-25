@@ -33,14 +33,14 @@
     "lines_of_code": {
         "diff": 27,
         "md": 67,
-        "py": 30365,
+        "py": 30426,
         "rst": 99,
         "sh": 64,
         "test": 45,
         "txt": 521,
         "xml": 13
     },
-    "pep8_infringement": 4493,
+    "pep8_infringement": 4486,
     "requirements": [],
     "shebang": {
         "#! /usr/bin/env python3": 9,

@@ -32,18 +32,16 @@
     "license": "MIT",
     "lines_of_code": {
         "md": 13,
-        "py": 410,
-        "sh": 3,
+        "py": 407,
         "txt": 21
     },
     "pep8_infringement": 21,
     "requirements": [
         "funcy",
-        "grequests",
         "pymongo",
         "python-dateutil",
         "requests",
-        "steem==0.18.1",
+        "steem",
         "werkzeug"
     ],
     "shebang": {}

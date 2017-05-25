@@ -35,12 +35,12 @@
         "html": 23,
         "ini": 457,
         "jinja2": 1,
-        "py": 20149,
-        "rst": 467,
+        "py": 20554,
+        "rst": 468,
         "txt": 2,
         "yml": 89
     },
-    "pep8_infringement": 858,
+    "pep8_infringement": 857,
     "requirements": [
         "msgpack-python",
         "wrapt"

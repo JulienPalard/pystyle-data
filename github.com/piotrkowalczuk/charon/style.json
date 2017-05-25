@@ -32,17 +32,17 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
-        "go": 24384,
+        "go": 24867,
         "in": 2,
         "lock": 182,
         "md": 64,
         "proto": 325,
-        "py": 23,
+        "py": 3985,
         "sh": 115,
         "sql": 86,
         "yaml": 74
     },
-    "pep8_infringement": 3,
+    "pep8_infringement": 976,
     "requirements": [
         "grpcio",
         "protobuf"

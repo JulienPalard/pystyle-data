@@ -32,9 +32,9 @@
     "license": null,
     "lines_of_code": {
         "ipynb": 526,
-        "md": 9,
+        "md": 15,
         "model": 57801,
-        "py": 916,
+        "py": 921,
         "txt": 15603
     },
     "pep8_infringement": 374,

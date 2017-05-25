@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": true,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
@@ -33,12 +33,14 @@
     "lines_of_code": {
         "bat": 281,
         "cfg": 2,
-        "py": 4343,
-        "rst": 203,
-        "txt": 24
+        "in": 1,
+        "py": 4315,
+        "rst": 215,
+        "txt": 25
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 177,
     "requirements": [
+        "attrs",
         "future",
         "requests"
     ],

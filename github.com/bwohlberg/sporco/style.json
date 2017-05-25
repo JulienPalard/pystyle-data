@@ -31,18 +31,18 @@
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
-        "bib": 312,
+        "bib": 324,
         "cfg": 2,
         "css": 174,
         "html": 16,
         "in": 17,
         "ini": 3,
         "ipynb": 3464,
-        "py": 18061,
-        "rst": 2305,
+        "py": 19432,
+        "rst": 2348,
         "txt": 15
     },
-    "pep8_infringement": 3102,
+    "pep8_infringement": 3325,
     "requirements": [
         "future",
         "matplotlib>=1.3.1",
@@ -56,6 +56,6 @@
         "sphinxcontrib-bibtex"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 43
+        "#!/usr/bin/env python": 44
     }
 }

@@ -38,14 +38,14 @@
         "ini": 18,
         "ipynb": 138,
         "md": 24,
-        "py": 17946,
-        "rst": 2741,
+        "py": 18028,
+        "rst": 2788,
         "sh": 222,
         "txt": 205,
         "xml": 301,
         "yml": 15
     },
-    "pep8_infringement": 14042,
+    "pep8_infringement": 14055,
     "requirements": [
         "aiofiles==0.3.1",
         "aiohttp==2.0.7",

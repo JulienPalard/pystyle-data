@@ -39,7 +39,7 @@
     },
     "pep8_infringement": 67,
     "requirements": [
-        "plenum-dev==0.3.99"
+        "plenum-dev==0.3.105"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

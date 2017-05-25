@@ -57,7 +57,7 @@
         "cocaine<0.13,>=0.12.6.0",
         "msgpack-python",
         "pyyaml",
-        "tornado<5.0,>=4.3"
+        "tornado>=4.3,<5.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 5

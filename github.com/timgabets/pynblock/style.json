@@ -33,9 +33,9 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 2,
-        "py": 262
+        "py": 426
     },
-    "pep8_infringement": 63,
+    "pep8_infringement": 79,
     "requirements": [
         "pycrypto"
     ],

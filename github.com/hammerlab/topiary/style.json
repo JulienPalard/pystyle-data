@@ -33,7 +33,7 @@
     "lines_of_code": {
         "fpkm_tracking": 25,
         "gtf": 8,
-        "md": 130,
+        "md": 138,
         "py": 2770,
         "sh": 9,
         "txt": 8
@@ -42,7 +42,7 @@
     "requirements": [
         "gtfparse>=0.0.4",
         "mhcnames",
-        "mhctools>=1.0.0",
+        "mhctools>=1.3.0",
         "nose>=1.3.6",
         "numpy>=1.7,<2.0",
         "pandas>=0.13.1",

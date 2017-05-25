@@ -35,12 +35,12 @@
         "cfg": 5,
         "in": 11,
         "ini": 8,
-        "py": 3918,
+        "py": 3928,
         "rst": 366,
         "txt": 410,
         "yml": 25
     },
-    "pep8_infringement": 9,
+    "pep8_infringement": 11,
     "requirements": [
         "mbstrdecoder>=0.2.2",
         "path.py",

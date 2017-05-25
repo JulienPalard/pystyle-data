@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 15,
         "dot": 39,
-        "ini": 27,
-        "py": 2881,
-        "rst": 452,
+        "ini": 26,
+        "py": 3065,
+        "rst": 478,
         "sublime-project": 28
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 114,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1

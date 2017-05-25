@@ -49,7 +49,7 @@
         "contextlib2",
         "crcmod>=1,<2",
         "futures",
-        "opentracing<2,>=1.1",
+        "opentracing>=1.1,<2",
         "opentracing-instrumentation>=2,<3",
         "threadloop>=1,<2",
         "thriftrw>=0.4,<2",

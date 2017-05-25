@@ -32,9 +32,9 @@
     "license": "MIT",
     "lines_of_code": {
         "md": 165,
-        "py": 202483
+        "py": 202496
     },
-    "pep8_infringement": 9717,
+    "pep8_infringement": 9720,
     "requirements": [
         "click",
         "netifaces",

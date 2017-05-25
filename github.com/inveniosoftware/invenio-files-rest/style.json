@@ -37,7 +37,7 @@
         "ini": 66,
         "po": 700,
         "pot": 116,
-        "py": 9507,
+        "py": 9674,
         "rst": 609,
         "sh": 77,
         "txt": 29
@@ -48,7 +48,7 @@
         "flask-celeryext>=0.2.2",
         "flask-login>=0.3.2",
         "flask-wtf>=0.13.1",
-        "fs>=0.5.4,<2.0",
+        "fs<2.0,>=0.5.4",
         "invenio-rest>=1.0.0a10",
         "sqlalchemy-utils>=0.31.0",
         "webargs>=1.1.1",

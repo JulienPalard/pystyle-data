@@ -43,10 +43,10 @@
     },
     "pep8_infringement": 80,
     "requirements": [
-        "docopt<1.0,>=0.3",
+        "docopt>=0.3,<1.0",
         "jsonpickle>=0.7.2,<1.0",
-        "munch>=2.0.2,<3.0",
-        "wrapt>=1.0,<2.0"
+        "munch<3.0,>=2.0.2",
+        "wrapt<2.0,>=1.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 87

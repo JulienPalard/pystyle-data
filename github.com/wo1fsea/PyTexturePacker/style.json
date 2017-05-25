@@ -33,11 +33,11 @@
     "lines_of_code": {
         "bat": 242,
         "cfg": 2,
-        "py": 1753,
+        "py": 1866,
         "rst": 305,
         "txt": 21
     },
-    "pep8_infringement": 131,
+    "pep8_infringement": 138,
     "requirements": [
         "pillow"
     ],

@@ -31,15 +31,15 @@
     },
     "license": null,
     "lines_of_code": {
-        "ipynb": 409,
-        "md": 33,
-        "py": 671,
+        "ipynb": 1353,
+        "md": 39,
+        "py": 754,
         "txt": 98638
     },
-    "pep8_infringement": 235,
+    "pep8_infringement": 273,
     "requirements": [
-        "numpy",
-        "psutil"
+        "numpy>=1.12.1",
+        "psutil>=5.0.1"
     ],
     "shebang": {}
 }

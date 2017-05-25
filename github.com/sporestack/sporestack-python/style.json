@@ -32,11 +32,12 @@
     "license": "Unlicense",
     "lines_of_code": {
         "cfg": 2,
-        "md": 68,
-        "py": 1002,
+        "md": 72,
+        "py": 991,
+        "sh": 18,
         "txt": 26
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 13,
     "requirements": [
         "pyqrcode",
         "pyyaml"

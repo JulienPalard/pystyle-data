@@ -35,12 +35,12 @@
         "in": 2,
         "ini": 22,
         "ipynb": 112,
-        "md": 4759,
-        "py": 12385,
+        "md": 4798,
+        "py": 12536,
         "txt": 4,
         "yml": 53
     },
-    "pep8_infringement": 1052,
+    "pep8_infringement": 1095,
     "requirements": [
         "numpy",
         "pillow",

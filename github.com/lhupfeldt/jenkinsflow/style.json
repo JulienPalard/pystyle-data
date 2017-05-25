@@ -22,28 +22,29 @@
         "README": false,
         "README.md": false,
         "README.rst": false,
-        "pytest.ini": false,
+        "pytest.ini": true,
         "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": null,
     "lines_of_code": {
         "TXT": 10,
         "css": 31,
         "html": 30,
+        "ini": 29,
         "js": 56,
         "json": 231,
         "md": 163,
-        "py": 9395,
+        "py": 9430,
         "rst": 108,
         "sh": 18,
         "tenjin": 270,
-        "txt": 12
+        "txt": 18
     },
-    "pep8_infringement": 1572,
+    "pep8_infringement": 1577,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 8

@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 8,
+        "c": 9755,
+        "cfg": 7,
+        "css": 1666,
+        "html": 803,
+        "in": 7,
+        "ipynb": 6248,
+        "js": 800,
+        "md": 20,
+        "py": 8388,
+        "pyx": 482,
+        "txt": 22,
+        "yaml": 59,
+        "yml": 107
+    },
+    "pep8_infringement": 3010,
+    "requirements": [
+        "vpnotebook",
+        "vpython"
+    ],
+    "shebang": {
+        "#!python": 1
+    }
+}

@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 2,
-        "py": 337,
-        "rst": 109
+        "py": 353,
+        "rst": 119
     },
-    "pep8_infringement": 141,
+    "pep8_infringement": 148,
     "requirements": [
         "boto3"
     ],

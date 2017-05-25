@@ -39,16 +39,16 @@
         "html": 1779,
         "in": 36,
         "ini": 15,
-        "json": 747,
+        "json": 806,
         "passwd": 1,
-        "py": 14243,
-        "rst": 950,
+        "py": 14437,
+        "rst": 973,
         "sh": 73,
-        "xml": 2155,
+        "xml": 2190,
         "yaml": 489,
-        "yml": 107
+        "yml": 100
     },
-    "pep8_infringement": 582,
+    "pep8_infringement": 624,
     "requirements": [
         "autosemver~=0.2",
         "celery>=3.1.23",

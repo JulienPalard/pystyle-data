@@ -32,21 +32,22 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "bat": 242,
-        "cfg": 70,
-        "filter": 22,
+        "cfg": 72,
+        "filter": 30,
         "in": 7,
-        "ini": 64,
-        "log": 23,
+        "ini": 65,
+        "log": 33,
         "pattern": 3,
-        "py": 5464,
-        "rst": 1605,
+        "py": 5952,
+        "rst": 1675,
         "sh": 24,
-        "txt": 41,
+        "txt": 47,
         "yaml": 35
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 24,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 3
+        "#!../../env/bin/python": 1,
+        "#!/usr/bin/env python": 2
     }
 }

@@ -31,11 +31,11 @@
     },
     "license": null,
     "lines_of_code": {
-        "R": 99,
+        "R": 98,
         "cfg": 2,
         "idx": 596744,
-        "md": 59,
-        "py": 489,
+        "md": 61,
+        "py": 493,
         "txt": 1
     },
     "pep8_infringement": 2,

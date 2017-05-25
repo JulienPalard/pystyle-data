@@ -35,13 +35,13 @@
         "bk": 1,
         "in": 4,
         "ini": 17,
-        "ipynb": 5516,
-        "py": 15670,
-        "rst": 15,
+        "ipynb": 3776,
+        "py": 16030,
+        "rst": 18,
         "txt": 9,
-        "ui": 324
+        "ui": 329
     },
-    "pep8_infringement": 4968,
+    "pep8_infringement": 683,
     "requirements": [
         "beautifulsoup4",
         "cchardet",

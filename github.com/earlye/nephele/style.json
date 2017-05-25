@@ -35,11 +35,11 @@
         "dat": 1,
         "in": 5,
         "ini": 33,
-        "py": 1763,
-        "rst": 210,
+        "py": 1860,
+        "rst": 233,
         "txt": 19
     },
-    "pep8_infringement": 1041,
+    "pep8_infringement": 1094,
     "requirements": [],
     "shebang": {
         "#!/usr/local/bin/python": 1

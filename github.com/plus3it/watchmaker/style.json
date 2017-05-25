@@ -36,18 +36,18 @@
         "in": 20,
         "ini": 63,
         "json": 460,
-        "md": 1028,
+        "md": 1069,
         "ps1": 146,
-        "py": 2845,
+        "py": 2820,
         "rst": 1,
         "template": 4162,
-        "txt": 22,
+        "txt": 21,
         "yaml": 50,
         "yml": 89
     },
     "pep8_infringement": 1,
     "requirements": [
-        "argparse",
+        "click",
         "futures",
         "pyyaml",
         "six"

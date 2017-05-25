@@ -2,7 +2,7 @@
     "has_dir": {
         "doc/": false,
         "docs/": true,
-        "examples/": false,
+        "examples/": true,
         "src/": true,
         "test/": false,
         "tests/": false
@@ -32,7 +32,8 @@
     "license": null,
     "lines_of_code": {
         "cfg": 20,
-        "py": 222,
+        "md": 7,
+        "py": 225,
         "rst": 197,
         "txt": 2
     },

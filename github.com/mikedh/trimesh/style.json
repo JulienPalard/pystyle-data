@@ -41,14 +41,14 @@
         "obj": 513,
         "off": 11396,
         "ply": 1932,
-        "py": 20606,
+        "py": 21374,
         "rst": 872,
         "svg": 14048,
         "template": 299,
         "txt": 5,
         "xaml": 76
     },
-    "pep8_infringement": 457,
+    "pep8_infringement": 656,
     "requirements": [
         "networkx",
         "numpy",

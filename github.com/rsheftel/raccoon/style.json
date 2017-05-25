@@ -33,14 +33,15 @@
     "lines_of_code": {
         "bat": 262,
         "cfg": 5,
-        "ipynb": 4719,
-        "py": 3546,
-        "rst": 2851,
+        "ipynb": 6617,
+        "py": 6368,
+        "rst": 3944,
         "sh": 7
     },
-    "pep8_infringement": 523,
+    "pep8_infringement": 779,
     "requirements": [
         "blist",
+        "six",
         "tabulate"
     ],
     "shebang": {

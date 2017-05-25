@@ -35,13 +35,13 @@
         "csv": 12,
         "in": 6,
         "md": 130,
-        "py": 2477,
+        "py": 2485,
         "rst": 313,
         "sh": 11,
         "txt": 9,
         "yml": 14
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 165,
     "requirements": [
         "arrow>=0.7.0",
         "invpy-libs",

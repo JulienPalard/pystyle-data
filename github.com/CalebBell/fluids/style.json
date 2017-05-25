@@ -45,11 +45,11 @@
     },
     "pep8_infringement": 5211,
     "requirements": [
-        "numpy",
         "numpy>=1.5.0",
+        "numpy",
         "numpydoc",
-        "scipy>=0.9.0",
-        "scipy"
+        "scipy",
+        "scipy>=0.9.0"
     ],
     "shebang": {}
 }

@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -29,29 +29,30 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": "Apache-2.0",
     "lines_of_code": {
         "css": 177,
         "html": 31,
-        "in": 5,
-        "js": 3653,
+        "in": 4,
+        "js": 3675,
         "json": 39,
-        "md": 1671,
-        "py": 2285,
+        "md": 1682,
+        "py": 2489,
+        "rst": 466,
         "svg": 7,
         "txt": 9
     },
-    "pep8_infringement": 147,
+    "pep8_infringement": 153,
     "requirements": [
-        "flask>=0.11",
-        "gevent>=1.1",
-        "numpy>=1.12",
-        "redis>=2.10",
-        "rq>=0.7",
-        "scikit-learn>=0.18",
-        "scipy>=0.18",
-        "six>=1.10",
-        "sqlalchemy>=1.1"
+        "flask>=0.11.0",
+        "gevent>=1.1.0",
+        "numpy>=1.12.0",
+        "redis>=2.10.0",
+        "rq>=0.7.0",
+        "scikit-learn>=0.18.0",
+        "scipy>=0.18.0",
+        "six>=1.10.0",
+        "sqlalchemy>=1.1.0"
     ],
     "shebang": {}
 }

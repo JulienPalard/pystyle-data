@@ -34,7 +34,7 @@
         "md": 32,
         "py": 132
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 0,
     "requirements": [
         "py-backwards"
     ],

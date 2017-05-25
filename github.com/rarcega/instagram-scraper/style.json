@@ -32,15 +32,14 @@
     "license": "Unlicense",
     "lines_of_code": {
         "cfg": 2,
-        "in": 2,
-        "json": 166,
-        "md": 124,
-        "py": 411,
-        "txt": 22
+        "in": 4,
+        "json": 443,
+        "md": 172,
+        "py": 768,
+        "txt": 24
     },
-    "pep8_infringement": 68,
+    "pep8_infringement": 95,
     "requirements": [
-        "futures==2.2.0",
         "nose",
         "requests>=1.0.4",
         "requests-mock",

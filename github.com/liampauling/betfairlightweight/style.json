@@ -2,7 +2,7 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": true
@@ -32,16 +32,17 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 4,
-        "json": 382,
+        "json": 4862,
         "md": 79,
-        "py": 8299,
-        "txt": 3,
+        "py": 7859,
+        "txt": 5,
         "yml": 29
     },
-    "pep8_infringement": 679,
+    "pep8_infringement": 782,
     "requirements": [
+        "ciso8601",
         "requests",
-        "requests"
+        "ujson"
     ],
     "shebang": {}
 }

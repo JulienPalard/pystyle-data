@@ -36,11 +36,11 @@
         "in": 2,
         "js": 62,
         "json": 2792,
-        "py": 2822,
+        "py": 2829,
         "rst": 411,
         "sh": 154,
         "txt": 60,
-        "yaml": 245,
+        "yaml": 248,
         "yml": 4129
     },
     "pep8_infringement": 59,

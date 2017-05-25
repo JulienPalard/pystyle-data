@@ -42,14 +42,14 @@
         "map": 1,
         "md": 73,
         "po": 2115,
-        "py": 29483,
+        "py": 29488,
         "rst": 3682,
-        "scss": 7652,
+        "scss": 7625,
         "sql": 380,
         "svg": 1166,
         "txt": 76
     },
-    "pep8_infringement": 2492,
+    "pep8_infringement": 2491,
     "requirements": [
         "django>=1.8",
         "django-multiupload",

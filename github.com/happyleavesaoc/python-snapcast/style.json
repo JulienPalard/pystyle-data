@@ -34,9 +34,9 @@
         "cfg": 2,
         "ini": 36,
         "md": 46,
-        "py": 1462
+        "py": 1614
     },
-    "pep8_infringement": 57,
+    "pep8_infringement": 61,
     "requirements": [
         "construct>=2.5.2"
     ],

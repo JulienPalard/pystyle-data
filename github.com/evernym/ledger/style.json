@@ -34,9 +34,9 @@
         "cfg": 2,
         "dockerfile": 52,
         "md": 6,
-        "py": 3890
+        "py": 4335
     },
-    "pep8_infringement": 163,
+    "pep8_infringement": 223,
     "requirements": [
         "ujson"
     ],

@@ -34,11 +34,11 @@
         "cfg": 2,
         "in": 4,
         "md": 56,
-        "py": 1338,
+        "py": 1437,
         "rst": 81,
         "txt": 15
     },
-    "pep8_infringement": 438,
+    "pep8_infringement": 466,
     "requirements": [
         "nltk>=3.0.0",
         "numpy>=1.11.0",

@@ -34,12 +34,12 @@
         "bat": 191,
         "in": 21,
         "ini": 23,
-        "py": 2453,
+        "py": 2480,
         "rst": 156,
         "sample": 49,
         "txt": 28
     },
-    "pep8_infringement": 74,
+    "pep8_infringement": 76,
     "requirements": [
         "aiohttp",
         "bts",

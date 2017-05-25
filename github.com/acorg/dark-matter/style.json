@@ -37,16 +37,16 @@
         "ini": 24,
         "md": 1251,
         "obs": 92266,
-        "py": 33506,
+        "py": 35200,
         "seq": 92266,
         "sh": 47,
-        "txt": 90
+        "txt": 93
     },
     "pep8_infringement": 28,
     "requirements": [
         "cffi>=1.0.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 46
+        "#!/usr/bin/env python": 49
     }
 }

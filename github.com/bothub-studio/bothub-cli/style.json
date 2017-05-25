@@ -34,12 +34,13 @@
         "cfg": 20,
         "in": 5,
         "ini": 26,
-        "py": 857,
-        "rst": 213,
+        "py": 1080,
+        "rst": 229,
         "yml": 3
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 31,
     "requirements": [
+        "bothub>=0.1.6",
         "click",
         "pyyaml",
         "requests",

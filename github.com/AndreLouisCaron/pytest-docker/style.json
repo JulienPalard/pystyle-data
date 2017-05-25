@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 0,
     "requirements": [
-        "attrs<17,>=16"
+        "attrs>=16,<17"
     ],
     "shebang": {}
 }

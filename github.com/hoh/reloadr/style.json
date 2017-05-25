@@ -31,12 +31,13 @@
     },
     "license": "LGPL-3.0",
     "lines_of_code": {
-        "py": 376,
-        "rst": 67
+        "py": 412,
+        "rst": 77
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 2,
     "requirements": [
-        "redbaron"
+        "redbaron",
+        "watchdog"
     ],
     "shebang": {}
 }

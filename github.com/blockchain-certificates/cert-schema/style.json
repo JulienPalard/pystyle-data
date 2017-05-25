@@ -32,20 +32,22 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
-        "ini": 15,
+        "ini": 14,
         "js": 47,
-        "json": 1521,
+        "json": 1520,
         "md": 78,
-        "py": 230,
+        "py": 369,
         "sh": 7,
-        "txt": 4
+        "txt": 6
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 28,
     "requirements": [
-        "cert-core>=0.0.15",
+        "cert-core>=2.0b7",
         "jsonschema>=2.6",
         "pyld>=0.7.1",
-        "requests>=2.13.0"
+        "requests>=2.13.0",
+        "validators>=0.11.1",
+        "werkzeug>=0.11.11"
     ],
     "shebang": {
         "#! /usr/bin/env python": 1

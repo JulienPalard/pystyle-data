@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": false,
@@ -31,11 +31,12 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "py": 71,
+        "py": 85,
         "rst": 52,
+        "sh": 27,
         "txt": 13
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 13,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/python": 1

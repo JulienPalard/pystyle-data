@@ -34,15 +34,15 @@
         "cfg": 2,
         "in": 3,
         "md": 26,
-        "py": 435,
+        "py": 436,
         "txt": 3,
         "yaml": 3
     },
     "pep8_infringement": 86,
     "requirements": [
+        "appdirs",
         "nose",
-        "pyyaml",
-        "xdg"
+        "pyyaml"
     ],
     "shebang": {}
 }

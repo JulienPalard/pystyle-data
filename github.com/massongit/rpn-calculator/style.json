@@ -32,10 +32,10 @@
     "license": "MIT",
     "lines_of_code": {
         "bat": 2,
-        "in": 4,
-        "py": 175,
-        "rst": 54,
-        "txt": 19
+        "in": 5,
+        "py": 150,
+        "rst": 68,
+        "txt": 25
     },
     "pep8_infringement": 5,
     "requirements": [],

@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "bash": 7,
+        "md": 45,
+        "py": 148,
+        "rst": 47,
+        "txt": 27
+    },
+    "pep8_infringement": 4,
+    "requirements": [
+        "bg-helper",
+        "chloop",
+        "click",
+        "input-helper",
+        "ipython",
+        "mocp",
+        "mocp-cli",
+        "parse-helper",
+        "redis-helper",
+        "yt-helper"
+    ],
+    "shebang": {}
+}

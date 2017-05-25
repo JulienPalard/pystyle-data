@@ -58,7 +58,7 @@
         "opf_t": 83,
         "po": 59014,
         "pot": 1311,
-        "py": 75538,
+        "py": 75552,
         "py_t": 193,
         "pyx": 165,
         "rst": 17661,
@@ -71,7 +71,7 @@
         "xhtml_t": 26,
         "xml": 22
     },
-    "pep8_infringement": 2786,
+    "pep8_infringement": 2785,
     "requirements": [
         "alabaster<0.8,>=0.7",
         "babel!=2.0,>=1.3",

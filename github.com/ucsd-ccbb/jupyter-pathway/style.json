@@ -32,11 +32,12 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
+        "csv": 3221,
         "ipynb": 85,
         "md": 6,
-        "py": 1177
+        "py": 584
     },
-    "pep8_infringement": 397,
+    "pep8_infringement": 194,
     "requirements": [],
     "shebang": {}
 }

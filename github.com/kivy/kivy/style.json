@@ -45,13 +45,14 @@
         "json-tmlanguage": 20,
         "kv": 4303,
         "m": 519,
-        "md": 207,
+        "md": 208,
         "obj": 7966,
         "pxd": 1633,
         "pxi": 2633,
-        "py": 93005,
-        "pyx": 21837,
-        "rst": 9724,
+        "py": 93252,
+        "pyx": 21969,
+        "rst": 9723,
+        "sh": 7,
         "spec": 410,
         "sty": 166,
         "svg": 1772,
@@ -59,9 +60,9 @@
         "txt": 154,
         "vim": 38,
         "vs": 23,
-        "yml": 221
+        "yml": 220
     },
-    "pep8_infringement": 935,
+    "pep8_infringement": 936,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

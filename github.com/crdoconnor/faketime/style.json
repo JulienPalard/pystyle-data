@@ -34,14 +34,15 @@
         "OSX": 75,
         "c": 2711,
         "h": 166,
-        "in": 8,
+        "in": 9,
         "map": 10,
-        "py": 225,
+        "py": 248,
         "rst": 22,
-        "story": 18,
-        "txt": 26
+        "sierra": 2330,
+        "story": 31,
+        "txt": 40
     },
-    "pep8_infringement": 24,
+    "pep8_infringement": 20,
     "requirements": [],
     "shebang": {}
 }

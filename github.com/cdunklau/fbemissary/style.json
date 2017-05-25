@@ -31,8 +31,8 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "py": 600,
-        "rst": 77,
+        "py": 712,
+        "rst": 79,
         "txt": 190
     },
     "pep8_infringement": 3,

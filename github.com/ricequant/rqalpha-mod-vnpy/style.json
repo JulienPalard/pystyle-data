@@ -32,11 +32,11 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 1,
-        "md": 122,
-        "py": 1948,
+        "md": 118,
+        "py": 2268,
         "txt": 5
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 103,
     "requirements": [
         "dateutils",
         "numpy",
@@ -44,6 +44,6 @@
         "six"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 11
+        "#!/usr/bin/env python": 8
     }
 }

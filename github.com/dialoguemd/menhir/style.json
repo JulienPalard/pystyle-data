@@ -36,13 +36,13 @@
         "in": 1,
         "json": 3,
         "md": 5,
-        "py": 5394,
+        "py": 5389,
         "rst": 322,
         "sh": 121,
         "tf": 0,
         "txt": 46,
         "yaml": 4,
-        "yml": 20
+        "yml": 21
     },
     "pep8_infringement": 4,
     "requirements": [

@@ -35,9 +35,9 @@
         "in": 3,
         "ini": 12,
         "md": 12,
-        "py": 3233
+        "py": 3256
     },
-    "pep8_infringement": 120,
+    "pep8_infringement": 126,
     "requirements": [
         "marshmallow",
         "pyramid",

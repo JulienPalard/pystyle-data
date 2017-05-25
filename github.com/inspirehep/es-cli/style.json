@@ -31,16 +31,17 @@
     },
     "license": null,
     "lines_of_code": {
-        "py": 1127,
-        "rst": 310,
+        "py": 1214,
+        "rst": 282,
         "sh": 35,
-        "txt": 81
+        "txt": 84
     },
     "pep8_infringement": 55,
     "requirements": [
         "autosemver",
         "click",
-        "elasticsearch"
+        "elasticsearch",
+        "six"
     ],
     "shebang": {
         "#!/usr/bin/env python": 4

@@ -35,21 +35,21 @@
         "cfg": 11,
         "csv": 6,
         "enc": 1,
-        "in": 4,
-        "md": 214,
-        "py": 2170,
+        "in": 7,
+        "md": 233,
+        "py": 2343,
         "rst": 39,
-        "yaml": 1105,
+        "yaml": 1182,
         "yml": 30
     },
-    "pep8_infringement": 249,
+    "pep8_infringement": 270,
     "requirements": [
         "cerberus>=1.0.0",
         "habanero>=0.2.6",
         "numpy>=1.11.0",
         "orcid>=0.7.0,<1.0",
         "pint>=0.7.2",
-        "pyyaml<4.0,>=3.12",
+        "pyyaml>=3.12,<4.0",
         "uncertainties>=3.0.1"
     ],
     "shebang": {

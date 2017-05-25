@@ -35,18 +35,20 @@
         "css": 1395,
         "html": 1562,
         "in": 2,
-        "js": 12970,
-        "md": 135,
-        "py": 1014,
+        "js": 12979,
+        "json": 701517,
+        "lock": 7,
+        "md": 191,
+        "py": 1783,
         "rst": 89,
         "txt": 91
     },
-    "pep8_infringement": 128,
+    "pep8_infringement": 204,
     "requirements": [
         "lxml==3.7.3",
         "requests==2.13.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 9
+        "#!/usr/bin/env python3": 13
     }
 }

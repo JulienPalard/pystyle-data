@@ -36,11 +36,12 @@
         "PitchTier": 224,
         "PointProcess": 107,
         "TextGrid": 748,
-        "praat": 412,
-        "py": 5370,
-        "rst": 236
+        "ipynb": 1256,
+        "praat": 458,
+        "py": 5540,
+        "rst": 263
     },
-    "pep8_infringement": 804,
+    "pep8_infringement": 824,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2,

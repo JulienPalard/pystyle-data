@@ -31,19 +31,19 @@
     },
     "license": "AGPL-3.0",
     "lines_of_code": {
-        "css": 64,
-        "csv": 28131,
+        "css": 96,
+        "csv": 28176,
         "mako": 253,
-        "md": 73,
-        "po": 17629,
-        "pot": 2613,
-        "py": 29919,
-        "rst": 1125,
+        "md": 74,
+        "po": 415431,
+        "pot": 4062,
+        "py": 36140,
+        "rst": 1642,
         "txt": 35,
-        "xml": 28922,
+        "xml": 32272,
         "yml": 291
     },
-    "pep8_infringement": 1492,
+    "pep8_infringement": 1033,
     "requirements": [],
     "shebang": {}
 }

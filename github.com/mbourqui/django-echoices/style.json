@@ -32,12 +32,12 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 5,
-        "md": 118,
+        "md": 195,
         "po": 45,
-        "py": 769,
+        "py": 1085,
         "sh": 93
     },
-    "pep8_infringement": 89,
+    "pep8_infringement": 153,
     "requirements": [
         "django>=1.8.18"
     ],

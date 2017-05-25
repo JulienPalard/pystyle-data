@@ -34,11 +34,12 @@
         "conf": 217,
         "in": 1,
         "ini": 19,
-        "j2": 70,
+        "j2": 88,
         "json": 21,
-        "md": 524,
-        "py": 6007,
-        "txt": 10
+        "md": 845,
+        "py": 6206,
+        "spec": 157,
+        "txt": 11
     },
     "pep8_infringement": 192,
     "requirements": [

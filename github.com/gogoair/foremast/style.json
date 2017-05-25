@@ -32,16 +32,16 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
-        "example": 20,
+        "example": 55,
         "in": 4,
         "ini": 15,
-        "j2": 950,
-        "py": 11266,
+        "j2": 956,
+        "py": 11541,
         "rest": 184,
-        "rst": 3391,
-        "txt": 29
+        "rst": 3451,
+        "txt": 30
     },
-    "pep8_infringement": 466,
+    "pep8_infringement": 484,
     "requirements": [
         "awscli",
         "boto3",

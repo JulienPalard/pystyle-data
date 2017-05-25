@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 2,
+        "conf": 16,
+        "css": 7537,
+        "css_t": 401,
+        "html": 881,
+        "in": 10,
+        "ini": 16,
+        "ipynb": 774,
+        "js": 5217,
+        "py": 5200,
+        "rst": 831,
+        "sh": 15,
+        "txt": 12,
+        "yml": 31
+    },
+    "pep8_infringement": 51,
+    "requirements": [
+        "babel>=1.0",
+        "celery>=3.1.0",
+        "mock",
+        "pytz",
+        "redis",
+        "sphinx",
+        "sphinxcontrib-fulltoc",
+        "sphinxcontrib-httpdomain",
+        "tornado>=4.2.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

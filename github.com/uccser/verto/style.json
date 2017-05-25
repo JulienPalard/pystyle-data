@@ -32,20 +32,19 @@
     "license": null,
     "lines_of_code": {
         "bat": 48,
-        "html": 2460,
+        "html": 1652,
         "in": 3,
-        "json": 257,
-        "md": 1873,
-        "py": 6398,
-        "rst": 2267,
-        "txt": 10
+        "json": 291,
+        "md": 2018,
+        "py": 7209,
+        "rst": 2514,
+        "txt": 9
     },
-    "pep8_infringement": 908,
+    "pep8_infringement": 1059,
     "requirements": [
-        "beautifulsoup4==4.5.3",
         "jinja2>=2.9.6",
         "markdown>=2.6.8",
-        "python-slugify>=1.2.2"
+        "python-slugify>=1.2.4"
     ],
     "shebang": {
         "#!/usr/bin/env python3": 1

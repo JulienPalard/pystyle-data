@@ -33,12 +33,14 @@
     "lines_of_code": {
         "in": 4,
         "md": 187,
-        "py": 601,
+        "py": 604,
         "sh": 76,
         "xml": 25
     },
     "pep8_infringement": 67,
-    "requirements": [],
+    "requirements": [
+        "psutil~=5.2.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

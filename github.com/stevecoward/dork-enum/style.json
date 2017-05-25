@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,15 +31,18 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "in": 1,
+        "json": 10,
         "md": 17,
-        "py": 165
+        "py": 285
     },
-    "pep8_infringement": 39,
+    "pep8_infringement": 23,
     "requirements": [
         "beautifulsoup4",
         "click",
         "geoip2",
         "requests",
+        "simplejson",
         "tldextract"
     ],
     "shebang": {}

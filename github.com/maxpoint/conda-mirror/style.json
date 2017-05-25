@@ -31,14 +31,14 @@
     },
     "license": null,
     "lines_of_code": {
-        "cfg": 13,
+        "cfg": 16,
         "in": 6,
-        "md": 432,
-        "py": 3235,
-        "txt": 2,
+        "md": 441,
+        "py": 3249,
+        "txt": 3,
         "yaml": 7
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 16,
     "requirements": [
         "pyyaml",
         "requests"

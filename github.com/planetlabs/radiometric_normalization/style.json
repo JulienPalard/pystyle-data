@@ -34,11 +34,11 @@
         "cfg": 2,
         "in": 1,
         "md": 271,
-        "py": 2499,
+        "py": 2542,
         "sh": 40,
         "txt": 2
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 17,
     "requirements": [
         "gdal>=1.11",
         "numpy>=1.6"

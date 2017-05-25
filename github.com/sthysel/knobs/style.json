@@ -33,11 +33,11 @@
     "lines_of_code": {
         "cfg": 20,
         "ini": 14,
-        "py": 308,
+        "py": 334,
         "rst": 131,
         "txt": 13
     },
-    "pep8_infringement": 9,
+    "pep8_infringement": 12,
     "requirements": [
         "click",
         "python-dotenv"

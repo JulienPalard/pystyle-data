@@ -34,18 +34,28 @@
         "cfg": 5,
         "cgi": 13,
         "cmd": 11,
-        "md": 96,
-        "py": 8351,
-        "rst": 598,
-        "txt": 19,
-        "wsgi": 37
+        "md": 95,
+        "py": 9802,
+        "rst": 623,
+        "txt": 35,
+        "wsgi": 34
     },
-    "pep8_infringement": 439,
+    "pep8_infringement": 533,
     "requirements": [
-        "flask-injector==0.8.0",
-        "future"
+        "alembic",
+        "bpython",
+        "click>=6.6",
+        "enum34",
+        "flask>=0.11",
+        "flask-injector==0.8",
+        "future",
+        "injector>=0.11.1",
+        "redis>=2.10",
+        "requests>=2.7",
+        "sqlalchemy>=1",
+        "typing>=3.5",
+        "werkzeug>=0.12",
+        "zsl-client"
     ],
-    "shebang": {
-        "#!/usr/bin/python": 1
-    }
+    "shebang": {}
 }

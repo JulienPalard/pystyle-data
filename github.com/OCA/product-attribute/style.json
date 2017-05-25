@@ -32,16 +32,16 @@
     "license": null,
     "lines_of_code": {
         "csv": 63,
-        "md": 54,
-        "po": 18681,
-        "pot": 2869,
-        "py": 7909,
+        "md": 57,
+        "po": 20825,
+        "pot": 2921,
+        "py": 9307,
         "rml": 287,
-        "rst": 682,
-        "xml": 3610,
+        "rst": 1335,
+        "xml": 4155,
         "yml": 48
     },
-    "pep8_infringement": 1636,
+    "pep8_infringement": 1635,
     "requirements": [],
     "shebang": {}
 }

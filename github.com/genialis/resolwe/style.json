@@ -36,8 +36,8 @@
         "ini": 50,
         "json": 796,
         "md": 16,
-        "py": 15914,
-        "rst": 1373,
+        "py": 16516,
+        "rst": 1473,
         "sh": 168,
         "txt": 17,
         "yaml": 664,
@@ -51,7 +51,7 @@
         "django-mathfilters>=0.3.0",
         "django-versionfield2>=0.5.0",
         "djangorestframework>=3.4.0",
-        "djangorestframework-filters>=0.9.1",
+        "djangorestframework-filters==0.9.1",
         "elasticsearch-dsl~=2.2.0",
         "jinja2>=2.8",
         "jsonschema>=2.4.0",
@@ -59,7 +59,8 @@
         "psycopg2>=2.5.0",
         "pyyaml>=3.11",
         "six>=1.10.0",
-        "sphinx>=1.5.1"
+        "sphinx>=1.5.1",
+        "wrapt>=1.10.8"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2,

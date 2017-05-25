@@ -36,13 +36,13 @@
         "j2": 797,
         "key": 1,
         "md": 1920,
-        "py": 4599,
+        "py": 4619,
         "rst": 1364,
         "sh": 50,
         "txt": 1350,
-        "yml": 2686
+        "yml": 3048
     },
-    "pep8_infringement": 2476,
+    "pep8_infringement": 2491,
     "requirements": [
         "ansible>=2.0"
     ],

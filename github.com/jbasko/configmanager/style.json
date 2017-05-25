@@ -33,13 +33,14 @@
     "lines_of_code": {
         "in": 9,
         "ini": 8,
-        "py": 2430,
-        "rst": 145,
-        "txt": 7
+        "py": 2986,
+        "rst": 213,
+        "txt": 25
     },
-    "pep8_infringement": 112,
+    "pep8_infringement": 154,
     "requirements": [
         "configparser",
+        "future",
         "six"
     ],
     "shebang": {

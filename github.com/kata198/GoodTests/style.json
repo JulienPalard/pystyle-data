@@ -33,11 +33,11 @@
     "lines_of_code": {
         "in": 9,
         "md": 145,
-        "py": 1036,
+        "py": 1038,
         "rst": 228,
         "sh": 122
     },
-    "pep8_infringement": 204,
+    "pep8_infringement": 207,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env GoodTests.py": 1,

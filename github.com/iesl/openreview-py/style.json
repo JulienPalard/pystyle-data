@@ -32,9 +32,9 @@
     "license": null,
     "lines_of_code": {
         "md": 48,
-        "py": 662
+        "py": 699
     },
-    "pep8_infringement": 481,
+    "pep8_infringement": 505,
     "requirements": [
         "pycrypto",
         "requests"

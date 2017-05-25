@@ -32,16 +32,16 @@
     "license": null,
     "lines_of_code": {
         "in": 1,
-        "py": 246,
-        "pyt": 78,
+        "py": 225,
+        "pyt": 114,
         "rst": 48,
         "txt": 5
     },
-    "pep8_infringement": 19,
+    "pep8_infringement": 18,
     "requirements": [
         "virtualenv==15.1.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 3
+        "#!/usr/bin/env python": 2
     }
 }

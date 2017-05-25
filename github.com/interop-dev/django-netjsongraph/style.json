@@ -47,7 +47,7 @@
         "django-model-utils",
         "djangorestframework>=3.3,<3.7",
         "jsonfield",
-        "netdiff>=0.4.7,<=5.0",
+        "netdiff<=5.0,>=0.4.7",
         "six"
     ],
     "shebang": {

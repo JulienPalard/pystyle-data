@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 7,
+        "clj": 37,
+        "conf": 50,
+        "erb": 2094,
+        "in": 4,
+        "ini": 17,
+        "java": 26,
+        "json": 459,
+        "lock": 243,
+        "md": 3953,
+        "py": 27122,
+        "rb": 7087,
+        "rst": 1166,
+        "seed": 1,
+        "sh": 18,
+        "txt": 93,
+        "yaml": 50
+    },
+    "pep8_infringement": 297,
+    "requirements": [
+        "fabric3",
+        "jinja2",
+        "prettytable",
+        "pystorm>=3.1.0",
+        "requests",
+        "ruamel.yaml",
+        "simplejson",
+        "six>=1.5",
+        "thriftpy>=0.3.2"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 1,
+        "#!/usr/bin/env python": 1
+    }
+}

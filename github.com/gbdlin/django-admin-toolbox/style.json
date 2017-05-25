@@ -44,7 +44,7 @@
     },
     "pep8_infringement": 6,
     "requirements": [
-        "django>=1.10,<1.11.9999"
+        "django<1.11.9999,>=1.10"
     ],
     "shebang": {}
 }

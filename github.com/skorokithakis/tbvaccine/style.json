@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 6,
         "ini": 22,
-        "py": 339,
+        "py": 386,
         "rst": 100
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 18,
     "requirements": [
         "pygments"
     ],

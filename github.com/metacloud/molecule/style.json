@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 62,
+        "ini": 40,
+        "j2": 2,
+        "json": 69,
+        "md": 38,
+        "py": 9927,
+        "rb": 44,
+        "rst": 2525,
+        "sh": 178,
+        "txt": 27,
+        "yml": 768
+    },
+    "pep8_infringement": 75,
+    "requirements": [
+        "ansible-lint==3.4.12",
+        "anyconfig==0.7.0",
+        "click==6.7",
+        "colorama==0.3.7",
+        "cookiecutter==1.5.1",
+        "flake8==3.3.0",
+        "jinja2==2.9.6",
+        "paramiko==2.1.2",
+        "pbr==2.1.0",
+        "pexpect==4.2.1",
+        "pyyaml==3.12",
+        "sh==1.12.13",
+        "tabulate==0.7.7",
+        "testinfra==1.5.5"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

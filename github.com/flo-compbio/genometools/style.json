@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "bat": 263,
+        "in": 7,
+        "ini": 7,
+        "ipynb": 771,
+        "py": 11976,
+        "rst": 543,
+        "sh": 5,
+        "tsv": 256,
+        "txt": 8
+    },
+    "pep8_infringement": 807,
+    "requirements": [
+        "ftputil>=3.3.1,<4",
+        "future>=0.15.2,<1",
+        "numpy>=1.8,<2",
+        "pandas>=0.18,<1",
+        "requests>=2.9.1,<3",
+        "six<2,>=1.5.2",
+        "unicodecsv<1,>=0.14.1",
+        "xlmhg>=2.4.9,<3",
+        "xmltodict<1,>=0.10.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 9,
+        "#!/usr/bin/env python2.7": 1
+    }
+}

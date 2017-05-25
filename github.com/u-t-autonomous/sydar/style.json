@@ -36,17 +36,15 @@
         "in": 1,
         "m": 1563,
         "md": 13,
-        "miu": 428,
-        "py": 2650,
+        "miu": 430,
+        "py": 2646,
         "rst": 13,
-        "tex": 212,
-        "txt": 1
+        "tex": 212
     },
-    "pep8_infringement": 896,
+    "pep8_infringement": 894,
     "requirements": [
         "numpy",
-        "pyparsing",
-        "scipy"
+        "pyparsing"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "asc": 60,
+        "cfg": 2,
+        "conf": 5,
+        "gnupg": 26,
+        "gpg": 16,
+        "in": 23,
+        "ini": 48,
+        "json": 178,
+        "md": 892,
+        "pub": 248,
+        "py": 10241,
+        "rst": 378,
+        "sec": 135,
+        "sh": 39,
+        "test": 20,
+        "tmpl": 151,
+        "txt": 350,
+        "xml": 16,
+        "yaml": 19,
+        "yml": 24
+    },
+    "pep8_infringement": 639,
+    "requirements": [
+        "aiohttp>=2.0.0",
+        "arrow",
+        "defusedxml",
+        "frozendict",
+        "jsonschema",
+        "pexpect",
+        "python-gnupg",
+        "pyyaml",
+        "taskcluster",
+        "virtualenv"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 30,
+        "#!/usr/bin/env python3": 1
+    }
+}

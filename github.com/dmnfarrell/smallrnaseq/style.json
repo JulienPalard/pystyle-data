@@ -37,18 +37,19 @@
         "csv": 32710,
         "fa": 104535,
         "fastq": 100000,
-        "md": 40,
-        "py": 4840,
-        "sam": 6895
+        "md": 38,
+        "py": 5011,
+        "sam": 6895,
+        "yaml": 29
     },
-    "pep8_infringement": 2455,
+    "pep8_infringement": 2529,
     "requirements": [
         "bx-python>=0.5",
         "forgi>=0.4",
         "htseq>=0.6",
-        "numpy>=1.10",
         "pandas>=0.17",
         "pybedtools>=0.7.9",
+        "pysam>=0.10.0",
         "scikit-learn>=0.18",
         "seaborn>=0.7"
     ],

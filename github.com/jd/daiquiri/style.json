@@ -1,6 +1,6 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
         "examples/": true,
         "src/": false,
@@ -31,10 +31,10 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 33,
-        "ini": 22,
-        "py": 382,
-        "rst": 47
+        "cfg": 41,
+        "ini": 29,
+        "py": 554,
+        "rst": 100
     },
     "pep8_infringement": 0,
     "requirements": [],

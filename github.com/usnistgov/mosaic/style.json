@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "TXT": 11,
+        "csv": 226598,
+        "in": 8,
+        "ipf": 100,
+        "json": 300,
+        "log": 3000,
+        "m": 317,
+        "prm": 175,
+        "py": 11795,
+        "rst": 343,
+        "spec": 78,
+        "tsv": 100000,
+        "txt": 49,
+        "ui": 2974
+    },
+    "pep8_infringement": 13958,
+    "requirements": [
+        "cython==0.24",
+        "docutils==0.12",
+        "lmfit==0.9.3",
+        "matplotlib==1.5.1",
+        "nose==1.3.7",
+        "numpy==1.11.1",
+        "pandas==0.18.1",
+        "pyinstaller==3.1",
+        "pywavelets==0.4.0",
+        "scipy==0.18.1",
+        "uncertainties==2.4.8.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

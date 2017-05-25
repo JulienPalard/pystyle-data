@@ -33,11 +33,11 @@
     "lines_of_code": {
         "cfg": 5,
         "ini": 4,
-        "md": 44,
-        "py": 546,
+        "md": 46,
+        "py": 589,
         "txt": 2
     },
-    "pep8_infringement": 36,
+    "pep8_infringement": 39,
     "requirements": [
         "dill",
         "mpi4py",

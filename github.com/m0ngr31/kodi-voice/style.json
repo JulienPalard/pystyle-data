@@ -35,10 +35,10 @@
         "example": 91,
         "in": 1,
         "md": 9,
-        "py": 1370,
+        "py": 1334,
         "txt": 19
     },
-    "pep8_infringement": 941,
+    "pep8_infringement": 940,
     "requirements": [
         "configparser",
         "fuzzywuzzy",

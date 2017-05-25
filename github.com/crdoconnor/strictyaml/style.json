@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -31,12 +31,12 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "in": 1,
-        "py": 1333,
-        "rst": 2759,
-        "settings": 16,
-        "test": 1437,
-        "txt": 97
+        "in": 8,
+        "py": 1476,
+        "rst": 4020,
+        "story": 1588,
+        "txt": 121,
+        "yml": 43
     },
     "pep8_infringement": 73,
     "requirements": [

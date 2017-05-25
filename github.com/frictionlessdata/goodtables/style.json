@@ -43,11 +43,11 @@
     },
     "pep8_infringement": 44,
     "requirements": [
-        "click<7.0,>=6.6",
+        "click>=6.6,<7.0",
         "datapackage>=0.8,<1.0",
         "jsontableschema>=0.8.2,<1.0",
-        "requests>=2.10,<3.0",
-        "six>=1.9,<2.0",
+        "requests<3.0,>=2.10",
+        "six<2.0,>=1.9",
         "tabulator<2.0,>=1.0.0a4"
     ],
     "shebang": {}

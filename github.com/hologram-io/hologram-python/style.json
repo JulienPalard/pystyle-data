@@ -34,11 +34,10 @@
         "in": 14,
         "json": 4,
         "md": 41,
-        "py": 3411,
-        "sh": 93,
+        "py": 4507,
         "txt": 13
     },
-    "pep8_infringement": 532,
+    "pep8_infringement": 651,
     "requirements": [
         "argparse==1.2.1",
         "hjson==2.0.2",
@@ -54,6 +53,6 @@
         "wsgiref==0.1.2"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1
+        "#!/usr/bin/env python": 6
     }
 }

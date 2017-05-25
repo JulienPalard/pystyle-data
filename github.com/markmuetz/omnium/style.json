@@ -33,13 +33,11 @@
     "lines_of_code": {
         "conf": 21934,
         "in": 1,
-        "py": 4506,
-        "rc": 377,
-        "rst": 146,
-        "tpl": 120,
-        "txt": 81
+        "py": 2999,
+        "rst": 138,
+        "txt": 1
     },
-    "pep8_infringement": 316,
+    "pep8_infringement": 188,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

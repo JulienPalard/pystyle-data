@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "gpg": 71,
+        "html": 7609,
+        "in": 7,
+        "ini": 2,
+        "json": 247,
+        "md": 47,
+        "py": 6364,
+        "pyx": 44,
+        "rst": 1000,
+        "svg": 116118,
+        "tpl": 130,
+        "txt": 12,
+        "yml": 99
+    },
+    "pep8_infringement": 554,
+    "requirements": [
+        "nipype (git+https://github.com/nipy/nipype.git@cda3fdc3be231f2c9d7bdbdbadee472a0bad9e92)",
+        "niworkflows (git+https://github.com/poldracklab/niworkflows.git@622041bf4214bada489371eee4884ca54b497b3e)",
+        "pybids (git+https://github.com/INCF/pybids.git@7205ae01fbdca8e8bfd26ac773b1134b84c8af0c)"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 30
+    }
+}

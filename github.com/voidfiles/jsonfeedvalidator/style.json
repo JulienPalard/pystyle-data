@@ -31,12 +31,12 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "py": 579,
-        "rst": 17
+        "py": 413,
+        "rst": 46
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 67,
     "requirements": [
-        "iso8601"
+        "jsonschema"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

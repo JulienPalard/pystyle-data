@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -20,23 +20,27 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "in": 4,
-        "md": 2,
-        "py": 613
+        "cfg": 5,
+        "in": 8,
+        "ini": 25,
+        "py": 750,
+        "rst": 11,
+        "txt": 2
     },
-    "pep8_infringement": 45,
+    "pep8_infringement": 50,
     "requirements": [
+        "apiai==1.2.3",
         "celery>=4.0",
         "django>=1.8",
         "slackclient==1.0.5"

@@ -24,7 +24,7 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
@@ -32,17 +32,20 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "bat": 263,
+        "cfg": 2,
         "html": 203,
-        "in": 1,
+        "in": 2,
         "js": 116,
-        "lock": 153,
+        "lock": 116,
         "md": 57,
-        "pem": 5689,
-        "py": 34258,
-        "rst": 4554,
-        "svg": 1
+        "pem": 5660,
+        "ps1": 229,
+        "py": 35301,
+        "rst": 4608,
+        "svg": 1,
+        "yml": 56
     },
-    "pep8_infringement": 89877,
+    "pep8_infringement": 68903,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 4

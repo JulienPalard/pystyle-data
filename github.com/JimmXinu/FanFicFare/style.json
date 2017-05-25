@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "css": 73,
+        "html": 463,
+        "in": 1,
+        "ini": 6135,
+        "md": 25,
+        "po": 24571,
+        "pot": 2023,
+        "py": 75252,
+        "py-filelist1": 1149,
+        "rst": 15,
+        "txt": 41,
+        "yaml": 81
+    },
+    "pep8_infringement": 79210,
+    "requirements": [
+        "beautifulsoup4",
+        "chardet",
+        "html2text",
+        "html5lib"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 8,
+        "#!/usr/bin/python": 4
+    }
+}

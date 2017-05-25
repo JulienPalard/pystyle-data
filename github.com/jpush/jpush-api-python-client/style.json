@@ -32,12 +32,12 @@
     "license": null,
     "lines_of_code": {
         "in": 6,
-        "md": 513,
-        "py": 1756,
+        "md": 525,
+        "py": 1765,
         "rst": 69,
         "txt": 9
     },
-    "pep8_infringement": 234,
+    "pep8_infringement": 236,
     "requirements": [
         "requests>=1.2"
     ],

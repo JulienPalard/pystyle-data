@@ -35,11 +35,11 @@
         "csv": 169,
         "in": 16,
         "md": 209,
-        "py": 3470,
+        "py": 3530,
         "txt": 3,
         "yml": 56
     },
-    "pep8_infringement": 96,
+    "pep8_infringement": 101,
     "requirements": [
         "docker",
         "future",

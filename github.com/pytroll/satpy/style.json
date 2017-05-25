@@ -31,18 +31,18 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "cfg": 289,
+        "cfg": 296,
         "def": 887,
         "feature": 62,
         "in": 6,
-        "py": 24520,
-        "rst": 4172,
+        "py": 24999,
+        "rst": 4275,
         "txt": 674,
         "xml": 918,
-        "yaml": 7356,
+        "yaml": 7568,
         "yml": 91
     },
-    "pep8_infringement": 973,
+    "pep8_infringement": 979,
     "requirements": [
         "numpy>=1.4.1",
         "pillow",
@@ -54,7 +54,7 @@
         "trollsift"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 82,
+        "#!/usr/bin/env python": 84,
         "#!/usr/bin/python": 4
     }
 }

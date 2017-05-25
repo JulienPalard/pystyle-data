@@ -35,12 +35,12 @@
         "cc": 9,
         "in": 4,
         "md": 598,
-        "py": 2226,
+        "py": 2265,
         "rst": 83
     },
     "pep8_infringement": 331,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 8
+        "#!/usr/bin/env python": 9
     }
 }

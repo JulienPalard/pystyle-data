@@ -37,17 +37,17 @@
         "lock": 112,
         "log": 0,
         "md": 1000,
-        "py": 15713,
+        "py": 16392,
         "rs": 749,
         "sh": 110,
         "sovrin": 100,
         "toml": 17,
         "txt": 1
     },
-    "pep8_infringement": 648,
+    "pep8_infringement": 649,
     "requirements": [
         "anoncreds-dev==0.3.8",
-        "sovrin-common-dev==0.2.63"
+        "sovrin-common-dev==0.2.66"
     ],
     "shebang": {
         "# #! /usr/bin/env python3": 1,

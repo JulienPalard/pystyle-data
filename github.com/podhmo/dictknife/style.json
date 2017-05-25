@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
@@ -33,14 +33,17 @@
     "lines_of_code": {
         "cfg": 2,
         "diff": 21,
-        "json": 117,
+        "env": 7,
+        "in": 1,
+        "json": 127,
         "md": 15,
-        "py": 2314,
+        "py": 2682,
         "rst": 164,
-        "txt": 15,
-        "yaml": 328
+        "toml": 3,
+        "txt": 46,
+        "yaml": 364
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 58,
     "requirements": [
         "namedlist"
     ],

@@ -34,12 +34,12 @@
         "in": 2,
         "ini": 16,
         "md": 175,
-        "py": 2114,
+        "py": 2167,
         "rst": 85,
         "sh": 35,
         "txt": 674
     },
-    "pep8_infringement": 85,
+    "pep8_infringement": 93,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 4

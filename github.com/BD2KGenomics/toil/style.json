@@ -35,12 +35,12 @@
         "cwl": 137,
         "json": 2002,
         "md": 493,
-        "py": 31837,
-        "rst": 3151,
+        "py": 31860,
+        "rst": 3154,
         "sh": 702,
         "txt": 32
     },
-    "pep8_infringement": 5466,
+    "pep8_infringement": 5468,
     "requirements": [
         "bd2k-python-lib>=1.14a1.dev35",
         "dill==0.2.5",

@@ -32,12 +32,12 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 2,
-        "ipynb": 281,
-        "md": 351,
-        "py": 2173,
+        "ipynb": 282,
+        "md": 379,
+        "py": 2294,
         "txt": 3
     },
-    "pep8_infringement": 324,
+    "pep8_infringement": 340,
     "requirements": [
         "joblib>=0.11",
         "pandas>=0.20.1",

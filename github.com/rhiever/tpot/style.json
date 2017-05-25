@@ -40,13 +40,13 @@
         "json": 149,
         "md": 1279,
         "mustache": 4,
-        "py": 4119,
+        "py": 4156,
         "svg": 399,
         "txt": 10,
         "xml": 68,
         "yml": 26
     },
-    "pep8_infringement": 666,
+    "pep8_infringement": 673,
     "requirements": [
         "deap>=1.0",
         "numpy>=1.12.1",

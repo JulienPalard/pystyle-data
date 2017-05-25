@@ -35,12 +35,12 @@
         "dat": 470,
         "in": 5,
         "json": 2,
-        "py": 13532,
+        "py": 13545,
         "rst": 95,
         "sh": 360,
         "txt": 27
     },
-    "pep8_infringement": 3219,
+    "pep8_infringement": 3217,
     "requirements": [
         "astropy",
         "bigfile",

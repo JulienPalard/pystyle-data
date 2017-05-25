@@ -24,24 +24,27 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "cfg": 2,
         "ini": 19,
-        "md": 183,
-        "py": 1871,
-        "txt": 16,
+        "md": 178,
+        "py": 2058,
+        "txt": 19,
         "yml": 18
     },
     "pep8_infringement": 3,
     "requirements": [
         "boto3>=1.0.0",
+        "connexion==1.1.9",
         "coverage==4.0.3",
         "flake8==2.5.1",
+        "flask==0.12.2",
         "ipdb==0.8.1",
         "ipython==4.0.3",
         "mock==2.0.0",
@@ -49,6 +52,7 @@
         "pylint==1.5.4",
         "requests==2.9.1",
         "structlog==16.0.0",
+        "werkzeug==0.12.2",
         "wrapt==1.10.10"
     ],
     "shebang": {

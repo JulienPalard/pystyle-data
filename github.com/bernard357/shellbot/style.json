@@ -35,20 +35,21 @@
         "cfg": 11,
         "in": 25,
         "ini": 19,
-        "py": 10308,
-        "rst": 589,
-        "txt": 12,
-        "yaml": 81
+        "py": 18596,
+        "rst": 1014,
+        "txt": 13,
+        "yaml": 214
     },
-    "pep8_infringement": 488,
+    "pep8_infringement": 992,
     "requirements": [
         "bottle",
         "ciscosparkapi",
         "colorlog",
+        "elasticsearch",
         "paste",
         "pyyaml"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 24
+        "#!/usr/bin/env python": 51
     }
 }

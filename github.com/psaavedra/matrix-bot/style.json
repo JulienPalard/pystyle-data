@@ -31,12 +31,12 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "example": 17,
+        "example": 35,
         "in": 2,
         "md": 2,
-        "py": 333
+        "py": 581
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 21,
     "requirements": [
         "getconf",
         "matrix-client",

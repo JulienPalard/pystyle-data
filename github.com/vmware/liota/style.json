@@ -32,14 +32,14 @@
     "license": null,
     "lines_of_code": {
         "conf": 229,
-        "in": 61,
+        "in": 62,
         "json": 38,
-        "md": 657,
-        "py": 14086,
+        "md": 667,
+        "py": 14277,
         "sh": 198,
         "txt": 26
     },
-    "pep8_infringement": 1049,
+    "pep8_infringement": 1073,
     "requirements": [
         "aenum==1.4.5",
         "coapthon==4.0.2",

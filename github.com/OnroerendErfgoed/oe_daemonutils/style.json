@@ -32,14 +32,14 @@
     "license": null,
     "lines_of_code": {
         "in": 3,
-        "ini": 10,
+        "ini": 11,
         "md": 3,
-        "py": 1845,
-        "rst": 114,
+        "py": 1931,
+        "rst": 125,
         "txt": 54,
         "xml": 134
     },
-    "pep8_infringement": 233,
+    "pep8_infringement": 245,
     "requirements": [
         "feedparser",
         "oe-geoutils",

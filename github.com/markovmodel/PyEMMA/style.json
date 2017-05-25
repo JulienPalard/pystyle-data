@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": false
+    },
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "bat": 8,
+        "c": 1494,
+        "cfg": 59,
+        "cmd": 47,
+        "dat": 10000,
+        "h": 114,
+        "in": 42,
+        "pdb": 62,
+        "ps1": 62,
+        "py": 50351,
+        "pyx": 740,
+        "rst": 1564,
+        "sh": 91,
+        "svg": 1,
+        "txt": 177,
+        "xsl": 101,
+        "yaml": 56,
+        "yml": 111
+    },
+    "pep8_infringement": 6326,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

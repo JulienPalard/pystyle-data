@@ -32,13 +32,13 @@
     "license": "MIT",
     "lines_of_code": {
         "csv": 5,
-        "py": 2775,
+        "py": 3021,
         "rst": 277,
         "sh": 8,
         "txt": 9,
         "yaml": 69
     },
-    "pep8_infringement": 126,
+    "pep8_infringement": 129,
     "requirements": [
         "boto3",
         "deepdiff",
@@ -51,6 +51,6 @@
         "xmltodict"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 10
+        "#!/usr/bin/env python": 11
     }
 }

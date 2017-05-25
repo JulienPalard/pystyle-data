@@ -31,17 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "py": 190,
-        "rst": 18,
+        "py": 306,
+        "rst": 26,
         "txt": 1,
         "yaml": 6
     },
-    "pep8_infringement": 29,
+    "pep8_infringement": 34,
     "requirements": [
         "click",
         "click"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python3": 3
     }
 }

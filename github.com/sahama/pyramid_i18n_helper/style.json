@@ -31,16 +31,18 @@
     },
     "license": null,
     "lines_of_code": {
-        "jinja2": 48,
-        "py": 307,
-        "rst": 72
+        "jinja2": 98,
+        "py": 455,
+        "rst": 107
     },
-    "pep8_infringement": 48,
+    "pep8_infringement": 77,
     "requirements": [
+        "babel",
         "deform",
         "paginate",
         "polib",
         "pyramid",
+        "pyramid-flash-message",
         "pyramid-jinja2",
         "pyramid-layout"
     ],

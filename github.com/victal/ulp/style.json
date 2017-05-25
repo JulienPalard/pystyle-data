@@ -31,17 +31,16 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 52,
-        "py": 231,
+        "md": 61,
+        "py": 387,
         "txt": 9
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 31,
     "requirements": [
         "pyperclip",
         "urwid"
     ],
     "shebang": {
-        "#!/usr/bi/env python": 1,
-        "#!/usr/bin/env python": 2
+        "#!/usr/bin/env python": 4
     }
 }

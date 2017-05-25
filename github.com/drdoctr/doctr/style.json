@@ -35,10 +35,10 @@
         "cfg": 12,
         "enc": 1,
         "in": 2,
-        "py": 3801,
-        "rst": 627
+        "py": 3819,
+        "rst": 633
     },
-    "pep8_infringement": 246,
+    "pep8_infringement": 249,
     "requirements": [
         "cryptography",
         "pyyaml",

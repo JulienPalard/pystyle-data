@@ -37,11 +37,11 @@
         "html": 311,
         "js": 12962,
         "md": 27,
-        "py": 1169,
+        "py": 1183,
         "rst": 475,
         "txt": 20
     },
-    "pep8_infringement": 106,
+    "pep8_infringement": 116,
     "requirements": [
         "pymongo>=2.8"
     ],

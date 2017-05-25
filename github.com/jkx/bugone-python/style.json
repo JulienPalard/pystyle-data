@@ -33,9 +33,9 @@
     "lines_of_code": {
         "in": 3,
         "md": 40,
-        "py": 449
+        "py": 450
     },
-    "pep8_infringement": 100,
+    "pep8_infringement": 101,
     "requirements": [
         "pyserial"
     ],

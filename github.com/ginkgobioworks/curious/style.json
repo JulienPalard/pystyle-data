@@ -31,19 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 18,
+        "cfg": 15,
         "css": 80,
         "html": 540,
         "in": 7,
         "ini": 14,
         "js": 1760,
         "json": 13,
-        "py": 5307,
+        "py": 5322,
         "rst": 89,
         "txt": 32,
         "yml": 20
     },
-    "pep8_infringement": 1091,
+    "pep8_infringement": 1093,
     "requirements": [
         "django<1.7",
         "humanize",

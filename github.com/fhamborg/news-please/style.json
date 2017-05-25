@@ -35,11 +35,11 @@
         "hjson": 51,
         "in": 6,
         "md": 143,
-        "py": 4279,
+        "py": 4321,
         "svg": 30,
         "txt": 216
     },
-    "pep8_infringement": 371,
+    "pep8_infringement": 374,
     "requirements": [
         "beautifulsoup4>=4.5.1",
         "elasticsearch>=2.4",
@@ -51,5 +51,7 @@
         "readability-lxml>=0.6.2",
         "scrapy>=1.1.0"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

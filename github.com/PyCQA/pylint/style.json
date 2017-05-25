@@ -50,14 +50,14 @@
         "postrm": 8,
         "prerm": 6,
         "ps1": 27,
-        "py": 59128,
-        "rc": 262,
-        "rst": 3325,
+        "py": 59191,
+        "rc": 264,
+        "rst": 3327,
         "source": 4,
-        "txt": 1776,
+        "txt": 1778,
         "yml": 38
     },
-    "pep8_infringement": 41521,
+    "pep8_infringement": 41527,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 3

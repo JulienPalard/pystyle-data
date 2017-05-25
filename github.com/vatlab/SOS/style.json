@@ -34,24 +34,24 @@
         "css": 33505,
         "dot": 844,
         "fastq": 4000,
-        "html": 45999,
+        "html": 46256,
         "in": 12,
-        "ipynb": 26578,
+        "ipynb": 26932,
         "ipynb_ignored": 191,
-        "js": 19094,
+        "js": 19021,
         "json": 28,
         "less": 2544,
         "md": 235,
         "php": 26,
-        "py": 28943,
+        "py": 29497,
         "scss": 2559,
         "sh": 129,
         "sos": 686,
         "svg": 3806,
-        "tpl": 297,
+        "tpl": 402,
         "vim": 303
     },
-    "pep8_infringement": 4238,
+    "pep8_infringement": 4372,
     "requirements": [
         "fasteners",
         "ipykernel",
@@ -69,6 +69,6 @@
     ],
     "shebang": {
         "#!/usr/bin/env python": 12,
-        "#!/usr/bin/env python3": 69
+        "#!/usr/bin/env python3": 70
     }
 }

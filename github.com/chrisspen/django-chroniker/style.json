@@ -38,13 +38,13 @@
         "json": 521,
         "md": 222,
         "messages": 750,
-        "py": 6997,
+        "py": 7035,
         "rc": 355,
-        "sh": 2,
+        "sh": 7,
         "txt": 17,
         "yml": 10
     },
-    "pep8_infringement": 1771,
+    "pep8_infringement": 1773,
     "requirements": [
         "psutil>=2.1.1",
         "python-dateutil>=2.2",

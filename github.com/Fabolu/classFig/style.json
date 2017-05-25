@@ -31,16 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "html": 14,
         "md": 2,
-        "py": 227,
+        "py": 353,
         "txt": 17
     },
-    "pep8_infringement": 182,
+    "pep8_infringement": 215,
     "requirements": [
         "cycler",
         "matplotlib"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python3": 2
     }
 }

@@ -34,14 +34,14 @@
         "cfg": 2,
         "in": 1,
         "ini": 29,
-        "py": 1306,
+        "py": 1307,
         "rst": 131,
         "txt": 5
     },
-    "pep8_infringement": 55,
+    "pep8_infringement": 56,
     "requirements": [
         "oauthlib",
-        "pyjwt>=1.0.1,<2.0.0",
+        "pyjwt<2.0.0,>=1.0.1",
         "requests",
         "requests-oauthlib",
         "six"

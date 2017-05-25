@@ -38,12 +38,12 @@
         "in": 1,
         "ini": 27,
         "lower": 1021,
-        "py": 2889,
-        "rst": 536,
+        "py": 3218,
+        "rst": 549,
         "txt": 5,
         "yml": 31
     },
-    "pep8_infringement": 261,
+    "pep8_infringement": 312,
     "requirements": [
         "setuptools>=0.7",
         "six"

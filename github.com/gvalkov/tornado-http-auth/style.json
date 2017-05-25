@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -24,17 +24,18 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "py": 221,
+        "cfg": 15,
+        "py": 310,
         "rst": 66
     },
-    "pep8_infringement": 14,
+    "pep8_infringement": 16,
     "requirements": [],
     "shebang": {}
 }

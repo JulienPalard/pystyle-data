@@ -32,13 +32,13 @@
     "license": "MIT",
     "lines_of_code": {
         "fna": 2,
-        "md": 53,
-        "py": 2786,
+        "md": 55,
+        "py": 2799,
         "sam": 429346,
         "tsv": 38,
         "txt": 7
     },
-    "pep8_infringement": 1550,
+    "pep8_infringement": 1576,
     "requirements": [
         "lmfit",
         "matplotlib",

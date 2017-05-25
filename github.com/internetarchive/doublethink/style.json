@@ -31,12 +31,12 @@
     },
     "license": null,
     "lines_of_code": {
-        "py": 1336,
-        "rst": 69,
+        "py": 1567,
+        "rst": 71,
         "sh": 19,
         "txt": 201
     },
-    "pep8_infringement": 120,
+    "pep8_infringement": 150,
     "requirements": [],
     "shebang": {}
 }

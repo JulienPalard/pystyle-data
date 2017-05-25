@@ -32,10 +32,12 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
+        "ipynb": 292,
         "md": 39,
-        "py": 250
+        "mplstyle": 64,
+        "py": 370
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 87,
     "requirements": [
         "matplotlib"
     ],

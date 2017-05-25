@@ -39,7 +39,7 @@
         "in": 5,
         "json": 37,
         "md": 35,
-        "py": 11202,
+        "py": 11247,
         "rst": 1456,
         "txt": 5,
         "yml": 25
@@ -47,7 +47,7 @@
     "pep8_infringement": 73,
     "requirements": [
         "requests<3.0.0,>=2.0.0",
-        "six>=1.10.0,<2.0.0"
+        "six<2.0.0,>=1.10.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2,

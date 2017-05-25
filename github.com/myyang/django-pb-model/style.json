@@ -35,14 +35,14 @@
         "in": 4,
         "md": 2,
         "proto": 36,
-        "py": 709,
-        "rst": 300,
+        "py": 718,
+        "rst": 303,
         "sh": 62,
         "txt": 3
     },
-    "pep8_infringement": 72,
+    "pep8_infringement": 73,
     "requirements": [
-        "django<1.9,>=1.8",
+        "django>=1.8",
         "protobuf>=3.1"
     ],
     "shebang": {

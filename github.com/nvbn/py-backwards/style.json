@@ -31,17 +31,16 @@
     },
     "license": null,
     "lines_of_code": {
-        "md": 127,
-        "py": 1359,
-        "txt": 3
+        "md": 278,
+        "py": 2773,
+        "txt": 4
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 90,
     "requirements": [
-        "astunparse",
         "autopep8",
         "colorama",
-        "typed-ast",
-        "typed-astunparse"
+        "py-backwards-astunparse",
+        "typed-ast"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

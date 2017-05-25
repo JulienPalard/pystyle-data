@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 2,
+        "css": 90,
+        "html": 346,
+        "in": 4,
+        "js": 852,
+        "po": 239,
+        "py": 1228,
+        "rst": 23,
+        "svg": 55,
+        "txt": 15
+    },
+    "pep8_infringement": 19,
+    "requirements": [
+        "django>=1.8",
+        "social-auth-app-django>=1.0",
+        "social-auth-core>=1.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

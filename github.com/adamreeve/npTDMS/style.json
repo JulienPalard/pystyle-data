@@ -34,10 +34,9 @@
         "LESSER": 165,
         "cfg": 3,
         "in": 4,
-        "py": 3714,
+        "py": 3750,
         "rst": 361,
         "sh": 22,
-        "txt": 103,
         "yml": 31
     },
     "pep8_infringement": 71,

@@ -32,11 +32,11 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "md": 109,
-        "py": 657,
+        "md": 143,
+        "py": 828,
         "txt": 7
     },
-    "pep8_infringement": 253,
+    "pep8_infringement": 299,
     "requirements": [
         "lxml",
         "requests"

@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 55,
+        "html": 162,
+        "in": 61,
+        "ini": 66,
+        "py": 3031,
+        "rst": 569,
+        "sh": 81,
+        "txt": 51
+    },
+    "pep8_infringement": 61,
+    "requirements": [
+        "flask-babelex>=0.9.2",
+        "invenio-pidstore>=1.0.0b1",
+        "invenio-rest>=1.0.0a10",
+        "marshmallow>=2.12.2",
+        "six>=1.10",
+        "sqlalchemy>=1.0.9"
+    ],
+    "shebang": {}
+}

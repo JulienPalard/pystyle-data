@@ -54,7 +54,7 @@
         "requests>=1.0",
         "ruamel.yaml>=0.12.4",
         "setuptools",
-        "typing<3.6,>=3.5.2"
+        "typing>=3.5.2,<3.6"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

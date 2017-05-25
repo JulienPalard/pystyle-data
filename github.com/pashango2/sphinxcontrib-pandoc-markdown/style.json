@@ -34,9 +34,10 @@
         "cfg": 19,
         "in": 3,
         "md": 147,
-        "py": 571
+        "py": 563,
+        "wavedrom": 0
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 11,
     "requirements": [
         "markdown",
         "sphinx>=0.6"

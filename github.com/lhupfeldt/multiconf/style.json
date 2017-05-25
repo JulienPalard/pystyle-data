@@ -36,13 +36,13 @@
         "in": 3,
         "ini": 17,
         "md": 62,
-        "py": 18607,
+        "py": 18602,
         "rst": 56,
         "tenjin": 57,
         "txt": 44,
         "yml": 3
     },
-    "pep8_infringement": 1330,
+    "pep8_infringement": 1329,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1,

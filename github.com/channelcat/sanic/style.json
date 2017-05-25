@@ -39,13 +39,13 @@
         "in": 4,
         "ini": 34,
         "key": 27,
-        "md": 1705,
-        "py": 9031,
-        "rst": 200,
+        "md": 1728,
+        "py": 9248,
+        "rst": 199,
         "txt": 29,
         "yml": 27
     },
-    "pep8_infringement": 174,
+    "pep8_infringement": 186,
     "requirements": [
         "aiofiles",
         "httptools",

@@ -35,14 +35,14 @@
         "cfg": 14,
         "in": 15,
         "md": 59,
-        "py": 5016,
-        "rst": 295,
+        "py": 5014,
+        "rst": 306,
         "txt": 606,
         "txt#": 22
     },
-    "pep8_infringement": 856,
+    "pep8_infringement": 855,
     "requirements": [
-        "libtcod-cffi>=2.3.0,<3"
+        "libtcod-cffi<3,>=2.4.3"
     ],
     "shebang": {
         "#!/usr/bin/env python": 16,

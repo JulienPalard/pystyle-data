@@ -31,13 +31,13 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 43,
-        "py": 1488,
-        "sh": 51,
+        "md": 95,
+        "py": 1644,
+        "sh": 29,
         "txt": 9,
         "xml": 191729
     },
-    "pep8_infringement": 150,
+    "pep8_infringement": 190,
     "requirements": [
         "Unknown (git+https://github.com/miurahr/pykakasi)",
         "docopt>=0.6.2",
