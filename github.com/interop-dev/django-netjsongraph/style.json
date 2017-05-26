@@ -43,9 +43,9 @@
     },
     "pep8_infringement": 80,
     "requirements": [
-        "django>=1.9,<1.12",
+        "django<1.12,>=1.9",
         "django-model-utils",
-        "djangorestframework>=3.3,<3.7",
+        "djangorestframework<3.7,>=3.3",
         "jsonfield",
         "netdiff<=5.0,>=0.4.7",
         "six"

@@ -33,14 +33,14 @@
     "lines_of_code": {
         "arch": 37,
         "bat": 242,
-        "log": 2807,
-        "py": 12023,
-        "rst": 837,
-        "sh": 1170,
+        "log": 3070,
+        "py": 13000,
+        "rst": 855,
+        "sh": 1208,
         "slf": 70,
-        "txt": 217
+        "txt": 1233
     },
-    "pep8_infringement": 1075,
+    "pep8_infringement": 964,
     "requirements": [
         "h5py",
         "numpy",
@@ -48,6 +48,6 @@
         "theano"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 74
+        "#!/usr/bin/env python3": 82
     }
 }

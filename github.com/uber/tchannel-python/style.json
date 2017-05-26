@@ -52,7 +52,7 @@
         "opentracing>=1.1,<2",
         "opentracing-instrumentation>=2,<3",
         "threadloop>=1,<2",
-        "thriftrw>=0.4,<2",
+        "thriftrw<2,>=0.4",
         "tornado<5,>=4.3"
     ],
     "shebang": {

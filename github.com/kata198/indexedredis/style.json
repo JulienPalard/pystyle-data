@@ -31,14 +31,17 @@
     },
     "license": "LGPL-2.1",
     "lines_of_code": {
-        "html": 11256,
-        "in": 16,
-        "md": 429,
-        "py": 6287,
-        "rst": 448,
+        "0": 157,
+        "html": 16860,
+        "in": 21,
+        "md": 717,
+        "patch": 719,
+        "py": 12462,
+        "rst": 739,
+        "sh": 82,
         "txt": 2
     },
-    "pep8_infringement": 3957,
+    "pep8_infringement": 7597,
     "requirements": [
         "queryablelist",
         "queryablelist",
@@ -46,6 +49,6 @@
         "redis"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 19
+        "#!/usr/bin/env python": 31
     }
 }

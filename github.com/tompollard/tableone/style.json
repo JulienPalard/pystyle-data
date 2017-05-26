@@ -32,14 +32,15 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 5,
-        "ipynb": 591,
-        "py": 423,
-        "rst": 92
+        "ipynb": 651,
+        "py": 650,
+        "rst": 151
     },
-    "pep8_infringement": 69,
+    "pep8_infringement": 165,
     "requirements": [
+        "numpy>=1.12.1",
         "pandas>=0.18.1",
-        "scipy==0.18.1",
+        "scipy>=0.18.1",
         "tabulate>=0.7.7"
     ],
     "shebang": {}

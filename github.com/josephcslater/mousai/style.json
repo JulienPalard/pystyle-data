@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 2,
         "ini": 3,
-        "ipynb": 1818,
-        "py": 605,
-        "rst": 237,
+        "ipynb": 6879,
+        "py": 615,
+        "rst": 248,
         "txt": 29
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 6,
     "requirements": [
         "matplotlib",
         "numpy",

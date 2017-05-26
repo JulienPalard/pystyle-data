@@ -39,7 +39,7 @@
     "pep8_infringement": 2,
     "requirements": [
         "coverage",
-        "django<1.12.0,>=1.8",
+        "django>=1.8,<1.12.0",
         "flake8",
         "mock",
         "pyjwt<1.6.0,>=1.5.0"

@@ -31,11 +31,18 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "py": 339,
-        "rst": 31
+        "py": 345,
+        "rst": 35
     },
-    "pep8_infringement": 252,
-    "requirements": [],
+    "pep8_infringement": 254,
+    "requirements": [
+        "matplotlib",
+        "nose",
+        "numpy",
+        "python-dateutil",
+        "pytz",
+        "xarray"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 2
     }

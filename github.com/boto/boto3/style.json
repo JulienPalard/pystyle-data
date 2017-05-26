@@ -38,14 +38,14 @@
         "ini": 11,
         "json": 22302,
         "py": 17253,
-        "rst": 7867,
+        "rst": 7926,
         "txt": 10,
         "yml": 4
     },
     "pep8_infringement": 168,
     "requirements": [
         "botocore<1.6.0,>=1.5.0",
-        "jmespath>=0.7.1,<1.0.0",
+        "jmespath<1.0.0,>=0.7.1",
         "s3transfer<0.2.0,>=0.1.10"
     ],
     "shebang": {

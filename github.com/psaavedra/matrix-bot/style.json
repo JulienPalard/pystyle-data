@@ -31,15 +31,15 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "example": 35,
+        "example": 40,
         "in": 2,
         "md": 2,
-        "py": 581
+        "py": 858
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 33,
     "requirements": [
         "getconf",
-        "matrix-client",
+        "matrix-client>=0.0.6",
         "python-ldap"
     ],
     "shebang": {

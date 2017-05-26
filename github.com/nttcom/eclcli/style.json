@@ -33,14 +33,14 @@
     "lines_of_code": {
         "cfg": 399,
         "ini": 43,
-        "py": 68752,
+        "py": 68744,
         "rst": 79,
         "txt": 17
     },
     "pep8_infringement": 919,
     "requirements": [
-        "babel!=2.3.1,>=1.3,!=2.3.0,!=2.3.3,!=2.4.0,!=2.3.2",
-        "cliff>=1.15.0,!=1.16.0,!=1.17.0",
+        "babel!=2.4.0,!=2.3.0,>=1.3,!=2.3.1,!=2.3.2,!=2.3.3",
+        "cliff!=1.17.0,>=1.15.0,!=1.16.0",
         "keystoneauth1>=2.1.0",
         "openstacksdk>=0.8.1,<=0.9.4",
         "os-client-config>=1.13.1",
@@ -52,7 +52,7 @@
         "python-glanceclient>=2.0.0",
         "python-keystoneclient!=1.8.0,!=2.1.0,>=1.6.0",
         "python-novaclient!=2.33.0,>=2.29.0",
-        "requests!=2.9.0,>=2.8.1",
+        "requests>=2.8.1,!=2.9.0",
         "six>=1.9.0",
         "stevedore>=1.5.0"
     ],

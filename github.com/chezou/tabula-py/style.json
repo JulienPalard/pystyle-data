@@ -37,12 +37,12 @@
         "ini": 9,
         "ipynb": 5246,
         "json": 2,
-        "md": 141,
-        "py": 388,
+        "md": 148,
+        "py": 427,
         "tsv": 66,
         "txt": 11
     },
-    "pep8_infringement": 18,
+    "pep8_infringement": 21,
     "requirements": [
         "pandas",
         "requests"

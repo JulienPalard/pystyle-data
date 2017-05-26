@@ -41,8 +41,8 @@
     "pep8_infringement": 570,
     "requirements": [
         "ordereddict",
-        "ply",
         "ply==3.4",
+        "ply",
         "simplejson"
     ],
     "shebang": {

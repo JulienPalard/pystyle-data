@@ -36,12 +36,12 @@
         "html": 135,
         "in": 9,
         "ini": 29,
-        "py": 1732,
-        "rst": 726,
+        "py": 1734,
+        "rst": 744,
         "txt": 15,
         "yml": 42
     },
-    "pep8_infringement": 110,
+    "pep8_infringement": 112,
     "requirements": [
         "django",
         "django-jsonview>=0.5.0"

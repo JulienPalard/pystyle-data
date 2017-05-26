@@ -32,9 +32,9 @@
     "license": null,
     "lines_of_code": {
         "md": 2,
-        "py": 217
+        "py": 218
     },
-    "pep8_infringement": 60,
+    "pep8_infringement": 59,
     "requirements": [],
     "shebang": {}
 }

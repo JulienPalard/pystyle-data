@@ -12,8 +12,8 @@
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
@@ -35,26 +35,40 @@
         "gaf": 400,
         "gpad": 1985,
         "gpi": 200,
-        "ipynb": 635,
-        "json": 53933,
-        "md": 257,
-        "py": 6665,
+        "hpoa": 400,
+        "ipynb": 6588,
+        "json": 63829,
+        "md": 466,
+        "py": 8840,
+        "rdf": 9690,
+        "rst": 963,
+        "tsv": 77,
         "ttl": 9690,
-        "txt": 15
+        "txt": 17,
+        "yaml": 16
     },
-    "pep8_infringement": 1595,
+    "pep8_infringement": 1934,
     "requirements": [
+        "cachier==1.1.8",
         "jsonpath-rw>=0.0",
         "jsonpickle>=0.0",
+        "marshmallow>=0.0",
+        "matplotlib==2.0.0",
+        "networkx==1.11",
         "pip>=9.0.1",
+        "plotly==2.0.7",
         "prefixcommons>=0.0",
         "pydotplus>=0.0",
+        "pysolr==3.6.0",
         "pytest>=0.0",
         "pytest-logging>=0.0",
+        "requests>=0.0",
+        "scipy==0.19.0",
+        "sparqlwrapper==1.8.0",
         "wheel>0.25.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 9,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python3": 3
     }
 }

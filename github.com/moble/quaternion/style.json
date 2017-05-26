@@ -38,13 +38,13 @@
         "in": 3,
         "ipynb": 2162,
         "md": 359,
-        "py": 2688,
+        "py": 2780,
         "sh": 106,
         "txt": 6,
         "yaml": 24,
         "yml": 42
     },
-    "pep8_infringement": 379,
+    "pep8_infringement": 398,
     "requirements": [
         "numpy>=1.7",
         "scipy"

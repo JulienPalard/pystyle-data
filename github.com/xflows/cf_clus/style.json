@@ -33,12 +33,12 @@
     "lines_of_code": {
         "html": 601,
         "in": 4,
-        "json": 890,
+        "json": 995,
         "md": 2,
-        "py": 467,
+        "py": 495,
         "txt": 697
     },
-    "pep8_infringement": 63,
+    "pep8_infringement": 56,
     "requirements": [
         "liac-arff"
     ],

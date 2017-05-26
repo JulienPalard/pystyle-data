@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "base": 90,
+        "cfg": 6,
+        "css": 48,
+        "html": 6,
+        "in": 2,
+        "ini": 83,
+        "ipynb": 3840,
+        "j2": 4815,
+        "js": 2281,
+        "json": 85,
+        "md": 328,
+        "py": 12269,
+        "rst": 279,
+        "service": 10,
+        "sh": 34,
+        "txt": 43,
+        "vrt": 361,
+        "xsd": 439,
+        "yml": 804
+    },
+    "pep8_infringement": 1200,
+    "requirements": [
+        "fiona",
+        "futures",
+        "ipykernel",
+        "jupyter-client",
+        "mapnik",
+        "modestmaps",
+        "notebook",
+        "promise",
+        "rasterio",
+        "requests",
+        "shapely",
+        "shapely"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

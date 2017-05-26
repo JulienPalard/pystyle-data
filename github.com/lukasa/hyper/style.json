@@ -46,8 +46,8 @@
     },
     "pep8_infringement": 77,
     "requirements": [
-        "h2!=2.5.0,<3.0,>=2.4",
-        "hyperframe>=3.2,<4.0"
+        "h2!=2.5.0,>=2.4,<3.0",
+        "hyperframe<4.0,>=3.2"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1,

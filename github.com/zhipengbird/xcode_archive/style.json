@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -25,15 +25,18 @@
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": null,
     "lines_of_code": {
-        "md": 2
+        "md": 100,
+        "py": 825
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 382,
     "requirements": [],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
 }

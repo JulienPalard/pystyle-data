@@ -41,7 +41,7 @@
     },
     "pep8_infringement": 14,
     "requirements": [
-        "babel!=2.4.0,>=2.3.4",
+        "babel>=2.3.4,!=2.4.0",
         "decorator>=4.0.11",
         "django<1.12,>=1.11",
         "django-rest-swagger>=2.1.2",

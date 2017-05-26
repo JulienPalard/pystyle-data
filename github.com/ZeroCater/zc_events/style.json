@@ -40,13 +40,13 @@
     "pep8_infringement": 0,
     "requirements": [
         "boto==2.43.0",
-        "celery>=3.1.10,<4.0.0",
+        "celery<4.0.0,>=3.1.10",
         "inflection<0.4,>=0.3.1",
         "pika>=0.10.0,<0.11.0",
         "pika-pool>=0.1.3,<0.1.4",
         "pyjwt<2.0.0,>=1.4.0",
         "redis>=2.10.5,<2.11.0",
-        "ujson>=1.35,<1.36",
+        "ujson<1.36,>=1.35",
         "zc-common>=0.3.13"
     ],
     "shebang": {}

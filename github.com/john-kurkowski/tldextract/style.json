@@ -35,12 +35,12 @@
         "dat": 6,
         "in": 3,
         "ini": 25,
-        "md": 433,
-        "py": 976,
+        "md": 439,
+        "py": 1034,
         "txt": 1,
         "yaml": 20
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 56,
     "requirements": [
         "idna",
         "requests>=2.1.0",

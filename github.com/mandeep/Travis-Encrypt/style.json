@@ -32,10 +32,10 @@
     "license": null,
     "lines_of_code": {
         "ini": 2,
-        "py": 255,
-        "rst": 243
+        "py": 307,
+        "rst": 256
     },
-    "pep8_infringement": 24,
+    "pep8_infringement": 29,
     "requirements": [
         "click==6.6",
         "cryptography==1.7.1",

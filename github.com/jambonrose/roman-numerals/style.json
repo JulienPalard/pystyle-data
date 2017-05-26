@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "cfg": 5,
+        "in": 10,
+        "ini": 26,
+        "py": 361,
+        "pyi": 9,
+        "rst": 49,
+        "txt": 13
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "check-manifest==0.35",
+        "coverage==4.4.1",
+        "docutils==0.13.1",
+        "flake8==3.3.0",
+        "isort==4.2.5",
+        "mypy==0.511",
+        "pygments==2.2.0",
+        "pylint==1.7.1",
+        "pytest==3.0.7",
+        "pytest-cov==2.5.1",
+        "readme-renderer==17.2",
+        "tox==2.7.0",
+        "twine==1.9.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

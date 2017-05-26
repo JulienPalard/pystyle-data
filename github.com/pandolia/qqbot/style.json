@@ -31,20 +31,18 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "MD": 587,
+        "MD": 650,
         "cfg": 2,
         "html": 99,
         "md": 203,
-        "py": 4067,
+        "py": 4565,
         "sh": 21,
         "txt": 69
     },
-    "pep8_infringement": 815,
+    "pep8_infringement": 967,
     "requirements": [
         "apscheduler",
         "certifi",
-        "flask",
-        "prettytable",
         "requests"
     ],
     "shebang": {

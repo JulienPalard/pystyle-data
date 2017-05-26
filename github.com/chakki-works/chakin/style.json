@@ -32,15 +32,16 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "csv": 23,
-        "md": 75,
-        "py": 67,
+        "csv": 24,
+        "md": 76,
+        "py": 80,
         "txt": 7
     },
-    "pep8_infringement": 27,
+    "pep8_infringement": 28,
     "requirements": [
         "pandas>=0.20.1",
-        "progressbar2>=3.20.0"
+        "progressbar2>=3.20.0",
+        "six>=1.10.0"
     ],
     "shebang": {}
 }

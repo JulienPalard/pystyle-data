@@ -3,7 +3,7 @@
         "doc/": true,
         "docs/": false,
         "examples/": true,
-        "src/": false,
+        "src/": true,
         "test/": true,
         "tests/": false
     },
@@ -32,14 +32,15 @@
     "license": null,
     "lines_of_code": {
         "TXT": 25,
-        "cc": 816,
-        "hpp": 749,
+        "cc": 844,
+        "hpp": 780,
         "in": 6,
-        "md": 271,
-        "py": 2072,
-        "rst": 585
+        "md": 314,
+        "py": 2238,
+        "rst": 591,
+        "yml": 54
     },
-    "pep8_infringement": 319,
+    "pep8_infringement": 351,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 1

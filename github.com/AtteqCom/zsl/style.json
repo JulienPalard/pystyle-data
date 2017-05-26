@@ -34,13 +34,13 @@
         "cfg": 5,
         "cgi": 13,
         "cmd": 11,
-        "md": 95,
-        "py": 9802,
+        "md": 98,
+        "py": 9811,
         "rst": 623,
         "txt": 35,
         "wsgi": 34
     },
-    "pep8_infringement": 533,
+    "pep8_infringement": 535,
     "requirements": [
         "alembic",
         "bpython",

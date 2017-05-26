@@ -33,12 +33,12 @@
     "lines_of_code": {
         "in": 4,
         "md": 54,
-        "py": 701,
+        "py": 662,
         "rst": 212,
         "txt": 1,
         "yml": 1
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 9,
     "requirements": [
         "mockredispy>=2.9.3",
         "mogo>=0.4.0",

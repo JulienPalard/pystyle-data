@@ -35,10 +35,10 @@
         "in": 4,
         "json": 443,
         "md": 172,
-        "py": 768,
+        "py": 770,
         "txt": 24
     },
-    "pep8_infringement": 95,
+    "pep8_infringement": 98,
     "requirements": [
         "nose",
         "requests>=1.0.4",

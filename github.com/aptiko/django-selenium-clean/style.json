@@ -40,7 +40,7 @@
     "pep8_infringement": 0,
     "requirements": [
         "django>=1.8,<2",
-        "selenium>=2.40,<4"
+        "selenium<4,>=2.40"
     ],
     "shebang": {
         "#!/usr/bin/env python": 2

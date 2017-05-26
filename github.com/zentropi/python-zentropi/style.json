@@ -41,12 +41,12 @@
     },
     "pep8_infringement": 61,
     "requirements": [
-        "click>=6.7,<7.0",
-        "fuzzywuzzy<0.20,>=0.15.0",
-        "parse<2.0,>=1.8.0",
+        "click<7.0,>=6.7",
+        "fuzzywuzzy>=0.15.0,<0.20",
+        "parse>=1.8.0,<2.0",
         "prompt-toolkit<1.1,==1.0.14",
-        "pybloom-live<2.3,>=2.2.0",
-        "pygments<2.3,>=2.2.0",
+        "pybloom-live>=2.2.0,<2.3",
+        "pygments>=2.2.0,<2.3",
         "sortedcontainers>=1.5.7,<1.6"
     ],
     "shebang": {

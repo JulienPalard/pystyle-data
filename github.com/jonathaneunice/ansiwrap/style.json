@@ -33,11 +33,11 @@
     "lines_of_code": {
         "in": 8,
         "ini": 47,
-        "py": 560,
-        "rst": 41,
-        "yml": 6
+        "py": 596,
+        "rst": 48,
+        "yml": 12
     },
-    "pep8_infringement": 68,
+    "pep8_infringement": 82,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

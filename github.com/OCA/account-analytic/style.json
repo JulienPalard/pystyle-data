@@ -31,15 +31,15 @@
     },
     "license": "AGPL-3.0",
     "lines_of_code": {
-        "csv": 5,
-        "md": 50,
-        "po": 1606,
+        "csv": 9,
+        "md": 51,
+        "po": 1742,
         "pot": 599,
-        "py": 3860,
-        "rst": 645,
+        "py": 4514,
+        "rst": 803,
         "svg": 923,
         "txt": 1,
-        "xml": 1062
+        "xml": 1256
     },
     "pep8_infringement": 1,
     "requirements": [],

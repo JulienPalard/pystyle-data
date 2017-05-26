@@ -39,8 +39,8 @@
     },
     "pep8_infringement": 17,
     "requirements": [
-        "django>=1.8,<1.11",
-        "wagtail<1.9,>=1.6"
+        "django<1.11,>=1.8",
+        "wagtail>=1.6,<1.9"
     ],
     "shebang": {}
 }

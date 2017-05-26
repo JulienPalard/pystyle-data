@@ -20,8 +20,8 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -32,10 +32,11 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "in": 2,
-        "py": 755,
-        "rst": 105
+        "md": 116,
+        "py": 1186,
+        "rst": 143
     },
-    "pep8_infringement": 105,
+    "pep8_infringement": 199,
     "requirements": [],
     "shebang": {}
 }

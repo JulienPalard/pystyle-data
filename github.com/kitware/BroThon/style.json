@@ -36,13 +36,13 @@
         "csv": 32,
         "ini": 36,
         "ipynb": 1471,
-        "log": 734,
+        "log": 736,
         "md": 13,
-        "py": 1624,
-        "rst": 516,
+        "py": 1937,
+        "rst": 659,
         "yar": 1185
     },
-    "pep8_infringement": 164,
+    "pep8_infringement": 205,
     "requirements": [
         "pandas",
         "requests",

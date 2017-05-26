@@ -39,13 +39,13 @@
     },
     "pep8_infringement": 250,
     "requirements": [
-        "click<7,>=6",
+        "click>=6,<7",
         "croniter>=0.3,<0.4",
         "peewee>=2.9,<2.10",
         "redis",
-        "setproctitle<1.2,>=1.1",
-        "six>=1.10,<1.11",
-        "tabulate<0.8,>=0.7"
+        "setproctitle>=1.1,<1.2",
+        "six<1.11,>=1.10",
+        "tabulate>=0.7,<0.8"
     ],
     "shebang": {}
 }

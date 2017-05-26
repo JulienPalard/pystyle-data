@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -32,16 +32,18 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "in": 1,
-        "py": 1855,
-        "rst": 777,
-        "txt": 2
+        "json": 1,
+        "py": 1995,
+        "rst": 795,
+        "txt": 2,
+        "xml": 102242
     },
-    "pep8_infringement": 277,
+    "pep8_infringement": 298,
     "requirements": [
         "requests>=2.2.1",
         "xmltodict"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 3
+        "#!/usr/bin/env python": 4
     }
 }

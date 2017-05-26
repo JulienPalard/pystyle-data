@@ -34,11 +34,11 @@
         "cfg": 7,
         "in": 2,
         "md": 165,
-        "py": 6317,
+        "py": 6277,
         "rst": 494,
         "txt": 14
     },
-    "pep8_infringement": 1225,
+    "pep8_infringement": 1200,
     "requirements": [
         "dill",
         "h5py",

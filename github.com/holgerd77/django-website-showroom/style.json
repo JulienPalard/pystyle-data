@@ -43,9 +43,9 @@
     "pep8_infringement": 162,
     "requirements": [
         "django<2.0,>=1.11",
-        "django-haystack<2.7,>=2.6",
+        "django-haystack>=2.6,<2.7",
         "pillow",
-        "whoosh<2.8,>=2.7"
+        "whoosh>=2.7,<2.8"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

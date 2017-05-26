@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 35,
+        "designspace": 65,
+        "glif": 26,
+        "glyphs": 592,
+        "in": 7,
+        "md": 28,
+        "plist": 258,
+        "py": 1198,
+        "rst": 157,
+        "sh": 47,
+        "txt": 75
+    },
+    "pep8_infringement": 26,
+    "requirements": [
+        "booleanoperations>=0.7.0",
+        "cu2qu>=1.2.0",
+        "defcon>=0.3.3",
+        "fonttools>=3.13.0",
+        "glyphslib>=1.7.5",
+        "mutatormath>=2.0.4",
+        "ufo2ft>=0.5.3"
+    ],
+    "shebang": {}
+}

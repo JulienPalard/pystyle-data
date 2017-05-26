@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "html": 26,
+        "ini": 21,
+        "py": 4946,
+        "rst": 613,
+        "txt": 45,
+        "yaml": 51,
+        "yml": 22
+    },
+    "pep8_infringement": 447,
+    "requirements": [
+        "cache.py==0.1.2",
+        "deap==1.0.2.post2",
+        "decorator==4.0.10",
+        "dill==0.2.5",
+        "joblib==0.11",
+        "mpmath==0.19",
+        "numpy==1.11.2",
+        "pyyaml==3.12",
+        "pyzmq==16.0.2",
+        "scipy==0.19.0",
+        "sqlitedict==1.5.0",
+        "sympy==1.0",
+        "toolz==0.8.1"
+    ],
+    "shebang": {}
+}

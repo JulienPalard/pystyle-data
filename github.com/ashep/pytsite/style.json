@@ -33,18 +33,18 @@
     "lines_of_code": {
         "css": 32920,
         "html": 2050,
-        "jinja2": 560,
+        "jinja2": 561,
         "js": 113500,
         "json": 91,
         "less": 363,
         "map": 2,
-        "md": 9504,
-        "py": 23382,
+        "md": 9532,
+        "py": 23437,
         "svg": 3072,
         "txt": 46,
-        "yml": 916
+        "yml": 919
     },
-    "pep8_infringement": 1224,
+    "pep8_infringement": 1231,
     "requirements": [
         "exifread",
         "frozendict",

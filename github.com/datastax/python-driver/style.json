@@ -37,22 +37,22 @@
         "css_t": 9,
         "h": 1,
         "in": 6,
-        "ini": 19,
+        "ini": 33,
         "key": 27,
         "pem": 38,
-        "ps1": 101,
+        "ps1": 90,
         "pxd": 236,
-        "py": 58744,
+        "py": 59610,
         "pyx": 1292,
-        "rst": 5584,
+        "rst": 5621,
         "txt": 21,
-        "yaml": 139,
+        "yaml": 145,
         "yml": 26
     },
-    "pep8_infringement": 5180,
+    "pep8_infringement": 5303,
     "requirements": [
         "futures<=2.2.0",
-        "six>=1.6"
+        "six>=1.9"
     ],
     "shebang": {
         "#!/usr/bin/env python": 3,

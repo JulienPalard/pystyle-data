@@ -33,13 +33,13 @@
     "lines_of_code": {
         "bat": 36,
         "in": 8,
-        "pxd": 295,
-        "py": 2533,
-        "pyx": 727,
-        "rst": 372,
+        "pxd": 347,
+        "py": 2849,
+        "pyx": 961,
+        "rst": 413,
         "txt": 36
     },
-    "pep8_infringement": 468,
+    "pep8_infringement": 469,
     "requirements": [
         "aenum==2.0.7",
         "cython==0.25.2",

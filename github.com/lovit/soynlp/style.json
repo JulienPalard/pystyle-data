@@ -33,10 +33,10 @@
     "lines_of_code": {
         "ipynb": 1353,
         "md": 39,
-        "py": 754,
+        "py": 764,
         "txt": 98638
     },
-    "pep8_infringement": 273,
+    "pep8_infringement": 281,
     "requirements": [
         "numpy>=1.12.1",
         "psutil>=5.0.1"

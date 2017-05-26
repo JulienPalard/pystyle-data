@@ -39,14 +39,15 @@
         "h": 44,
         "hex": 41,
         "in": 6,
+        "m": 56,
         "out": 663,
         "out_dponly": 245,
-        "py": 1305,
-        "rst": 588,
+        "py": 1301,
+        "rst": 591,
         "stan": 245,
         "txt": 111
     },
-    "pep8_infringement": 1804,
+    "pep8_infringement": 1796,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 6,

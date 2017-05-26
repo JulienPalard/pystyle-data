@@ -32,11 +32,11 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "py": 711,
-        "sh": 5,
-        "txt": 150
+        "py": 761,
+        "sh": 9,
+        "txt": 167
     },
-    "pep8_infringement": 673,
+    "pep8_infringement": 718,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python3": 2

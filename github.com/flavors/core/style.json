@@ -34,12 +34,11 @@
         "cfg": 7,
         "in": 6,
         "ini": 25,
-        "py": 891,
+        "py": 1093,
         "rst": 45,
-        "txt": 8,
-        "yaml": 12
+        "txt": 8
     },
-    "pep8_infringement": 2,
+    "pep8_infringement": 0,
     "requirements": [
         "django>=1.10",
         "django-model-utils>=3.0.0",

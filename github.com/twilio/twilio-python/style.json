@@ -34,12 +34,12 @@
         "cfg": 5,
         "in": 2,
         "ini": 9,
-        "md": 660,
+        "md": 665,
         "pem": 3376,
-        "py": 97377,
+        "py": 97389,
         "txt": 13
     },
-    "pep8_infringement": 8814,
+    "pep8_infringement": 8815,
     "requirements": [
         "pyjwt>=1.4.2",
         "pytz",

@@ -40,7 +40,7 @@
     },
     "pep8_infringement": 345,
     "requirements": [
-        "djangorestframework>=3.3,<3.7"
+        "djangorestframework<3.7,>=3.3"
     ],
     "shebang": {
         "#!/usr/bin/env python": 4

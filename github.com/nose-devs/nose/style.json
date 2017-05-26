@@ -50,8 +50,8 @@
     },
     "pep8_infringement": 2190,
     "requirements": [
-        "coverage>=3.3,<4.0",
-        "coverage>=3.3"
+        "coverage>=3.3",
+        "coverage<4.0,>=3.3"
     ],
     "shebang": {
         "#!/usr/bin/env python": 4,

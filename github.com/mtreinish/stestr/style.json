@@ -40,10 +40,10 @@
     },
     "pep8_infringement": 66,
     "requirements": [
-        "Unknown (python-subunit>=0.18.0 )",
         "Unknown (fixtures>=3.0.0 )",
+        "Unknown (python-subunit>=0.18.0 )",
         "future",
-        "pbr!=2.1.0,>=2.0.0",
+        "pbr>=2.0.0,!=2.1.0",
         "pyyaml>=3.10.0",
         "six>=1.10.0",
         "testtools>=2.2.0"

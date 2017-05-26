@@ -31,12 +31,12 @@
     },
     "license": null,
     "lines_of_code": {
-        "MD": 13,
+        "MD": 82,
         "properties": 14,
-        "py": 5430,
+        "py": 5701,
         "txt": 28
     },
-    "pep8_infringement": 3014,
+    "pep8_infringement": 3190,
     "requirements": [
         "stomp.py"
     ],

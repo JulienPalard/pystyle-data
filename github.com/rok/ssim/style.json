@@ -33,12 +33,12 @@
     "lines_of_code": {
         "cfg": 2,
         "ini": 9,
-        "py": 505,
-        "rst": 46,
+        "py": 519,
+        "rst": 47,
         "txt": 2,
-        "yml": 461
+        "yml": 533
     },
-    "pep8_infringement": 43,
+    "pep8_infringement": 29,
     "requirements": [
         "python-dateutil",
         "pyyaml"

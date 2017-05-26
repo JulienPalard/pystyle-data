@@ -46,7 +46,7 @@
         "md": 113,
         "my": 1774,
         "pem": 104,
-        "py": 21244,
+        "py": 21293,
         "rst": 331,
         "sh": 185,
         "svg": 57,
@@ -55,7 +55,7 @@
         "yaml": 48371,
         "yml": 12
     },
-    "pep8_infringement": 1343,
+    "pep8_infringement": 1363,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 6,

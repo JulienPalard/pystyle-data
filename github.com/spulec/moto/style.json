@@ -40,13 +40,13 @@
         "java": 52,
         "js": 23628,
         "md": 507,
-        "py": 73652,
+        "py": 74474,
         "rb": 6,
         "rst": 566,
         "svg": 685,
         "txt": 903
     },
-    "pep8_infringement": 2135,
+    "pep8_infringement": 2182,
     "requirements": [
         "boto>=2.36.0",
         "boto3>=1.2.1",

@@ -41,7 +41,7 @@
     },
     "pep8_infringement": 930,
     "requirements": [
-        "urllib3<2.0,>=1.8"
+        "urllib3>=1.8,<2.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 3

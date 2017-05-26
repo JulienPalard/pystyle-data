@@ -45,7 +45,7 @@
     "pep8_infringement": 58,
     "requirements": [
         "bunch",
-        "django>=1.8,<1.12"
+        "django<1.12,>=1.8"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

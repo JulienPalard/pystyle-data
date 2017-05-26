@@ -39,7 +39,7 @@
     "requirements": [
         "mock",
         "uw-restclients-core>0.8.2,<1.0",
-        "uw-restclients-pws>=0.5,<1.0",
+        "uw-restclients-pws<1.0,>=0.5",
         "uw-restclients-sws>=0.5.3,<1.0"
     ],
     "shebang": {}

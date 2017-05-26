@@ -32,14 +32,15 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 24,
-        "json": 1441,
+        "csv": 199923,
+        "json": 1705,
         "jsonl": 20000,
         "md": 89,
-        "py": 14062,
+        "py": 15443,
         "rst": 344,
-        "txt": 24
+        "txt": 32
     },
-    "pep8_infringement": 2029,
+    "pep8_infringement": 1877,
     "requirements": [
         "arrow>=0.7.0",
         "docopt>=0.6.2",

@@ -47,7 +47,7 @@
         "cerberus>=1.0.0",
         "habanero>=0.2.6",
         "numpy>=1.11.0",
-        "orcid>=0.7.0,<1.0",
+        "orcid<1.0,>=0.7.0",
         "pint>=0.7.2",
         "pyyaml>=3.12,<4.0",
         "uncertainties>=3.0.1"

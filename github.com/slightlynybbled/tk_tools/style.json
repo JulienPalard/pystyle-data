@@ -33,10 +33,10 @@
     "lines_of_code": {
         "in": 1,
         "md": 206,
-        "py": 953,
+        "py": 1109,
         "txt": 14
     },
-    "pep8_infringement": 98,
+    "pep8_infringement": 108,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

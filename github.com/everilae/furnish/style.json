@@ -33,10 +33,10 @@
     "lines_of_code": {
         "cfg": 5,
         "in": 1,
-        "py": 481,
-        "rst": 90
+        "py": 599,
+        "rst": 88
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 25,
     "requirements": [
         "backports.typing",
         "requests"

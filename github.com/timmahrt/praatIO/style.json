@@ -38,10 +38,10 @@
         "TextGrid": 748,
         "ipynb": 1256,
         "praat": 458,
-        "py": 5540,
+        "py": 5545,
         "rst": 263
     },
-    "pep8_infringement": 824,
+    "pep8_infringement": 825,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2,

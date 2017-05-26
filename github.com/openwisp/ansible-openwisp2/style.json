@@ -32,9 +32,9 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "j2": 121,
-        "md": 330,
+        "md": 336,
         "py": 399,
-        "yml": 753
+        "yml": 767
     },
     "pep8_infringement": 97,
     "requirements": [],

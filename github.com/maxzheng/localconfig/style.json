@@ -32,11 +32,11 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 8,
-        "ini": 42,
+        "ini": 43,
         "py": 985,
-        "rst": 460
+        "rst": 466
     },
-    "pep8_infringement": 223,
+    "pep8_infringement": 102,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

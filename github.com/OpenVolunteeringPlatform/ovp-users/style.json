@@ -40,8 +40,8 @@
     },
     "pep8_infringement": 556,
     "requirements": [
-        "codecov>=2.0.5,<2.1.0",
-        "coverage>=4.2,<4.4.0",
+        "codecov<2.1.0,>=2.0.5",
+        "coverage<4.4.0,>=4.2",
         "django>=1.10.1,<1.11.0",
         "djangorestframework>=3.5.0,<3.6.0",
         "djangorestframework-jwt<2.0.0,>=1.8.0",
@@ -49,7 +49,7 @@
         "ovp-organizations<2.0.0,>=1.0.11",
         "ovp-projects<2.0.0,>=1.2.8",
         "ovp-uploads<2.0.0,>=1.0.0",
-        "python-dateutil>=2.5.3,<2.7.0",
+        "python-dateutil<2.7.0,>=2.5.3",
         "shortuuid<1.0.0,>=0.5.0"
     ],
     "shebang": {

@@ -31,9 +31,9 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "py": 1591
+        "py": 1631
     },
-    "pep8_infringement": 171,
+    "pep8_infringement": 174,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 4

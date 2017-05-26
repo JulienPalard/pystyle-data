@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": true,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 12,
+        "docs": 8,
+        "in": 16,
+        "ini": 35,
+        "py": 8369,
+        "sh": 34,
+        "txt": 7,
+        "yml": 19
+    },
+    "pep8_infringement": 1892,
+    "requirements": [
+        "construct>=2.5.2,<=2.5.3",
+        "dfdatetime>=20160814",
+        "libregf-python>=20150315",
+        "mock",
+        "pip>=7.0.0",
+        "pytest",
+        "six>=1.1.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/python": 8
+    }
+}

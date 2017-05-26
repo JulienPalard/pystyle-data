@@ -32,11 +32,11 @@
     "license": "GPL-3.0",
     "lines_of_code": {
         "csv": 33,
-        "py": 2006,
+        "py": 2004,
         "rst": 122,
         "txt": 340
     },
-    "pep8_infringement": 1871,
+    "pep8_infringement": 1870,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 17,

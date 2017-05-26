@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 53,
+        "html": 195,
+        "in": 47,
+        "ini": 67,
+        "po": 633,
+        "py": 2497,
+        "rst": 603,
+        "sh": 87,
+        "txt": 55
+    },
+    "pep8_infringement": 60,
+    "requirements": [
+        "flask>=0.11.1",
+        "flask-babelex>=0.9.3",
+        "flask-breadcrumbs>=0.3.0",
+        "flask-mail>=0.9.1",
+        "flask-menu>=0.4.0",
+        "flask-wtf>=0.13.1",
+        "invenio-accounts>=1.0.0b3",
+        "wtforms>=2.0.1"
+    ],
+    "shebang": {}
+}

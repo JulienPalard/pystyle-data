@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "bat": 281,
+        "cfg": 2,
+        "in": 5,
+        "json": 6,
+        "py": 3727,
+        "rst": 596,
+        "sql": 3309,
+        "svg": 33633,
+        "yaml": 71
+    },
+    "pep8_infringement": 4829,
+    "requirements": [
+        "argparse>=1.2.1",
+        "mysql-replication>=0.11",
+        "psycopg2>=2.7.0",
+        "pymysql>=0.7.6",
+        "pyyaml>=3.11",
+        "tabulate>=0.7.7"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

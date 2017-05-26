@@ -58,16 +58,16 @@
         "904": 9,
         "919": 9,
         "conf": 21,
-        "py": 726,
+        "py": 791,
         "rst": 254,
         "txt": 2
     },
-    "pep8_infringement": 43,
+    "pep8_infringement": 49,
     "requirements": [
         "pyyaml",
         "setuptools"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 5
+        "#!/usr/bin/env python": 6
     }
 }

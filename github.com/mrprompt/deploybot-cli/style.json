@@ -33,12 +33,13 @@
     "lines_of_code": {
         "cfg": 2,
         "md": 50,
-        "py": 730,
-        "txt": 682,
+        "py": 500,
+        "txt": 684,
         "yml": 8
     },
-    "pep8_infringement": 7,
+    "pep8_infringement": 21,
     "requirements": [
+        "deploybot-sdk",
         "python-http-client",
         "tableprint"
     ],

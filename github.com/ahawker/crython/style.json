@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 36,
+        "cfg": 9,
+        "in": 1,
+        "ini": 17,
+        "md": 154,
+        "py": 1776,
+        "rst": 29,
+        "txt": 54
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "bumpversion",
+        "codeclimate-test-reporter",
+        "coveralls",
+        "nose",
+        "ordereddict",
+        "pytest",
+        "pytest-cov",
+        "pytest-mock",
+        "pytest-pep8",
+        "six",
+        "sphinx==1.5.2",
+        "sphinx-rtd-theme",
+        "tox",
+        "tox-travis"
+    ],
+    "shebang": {}
+}

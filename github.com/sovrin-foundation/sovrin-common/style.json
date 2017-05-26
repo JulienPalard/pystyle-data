@@ -35,11 +35,11 @@
         "dockerfile": 26,
         "in": 2,
         "md": 143,
-        "py": 1572
+        "py": 1781
     },
-    "pep8_infringement": 67,
+    "pep8_infringement": 72,
     "requirements": [
-        "plenum-dev==0.3.105"
+        "plenum-dev==0.3.108"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

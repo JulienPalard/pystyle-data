@@ -31,15 +31,16 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ipynb": 1718,
+        "ipynb": 1985,
         "md": 291,
-        "py": 2033,
+        "py": 2080,
         "txt": 26657
     },
-    "pep8_infringement": 256,
+    "pep8_infringement": 267,
     "requirements": [
         "myvariant",
         "pandas",
+        "pathos",
         "pymongo",
         "pyvcf",
         "watchdog"

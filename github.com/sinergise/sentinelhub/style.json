@@ -32,11 +32,11 @@
     "license": null,
     "lines_of_code": {
         "in": 8,
-        "md": 55,
-        "py": 619,
+        "md": 105,
+        "py": 616,
         "txt": 3
     },
-    "pep8_infringement": 101,
+    "pep8_infringement": 98,
     "requirements": [
         "click",
         "requests"

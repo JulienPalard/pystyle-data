@@ -37,13 +37,13 @@
         "html": 311,
         "js": 12962,
         "md": 27,
-        "py": 1183,
-        "rst": 475,
+        "py": 1480,
+        "rst": 569,
         "txt": 20
     },
-    "pep8_infringement": 116,
+    "pep8_infringement": 135,
     "requirements": [
-        "pymongo>=2.8"
+        "pymongo>=3.4"
     ],
     "shebang": {}
 }

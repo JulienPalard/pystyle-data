@@ -31,10 +31,10 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "md": 2,
-        "py": 1637
+        "md": 63,
+        "py": 1798
     },
-    "pep8_infringement": 242,
+    "pep8_infringement": 258,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

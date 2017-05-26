@@ -34,21 +34,21 @@
         "cfg": 2,
         "csv": 6784,
         "in": 10,
-        "ini": 41,
+        "ini": 43,
         "json": 1234,
-        "md": 344,
-        "py": 2468,
+        "md": 345,
+        "py": 2477,
         "xlsx": 20,
         "yml": 120
     },
     "pep8_infringement": 44,
     "requirements": [
-        "click>=6.6,<7.0",
-        "datapackage>=0.8,<1.0",
-        "jsontableschema>=0.8.2,<1.0",
+        "click<7.0,>=6.6",
+        "datapackage>=0.8.9,<1.0",
+        "jsontableschema>=0.10.1,<1.0",
         "requests<3.0,>=2.10",
-        "six<2.0,>=1.9",
-        "tabulator<2.0,>=1.0.0a4"
+        "six>=1.9,<2.0",
+        "tabulator>=1.0.0a5,<2.0"
     ],
     "shebang": {}
 }

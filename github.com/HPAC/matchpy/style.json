@@ -41,7 +41,7 @@
     "pep8_infringement": 0,
     "requirements": [
         "hopcroftkarp<2.0,>=1.2",
-        "multiset<3.0,>=2.0"
+        "multiset>=2.0,<3.0"
     ],
     "shebang": {
         "#!/usr/bin/env python3": 1

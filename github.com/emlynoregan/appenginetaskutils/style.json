@@ -34,12 +34,12 @@
         "cfg": 2,
         "html": 30,
         "md": 128,
-        "py": 1378,
+        "py": 1461,
         "sh": 5,
         "txt": 204,
         "yaml": 33
     },
-    "pep8_infringement": 560,
+    "pep8_infringement": 601,
     "requirements": [
         "googleappenginecloudstorageclient",
         "yccloudpickle"

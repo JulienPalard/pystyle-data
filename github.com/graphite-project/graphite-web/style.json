@@ -54,7 +54,7 @@
     "pep8_infringement": 14149,
     "requirements": [
         "cairocffi",
-        "django<1.9.99,>=1.9",
+        "django>=1.9,<1.9.99",
         "django-tagging==0.4.3",
         "pyparsing",
         "pytz",

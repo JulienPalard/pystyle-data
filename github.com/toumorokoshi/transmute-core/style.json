@@ -35,17 +35,17 @@
         "cfg": 1,
         "html": 106,
         "in": 3,
-        "py": 3074,
-        "rst": 574,
+        "py": 3111,
+        "rst": 609,
         "txt": 2
     },
-    "pep8_infringement": 100,
+    "pep8_infringement": 99,
     "requirements": [
         "jinja2",
         "pyyaml",
-        "schematics>=2.0.0.dev2",
+        "schematics>=2.0.0",
         "six",
-        "swagger-schema"
+        "swagger-schema>=0.4.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1,

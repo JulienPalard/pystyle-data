@@ -31,18 +31,18 @@
     },
     "license": null,
     "lines_of_code": {
-        "conf": 65,
+        "conf": 71,
         "cps": 13186,
         "html": 51920,
         "ipynb": 7200,
-        "log": 223637,
+        "log": 226922,
         "md": 225,
         "pickle": 40844,
-        "py": 47607,
-        "txt": 2805,
+        "py": 48243,
+        "txt": 2806,
         "xml": 1601
     },
-    "pep8_infringement": 18036,
+    "pep8_infringement": 18481,
     "requirements": [
         "argparse",
         "lxml",
@@ -56,5 +56,8 @@
         "scipy",
         "scipy"
     ],
-    "shebang": {}
+    "shebang": {
+        "#! -*- coding: utf-8 -*-": 1,
+        "#!/usr/bin/env python2": 1
+    }
 }

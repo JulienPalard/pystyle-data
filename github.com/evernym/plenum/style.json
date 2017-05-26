@@ -37,11 +37,11 @@
         "in": 1,
         "ini": 0,
         "md": 540,
-        "py": 34602,
+        "py": 36075,
         "rst": 59,
         "xml": 24
     },
-    "pep8_infringement": 1242,
+    "pep8_infringement": 1295,
     "requirements": [
         "base58",
         "ioflo==1.5.4",
@@ -55,7 +55,7 @@
         "semver",
         "sortedcontainers==1.5.7",
         "state-trie-dev==0.1.15",
-        "stp-dev==0.1.49"
+        "stp-dev==0.1.51"
     ],
     "shebang": {
         "#! /usr/bin/env python3": 3,

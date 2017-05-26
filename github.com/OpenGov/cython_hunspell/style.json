@@ -46,7 +46,7 @@
     },
     "pep8_infringement": 62,
     "requirements": [
-        "cacheman>=2.0.6,<2.1.0"
+        "cacheman<2.1.0,>=2.0.6"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1
