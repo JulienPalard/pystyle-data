@@ -1,11 +1,11 @@
 {
     "has_dir": {
-        "doc/": true,
-        "docs/": false,
+        "doc/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -22,33 +22,25 @@
         "README": false,
         "README.md": false,
         "README.rst": true,
-        "pytest.ini": false,
+        "pytest.ini": true,
         "requirements.txt": false,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT",
+    "license": "LGPL-3.0",
     "lines_of_code": {
-        "cfg": 5,
-        "in": 2,
-        "ini": 14,
-        "json": 1,
-        "md": 31,
-        "py": 11476,
-        "rst": 1022,
-        "txt": 10,
-        "xml": 386,
-        "xsd": 7190
+        "in": 1,
+        "ini": 27,
+        "ipynb": 3106,
+        "py": 6770,
+        "rst": 1372,
+        "txt": 7
     },
-    "pep8_infringement": 1224,
+    "pep8_infringement": 23,
     "requirements": [
-        "defusedxml>=0.5",
-        "elementpath>=1.0.6"
+        "frozendict==1.2"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 9,
-        "#!/usr/bin/env python3": 1
-    }
+    "shebang": {}
 }

@@ -1,7 +1,7 @@
 {
     "has_dir": {
-        "doc/": true,
-        "docs/": false,
+        "doc/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -12,43 +12,41 @@
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": true,
+        "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": true,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": true
+        "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 5,
-        "in": 2,
-        "ini": 14,
-        "json": 1,
-        "md": 31,
-        "py": 11476,
-        "rst": 1022,
-        "txt": 10,
-        "xml": 386,
-        "xsd": 7190
+        "html": 41,
+        "md": 102,
+        "py": 695,
+        "rst": 124,
+        "txt": 59
     },
-    "pep8_infringement": 1224,
+    "pep8_infringement": 110,
     "requirements": [
-        "defusedxml>=0.5",
-        "elementpath>=1.0.6"
+        "dash",
+        "dash-core-components",
+        "dash-html-components",
+        "dash-renderer",
+        "django",
+        "plotly"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 9,
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python": 2
     }
 }

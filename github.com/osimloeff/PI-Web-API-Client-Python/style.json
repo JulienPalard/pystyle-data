@@ -1,7 +1,7 @@
 {
     "has_dir": {
-        "doc/": true,
-        "docs/": false,
+        "doc/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": true,
@@ -16,8 +16,8 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": true,
-        "MANIFEST.in": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -27,27 +27,21 @@
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": true,
-        "tox.ini": true
+        "tox.ini": false
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "bat": 242,
-        "in": 7,
-        "ini": 21,
-        "json": 94,
-        "md": 157,
-        "py": 16695,
-        "pyproj": 358,
-        "rst": 78,
-        "sln": 84,
-        "txt": 40
+        "md": 10982,
+        "py": 49085,
+        "txt": 11
     },
-    "pep8_infringement": 5244,
+    "pep8_infringement": 47534,
     "requirements": [
-        "requests>=2.10.0",
-        "six>=1.6"
+        "pandas>=0.20.3",
+        "requests",
+        "requests-kerberos",
+        "setuptools>=21.0.0",
+        "six>=1.10"
     ],
-    "shebang": {
-        "\ufeff#!/usr/bin/env python": 1
-    }
+    "shebang": {}
 }

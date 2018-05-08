@@ -1,18 +1,18 @@
 {
     "has_dir": {
-        "doc/": true,
+        "doc/": false,
         "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": true,
+        "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
@@ -31,24 +31,24 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 5,
-        "in": 2,
-        "ini": 14,
-        "json": 1,
-        "md": 31,
-        "py": 11476,
-        "rst": 1022,
-        "txt": 10,
-        "xml": 386,
-        "xsd": 7190
+        "cfg": 70,
+        "in": 12,
+        "ini": 21,
+        "lock": 559,
+        "py": 831,
+        "rst": 23
     },
-    "pep8_infringement": 1224,
+    "pep8_infringement": 0,
     "requirements": [
-        "defusedxml>=0.5",
-        "elementpath>=1.0.6"
+        "apistar",
+        "apistar-sqlalchemy",
+        "bcrypt",
+        "passlib",
+        "sqlalchemy",
+        "sqlalchemy-utils"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 9,
+        "#!/usr/bin/env python": 1,
         "#!/usr/bin/env python3": 1
     }
 }

@@ -1,0 +1,73 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 3,
+        "html": 217,
+        "in": 6,
+        "ini": 12,
+        "md": 27,
+        "py": 6621,
+        "toml": 76,
+        "txt": 1
+    },
+    "pep8_infringement": 275,
+    "requirements": [
+        "addict",
+        "aiohttp",
+        "aioredis",
+        "backoff",
+        "cachecontrol",
+        "cached-property",
+        "colorthief",
+        "fire",
+        "first",
+        "gunicorn",
+        "hug",
+        "kick",
+        "lockfile",
+        "mailer",
+        "msgpack",
+        "oauthlib",
+        "pandas",
+        "pony",
+        "psycopg2-binary",
+        "pycountry",
+        "python-unsplash-async",
+        "requests",
+        "requests-oauthlib",
+        "ujson"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 2
+    }
+}

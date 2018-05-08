@@ -1,6 +1,6 @@
 {
     "has_dir": {
-        "doc/": true,
+        "doc/": false,
         "docs/": false,
         "examples/": false,
         "src/": false,
@@ -12,43 +12,31 @@
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": true,
+        "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": true
+        "tox.ini": false
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "cfg": 5,
+        "cfg": 12,
         "in": 2,
-        "ini": 14,
-        "json": 1,
-        "md": 31,
-        "py": 11476,
-        "rst": 1022,
-        "txt": 10,
-        "xml": 386,
-        "xsd": 7190
+        "md": 22,
+        "py": 738
     },
-    "pep8_infringement": 1224,
-    "requirements": [
-        "defusedxml>=0.5",
-        "elementpath>=1.0.6"
-    ],
-    "shebang": {
-        "#!/usr/bin/env python": 9,
-        "#!/usr/bin/env python3": 1
-    }
+    "pep8_infringement": 67,
+    "requirements": [],
+    "shebang": {}
 }

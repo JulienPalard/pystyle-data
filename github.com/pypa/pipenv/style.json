@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "1": 1366,
+        "APACHE": 531,
+        "BSD": 69,
+        "LICENSE": 1449,
+        "LICENSE-MIT": 19,
+        "bash": 49,
+        "bat": 43,
+        "c": 239,
+        "cfg": 187,
+        "fish": 125,
+        "html": 212,
+        "in": 9,
+        "ini": 10,
+        "lock": 989,
+        "md": 223,
+        "patch": 4830,
+        "pem": 26762,
+        "py": 292642,
+        "rst": 2048,
+        "sh": 73,
+        "txt": 1911,
+        "yml": 57,
+        "zsh": 119
+    },
+    "pep8_infringement": 215480,
+    "requirements": [
+        "certifi",
+        "ordereddict",
+        "pip>=9.0.1",
+        "requests",
+        "setuptools>=36.2.1",
+        "virtualenv",
+        "virtualenv-clone>=0.2.5"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 20
+    }
+}

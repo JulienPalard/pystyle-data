@@ -1,7 +1,7 @@
 {
     "has_dir": {
-        "doc/": true,
-        "docs/": false,
+        "doc/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -12,43 +12,45 @@
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": true,
+        "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": true,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
         "README.md": false,
-        "README.rst": true,
+        "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": true
+        "tox.ini": false
     },
-    "license": "MIT",
+    "license": "GPL-3.0",
     "lines_of_code": {
-        "cfg": 5,
-        "in": 2,
-        "ini": 14,
-        "json": 1,
-        "md": 31,
-        "py": 11476,
-        "rst": 1022,
-        "txt": 10,
-        "xml": 386,
-        "xsd": 7190
+        "json": 2,
+        "md": 27,
+        "org": 1079,
+        "py": 6023,
+        "txt": 12
     },
-    "pep8_infringement": 1224,
+    "pep8_infringement": 33,
     "requirements": [
-        "defusedxml>=0.5",
-        "elementpath>=1.0.6"
+        "ase",
+        "future",
+        "matplotlib",
+        "networkx",
+        "nose",
+        "numpy",
+        "pandas",
+        "python-coveralls",
+        "scipy",
+        "sklearn",
+        "spglib",
+        "sqlalchemy"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 9,
-        "#!/usr/bin/env python3": 1
-    }
+    "shebang": {}
 }

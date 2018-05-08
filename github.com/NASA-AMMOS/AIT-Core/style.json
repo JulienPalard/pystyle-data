@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 272,
+        "cfg": 15,
+        "dat": 280,
+        "json": 484,
+        "md": 55,
+        "py": 16615,
+        "rst": 2339,
+        "sh": 58,
+        "tex": 4830,
+        "txt": 9,
+        "yaml": 1433,
+        "yml": 7
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "bottle==0.12.9",
+        "gevent==1.1.2",
+        "gevent-websocket==0.9.5",
+        "jsonschema==2.5.1",
+        "pyyaml==3.11",
+        "requests==2.9.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 23,
+        "#!/usr/bin/env python2.7": 13
+    }
+}
