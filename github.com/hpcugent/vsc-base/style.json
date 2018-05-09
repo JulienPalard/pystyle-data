@@ -1,10 +1,10 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -29,18 +29,17 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "LGPL-2.0",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "bash": 59,
+        "md": 66,
+        "py": 10805,
+        "rst": 104,
+        "sh": 58
     },
-    "pep8_infringement": 58,
-    "requirements": [
-        "numpy>=1<2"
-    ],
+    "pep8_infringement": 1305,
+    "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 4
     }
 }

@@ -5,19 +5,19 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
-        "AUTHORS.md": false,
+        "AUTHORS.md": true,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -27,20 +27,20 @@
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "in": 4,
+        "ini": 7,
+        "md": 312,
+        "py": 3335
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 64,
     "requirements": [
-        "numpy>=1<2"
+        "inflection",
+        "rethinkdb",
+        "six"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
-    }
+    "shebang": {}
 }

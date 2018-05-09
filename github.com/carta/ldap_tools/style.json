@@ -1,46 +1,51 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
-        "AUTHORS.rst": false,
+        "AUTHORS.rst": true,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": false,
+        "CHANGELOG.rst": true,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "cfg": 28,
+        "in": 15,
+        "ini": 76,
+        "py": 1895,
+        "rst": 301,
+        "txt": 57
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 9,
     "requirements": [
-        "numpy>=1<2"
+        "click",
+        "ldap3",
+        "pyyaml",
+        "sshpubkeys"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 1
     }
 }

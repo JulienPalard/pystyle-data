@@ -2,9 +2,9 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -18,29 +18,31 @@
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "cfg": 2,
+        "csv": 15,
+        "geojson": 265,
+        "kml": 953,
+        "md": 1714,
+        "py": 3583,
+        "tsv": 50,
+        "txt": 3
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 707,
     "requirements": [
-        "numpy>=1<2"
+        "requests"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
-    }
+    "shebang": {}
 }

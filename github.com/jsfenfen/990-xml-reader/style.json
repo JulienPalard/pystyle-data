@@ -11,36 +11,40 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "cfg": 2,
+        "csv": 3341,
+        "in": 2,
+        "ini": 5,
+        "json": 2,
+        "md": 624,
+        "py": 1690,
+        "txt": 2386
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 174,
     "requirements": [
-        "numpy>=1<2"
+        "requests",
+        "unicodecsv",
+        "xmltodict"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
-    }
+    "shebang": {}
 }

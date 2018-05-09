@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -29,18 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "GPL-3.0",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "csv": 789,
+        "lock": 470,
+        "md": 1,
+        "py": 4308
     },
-    "pep8_infringement": 58,
-    "requirements": [
-        "numpy>=1<2"
-    ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
-    }
+    "pep8_infringement": 71,
+    "requirements": [],
+    "shebang": {}
 }

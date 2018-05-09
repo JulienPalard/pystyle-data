@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -23,24 +23,30 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "BSD-3-Clause",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "bat": 36,
+        "cfg": 2,
+        "md": 92,
+        "py": 1605,
+        "rst": 78,
+        "txt": 58,
+        "ui": 86
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 135,
     "requirements": [
-        "numpy>=1<2"
+        "matplotlib",
+        "numpy",
+        "pyqt5",
+        "pyqtgraph",
+        "scikit-learn",
+        "scipy"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
-    }
+    "shebang": {}
 }

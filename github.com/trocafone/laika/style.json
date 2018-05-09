@@ -1,8 +1,8 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": false,
+        "docs/": true,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": false
@@ -17,30 +17,34 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "in": 4,
+        "json": 245,
+        "md": 58,
+        "py": 1749,
+        "rst": 827,
+        "txt": 3
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 63,
     "requirements": [
-        "numpy>=1<2"
+        "click==6.2",
+        "pandas==0.19.2",
+        "requests==2.9.1"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 1
     }
 }

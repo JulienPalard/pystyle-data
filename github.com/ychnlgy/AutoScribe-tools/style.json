@@ -22,25 +22,25 @@
         "README": false,
         "README.md": true,
         "README.rst": false,
-        "pytest.ini": false,
+        "pytest.ini": true,
         "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "ini": 5,
+        "md": 100,
+        "py": 1206,
+        "rrf": 41,
+        "tsv": 6,
+        "txt": 35347
     },
-    "pep8_infringement": 58,
-    "requirements": [
-        "numpy>=1<2"
-    ],
+    "pep8_infringement": 202,
+    "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/python3": 3
     }
 }

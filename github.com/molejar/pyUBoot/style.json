@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -23,7 +23,7 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,16 +31,17 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "its": 33,
+        "md": 480,
+        "py": 2799,
+        "txt": 39
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 111,
     "requirements": [
-        "numpy>=1<2"
+        "click>=5.0",
+        "fdt>=0.1.2"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 1
     }
 }

@@ -17,30 +17,32 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "cfg": 5,
+        "in": 1,
+        "md": 44,
+        "py": 92
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 3,
     "requirements": [
-        "numpy>=1<2"
+        "beautifulsoup4",
+        "click",
+        "requests"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#! /usr/bin/env python": 1
     }
 }

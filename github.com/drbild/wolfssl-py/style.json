@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": false,
-        "src/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": true,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -15,32 +15,40 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
-        "Makefile": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": null,
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "in": 10,
+        "ini": 10,
+        "patch": 544,
+        "pem": 425,
+        "py": 2108,
+        "rst": 260,
+        "sh": 69,
+        "txt": 10
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 69,
     "requirements": [
-        "numpy>=1<2"
+        "cffi",
+        "pytest",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "tox"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 4
     }
 }

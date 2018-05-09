@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -11,17 +11,17 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -31,16 +31,31 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "css": 13,
+        "csv": 4,
+        "dat": 1,
+        "in": 1,
+        "json": 775,
+        "jsonl": 3,
+        "md": 860,
+        "py": 70949,
+        "pyi": 3,
+        "rst": 5900,
+        "sh": 27,
+        "txt": 1529,
+        "yml": 11
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 6024,
     "requirements": [
-        "numpy>=1<2"
+        "lmdb>=0.94,<1.0.0",
+        "msgpack==0.5.1",
+        "pyopenssl<18.0.0,>=16.2.0",
+        "regex>=2017.9.23",
+        "tornado>=3.2.2,<5.0.0",
+        "xxhash>=1.0.1,<2.0.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python": 8,
         "#!/usr/bin/env python3": 2
     }
 }

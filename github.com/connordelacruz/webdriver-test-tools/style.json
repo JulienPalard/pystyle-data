@@ -1,10 +1,10 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -17,30 +17,35 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "cfg": 2,
+        "css": 746,
+        "html": 28969,
+        "in": 1,
+        "j2": 464,
+        "js": 13182,
+        "py": 3848,
+        "rst": 1773,
+        "sh": 13,
+        "svg": 2671,
+        "txt": 1245
     },
-    "pep8_infringement": 58,
-    "requirements": [
-        "numpy>=1<2"
-    ],
+    "pep8_infringement": 555,
+    "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python3": 6
     }
 }

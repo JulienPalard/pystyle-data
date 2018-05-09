@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -20,8 +20,8 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -29,18 +29,21 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 899,
-        "md": 18,
-        "py": 1956
+        "10n": 46,
+        "10o": 175,
+        "17n": 39,
+        "py": 1113,
+        "rst": 98
     },
-    "pep8_infringement": 58,
+    "pep8_infringement": 698,
     "requirements": [
-        "numpy>=1<2"
+        "netcdf4",
+        "numpy",
+        "xarray"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 2
+        "#!/usr/bin/env python": 4
     }
 }
