@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -29,17 +29,14 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0",
+    "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 1004,
-        "rst": 355,
-        "txt": 5,
-        "xml": 354
+        "md": 1,
+        "py": 897
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 102,
     "requirements": [],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

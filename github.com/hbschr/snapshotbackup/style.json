@@ -1,11 +1,11 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -18,28 +18,34 @@
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 1004,
-        "rst": 355,
-        "txt": 5,
-        "xml": 354
+        "demo": 38,
+        "ini": 53,
+        "md": 94,
+        "py": 1080,
+        "rst": 22,
+        "txt": 41
     },
-    "pep8_infringement": 1,
-    "requirements": [],
-    "shebang": {}
+    "pep8_infringement": 50,
+    "requirements": [
+        "dateparser>=0.7.0",
+        "python-dateutil>=2.7.2",
+        "pytz>=2018.4",
+        "setuptools-scm>=2.0.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 10,
+        "csv": 8,
+        "in": 20,
+        "ini": 2,
+        "json": 213,
+        "py": 8855,
+        "rst": 1161,
+        "txt": 15,
+        "yml": 2129
+    },
+    "pep8_infringement": 1299,
+    "requirements": [
+        "ckanapi>=4.1",
+        "hdx-python-country>=1.2.4",
+        "ndg-httpsclient",
+        "pyasn1",
+        "pyopenssl",
+        "python-dateutil",
+        "requests>=2.18.4",
+        "scraperwiki>=0.5.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

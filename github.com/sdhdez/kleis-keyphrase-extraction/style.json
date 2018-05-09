@@ -3,9 +3,9 @@
         "doc/": false,
         "docs/": false,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -25,21 +25,23 @@
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": false,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 1004,
-        "rst": 355,
-        "txt": 5,
-        "xml": 354
+        "cfg": 18,
+        "ipynb": 10384,
+        "md": 79,
+        "py": 1183,
+        "sh": 5,
+        "yml": 23
     },
-    "pep8_infringement": 1,
-    "requirements": [],
+    "pep8_infringement": 112,
+    "requirements": [
+        "nltk",
+        "python-crfsuite"
+    ],
     "shebang": {}
 }

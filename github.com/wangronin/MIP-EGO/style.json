@@ -2,10 +2,10 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -13,33 +13,42 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
-        "setup.py": false,
+        "setup.cfg": true,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
+        "R": 74,
         "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 1004,
-        "rst": 355,
-        "txt": 5,
-        "xml": 354
+        "in": 2,
+        "md": 242,
+        "py": 6313,
+        "txt": 56
     },
-    "pep8_infringement": 1,
-    "requirements": [],
-    "shebang": {}
+    "pep8_infringement": 1397,
+    "requirements": [
+        "dill",
+        "joblib",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python2": 12,
+        "#!/usr/bin/env python3.0": 1
+    }
 }

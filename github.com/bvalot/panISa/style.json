@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -17,29 +17,33 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
-        "setup.py": false,
+        "setup.cfg": true,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0",
+    "license": "GPL-3.0",
     "lines_of_code": {
+        "R": 101,
         "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 1004,
-        "rst": 355,
-        "txt": 5,
-        "xml": 354
+        "fasta": 155804,
+        "in": 5,
+        "py": 2018,
+        "rst": 110
     },
-    "pep8_infringement": 1,
-    "requirements": [],
-    "shebang": {}
+    "pep8_infringement": 1274,
+    "requirements": [
+        "pysam>=0.9",
+        "requests>=2.12"
+    ],
+    "shebang": {
+        "#!/usr/bin/python": 11
+    }
 }

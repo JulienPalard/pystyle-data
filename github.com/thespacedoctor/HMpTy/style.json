@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -27,25 +27,41 @@
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": true
+        "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 2,
-        "css": 69,
-        "in": 4,
-        "ini": 21,
-        "js": 198,
-        "md": 343,
-        "py": 2178,
-        "rst": 412,
-        "txt": 21
+        "bat": 281,
+        "cc": 9665,
+        "cfg": 48,
+        "cpp": 4889,
+        "css": 327,
+        "csv": 3001,
+        "dat": 8,
+        "h": 5754,
+        "html": 5,
+        "hxx": 424,
+        "i": 138,
+        "in": 10,
+        "inc": 47,
+        "log": 682,
+        "md": 302,
+        "py": 3626,
+        "rst": 1134,
+        "sh": 1,
+        "table": 9,
+        "txt": 7,
+        "yaml": 67
     },
-    "pep8_infringement": 107,
+    "pep8_infringement": 271,
     "requirements": [
-        "django>=1.8"
+        "astrocalc",
+        "docopt",
+        "fundamentals",
+        "hmpty",
+        "pyyaml"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1
+        "#!/usr/local/bin/python": 6
     }
 }
