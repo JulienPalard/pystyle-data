@@ -1,14 +1,14 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -22,7 +22,7 @@
         "README": false,
         "README.md": true,
         "README.rst": false,
-        "pytest.ini": true,
+        "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
@@ -31,16 +31,27 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "in": 1,
+        "ipynb": 134,
+        "md": 10,
+        "py": 8727
     },
-    "pep8_infringement": 205,
-    "requirements": [],
-    "shebang": {
-        "#!/usr/bin/python3": 3
-    }
+    "pep8_infringement": 1828,
+    "requirements": [
+        "fxcmpy",
+        "jupyter",
+        "jupyterlab",
+        "matplotlib",
+        "memory-profiler",
+        "numpy",
+        "oandapyv20",
+        "pandas",
+        "pytz",
+        "requests",
+        "scikit-learn",
+        "scipy",
+        "statsmodels",
+        "tables"
+    ],
+    "shebang": {}
 }

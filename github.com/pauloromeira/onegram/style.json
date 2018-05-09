@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -18,7 +18,7 @@
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": true,
         "README.rst": false,
@@ -31,16 +31,22 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "ini": 6,
+        "json": 5149,
+        "lock": 356,
+        "md": 148,
+        "py": 1328,
+        "sh": 1
     },
-    "pep8_infringement": 205,
-    "requirements": [],
+    "pep8_infringement": 75,
+    "requirements": [
+        "jmespath>=0.9.3",
+        "python-decouple>=3.1",
+        "requests>=2.18.4",
+        "sessionlib>=0.2.0",
+        "tenacity>=4.9.0"
+    ],
     "shebang": {
-        "#!/usr/bin/python3": 3
+        "#!/usr/bin/env python": 2
     }
 }

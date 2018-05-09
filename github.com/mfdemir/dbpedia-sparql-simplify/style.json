@@ -16,7 +16,7 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
@@ -29,10 +29,11 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "md": 1,
-        "py": 363
+        "md": 16,
+        "py": 363,
+        "txt": 17
     },
     "pep8_infringement": 43,
     "requirements": [],

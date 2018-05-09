@@ -22,8 +22,8 @@
         "README": false,
         "README.md": true,
         "README.rst": false,
-        "pytest.ini": true,
-        "requirements.txt": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,16 +31,24 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "afa": 8026,
+        "cm": 116502,
+        "md": 75,
+        "py": 7061,
+        "sh": 28,
+        "txt": 6
     },
-    "pep8_infringement": 205,
-    "requirements": [],
+    "pep8_infringement": 3026,
+    "requirements": [
+        "biopython",
+        "networkx",
+        "numpy",
+        "pandas",
+        "python-levenshtein"
+    ],
     "shebang": {
-        "#!/usr/bin/python3": 3
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 50,
+        "#!/usr/bin/python": 1
     }
 }

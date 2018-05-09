@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -20,10 +20,10 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": false,
-        "pytest.ini": true,
-        "requirements.txt": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,16 +31,14 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "conf": 1,
+        "py": 2830,
+        "txt": 3
     },
-    "pep8_infringement": 205,
-    "requirements": [],
-    "shebang": {
-        "#!/usr/bin/python3": 3
-    }
+    "pep8_infringement": 150,
+    "requirements": [
+        "amino==13.0.0a28",
+        "psutil==5.3.1"
+    ],
+    "shebang": {}
 }

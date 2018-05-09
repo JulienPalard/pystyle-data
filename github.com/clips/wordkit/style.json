@@ -20,27 +20,28 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": false,
-        "pytest.ini": true,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": "GPL-3.0",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "MD": 713,
+        "cfg": 2,
+        "py": 3864,
+        "txt": 6
     },
-    "pep8_infringement": 205,
-    "requirements": [],
-    "shebang": {
-        "#!/usr/bin/python3": 3
-    }
+    "pep8_infringement": 0,
+    "requirements": [
+        "ipapy",
+        "numpy>=1.11.0",
+        "pandas",
+        "scikit-learn"
+    ],
+    "shebang": {}
 }

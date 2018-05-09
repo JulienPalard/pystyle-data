@@ -33,10 +33,10 @@
     "lines_of_code": {
         "log": 0,
         "md": 10,
-        "py": 195,
+        "py": 197,
         "txt": 21
     },
-    "pep8_infringement": 98,
+    "pep8_infringement": 96,
     "requirements": [
         "numpy"
     ],

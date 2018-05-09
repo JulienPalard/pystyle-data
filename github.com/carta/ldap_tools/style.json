@@ -31,9 +31,10 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 28,
-        "in": 15,
+        "cfg": 33,
+        "in": 16,
         "ini": 76,
+        "lock": 215,
         "py": 1895,
         "rst": 301,
         "txt": 57

@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -14,7 +14,7 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
@@ -23,32 +23,33 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "lines_of_code": {
-        "cfg": 70,
-        "in": 12,
-        "ini": 21,
-        "lock": 559,
-        "py": 873,
-        "rst": 23
+        "css": 27785,
+        "html": 2396,
+        "in": 9,
+        "ini": 16,
+        "js": 40515,
+        "json": 385,
+        "map": 12,
+        "md": 2694,
+        "py": 3797,
+        "rst": 1278,
+        "svg": 2973,
+        "txt": 70
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 929,
     "requirements": [
-        "apistar",
-        "apistar-sqlalchemy",
-        "bcrypt",
-        "passlib",
-        "sqlalchemy",
-        "sqlalchemy-utils"
+        "django-crispy-forms",
+        "djangoajax"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python": 2
     }
 }

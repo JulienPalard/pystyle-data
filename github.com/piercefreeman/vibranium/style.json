@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -14,11 +14,11 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
@@ -29,26 +29,29 @@
         "test-requirements.txt": false,
         "tox.ini": true
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "cfg": 70,
-        "in": 12,
-        "ini": 21,
-        "lock": 559,
-        "py": 873,
-        "rst": 23
+        "bat": 36,
+        "cfg": 27,
+        "in": 10,
+        "ini": 17,
+        "py": 753,
+        "rst": 221,
+        "txt": 11
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 44,
     "requirements": [
-        "apistar",
-        "apistar-sqlalchemy",
-        "bcrypt",
-        "passlib",
-        "sqlalchemy",
-        "sqlalchemy-utils"
+        "bumpversion==0.5.3",
+        "coverage==4.5.1",
+        "flake8==3.5.0",
+        "pip==9.0.1",
+        "sphinx==1.7.1",
+        "tox==2.9.1",
+        "twine==1.10.0",
+        "watchdog==0.8.3",
+        "wheel==0.30.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python": 3
     }
 }

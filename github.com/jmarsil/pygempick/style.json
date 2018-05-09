@@ -21,7 +21,7 @@
         "Makefile": false,
         "README": false,
         "README.md": true,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -33,12 +33,15 @@
     "lines_of_code": {
         "in": 1,
         "md": 32,
-        "py": 692
+        "py": 1369,
+        "rst": 110
     },
-    "pep8_infringement": 562,
+    "pep8_infringement": 1108,
     "requirements": [
         "numpy",
         "pandas"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python3": 2
+    }
 }

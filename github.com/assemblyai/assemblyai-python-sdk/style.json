@@ -34,16 +34,17 @@
         "bat": 36,
         "cfg": 25,
         "in": 12,
-        "ini": 27,
-        "md": 99,
-        "py": 555,
-        "rst": 353,
-        "txt": 14
+        "ini": 28,
+        "md": 131,
+        "py": 557,
+        "rst": 365,
+        "txt": 15
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 4,
     "requirements": [
-        "click>=6.0",
-        "requests>=2.18.4"
+        "click>=6.7",
+        "requests>=2.18.4",
+        "wikipedia>=1.4.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

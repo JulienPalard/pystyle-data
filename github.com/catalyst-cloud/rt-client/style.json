@@ -15,32 +15,31 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
-        "pytest.ini": true,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "cfg": 27,
+        "py": 1927,
+        "rst": 7,
+        "txt": 2
     },
-    "pep8_infringement": 205,
-    "requirements": [],
-    "shebang": {
-        "#!/usr/bin/python3": 3
-    }
+    "pep8_infringement": 40,
+    "requirements": [
+        "pbr>=4.0.2",
+        "requests>=2.18.4"
+    ],
+    "shebang": {}
 }

@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -22,25 +22,22 @@
         "README": false,
         "README.md": true,
         "README.rst": false,
-        "pytest.ini": true,
+        "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "ini": 5,
-        "md": 100,
-        "py": 1247,
-        "rrf": 41,
-        "tsv": 6,
-        "txt": 35347
+        "cfg": 2,
+        "md": 359,
+        "py": 986
     },
-    "pep8_infringement": 205,
+    "pep8_infringement": 21,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/python3": 3
+        "#!/usr/bin/env python": 2
     }
 }
