@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -15,31 +15,35 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
-        "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
-        "test-requirements.txt": false,
+        "test-requirements.txt": true,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "cfg": 2,
+        "html": 27,
+        "in": 4,
+        "ini": 4,
+        "md": 368,
+        "py": 946,
+        "txt": 22
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 8,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "blinker",
+        "peewee",
+        "pendulum>=2.0.0"
     ],
     "shebang": {}
 }

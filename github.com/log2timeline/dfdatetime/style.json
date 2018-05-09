@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -15,31 +15,36 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
-        "README": false,
+        "README": true,
         "README.md": false,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": null,
+    "license": "Apache-2.0",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "cfg": 8,
+        "in": 11,
+        "ini": 34,
+        "install": 4,
+        "py": 8784,
+        "sh": 163,
+        "txt": 1,
+        "yml": 26
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 1346,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "pip>=7.0.0"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 20
+    }
 }

@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -20,26 +20,22 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
-        "setup.py": true,
+        "setup.py": false,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "md": 49,
+        "py": 508,
+        "txt": 19
     },
-    "pep8_infringement": 108,
-    "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
-    ],
+    "pep8_infringement": 490,
+    "requirements": [],
     "shebang": {}
 }

@@ -1,45 +1,52 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "bat": 263,
+        "cfg": 5,
+        "css": 15,
+        "html": 6,
+        "in": 8,
+        "md": 347,
+        "py": 8642,
+        "pyproj": 165,
+        "rst": 917,
+        "sh": 85,
+        "sln": 20,
+        "txt": 22
     },
-    "pep8_infringement": 108,
-    "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
-    ],
-    "shebang": {}
+    "pep8_infringement": 1549,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

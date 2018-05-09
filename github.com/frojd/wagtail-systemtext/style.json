@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -15,12 +15,12 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
@@ -29,17 +29,20 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "in": 1,
+        "md": 149,
+        "py": 1219,
+        "sh": 38,
+        "txt": 9
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 13,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "requests",
+        "wagtail>=1.7"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
 }

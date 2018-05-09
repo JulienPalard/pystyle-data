@@ -1,9 +1,9 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
         "tests/": false
     },
@@ -29,17 +29,39 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 6,
-        "md": 15,
-        "po": 3896,
-        "py": 852,
-        "rst": 296,
-        "txt": 4,
-        "xml": 354
+        "MPL2": 373,
+        "README": 18,
+        "bat": 36,
+        "c": 156761,
+        "cmake": 937,
+        "cmakein": 513,
+        "cpp": 38132,
+        "css": 65,
+        "glsl": 242,
+        "h": 246209,
+        "hpp": 1009,
+        "html": 1056,
+        "in": 314,
+        "inl": 167,
+        "json": 1181002,
+        "log": 469,
+        "m": 3602,
+        "match": 5,
+        "md": 1016,
+        "ply": 16,
+        "prebuilt": 216,
+        "py": 3479,
+        "rst": 11619,
+        "sh": 198,
+        "svg": 854,
+        "txt": 5309,
+        "xyz": 4
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 682,
     "requirements": [],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python3": 2
+    }
 }

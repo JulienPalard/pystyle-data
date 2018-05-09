@@ -3,9 +3,9 @@
         "doc/": false,
         "docs/": false,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -15,31 +15,33 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
         "README.md": false,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MPL-2.0",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "cfg": 2,
+        "py": 3180,
+        "rst": 18
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 336,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "isodate>=0.6.0",
+        "webob>=1.8.1",
+        "wrapt>=1.10.11"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

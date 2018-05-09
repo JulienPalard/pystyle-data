@@ -15,31 +15,36 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "Apache-2.0",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "cfg": 3,
+        "html": 22,
+        "in": 5,
+        "po": 159,
+        "py": 643,
+        "rst": 90,
+        "txt": 8
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 126,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "django>=1.4",
+        "django-fluent-contents>=1.0"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

@@ -15,31 +15,37 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
+        "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
+        "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "ipynb": 17357,
-        "md": 37,
-        "py": 429
+        "md": 2,
+        "py": 120
     },
-    "pep8_infringement": 108,
+    "pep8_infringement": 37,
     "requirements": [
-        "numpy",
-        "pandas",
-        "sklearn"
+        "attrs==18.1.0",
+        "automat==0.6.0",
+        "constantly==15.1.0",
+        "hyperlink==18.0.0",
+        "idna==2.6",
+        "incremental==17.5.0",
+        "mysql-connector==2.1.6",
+        "six==1.11.0",
+        "twisted==18.4.0",
+        "zope.interface==4.5.0"
     ],
     "shebang": {}
 }
