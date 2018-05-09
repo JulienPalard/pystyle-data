@@ -20,32 +20,27 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 43,
-        "pem": 50,
-        "py": 1933,
-        "rst": 37,
-        "sh": 89,
-        "yaml": 88
+        "html": 280,
+        "md": 50,
+        "py": 689,
+        "txt": 3
     },
-    "pep8_infringement": 31,
+    "pep8_infringement": 4,
     "requirements": [
-        "autosemver~=0.0,>=0.5.3",
-        "mitmproxy~=3.0,>=3.0.4",
-        "pathlib>=1.0.1,~=1.0",
-        "pyyaml>=3.12,~=3.0"
+        "beautifulsoup4",
+        "lxml",
+        "six"
     ],
-    "shebang": {
-        "#!/usr/bin/env python3": 1
-    }
+    "shebang": {}
 }

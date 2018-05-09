@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -15,37 +15,29 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
-        "setup.cfg": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0",
+    "license": null,
     "lines_of_code": {
-        "cfg": 43,
-        "pem": 50,
-        "py": 1933,
-        "rst": 37,
-        "sh": 89,
-        "yaml": 88
+        "md": 10,
+        "py": 93,
+        "txt": 1
     },
-    "pep8_infringement": 31,
+    "pep8_infringement": 9,
     "requirements": [
-        "autosemver~=0.0,>=0.5.3",
-        "mitmproxy~=3.0,>=3.0.4",
-        "pathlib>=1.0.1,~=1.0",
-        "pyyaml>=3.12,~=3.0"
+        "requests>=2.13.0"
     ],
-    "shebang": {
-        "#!/usr/bin/env python3": 1
-    }
+    "shebang": {}
 }

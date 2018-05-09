@@ -17,35 +17,33 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": false,
-        "README.rst": true,
+        "README.md": true,
+        "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "GPL-3.0",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 43,
-        "pem": 50,
-        "py": 1933,
-        "rst": 37,
-        "sh": 89,
-        "yaml": 88
+        "css": 6315,
+        "in": 6,
+        "ini": 3,
+        "js": 816,
+        "md": 9,
+        "py": 208
     },
-    "pep8_infringement": 31,
+    "pep8_infringement": 5,
     "requirements": [
-        "autosemver~=0.0,>=0.5.3",
-        "mitmproxy~=3.0,>=3.0.4",
-        "pathlib>=1.0.1,~=1.0",
-        "pyyaml>=3.12,~=3.0"
+        "mistune==0.8.3",
+        "pygments==2.2.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python": 1
     }
 }
