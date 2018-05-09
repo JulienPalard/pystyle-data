@@ -21,28 +21,31 @@
         "Makefile": false,
         "README": false,
         "README.md": true,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "BSD-2-Clause",
+    "license": "MIT",
     "lines_of_code": {
-        "cfg": 10,
-        "in": 5,
-        "md": 84,
-        "py": 247,
-        "txt": 25
+        "cfg": 2,
+        "css": 69,
+        "in": 4,
+        "ini": 21,
+        "js": 198,
+        "md": 343,
+        "py": 2176,
+        "rst": 412,
+        "txt": 21
     },
-    "pep8_infringement": 38,
+    "pep8_infringement": 107,
     "requirements": [
-        "requests"
+        "django>=1.8"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/env python": 1
     }
 }

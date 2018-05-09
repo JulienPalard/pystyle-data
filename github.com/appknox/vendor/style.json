@@ -31,20 +31,22 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 8,
-        "css": 145,
-        "html": 24,
+        "cfg": 10,
+        "html": 31,
         "in": 50,
+        "json": 536,
+        "lock": 112,
         "md": 2,
-        "pug": 295,
-        "py": 18033,
-        "sh": 32
+        "po": 5137,
+        "pug": 374,
+        "py": 1250,
+        "sh": 38
     },
-    "pep8_infringement": 2071,
+    "pep8_infringement": 22,
     "requirements": [
-        "python3-protobuf==2.5.0"
+        "orm-choices==0.3.0"
     ],
     "shebang": {
-        "#! /usr/bin/env python": 4
+        "#! /usr/bin/env python": 3
     }
 }

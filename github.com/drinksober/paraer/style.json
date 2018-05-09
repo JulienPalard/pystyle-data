@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -16,33 +16,33 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": true,
-        "MANIFEST.in": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
-        "setup.cfg": true,
+        "requirements.txt": false,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause",
+    "license": null,
     "lines_of_code": {
-        "cfg": 10,
-        "in": 5,
-        "md": 84,
-        "py": 247,
-        "txt": 25
+        "py": 778
     },
-    "pep8_infringement": 38,
+    "pep8_infringement": 10,
     "requirements": [
-        "requests"
+        "coreapi>=2.3.0",
+        "django-rest-swagger",
+        "djangorestframework>=3.5.4",
+        "openapi-codec>=1.3.1",
+        "simplejson",
+        "six"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 1
+        "#!/usr/bin/python": 1
     }
 }

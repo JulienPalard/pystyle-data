@@ -37,12 +37,12 @@
         "js": 1098,
         "less": 16,
         "md": 15,
-        "po": 77390,
-        "py": 2756,
-        "rst": 2150,
+        "po": 77438,
+        "py": 2782,
+        "rst": 2218,
         "svg": 188,
         "txt": 1,
-        "xml": 2970
+        "xml": 3004
     },
     "pep8_infringement": 0,
     "requirements": [],

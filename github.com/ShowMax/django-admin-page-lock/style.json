@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -15,34 +15,29 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
-        "LICENSE.txt": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "BSD-2-Clause",
+    "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 10,
-        "in": 5,
-        "md": 84,
-        "py": 247,
-        "txt": 25
+        "cfg": 2,
+        "in": 15,
+        "js": 177,
+        "md": 130,
+        "py": 1238
     },
-    "pep8_infringement": 38,
-    "requirements": [
-        "requests"
-    ],
-    "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/env python3": 1
-    }
+    "pep8_infringement": 6,
+    "requirements": [],
+    "shebang": {}
 }
