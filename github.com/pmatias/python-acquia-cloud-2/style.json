@@ -2,18 +2,18 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": true,
+        "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": true,
@@ -23,7 +23,7 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,24 +31,20 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "R": 74,
-        "cfg": 6,
-        "in": 2,
-        "md": 242,
-        "py": 6339,
-        "txt": 56
+        "cfg": 3,
+        "in": 5,
+        "md": 109,
+        "py": 2101,
+        "txt": 31
     },
-    "pep8_infringement": 1411,
+    "pep8_infringement": 0,
     "requirements": [
-        "dill",
-        "joblib",
-        "numpy",
-        "pandas",
-        "scikit-learn",
-        "scipy"
+        "http-hmac-python==2.4.0",
+        "requests==2.18.4",
+        "requests-cache==0.4.13",
+        "setuptools>=18.5"
     ],
     "shebang": {
-        "#!/usr/bin/env python2": 12,
-        "#!/usr/bin/env python3.0": 1
+        "#!/usr/bin/env python3": 25
     }
 }

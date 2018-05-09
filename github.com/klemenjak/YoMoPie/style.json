@@ -64,7 +64,7 @@
         "txt": 13,
         "yml": 2
     },
-    "pep8_infringement": 1452,
+    "pep8_infringement": 1280,
     "requirements": [
         "rpi.gpio",
         "spidev"

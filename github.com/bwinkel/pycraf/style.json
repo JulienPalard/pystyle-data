@@ -1,8 +1,8 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": false,
+        "docs/": true,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": false
@@ -17,27 +17,45 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": null,
     "lines_of_code": {
-        "ipynb": 406,
-        "py": 297,
-        "txt": 3
+        "ITU": 26,
+        "TXT": 484,
+        "bat": 170,
+        "c": 84895,
+        "cfg": 58,
+        "css": 11,
+        "csv": 120,
+        "dat": 20332,
+        "enc": 1,
+        "in": 45,
+        "ipynb": 59340,
+        "json": 3631,
+        "md": 14,
+        "orig": 1425,
+        "py": 16699,
+        "pyx": 3494,
+        "rst": 2884,
+        "sed": 34,
+        "txt": 21549,
+        "yml": 91
     },
-    "pep8_infringement": 115,
+    "pep8_infringement": 0,
     "requirements": [],
     "shebang": {
-        "#!/usr/bin/env python3": 4
+        "#!/usr/bin/env python": 50,
+        "#!/usr/bin/python": 2
     }
 }

@@ -40,9 +40,9 @@
     },
     "pep8_infringement": 31,
     "requirements": [
-        "autosemver~=0.0,>=0.5.3",
-        "mitmproxy~=3.0,>=3.0.4",
-        "pathlib>=1.0.1,~=1.0",
+        "autosemver>=0.5.3,~=0.0",
+        "mitmproxy>=3.0.4,~=3.0",
+        "pathlib~=1.0,>=1.0.1",
         "pyyaml>=3.12,~=3.0"
     ],
     "shebang": {

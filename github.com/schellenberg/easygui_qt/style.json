@@ -1,8 +1,8 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": true,
+        "docs/": true,
+        "examples/": false,
         "src/": false,
         "test/": false,
         "tests/": true
@@ -10,18 +10,18 @@
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
-        "AUTHORS.rst": false,
+        "AUTHORS.rst": true,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
-        "CONTRIBUTING.rst": false,
-        "LICENSE": false,
-        "LICENSE.txt": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": true,
@@ -29,26 +29,22 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "lines_of_code": {
-        "R": 74,
-        "cfg": 6,
-        "in": 2,
-        "md": 242,
-        "py": 6339,
-        "txt": 56
+        "bat": 242,
+        "cfg": 2,
+        "html": 957,
+        "in": 11,
+        "md": 4,
+        "py": 2479,
+        "rst": 607
     },
-    "pep8_infringement": 1411,
+    "pep8_infringement": 233,
     "requirements": [
-        "dill",
-        "joblib",
-        "numpy",
-        "pandas",
-        "scikit-learn",
-        "scipy"
+        "pyqt5",
+        "sip"
     ],
     "shebang": {
-        "#!/usr/bin/env python2": 12,
-        "#!/usr/bin/env python3.0": 1
+        "#!/usr/bin/env python": 2
     }
 }

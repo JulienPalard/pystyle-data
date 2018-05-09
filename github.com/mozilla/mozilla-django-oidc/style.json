@@ -1,49 +1,50 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
-        "AUTHORS.rst": false,
+        "AUTHORS.rst": true,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "GPL-2.0",
+    "license": "MPL-2.0",
     "lines_of_code": {
-        "in": 0,
-        "md": 5,
-        "py": 502,
-        "py~": 245,
-        "rst": 60,
-        "txt": 24
+        "bat": 242,
+        "cfg": 14,
+        "in": 6,
+        "ini": 40,
+        "py": 2800,
+        "rst": 1209,
+        "txt": 11,
+        "yml": 37
     },
-    "pep8_infringement": 234,
+    "pep8_infringement": 148,
     "requirements": [
-        "astropy",
-        "cleanmask",
-        "multiprocessing",
-        "numpy"
+        "django>1.7",
+        "josepy",
+        "requests"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

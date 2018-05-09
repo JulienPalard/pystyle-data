@@ -1,14 +1,14 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -23,29 +23,35 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "GPL-2.0",
+    "license": "MIT",
     "lines_of_code": {
-        "in": 0,
-        "md": 5,
-        "py": 502,
-        "py~": 245,
-        "rst": 60,
-        "txt": 24
+        "in": 11,
+        "ini": 118,
+        "json": 1419,
+        "py": 1771,
+        "rst": 159,
+        "txt": 135
     },
-    "pep8_infringement": 234,
+    "pep8_infringement": 96,
     "requirements": [
-        "astropy",
-        "cleanmask",
-        "multiprocessing",
-        "numpy"
+        "bio2bel>=0.0.9",
+        "bio2bel-chebi>=0.0.4",
+        "bio2bel-hgnc>=0.0.4",
+        "click",
+        "compath-utils>=0.0.3",
+        "flask",
+        "flask-admin",
+        "openpyxl",
+        "pandas",
+        "pybel>=0.11.1",
+        "sqlalchemy==1.1.15",
+        "tqdm"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1
-    }
+    "shebang": {}
 }

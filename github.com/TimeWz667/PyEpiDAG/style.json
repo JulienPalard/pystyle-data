@@ -1,8 +1,8 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
-        "examples/": true,
+        "docs/": true,
+        "examples/": false,
         "src/": false,
         "test/": false,
         "tests/": true
@@ -13,11 +13,11 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": false,
-        "LICENSE.txt": true,
-        "MANIFEST.in": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,24 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "R": 74,
-        "cfg": 6,
-        "in": 2,
-        "md": 242,
-        "py": 6339,
-        "txt": 56
+        "cfg": 2,
+        "ipynb": 2745,
+        "md": 4,
+        "py": 3776
     },
-    "pep8_infringement": 1411,
+    "pep8_infringement": 107,
     "requirements": [
-        "dill",
-        "joblib",
+        "astunparse",
+        "matplotlib",
+        "networkx",
         "numpy",
         "pandas",
-        "scikit-learn",
         "scipy"
     ],
-    "shebang": {
-        "#!/usr/bin/env python2": 12,
-        "#!/usr/bin/env python3.0": 1
-    }
+    "shebang": {}
 }
