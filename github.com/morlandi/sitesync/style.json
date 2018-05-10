@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -14,33 +14,31 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": true,
-        "LICENSE": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "Apache-2.0",
+    "license": null,
     "lines_of_code": {
-        "cfg": 5,
-        "py": 2929,
-        "rst": 323,
-        "txt": 13
+        "cfg": 21,
+        "in": 1,
+        "py": 744,
+        "rst": 64
     },
-    "pep8_infringement": 274,
-    "requirements": [
-        "dimod<0.7.0six>=1.11.0,<2.0.0,>=0.6.7",
-        "networkx<3.0,>=2.0",
-        "penaltymodel>=0.14.0,<0.15.0"
-    ],
-    "shebang": {}
+    "pep8_infringement": 53,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

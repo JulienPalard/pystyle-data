@@ -32,8 +32,8 @@
     "license": null,
     "lines_of_code": {
         "in": 1,
-        "py": 530,
-        "rst": 296
+        "py": 726,
+        "rst": 318
     },
     "pep8_infringement": 0,
     "requirements": [],

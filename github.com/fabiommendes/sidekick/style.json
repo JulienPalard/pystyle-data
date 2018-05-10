@@ -3,7 +3,7 @@
         "doc/": false,
         "docs/": true,
         "examples/": false,
-        "src/": false,
+        "src/": true,
         "test/": false,
         "tests/": true
     },
@@ -14,33 +14,36 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": true,
+        "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
         "README.rst": true,
-        "pytest.ini": false,
+        "pytest.ini": true,
         "requirements.txt": true,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": null,
     "lines_of_code": {
-        "cfg": 5,
-        "py": 2929,
-        "rst": 323,
-        "txt": 13
+        "bat": 263,
+        "cfg": 17,
+        "in": 5,
+        "ini": 32,
+        "py": 6543,
+        "rst": 1756,
+        "txt": 1
     },
-    "pep8_infringement": 274,
+    "pep8_infringement": 111,
     "requirements": [
-        "dimod<0.7.0six>=1.11.0,<2.0.0,>=0.6.7",
-        "networkx<3.0,>=2.0",
-        "penaltymodel>=0.14.0,<0.15.0"
+        "toolz"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

@@ -31,25 +31,29 @@
     },
     "license": "AGPL-3.0",
     "lines_of_code": {
-        "css": 10,
-        "csv": 71,
-        "js": 118,
-        "md": 143,
-        "po": 227000,
-        "pot": 6089,
-        "py": 21050,
-        "rml": 1304,
-        "rst": 3262,
-        "svg": 6231,
-        "txt": 15,
-        "xml": 513252
+        "cfg": 36,
+        "css": 18,
+        "csv": 108,
+        "js": 236,
+        "md": 93,
+        "n43": 20,
+        "po": 224180,
+        "pot": 670,
+        "py": 22857,
+        "rst": 3326,
+        "svg": 4578,
+        "txt": 17,
+        "xml": 507710,
+        "xsd": 14400
     },
-    "pep8_infringement": 6,
+    "pep8_infringement": 1,
     "requirements": [
-        "pycrypto",
+        "pycryptodome",
+        "pyopenssl",
         "requests",
-        "unicodecsv",
-        "unidecode"
+        "unidecode",
+        "xmlsig",
+        "zeep"
     ],
     "shebang": {}
 }

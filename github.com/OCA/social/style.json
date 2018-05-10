@@ -31,19 +31,20 @@
     },
     "license": "AGPL-3.0",
     "lines_of_code": {
+        "cfg": 12,
         "css": 42,
-        "csv": 14,
-        "js": 262,
-        "less": 50,
-        "md": 37,
-        "po": 69577,
-        "pot": 91,
-        "py": 5171,
-        "rst": 1296,
-        "svg": 12,
-        "xml": 1365
+        "csv": 24,
+        "js": 166,
+        "md": 14,
+        "po": 116714,
+        "pot": 394,
+        "py": 6913,
+        "rst": 984,
+        "svg": 508,
+        "txt": 1,
+        "xml": 1370
     },
-    "pep8_infringement": 3,
+    "pep8_infringement": 0,
     "requirements": [],
     "shebang": {}
 }

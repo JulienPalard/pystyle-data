@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -14,33 +14,40 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": true,
+        "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
-        "py": 2929,
-        "rst": 323,
-        "txt": 13
+        "in": 1,
+        "ini": 10,
+        "lock": 539,
+        "py": 420,
+        "rst": 157
     },
-    "pep8_infringement": 274,
+    "pep8_infringement": 17,
     "requirements": [
-        "dimod<0.7.0six>=1.11.0,<2.0.0,>=0.6.7",
-        "networkx<3.0,>=2.0",
-        "penaltymodel>=0.14.0,<0.15.0"
+        "boto3>=1.5.0",
+        "click>=6.0",
+        "docker>=3.1.0",
+        "future",
+        "pyyaml>=3.12",
+        "tqdm>=4.19.0"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
 }

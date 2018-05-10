@@ -2,7 +2,7 @@
     "has_dir": {
         "doc/": false,
         "docs/": false,
-        "examples/": false,
+        "examples/": true,
         "src/": false,
         "test/": false,
         "tests/": true
@@ -24,30 +24,32 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0",
+    "license": null,
     "lines_of_code": {
+        "cfg": 3,
         "in": 1,
-        "json": 159,
-        "md": 104,
-        "py": 2235,
-        "qrc": 30,
-        "svg": 3833
+        "json": 2948,
+        "md": 303,
+        "py": 3536,
+        "spec": 45,
+        "svg": 3833,
+        "txt": 91,
+        "yaml": 40
     },
-    "pep8_infringement": 180,
+    "pep8_infringement": 28,
     "requirements": [
         "matplotlib",
+        "numpy",
         "pillow>=2.8.0",
         "pyyaml",
-        "scikit-image",
-        "scipy"
+        "qtpy"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/python": 1
+        "#!/usr/bin/env python": 5
     }
 }

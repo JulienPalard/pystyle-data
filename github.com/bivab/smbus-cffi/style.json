@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
-        "tests/": true
+        "test/": true,
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -14,33 +14,39 @@
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": true,
+        "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
-    "license": "Apache-2.0",
+    "license": "GPL-2.0",
     "lines_of_code": {
-        "cfg": 5,
-        "py": 2929,
-        "rst": 323,
-        "txt": 13
+        "h": 330,
+        "in": 3,
+        "ini": 34,
+        "ino": 365,
+        "py": 993,
+        "rst": 169,
+        "txt": 9
     },
-    "pep8_infringement": 274,
+    "pep8_infringement": 0,
     "requirements": [
-        "dimod<0.7.0six>=1.11.0,<2.0.0,>=0.6.7",
-        "networkx<3.0,>=2.0",
-        "penaltymodel>=0.14.0,<0.15.0"
+        "cffi>=1.1.0",
+        "flake8",
+        "pep8",
+        "pyserial",
+        "pytest",
+        "tox"
     ],
     "shebang": {}
 }
