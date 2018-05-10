@@ -13,12 +13,12 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": true,
         "README.rst": false,
@@ -29,22 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "csv": 1,
+        "json": 121,
+        "md": 37,
+        "py": 2209,
+        "txt": 12
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 39,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "pika==0.10.0",
+        "python-dateutil==2.4.2"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1
-    }
+    "shebang": {}
 }

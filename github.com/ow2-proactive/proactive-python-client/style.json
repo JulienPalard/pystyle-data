@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -13,11 +13,11 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -29,22 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": "BSD-2-Clause",
     "lines_of_code": {
-        "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "bat": 84,
+        "cfg": 2,
+        "gradle": 74,
+        "in": 2,
+        "ipynb": 242,
+        "md": 143,
+        "properties": 17,
+        "py": 1418,
+        "rst": 22,
+        "sh": 41,
+        "txt": 7,
+        "xml": 34
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 463,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "py4j",
+        "requests"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1
-    }
+    "shebang": {}
 }

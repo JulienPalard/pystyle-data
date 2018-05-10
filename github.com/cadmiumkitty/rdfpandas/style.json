@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -13,38 +13,36 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
-        "Makefile": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "in": 1,
+        "py": 284,
+        "rst": 107,
+        "txt": 5
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 123,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "nose",
+        "pandas>=0.22.0",
+        "rdflib>=4.2.2",
+        "sphinx",
+        "sphinx-rtd-theme"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 1
-    }
+    "shebang": {}
 }

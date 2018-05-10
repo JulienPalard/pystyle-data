@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 26,
+        "css": 1266,
+        "html": 324,
+        "in": 8,
+        "js": 13036,
+        "log": 205,
+        "md": 1858,
+        "nt": 1401,
+        "owl": 568,
+        "py": 8491,
+        "rdf": 606,
+        "rst": 32,
+        "sh": 113,
+        "ttl": 5781,
+        "txt": 697
+    },
+    "pep8_infringement": 2201,
+    "requirements": [
+        "click",
+        "colorama",
+        "pyfiglet",
+        "pyparsing",
+        "rdflib",
+        "rdflib-jsonld",
+        "requests",
+        "sparqlwrapper"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

@@ -32,17 +32,14 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "md": 340,
+        "py": 2192,
+        "txt": 10
     },
     "pep8_infringement": 0,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "psycopg2-binary>=2.7",
+        "sqlalchemy>=1.2.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

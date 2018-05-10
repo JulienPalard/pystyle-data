@@ -1,11 +1,11 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": false,
-        "src/": false,
-        "test/": false,
-        "tests/": true
+        "src/": true,
+        "test/": true,
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -13,38 +13,36 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
-        "README": false,
-        "README.md": true,
+        "README": true,
+        "README.md": false,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
-        "setup.cfg": true,
+        "requirements.txt": false,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "1": 346,
+        "py": 48533,
+        "rst": 3010,
+        "txt": 124
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 2853,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "feedparser",
+        "python-dateutil>=1.3,!=2.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1
+        "#!/usr/bin/env python": 2,
+        "#!/usr/bin/python": 1
     }
 }

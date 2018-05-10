@@ -8,14 +8,14 @@
         "tests/": true
     },
     "has_file": {
-        ".gitignore": true,
+        ".gitignore": false,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
+        "LICENSE": false,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
         "Makefile": false,
@@ -29,22 +29,19 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "MIT",
+    "license": null,
     "lines_of_code": {
-        "cfg": 5,
-        "md": 203,
-        "py": 396,
-        "sh": 39,
-        "txt": 4
+        "cfg": 15,
+        "md": 47,
+        "py": 35,
+        "sh": 5,
+        "txt": 1
     },
     "pep8_infringement": 0,
     "requirements": [
-        "pycodestyle>=2.4.0",
-        "pylint>=1.8.4",
-        "pytest>=3.5.1",
-        "pytest-cov>=2.5.1"
+        "setuptools"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1
+        "#!/usr/bin/env python": 2
     }
 }

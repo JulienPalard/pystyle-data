@@ -31,12 +31,13 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "log": 0,
+        "ipynb": 266,
+        "log": 21,
         "md": 10,
-        "py": 197,
-        "txt": 21
+        "py": 367,
+        "txt": 31
     },
-    "pep8_infringement": 96,
+    "pep8_infringement": 192,
     "requirements": [
         "numpy"
     ],
