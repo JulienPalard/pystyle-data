@@ -31,15 +31,20 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 23,
+        "14": 1,
         "cfg": 12,
         "html": 360,
         "in": 6,
         "ini": 11,
+        "md": 16,
         "py": 345,
         "rst": 220,
-        "txt": 15
+        "sample": 640,
+        "txt": 15,
+        "yml": 21
     },
-    "pep8_infringement": 12,
+    "pep8_infringement": 11,
     "requirements": [
         "bumpversion==0.5.3",
         "django>=1.9.6",

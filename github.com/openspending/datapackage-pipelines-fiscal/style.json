@@ -31,17 +31,20 @@
     },
     "license": null,
     "lines_of_code": {
+        "15": 1,
         "cfg": 2,
         "csv": 13,
         "iml": 9,
         "in": 4,
         "ini": 39,
         "json": 78,
-        "md": 272,
+        "md": 285,
         "py": 1343,
-        "yaml": 400
+        "sample": 640,
+        "yaml": 400,
+        "yml": 22
     },
-    "pep8_infringement": 60,
+    "pep8_infringement": 64,
     "requirements": [
         "datapackage>=1.0.2",
         "datapackage-pipelines>=1.5.0",

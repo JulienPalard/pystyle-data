@@ -32,21 +32,24 @@
     "license": null,
     "lines_of_code": {
         "in": 1,
-        "ini": 31,
+        "ini": 42,
         "j2": 57,
-        "md": 576,
-        "py": 1970,
+        "md": 556,
+        "py": 2029,
+        "sample": 640,
         "txt": 16,
-        "yaml": 59
+        "yaml": 59,
+        "yml": 5
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 16,
     "requirements": [
         "boto3",
-        "boto3facade>=0.4.5",
+        "boto3facade>=0.5.9",
         "click",
         "jinja2",
         "pyyaml",
-        "s3keyring>=0.2.3"
+        "s3keyring>=0.2.3",
+        "six"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

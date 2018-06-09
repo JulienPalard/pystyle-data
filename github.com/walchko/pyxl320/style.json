@@ -23,7 +23,7 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -32,19 +32,21 @@
     "license": null,
     "lines_of_code": {
         "json": 18,
-        "md": 182,
-        "py": 1954,
-        "rst": 147,
-        "txt": 19
+        "md": 252,
+        "py": 2242,
+        "rst": 149,
+        "sample": 640,
+        "txt": 22,
+        "yaml": 21,
+        "yml": 26
     },
-    "pep8_infringement": 1083,
+    "pep8_infringement": 1192,
     "requirements": [
         "build-utils",
-        "fake-rpi",
         "pyserial",
         "simplejson"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 12
+        "#!/usr/bin/env python": 13
     }
 }

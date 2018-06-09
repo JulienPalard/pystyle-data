@@ -24,21 +24,29 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
     "license": null,
     "lines_of_code": {
+        "": 44,
+        "1": 1,
+        "cfg": 2,
         "in": 6,
         "ini": 15,
-        "py": 801,
-        "rst": 114,
-        "txt": 8
+        "py": 1063,
+        "rst": 189,
+        "sample": 640,
+        "txt": 10,
+        "yml": 20
     },
-    "pep8_infringement": 8,
-    "requirements": [],
+    "pep8_infringement": 13,
+    "requirements": [
+        "blinker",
+        "six"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1
     }

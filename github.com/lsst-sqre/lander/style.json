@@ -5,35 +5,55 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
-        "CHANGELOG.rst": false,
+        "CHANGELOG.rst": true,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
-        "Makefile": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
-        "setup.py": false,
+        "setup.cfg": true,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "rst": 11
+        "": 3,
+        "12": 1,
+        "bash": 12,
+        "cfg": 15,
+        "in": 10,
+        "jinja": 215,
+        "js": 155,
+        "json": 48,
+        "py": 3377,
+        "rst": 322,
+        "sample": 640,
+        "scss": 97,
+        "tex": 148,
+        "yml": 35
     },
     "pep8_infringement": 0,
-    "requirements": [],
+    "requirements": [
+        "jinja2==2.9.6",
+        "lsst-projectmeta-kit==0.3.1",
+        "ltd-conveyor==0.3.1",
+        "python-dateutil>=2.6.0",
+        "requests==2.14.2",
+        "structlog==17.1.0"
+    ],
     "shebang": {}
 }

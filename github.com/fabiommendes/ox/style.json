@@ -31,13 +31,16 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 32,
         "bat": 263,
         "cfg": 0,
         "in": 6,
         "ini": 94,
         "py": 5627,
         "rst": 1009,
-        "txt": 1
+        "sample": 640,
+        "txt": 1,
+        "yml": 27
     },
     "pep8_infringement": 73,
     "requirements": [

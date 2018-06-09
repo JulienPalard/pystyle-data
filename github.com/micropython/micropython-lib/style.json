@@ -32,15 +32,16 @@
     "license": "MIT",
     "lines_of_code": {
         "diff": 27,
-        "md": 67,
-        "py": 30426,
-        "rst": 99,
+        "md": 76,
+        "py": 38204,
+        "rst": 244,
+        "sample": 640,
         "sh": 64,
         "test": 45,
-        "txt": 521,
-        "xml": 13
+        "txt": 598,
+        "xml": 14
     },
-    "pep8_infringement": 4486,
+    "pep8_infringement": 4913,
     "requirements": [],
     "shebang": {
         "#! /usr/bin/env python3": 9,

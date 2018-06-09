@@ -31,13 +31,14 @@
     },
     "license": null,
     "lines_of_code": {
-        "cdl": 1172,
+        "cdl": 1445,
         "md": 25,
-        "ncml": 1144,
+        "ncml": 1435,
         "pl": 213,
         "py": 592,
+        "sample": 640,
         "txt": 22,
-        "xml": 1143
+        "xml": 1002
     },
     "pep8_infringement": 552,
     "requirements": [],

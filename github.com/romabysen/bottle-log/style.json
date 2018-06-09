@@ -31,10 +31,12 @@
     },
     "license": "curl",
     "lines_of_code": {
+        "0": 1,
         "cfg": 5,
         "in": 1,
         "py": 120,
-        "rst": 59
+        "rst": 59,
+        "sample": 640
     },
     "pep8_infringement": 5,
     "requirements": [

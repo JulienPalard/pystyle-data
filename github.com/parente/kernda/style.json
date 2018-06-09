@@ -35,7 +35,9 @@
         "in": 3,
         "md": 52,
         "py": 2531,
-        "txt": 5
+        "sample": 640,
+        "txt": 5,
+        "yml": 18
     },
     "pep8_infringement": 9,
     "requirements": [],

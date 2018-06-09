@@ -31,22 +31,26 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "csv": 3,
+        "": 0,
+        "csv": 6,
         "in": 1,
-        "ini": 126,
-        "md": 166,
-        "py": 1040,
+        "ini": 71,
+        "json": 3,
+        "md": 306,
+        "py": 1067,
+        "sample": 640,
         "sh": 7,
-        "txt": 6
+        "txt": 6,
+        "yml": 7
     },
-    "pep8_infringement": 141,
+    "pep8_infringement": 135,
     "requirements": [
-        "cert-core==2.0b7",
-        "cert-schema==2.0b12",
-        "configargparse>=0.10.0",
+        "cert-core>=2.1.9",
+        "cert-schema>=2.1.5",
+        "configargparse>=0.13.0",
         "jsonpath-rw>=1.4.0",
-        "pycoin>=0.77",
-        "tox>=2.7.0"
+        "pycoin>=0.80",
+        "tox>=3.0.0"
     ],
     "shebang": {
         "#!/usr/bin/env": 1,

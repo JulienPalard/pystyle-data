@@ -31,19 +31,19 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "css": 708,
-        "html": 13259,
         "in": 3,
-        "js": 13119,
-        "map": 120,
-        "py": 2026,
-        "rst": 352,
-        "svg": 520,
-        "txt": 253
+        "py": 2029,
+        "rst": 365,
+        "sample": 640,
+        "txt": 4
     },
-    "pep8_infringement": 133,
+    "pep8_infringement": 138,
     "requirements": [
+        "dill",
+        "matplotlib",
         "numpy",
+        "numpy",
+        "scipy",
         "scipy"
     ],
     "shebang": {}

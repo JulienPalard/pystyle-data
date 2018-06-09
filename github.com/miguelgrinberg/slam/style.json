@@ -31,16 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "0": 1,
         "bat": 36,
         "html": 65,
         "in": 2,
         "ini": 48,
         "md": 100,
-        "py": 3947,
-        "rst": 1037,
+        "py": 3980,
+        "rst": 1198,
+        "sample": 640,
         "template": 44,
         "txt": 23,
-        "yaml": 64
+        "yaml": 64,
+        "yml": 19
     },
     "pep8_infringement": 3,
     "requirements": [

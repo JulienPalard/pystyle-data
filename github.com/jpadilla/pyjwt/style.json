@@ -31,19 +31,24 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 7,
+        "4": 1,
         "cer": 21,
         "cfg": 14,
+        "css": 15,
         "in": 8,
         "ini": 18,
         "json": 44,
-        "md": 133,
-        "pem": 9,
+        "md": 379,
+        "pem": 14,
         "pub": 8,
-        "py": 3806,
-        "rst": 489,
-        "yml": 35
+        "py": 4185,
+        "rst": 578,
+        "sample": 640,
+        "txt": 3,
+        "yml": 68
     },
-    "pep8_infringement": 139,
+    "pep8_infringement": 149,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

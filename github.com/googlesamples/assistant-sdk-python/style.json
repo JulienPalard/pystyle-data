@@ -33,16 +33,19 @@
     "lines_of_code": {
         "cfg": 11,
         "in": 3,
-        "md": 114,
-        "py": 2320,
-        "rst": 576,
-        "third_party": 833,
-        "txt": 9
+        "json": 89,
+        "md": 130,
+        "py": 4822,
+        "rst": 766,
+        "sample": 640,
+        "third_party": 3004,
+        "txt": 11,
+        "yml": 11
     },
-    "pep8_infringement": 168,
+    "pep8_infringement": 278,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1,
-        "#!/usr/bin/python": 1
+        "#!/usr/bin/python": 4
     }
 }

@@ -31,6 +31,7 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 2,
         "cfg": 20,
         "css": 2,
         "in": 2,
@@ -39,8 +40,10 @@
         "pt": 26,
         "py": 678,
         "rst": 100,
+        "sample": 640,
         "sh": 47,
-        "txt": 47
+        "txt": 47,
+        "yml": 18
     },
     "pep8_infringement": 29,
     "requirements": [

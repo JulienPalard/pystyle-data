@@ -23,7 +23,7 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -32,13 +32,15 @@
     "license": null,
     "lines_of_code": {
         "ipynb": 239,
-        "py": 147,
-        "rst": 82,
-        "txt": 21
+        "py": 146,
+        "rst": 105,
+        "sample": 640,
+        "txt": 22,
+        "yml": 12
     },
-    "pep8_infringement": 95,
-    "requirements": [],
-    "shebang": {
-        "#! /usr/bin/env python": 1
-    }
+    "pep8_infringement": 92,
+    "requirements": [
+        "build-utils"
+    ],
+    "shebang": {}
 }

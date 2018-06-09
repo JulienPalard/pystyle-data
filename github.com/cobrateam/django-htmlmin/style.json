@@ -37,7 +37,9 @@
         "ini": 6,
         "py": 979,
         "rst": 213,
-        "txt": 6
+        "sample": 640,
+        "txt": 6,
+        "yml": 6
     },
     "pep8_infringement": 44,
     "requirements": [

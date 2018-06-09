@@ -36,7 +36,9 @@
         "md": 10,
         "py": 831,
         "rst": 34,
-        "txt": 4
+        "sample": 640,
+        "txt": 4,
+        "yml": 15
     },
     "pep8_infringement": 42,
     "requirements": [

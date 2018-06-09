@@ -32,11 +32,12 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
-        "py": 14060,
-        "rst": 956,
+        "py": 14018,
+        "rst": 1163,
+        "sample": 640,
         "txt": 4
     },
-    "pep8_infringement": 2915,
+    "pep8_infringement": 2738,
     "requirements": [
         "enum34>=1.1.6",
         "pytz>=2017.2",

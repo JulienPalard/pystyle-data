@@ -33,7 +33,9 @@
     "lines_of_code": {
         "cfg": 2,
         "py": 57,
-        "rst": 28
+        "rst": 28,
+        "sample": 640,
+        "yml": 24
     },
     "pep8_infringement": 5,
     "requirements": [],

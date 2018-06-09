@@ -32,12 +32,14 @@
     "license": null,
     "lines_of_code": {
         "cfg": 4,
-        "py": 354,
-        "rst": 20
+        "py": 356,
+        "rst": 20,
+        "sample": 640
     },
-    "pep8_infringement": 5,
+    "pep8_infringement": 4,
     "requirements": [
-        "mysql-python"
+        "future",
+        "mysqlclient"
     ],
     "shebang": {}
 }

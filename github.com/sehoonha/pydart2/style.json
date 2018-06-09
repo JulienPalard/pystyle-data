@@ -42,8 +42,9 @@
         "launch": 6,
         "md": 47,
         "obj": 112253,
-        "py": 8720,
+        "py": 8730,
         "rst": 958,
+        "sample": 640,
         "sdf": 3861,
         "skel": 2807,
         "stla": 24879,
@@ -53,7 +54,8 @@
         "vsk": 407,
         "world": 3018,
         "xacro": 4224,
-        "xml": 6805
+        "xml": 6805,
+        "yml": 27
     },
     "pep8_infringement": 118,
     "requirements": [

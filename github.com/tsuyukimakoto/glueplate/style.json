@@ -31,10 +31,14 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 19,
+        "1": 1,
         "md": 115,
         "py": 406,
+        "sample": 640,
         "sublime-project": 12,
-        "txt": 2
+        "txt": 2,
+        "yml": 17
     },
     "pep8_infringement": 93,
     "requirements": [],

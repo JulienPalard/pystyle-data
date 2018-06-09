@@ -27,16 +27,18 @@
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "py": 415,
-        "rst": 77,
+        "ini": 19,
+        "py": 542,
+        "rst": 96,
+        "sample": 640,
         "txt": 19
     },
-    "pep8_infringement": 25,
+    "pep8_infringement": 41,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

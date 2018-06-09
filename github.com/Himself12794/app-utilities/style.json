@@ -16,7 +16,7 @@
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
-        "LICENSE.txt": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
@@ -24,20 +24,23 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
+        "cfg": 2,
         "md": 2,
-        "py": 173
+        "py": 236,
+        "sample": 640,
+        "txt": 7
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 31,
     "requirements": [
-        "pymongo",
-        "requests"
+        "pymongo>=3.0.0",
+        "requests>=2.0.0"
     ],
     "shebang": {}
 }

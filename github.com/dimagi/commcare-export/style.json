@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,11 +31,19 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 6,
+        "0": 1,
+        "in": 2,
+        "ini": 2,
         "json": 241,
-        "md": 363,
-        "py": 2975
+        "mako": 23,
+        "md": 452,
+        "py": 3700,
+        "sample": 640,
+        "sh": 9,
+        "yml": 33
     },
-    "pep8_infringement": 785,
+    "pep8_infringement": 797,
     "requirements": [],
     "shebang": {}
 }

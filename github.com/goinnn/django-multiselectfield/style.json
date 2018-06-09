@@ -31,13 +31,17 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 12,
+        "8": 1,
         "LGPLv3": 165,
         "in": 4,
         "ini": 197,
         "json": 30,
         "po": 23,
-        "py": 1129,
-        "rst": 241
+        "py": 1135,
+        "rst": 241,
+        "sample": 640,
+        "yml": 97
     },
     "pep8_infringement": 40,
     "requirements": [

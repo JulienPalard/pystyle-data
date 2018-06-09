@@ -31,10 +31,13 @@
     },
     "license": null,
     "lines_of_code": {
+        "conf": 4,
         "in": 1,
         "ini": 7,
         "py": 939,
-        "rst": 128
+        "rst": 128,
+        "sample": 640,
+        "yml": 23
     },
     "pep8_infringement": 44,
     "requirements": [

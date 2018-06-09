@@ -11,7 +11,7 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
@@ -31,13 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 7,
-        "py": 2215,
-        "rst": 121
+        "11": 1,
+        "cfg": 10,
+        "md": 138,
+        "py": 5614,
+        "rst": 291,
+        "sample": 640,
+        "yml": 46
     },
-    "pep8_infringement": 1,
+    "pep8_infringement": 0,
     "requirements": [
-        "six"
+        "pytz"
     ],
     "shebang": {}
 }

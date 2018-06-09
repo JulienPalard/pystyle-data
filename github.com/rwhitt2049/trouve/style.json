@@ -33,9 +33,11 @@
     "lines_of_code": {
         "bat": 36,
         "in": 1,
-        "py": 1406,
-        "rst": 485,
-        "txt": 22
+        "py": 1360,
+        "rst": 547,
+        "sample": 640,
+        "txt": 22,
+        "yml": 73
     },
     "pep8_infringement": 47,
     "requirements": [

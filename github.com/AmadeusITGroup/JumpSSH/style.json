@@ -31,15 +31,20 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "1": 1,
         "bat": 36,
         "cfg": 5,
-        "ini": 31,
+        "ini": 33,
         "json": 4,
-        "py": 1978,
-        "rst": 189,
-        "txt": 4
+        "properties": 16,
+        "py": 2496,
+        "rst": 305,
+        "sample": 640,
+        "sh": 62,
+        "txt": 8,
+        "yml": 66
     },
-    "pep8_infringement": 196,
+    "pep8_infringement": 264,
     "requirements": [
         "paramiko"
     ],

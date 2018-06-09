@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": true,
@@ -31,18 +31,19 @@
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
+        "": 10,
+        "2": 1,
         "in": 2,
-        "json": 339,
-        "md": 393,
-        "py": 1819,
-        "rst": 42,
-        "txt": 12,
-        "yml": 14
+        "json": 2134,
+        "py": 2907,
+        "rst": 43,
+        "sample": 640,
+        "txt": 15,
+        "yml": 24
     },
     "pep8_infringement": 0,
     "requirements": [
-        "futures",
-        "pyswagger>=0.8.27",
+        "pyswagger>=0.8.31",
         "pytz",
         "requests",
         "six"

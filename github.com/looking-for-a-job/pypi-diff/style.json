@@ -23,26 +23,22 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": true,
-        "setup.py": true,
+        "setup.py": false,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": null,
     "lines_of_code": {
-        "cfg": 16,
-        "md": 33,
-        "py": 40,
+        "cfg": 15,
+        "json": 18,
+        "md": 32,
+        "sample": 640,
         "sh": 5,
-        "txt": 2
+        "yml": 27
     },
     "pep8_infringement": 0,
-    "requirements": [
-        "requests",
-        "setuptools"
-    ],
-    "shebang": {
-        "#!/usr/bin/env python": 2
-    }
+    "requirements": [],
+    "shebang": {}
 }

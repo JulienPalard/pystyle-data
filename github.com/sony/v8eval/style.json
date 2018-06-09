@@ -31,6 +31,7 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 26,
         "cxx": 668,
         "gemspec": 25,
         "go": 253,
@@ -38,12 +39,14 @@
         "i": 32,
         "in": 19,
         "md": 111,
-        "py": 297,
+        "py": 301,
         "rb": 250,
-        "sh": 266,
-        "txt": 128
+        "sample": 640,
+        "sh": 270,
+        "txt": 131,
+        "yml": 22
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 12,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 1

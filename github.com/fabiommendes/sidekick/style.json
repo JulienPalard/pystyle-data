@@ -22,7 +22,7 @@
         "README": false,
         "README.md": false,
         "README.rst": true,
-        "pytest.ini": true,
+        "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": true,
         "setup.py": true,
@@ -31,17 +31,20 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 462,
         "bat": 263,
-        "cfg": 17,
+        "cfg": 40,
         "in": 5,
-        "ini": 32,
-        "py": 6543,
-        "rst": 1756,
-        "txt": 1
+        "ini": 54,
+        "py": 6718,
+        "rst": 1832,
+        "sample": 640,
+        "txt": 1,
+        "yml": 39
     },
-    "pep8_infringement": 111,
+    "pep8_infringement": 118,
     "requirements": [
-        "toolz"
+        "Unknown (.)"
     ],
     "shebang": {
         "#!/usr/bin/env python3": 1

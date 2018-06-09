@@ -31,12 +31,15 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "65": 1,
         "ini": 12,
-        "py": 1091,
-        "rst": 61,
-        "txt": 4
+        "py": 1222,
+        "rst": 67,
+        "sample": 640,
+        "txt": 4,
+        "yml": 18
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 9,
     "requirements": [
         "requests>=2.2.1"
     ],

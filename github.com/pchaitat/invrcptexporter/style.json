@@ -33,10 +33,11 @@
     "lines_of_code": {
         "bas": 48,
         "in": 2,
-        "md": 103,
+        "md": 102,
         "py": 578,
-        "rst": 89,
-        "sh": 23,
+        "rst": 91,
+        "sample": 640,
+        "sh": 37,
         "txt": 1
     },
     "pep8_infringement": 105,

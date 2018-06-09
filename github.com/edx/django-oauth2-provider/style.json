@@ -23,23 +23,29 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 10,
+        "2": 1,
         "html": 36,
-        "in": 5,
+        "in": 6,
+        "ini": 17,
         "json": 62,
-        "py": 3450,
-        "rst": 312,
-        "txt": 6
+        "py": 3798,
+        "rst": 348,
+        "sample": 640,
+        "txt": 6,
+        "yml": 39
     },
-    "pep8_infringement": 202,
+    "pep8_infringement": 232,
     "requirements": [
+        "django<2.0,>=1.8",
         "shortuuid<1.0.0,>=0.4.3"
     ],
     "shebang": {

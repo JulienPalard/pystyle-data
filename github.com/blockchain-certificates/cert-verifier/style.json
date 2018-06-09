@@ -32,31 +32,29 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
-        "ini": 12,
-        "json": 703,
-        "md": 48,
-        "py": 886,
+        "ini": 13,
+        "json": 1001,
+        "md": 51,
+        "py": 1048,
+        "sample": 640,
         "sh": 7,
-        "txt": 17
+        "txt": 13,
+        "yml": 7
     },
-    "pep8_infringement": 122,
+    "pep8_infringement": 161,
     "requirements": [
-        "cert-core>=0.0.17",
-        "cert-schema>=2.0b1",
+        "cert-core>=2.1.9",
+        "cert-schema>=2.1.5",
         "chainpoint==0.0.2",
-        "docopt>=0.4.0",
         "enum34>=1.1.6",
         "functional>=0.4",
-        "ld-koblitz-signatures>=0.0.1",
-        "mkdocs>=0.15.3",
         "mock>=2.0.0",
-        "pyld>=0.7.1",
-        "python-bitcoinlib>=0.7.0",
-        "python-dateutil>=2.5.3",
-        "pytz>=2016.7",
-        "requests>=2.13.0",
-        "tox>=2.3.1",
-        "werkzeug>=0.11.11"
+        "pyld>=1.0.3",
+        "python-bitcoinlib>=0.10.1",
+        "python-dateutil>=2.7.2",
+        "pytz>=2018.4",
+        "requests>=2.18.4",
+        "tox>=3.0.0"
     ],
     "shebang": {}
 }

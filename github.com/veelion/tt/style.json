@@ -32,7 +32,8 @@
     "license": null,
     "lines_of_code": {
         "md": 20,
-        "py": 85
+        "py": 85,
+        "sample": 640
     },
     "pep8_infringement": 3,
     "requirements": [],

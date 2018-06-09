@@ -33,11 +33,14 @@
     "lines_of_code": {
         "cfg": 2,
         "in": 4,
-        "ini": 34,
-        "py": 391,
-        "rst": 23
+        "ini": 39,
+        "py": 489,
+        "rst": 23,
+        "sample": 640,
+        "yapf": 3,
+        "yml": 31
     },
-    "pep8_infringement": 18,
+    "pep8_infringement": 10,
     "requirements": [],
     "shebang": {}
 }

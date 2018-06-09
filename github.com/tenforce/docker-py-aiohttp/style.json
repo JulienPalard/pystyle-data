@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -23,24 +23,27 @@
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
-        "test-requirements.txt": true,
+        "test-requirements.txt": false,
         "tox.ini": true
     },
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 4,
-        "ini": 7,
-        "md": 9,
-        "py": 497,
-        "txt": 1
+        "ini": 15,
+        "md": 11,
+        "py": 573,
+        "sample": 640,
+        "txt": 7,
+        "yml": 25
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 1,
     "requirements": [
-        "aiohttp==2.0.1",
-        "docker==2.1.0",
+        "aiohttp<2.3",
+        "docker>=2.5.0",
+        "requests2aiohttp==0.8.0",
         "six>=1.4.0"
     ],
     "shebang": {

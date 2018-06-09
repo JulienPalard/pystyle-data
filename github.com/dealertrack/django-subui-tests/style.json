@@ -24,18 +24,23 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
     "license": null,
     "lines_of_code": {
+        "": 44,
+        "2": 1,
+        "cfg": 2,
         "in": 6,
         "ini": 17,
         "py": 2192,
-        "rst": 154,
-        "txt": 14
+        "rst": 159,
+        "sample": 640,
+        "txt": 14,
+        "yml": 20
     },
     "pep8_infringement": 39,
     "requirements": [

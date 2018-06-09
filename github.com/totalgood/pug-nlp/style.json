@@ -31,17 +31,20 @@
     },
     "license": null,
     "lines_of_code": {
-        "cfg": 87,
+        "": 23,
+        "cfg": 125,
         "csv": 1822,
         "html": 3318,
         "json": 1,
         "md": 51,
         "py": 8777,
         "rst": 153,
+        "sample": 640,
         "sh": 37,
-        "txt": 59
+        "txt": 59,
+        "yml": 123
     },
-    "pep8_infringement": 1390,
+    "pep8_infringement": 1378,
     "requirements": [
         "chardet>=2.3.0",
         "coverage==4.2",

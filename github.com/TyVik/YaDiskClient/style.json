@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -20,7 +20,7 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
+        "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
@@ -32,15 +32,16 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 2,
-        "md": 36,
-        "py": 306,
-        "rst": 47
+        "py": 379,
+        "rst": 59,
+        "sample": 640,
+        "yml": 19
     },
-    "pep8_infringement": 44,
+    "pep8_infringement": 47,
     "requirements": [
         "requests"
     ],
     "shebang": {
-        "#!/usr/bin/python": 2
+        "#!/usr/bin/env python": 2
     }
 }

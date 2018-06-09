@@ -31,12 +31,14 @@
     },
     "license": null,
     "lines_of_code": {
+        "2": 1,
         "cfg": 27,
-        "py": 1927,
+        "py": 1914,
         "rst": 7,
+        "sample": 640,
         "txt": 2
     },
-    "pep8_infringement": 40,
+    "pep8_infringement": 39,
     "requirements": [
         "pbr>=4.0.2",
         "requests>=2.18.4"

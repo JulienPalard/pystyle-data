@@ -34,7 +34,8 @@
         "cfg": 275,
         "conf_tmpl": 27,
         "md": 46,
-        "py": 402
+        "py": 402,
+        "sample": 640
     },
     "pep8_infringement": 70,
     "requirements": [],

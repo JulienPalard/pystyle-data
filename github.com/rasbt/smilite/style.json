@@ -34,6 +34,7 @@
         "csv": 39,
         "md": 359,
         "py": 1123,
+        "sample": 640,
         "txt": 719
     },
     "pep8_infringement": 82,

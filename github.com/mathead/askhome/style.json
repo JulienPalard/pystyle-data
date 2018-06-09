@@ -33,12 +33,14 @@
     "lines_of_code": {
         "bat": 36,
         "cfg": 2,
-        "md": 55,
+        "md": 59,
         "py": 2013,
         "rst": 438,
-        "txt": 4
+        "sample": 640,
+        "txt": 4,
+        "yml": 12
     },
-    "pep8_infringement": 146,
+    "pep8_infringement": 145,
     "requirements": [
         "inflection"
     ],

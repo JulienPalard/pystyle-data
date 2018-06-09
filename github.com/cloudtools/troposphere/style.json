@@ -18,7 +18,7 @@
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": true,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
@@ -31,16 +31,21 @@
     },
     "license": "BSD-2-Clause",
     "lines_of_code": {
+        "": 11,
         "in": 4,
-        "md": 572,
-        "py": 16509,
-        "rst": 277,
+        "md": 1096,
+        "py": 23005,
+        "rst": 341,
+        "sample": 640,
         "sh": 10,
-        "template": 8778,
-        "txt": 3
+        "template": 10085,
+        "txt": 3,
+        "yml": 22
     },
     "pep8_infringement": 0,
-    "requirements": [],
+    "requirements": [
+        "cfn-flip>=1.0.2"
+    ],
     "shebang": {
         "#!/usr/bin/env python": 1,
         "#!/usr/bin/python": 5

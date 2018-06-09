@@ -31,12 +31,15 @@
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
+        "0": 1,
         "in": 2,
-        "md": 116,
-        "py": 1186,
-        "rst": 143
+        "md": 174,
+        "py": 1753,
+        "rst": 225,
+        "sample": 640,
+        "yml": 10
     },
-    "pep8_infringement": 199,
+    "pep8_infringement": 291,
     "requirements": [],
     "shebang": {}
 }

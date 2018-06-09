@@ -23,7 +23,7 @@
         "README.md": false,
         "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,17 +31,23 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "cfg": 14,
+        "8": 1,
+        "cfg": 21,
+        "desktop": 6,
         "html": 1,
-        "in": 12,
+        "in": 16,
         "inc": 3,
-        "py": 4080,
-        "rst": 710,
+        "md": 1,
+        "org": 36,
+        "po": 372,
+        "py": 4680,
+        "rst": 944,
+        "sample": 640,
         "sh": 16,
         "svg": 603,
-        "txt": 160
+        "txt": 182
     },
-    "pep8_infringement": 125,
+    "pep8_infringement": 26,
     "requirements": [
         "parse>=1.6.6",
         "yapsy>=1.11.223"

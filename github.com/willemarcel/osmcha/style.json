@@ -34,11 +34,13 @@
         "cfg": 8,
         "geojson": 1,
         "in": 6,
-        "py": 1009,
-        "rst": 221,
-        "yaml": 56
+        "py": 1102,
+        "rst": 285,
+        "sample": 640,
+        "yaml": 59,
+        "yml": 17
     },
-    "pep8_infringement": 20,
+    "pep8_infringement": 16,
     "requirements": [
         "click",
         "homura",

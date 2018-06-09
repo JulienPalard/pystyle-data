@@ -31,11 +31,16 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 378,
+        "0": 1,
         "cfg": 19,
         "ini": 21,
-        "py": 1407,
+        "json": 10,
+        "py": 1430,
         "rst": 258,
-        "txt": 15
+        "sample": 640,
+        "txt": 15,
+        "yml": 18
     },
     "pep8_infringement": 108,
     "requirements": [

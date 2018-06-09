@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -33,11 +33,15 @@
     "lines_of_code": {
         "css": 93,
         "in": 2,
-        "js": 869,
-        "md": 88,
-        "py": 469
+        "js": 880,
+        "json": 5,
+        "md": 127,
+        "py": 459,
+        "sample": 640,
+        "xml": 79,
+        "yml": 48
     },
-    "pep8_infringement": 36,
+    "pep8_infringement": 31,
     "requirements": [
         "ipywidgets>=5.0.0",
         "jupyter",

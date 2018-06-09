@@ -31,14 +31,16 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "md": 291,
-        "py": 395
+        "md": 317,
+        "py": 435,
+        "sample": 640
     },
-    "pep8_infringement": 16,
+    "pep8_infringement": 15,
     "requirements": [
         "basicevents",
-        "kombu",
-        "timekiller"
+        "redis",
+        "timekiller",
+        "ujson"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

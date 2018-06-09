@@ -31,14 +31,16 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 27,
         "cfg": 2,
         "ipynb": 2298,
         "md": 114,
-        "py": 4758,
+        "py": 4780,
+        "sample": 640,
         "sh": 3,
         "txt": 7
     },
-    "pep8_infringement": 362,
+    "pep8_infringement": 365,
     "requirements": [
         "cmd2",
         "memoized-property",

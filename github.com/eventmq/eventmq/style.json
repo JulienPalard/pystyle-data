@@ -31,11 +31,14 @@
     },
     "license": "LGPL-2.1",
     "lines_of_code": {
+        "": 10,
+        "6": 1,
         "bat": 263,
-        "conf-dist": 27,
+        "conf-dist": 40,
         "md": 79,
-        "py": 7336,
-        "rst": 485,
+        "py": 7585,
+        "rst": 499,
+        "sample": 640,
         "yml": 40
     },
     "pep8_infringement": 1,

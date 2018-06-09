@@ -31,16 +31,19 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "": 490,
         "cfg": 8,
         "in": 11,
         "ini": 34,
         "install": 4,
-        "py": 8784,
+        "py": 8892,
+        "sample": 640,
         "sh": 163,
         "txt": 1,
-        "yml": 26
+        "yapf": 4,
+        "yml": 71
     },
-    "pep8_infringement": 1346,
+    "pep8_infringement": 1312,
     "requirements": [
         "pip>=7.0.0"
     ],

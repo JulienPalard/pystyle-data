@@ -35,19 +35,21 @@
         "css": 18482,
         "html": 287,
         "in": 6,
-        "ini": 36,
+        "ini": 50,
         "js": 6133,
         "map": 10,
-        "po": 36,
-        "py": 574,
-        "rst": 250,
+        "po": 61,
+        "py": 585,
+        "rst": 263,
+        "sample": 640,
         "svg": 288,
-        "txt": 9
+        "txt": 9,
+        "yml": 184
     },
-    "pep8_infringement": 26,
+    "pep8_infringement": 32,
     "requirements": [
         "django>=1.9",
-        "django-tables2>=1.1.0"
+        "django-tables2>=1.5.0"
     ],
     "shebang": {
         "#!/usr/bin/env python": 3

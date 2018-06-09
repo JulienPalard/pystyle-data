@@ -21,7 +21,7 @@
         "Makefile": false,
         "README": true,
         "README.md": false,
-        "README.rst": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -32,7 +32,9 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "in": 2,
-        "py": 117
+        "py": 117,
+        "rst": 91,
+        "sample": 640
     },
     "pep8_infringement": 113,
     "requirements": [],

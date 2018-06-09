@@ -31,17 +31,19 @@
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
+        "": 30,
         "3": 167,
         "cfg": 66,
         "in": 2,
-        "py": 4416,
+        "py": 4419,
         "reference": 289,
         "rst": 621,
+        "sample": 640,
         "sh": 222,
         "tpl": 137,
-        "yml": 52
+        "yml": 140
     },
-    "pep8_infringement": 219,
+    "pep8_infringement": 222,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 2

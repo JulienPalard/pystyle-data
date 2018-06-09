@@ -31,11 +31,13 @@
     },
     "license": null,
     "lines_of_code": {
-        "md": 104,
-        "py": 295,
+        "1": 1,
+        "md": 120,
+        "py": 297,
+        "sample": 640,
         "yml": 1
     },
-    "pep8_infringement": 507,
+    "pep8_infringement": 518,
     "requirements": [],
     "shebang": {}
 }

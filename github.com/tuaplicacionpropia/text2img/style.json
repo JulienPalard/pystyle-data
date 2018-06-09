@@ -37,6 +37,7 @@
         "md": 16,
         "py": 1075,
         "rst": 125,
+        "sample": 640,
         "txt": 21
     },
     "pep8_infringement": 485,

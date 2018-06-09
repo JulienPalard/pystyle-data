@@ -1,6 +1,6 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
         "examples/": false,
         "src/": false,
@@ -31,13 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "css": 1,
         "in": 1,
-        "py": 3389,
-        "rst": 34,
+        "py": 3804,
+        "rst": 178,
+        "sample": 640,
         "tex": 6,
         "txt": 22
     },
-    "pep8_infringement": 1900,
+    "pep8_infringement": 1993,
     "requirements": [],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
 }

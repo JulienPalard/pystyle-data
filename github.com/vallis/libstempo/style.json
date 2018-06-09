@@ -36,13 +36,14 @@
         "ipynb": 1621,
         "md": 7,
         "par": 232,
-        "py": 3200,
-        "pyx": 1723,
-        "sh": 35,
+        "py": 3278,
+        "pyx": 1916,
+        "sample": 640,
+        "sh": 36,
         "tim": 1211,
         "txt": 102
     },
-    "pep8_infringement": 1713,
+    "pep8_infringement": 1722,
     "requirements": [
         "cython>=0.22",
         "numpy"

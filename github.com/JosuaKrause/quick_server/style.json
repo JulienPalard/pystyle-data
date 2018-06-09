@@ -24,20 +24,24 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
+        "cfg": 2,
         "html": 32,
         "in": 2,
-        "js": 260,
-        "py": 2643,
-        "rst": 235
+        "js": 322,
+        "py": 3349,
+        "rst": 371,
+        "sample": 640,
+        "upload": 2,
+        "yml": 21
     },
-    "pep8_infringement": 433,
+    "pep8_infringement": 479,
     "requirements": [],
     "shebang": {
         "#!/usr/bin/env python": 3

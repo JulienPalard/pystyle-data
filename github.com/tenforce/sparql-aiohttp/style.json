@@ -20,8 +20,8 @@
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
         "setup.cfg": false,
@@ -31,15 +31,18 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
-        "in": 4,
-        "ini": 15,
-        "md": 83,
-        "py": 815,
-        "txt": 4
+        "0a0": 1,
+        "in": 9,
+        "ini": 23,
+        "py": 1226,
+        "rst": 158,
+        "sample": 640,
+        "txt": 4,
+        "yml": 41
     },
     "pep8_infringement": 0,
     "requirements": [
-        "aiohttp==2.0.1"
+        "aiohttp>=2.1.0"
     ],
     "shebang": {
         "#!/usr/bin/env python3": 1

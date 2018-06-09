@@ -33,19 +33,20 @@
     "lines_of_code": {
         "config": 650,
         "en": 121,
-        "md": 171,
+        "md": 180,
         "out": 320,
         "perl": 557,
         "pl": 42,
-        "py": 14513,
-        "sample": 122,
+        "py": 17048,
+        "sample": 784,
         "txt": 1323,
-        "voc": 1340
+        "voc": 1340,
+        "yml": 15
     },
-    "pep8_infringement": 2062,
+    "pep8_infringement": 3112,
     "requirements": [
         "bokeh",
-        "chainer>=1.18.0",
+        "chainer>=2.0.0",
         "numpy>=1.10.0",
         "plotly"
     ],

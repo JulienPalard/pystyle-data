@@ -33,7 +33,8 @@
     "lines_of_code": {
         "in": 2,
         "py": 317,
-        "rst": 45
+        "rst": 45,
+        "sample": 640
     },
     "pep8_infringement": 47,
     "requirements": [],

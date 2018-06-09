@@ -1,6 +1,6 @@
 {
     "has_dir": {
-        "doc/": false,
+        "doc/": true,
         "docs/": false,
         "examples/": false,
         "src/": false,
@@ -24,25 +24,38 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": true
     },
     "license": "GPL-2.0",
     "lines_of_code": {
-        "in": 2,
-        "ini": 18,
-        "md": 32,
-        "py": 403,
-        "txt": 4
+        "43": 1,
+        "bat": 281,
+        "cfg": 8,
+        "in": 5,
+        "ini": 44,
+        "md": 52,
+        "py": 5643,
+        "rst": 177,
+        "sample": 640,
+        "sh": 27,
+        "txt": 20,
+        "yaml": 17,
+        "yml": 5
     },
-    "pep8_infringement": 0,
+    "pep8_infringement": 5,
     "requirements": [
         "datetime",
+        "freezegun",
+        "pyparsing",
         "python-dateutil",
         "pytz",
+        "pyyaml",
         "six"
     ],
-    "shebang": {}
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
 }

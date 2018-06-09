@@ -32,18 +32,29 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
-        "ini": 12,
-        "json": 106,
-        "md": 12,
-        "py": 599,
+        "ini": 13,
+        "json": 227,
+        "md": 96,
+        "py": 1073,
+        "sample": 640,
         "sh": 7,
-        "txt": 3
+        "txt": 12,
+        "yml": 7
     },
-    "pep8_infringement": 77,
+    "pep8_infringement": 129,
     "requirements": [
+        "cert-schema>=2.1.5",
+        "configargparse>=0.12.0",
+        "connexion>=1.1.14",
         "enum34>=1.1.6",
-        "python-dateutil>=2.5.3",
-        "pytz>=2016.7"
+        "flask-pymongo>=0.5.1",
+        "jsonschema>=2.6.0",
+        "python-dateutil>=2.6.1",
+        "pytz>=2017.2",
+        "requests>=2.18.4",
+        "simplekv>=0.10.0",
+        "tox>=3.0.0",
+        "validators>=0.12.1"
     ],
     "shebang": {}
 }

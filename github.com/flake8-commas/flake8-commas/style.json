@@ -34,13 +34,14 @@
         "cfg": 5,
         "in": 5,
         "ini": 16,
-        "py": 1260,
-        "rst": 126,
-        "yml": 18
+        "py": 1380,
+        "rst": 169,
+        "sample": 640,
+        "yml": 32
     },
-    "pep8_infringement": 61,
+    "pep8_infringement": 83,
     "requirements": [
-        "flake8>=2,<4.0.0"
+        "flake8<4.0.0,>=2"
     ],
     "shebang": {}
 }

@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,17 +31,18 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 3,
-        "md": 17,
-        "py": 435,
-        "txt": 35,
-        "yml": 16
+        "cfg": 9,
+        "in": 5,
+        "md": 53,
+        "py": 440,
+        "sample": 640,
+        "txt": 67,
+        "yml": 48
     },
     "pep8_infringement": 2,
     "requirements": [
         "gitpython==1.0.1",
-        "mapgitconfig==1.1",
-        "sqre-codekit",
+        "sqre-codekit==2.1.0",
         "sqre-github3.py==1.0.0a4",
         "sqre-pytravisci==0.0.3"
     ],

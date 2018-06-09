@@ -31,15 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "5": 1,
+        "6": 1,
         "cfg": 9,
         "in": 5,
         "ini": 8,
         "md": 229,
-        "py": 1002,
+        "py": 1005,
         "rst": 99,
-        "txt": 9
+        "sample": 640,
+        "txt": 9,
+        "yml": 50
     },
-    "pep8_infringement": 23,
+    "pep8_infringement": 25,
     "requirements": [
         "decorator",
         "flask",

@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": true,
         "src/": false,
         "test/": false,
@@ -32,19 +32,21 @@
     "license": "BSD-2-Clause",
     "lines_of_code": {
         "cppipe": 546,
-        "csv": 15199,
+        "csv": 25744,
         "in": 3,
-        "ini": 98,
-        "json": 500,
-        "md": 218,
-        "py": 1564,
-        "rst": 142,
+        "ini": 72,
+        "json": 673,
+        "md": 262,
+        "py": 2007,
+        "rst": 159,
+        "sample": 640,
         "txt": 36,
-        "xml": 1389
+        "xml": 1389,
+        "yml": 22
     },
-    "pep8_infringement": 35,
+    "pep8_infringement": 0,
     "requirements": [
-        "datapackage",
+        "datapackage<1.0",
         "jsontableschema",
         "jsontableschema-pandas"
     ],

@@ -31,27 +31,27 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "": 490,
         "cfg": 12,
-        "docs": 8,
-        "in": 16,
-        "ini": 35,
-        "py": 8369,
-        "sh": 34,
-        "txt": 7,
-        "yml": 19
+        "in": 17,
+        "ini": 63,
+        "install": 6,
+        "py": 4820,
+        "sample": 640,
+        "sh": 177,
+        "txt": 5,
+        "yaml": 27,
+        "yml": 71
     },
-    "pep8_infringement": 1892,
+    "pep8_infringement": 810,
     "requirements": [
-        "construct>=2.5.2,<=2.5.3",
         "dfdatetime>=20160814",
+        "dtfabric>=20170524",
         "libregf-python>=20150315",
-        "mock",
         "pip>=7.0.0",
-        "pytest",
-        "six>=1.1.0"
+        "pyyaml>=3.10"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 1,
-        "#!/usr/bin/python": 8
+        "#!/usr/bin/env python": 12
     }
 }

@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -17,33 +17,39 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": true,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
-        "setup.py": false,
+        "setup.cfg": true,
+        "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
-        "bat": 1,
+        "2": 1,
         "cfg": 2,
-        "command": 3,
-        "css": 532,
+        "css": 729,
         "in": 2,
-        "ipynb": 5727,
-        "js": 8637,
-        "md": 214,
-        "py": 327,
-        "sh": 10,
-        "txt": 78
+        "js": 11710,
+        "json": 48,
+        "md": 175,
+        "py": 683,
+        "sample": 640,
+        "txt": 29,
+        "yml": 48
     },
-    "pep8_infringement": 22,
-    "requirements": [],
+    "pep8_infringement": 42,
+    "requirements": [
+        "genepattern-python>=1.2.3",
+        "ipywidgets>=7.0.0",
+        "jupyter",
+        "nbtools",
+        "notebook>=4.2.0"
+    ],
     "shebang": {}
 }

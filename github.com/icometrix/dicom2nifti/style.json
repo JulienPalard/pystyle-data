@@ -35,19 +35,23 @@
         "bval": 12,
         "bvec": 36,
         "cfg": 13,
-        "css": 930,
-        "html": 7354,
-        "js": 13248,
-        "py": 5075,
-        "rst": 224,
-        "txt": 155
+        "css": 962,
+        "html": 8728,
+        "js": 23429,
+        "py": 6206,
+        "rst": 291,
+        "sample": 640,
+        "sh": 4,
+        "txt": 313,
+        "yml": 63
     },
-    "pep8_infringement": 666,
+    "pep8_infringement": 1017,
     "requirements": [
         "future",
         "nibabel",
         "numpy",
-        "pydicom",
+        "pydicom>=1.0.1",
+        "scipy",
         "six"
     ],
     "shebang": {

@@ -36,6 +36,7 @@
         "md": 81,
         "po": 64,
         "py": 1695,
+        "sample": 640,
         "txt": 2
     },
     "pep8_infringement": 312,

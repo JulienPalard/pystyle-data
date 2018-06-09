@@ -35,11 +35,12 @@
         "STL": 2,
         "URDF": 211,
         "in": 2,
-        "ipynb": 3352,
+        "ipynb": 3281,
         "json": 159,
         "launch": 46,
         "md": 35,
         "py": 329,
+        "sample": 640,
         "svg": 1720,
         "xml": 6
     },

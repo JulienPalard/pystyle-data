@@ -31,18 +31,16 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "2": 1,
         "cfg": 7,
         "example": 121,
         "in": 8,
         "md": 165,
-        "py": 4217,
+        "py": 4223,
+        "sample": 640,
         "service": 21
     },
-    "pep8_infringement": 511,
-    "requirements": [
-        "requests",
-        "twisted==16.6.0",
-        "twisted-mqtt"
-    ],
+    "pep8_infringement": 513,
+    "requirements": [],
     "shebang": {}
 }

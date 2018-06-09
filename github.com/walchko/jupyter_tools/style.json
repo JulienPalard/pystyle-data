@@ -33,9 +33,11 @@
     "lines_of_code": {
         "py": 149,
         "rst": 47,
-        "txt": 19
+        "sample": 640,
+        "txt": 19,
+        "yaml": 20
     },
-    "pep8_infringement": 98,
+    "pep8_infringement": 96,
     "requirements": [
         "build-utils",
         "jupyter",

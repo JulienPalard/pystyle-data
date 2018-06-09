@@ -34,7 +34,8 @@
         "bib": 50,
         "ipynb": 300,
         "md": 66,
-        "py": 298
+        "py": 298,
+        "sample": 640
     },
     "pep8_infringement": 0,
     "requirements": [],

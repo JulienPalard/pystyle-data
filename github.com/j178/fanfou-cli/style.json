@@ -20,26 +20,28 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
-        "requirements.txt": false,
+        "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": null,
+    "license": "MIT",
     "lines_of_code": {
-        "md": 84,
-        "py": 802
+        "py": 1120,
+        "rst": 118,
+        "sample": 640,
+        "txt": 2
     },
-    "pep8_infringement": 37,
+    "pep8_infringement": 64,
     "requirements": [
         "arrow",
         "requests-oauthlib"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 4
+        "#!/usr/bin/env python3": 5
     }
 }

@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": true,
+        "docs/": false,
         "examples/": false,
         "src/": false,
         "test/": false,
@@ -31,13 +31,17 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 7,
         "in": 3,
-        "ini": 28,
-        "md": 531,
-        "py": 1215
+        "ini": 56,
+        "md": 696,
+        "py": 1082,
+        "sample": 640,
+        "yml": 95
     },
-    "pep8_infringement": 48,
+    "pep8_infringement": 38,
     "requirements": [
+        "django>=1.11",
         "django-appconf>=1.0.1"
     ],
     "shebang": {

@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -26,22 +26,25 @@
         "requirements.txt": true,
         "setup.cfg": false,
         "setup.py": true,
-        "test-requirements.txt": false,
+        "test-requirements.txt": true,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
+        "0": 1,
         "css": 36,
-        "html": 153,
+        "html": 149,
         "in": 5,
-        "md": 94,
-        "py": 231,
-        "txt": 4
+        "md": 121,
+        "py": 420,
+        "sample": 640,
+        "txt": 9,
+        "yml": 21
     },
-    "pep8_infringement": 15,
+    "pep8_infringement": 33,
     "requirements": [
         "flask",
-        "flask-security",
+        "flask-login",
         "flask-wtf",
         "werkzeug"
     ],

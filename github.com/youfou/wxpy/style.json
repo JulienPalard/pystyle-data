@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -24,7 +24,7 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
@@ -32,17 +32,20 @@
     "license": "MIT",
     "lines_of_code": {
         "bat": 36,
+        "cfg": 2,
         "in": 1,
-        "py": 3842,
-        "rst": 1335,
-        "txt": 2
+        "py": 4843,
+        "rst": 1440,
+        "sample": 640,
+        "txt": 4
     },
-    "pep8_infringement": 114,
+    "pep8_infringement": 137,
     "requirements": [
+        "future",
         "itchat==1.2.32",
         "requests"
     ],
     "shebang": {
-        "#!/usr/bin/env python3": 4
+        "#!/usr/bin/env python3": 2
     }
 }

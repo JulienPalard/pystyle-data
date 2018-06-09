@@ -31,10 +31,12 @@
     },
     "license": "BSD-3-Clause",
     "lines_of_code": {
+        "4": 2,
         "conf": 35,
         "ini": 23,
         "json": 840,
         "py": 5740,
+        "sample": 640,
         "template": 9,
         "txt": 150,
         "xml": 22

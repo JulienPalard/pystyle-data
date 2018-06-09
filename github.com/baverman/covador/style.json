@@ -32,13 +32,16 @@
     "license": "MIT",
     "lines_of_code": {
         "in": 1,
-        "ini": 4,
-        "py": 1991,
-        "rst": 149,
-        "sh": 12,
-        "txt": 1
+        "ini": 52,
+        "py": 3152,
+        "rst": 302,
+        "sample": 640,
+        "sh": 25,
+        "test": 8,
+        "txt": 13,
+        "yml": 11
     },
-    "pep8_infringement": 83,
+    "pep8_infringement": 123,
     "requirements": [
         "pytest-coverage"
     ],

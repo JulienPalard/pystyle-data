@@ -32,13 +32,17 @@
     "license": "Apache-2.0",
     "lines_of_code": {
         "cfg": 5,
+        "html": 30,
         "in": 5,
-        "ini": 28,
-        "py": 308,
-        "rst": 130,
-        "txt": 46
+        "ini": 44,
+        "js": 84,
+        "py": 1107,
+        "rst": 239,
+        "sample": 640,
+        "txt": 49,
+        "yml": 24
     },
-    "pep8_infringement": 4,
+    "pep8_infringement": 54,
     "requirements": [
         "elasticsearch",
         "kinto>=6.0.0"

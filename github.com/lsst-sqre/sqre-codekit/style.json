@@ -24,29 +24,34 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 1,
+        "0": 1,
+        "cfg": 8,
         "in": 2,
-        "md": 79,
-        "py": 1686,
-        "txt": 3
+        "list": 260,
+        "md": 174,
+        "py": 3851,
+        "sample": 640,
+        "txt": 136,
+        "yaml": 4,
+        "yml": 244
     },
-    "pep8_infringement": 8,
+    "pep8_infringement": 2,
     "requirements": [
-        "github3.py==1.0.0a4",
-        "gitpython==1.0.1",
         "mapgitconfig==1.1",
-        "progressbar2==3.11.0",
-        "requests>=2.8.1,<3.0.0",
-        "uritemplate.py==2.0.0",
-        "urllib3==1.12"
+        "progressbar2==3.37.1",
+        "public==1.0",
+        "pygithub==1.40a3",
+        "requests>=2.8.1,<3.0.0"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 11
+        "#!/usr/bin/env python3": 15
     }
 }

@@ -31,6 +31,8 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "": 21,
+        "2": 1,
         "bat": 242,
         "cfg": 19,
         "csv": 60,
@@ -38,7 +40,9 @@
         "md": 68,
         "py": 700,
         "rst": 333,
-        "txt": 14
+        "sample": 640,
+        "txt": 14,
+        "yml": 42
     },
     "pep8_infringement": 52,
     "requirements": [

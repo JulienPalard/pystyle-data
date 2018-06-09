@@ -31,15 +31,17 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 106,
-        "py": 6032,
+        "": 7,
+        "md": 109,
+        "py": 6051,
+        "sample": 640,
         "txt": 21,
-        "yml": 6
+        "yml": 61
     },
-    "pep8_infringement": 7,
+    "pep8_infringement": 129,
     "requirements": [
         "numpy",
-        "pipdate<0.3.0,>=0.2.0"
+        "pipdate>=0.2.0,<0.3.0"
     ],
     "shebang": {}
 }

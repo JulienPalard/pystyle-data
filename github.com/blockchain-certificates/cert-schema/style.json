@@ -1,7 +1,7 @@
 {
     "has_dir": {
         "doc/": false,
-        "docs/": false,
+        "docs/": true,
         "examples/": true,
         "src/": false,
         "test/": false,
@@ -33,23 +33,24 @@
     "lines_of_code": {
         "in": 1,
         "ini": 14,
-        "js": 47,
-        "json": 1520,
-        "md": 78,
-        "py": 369,
+        "js": 87,
+        "json": 3205,
+        "md": 2167,
+        "py": 418,
+        "sample": 640,
         "sh": 7,
-        "txt": 6
+        "txt": 5,
+        "yml": 7
     },
-    "pep8_infringement": 28,
+    "pep8_infringement": 35,
     "requirements": [
-        "cert-core>=2.0b7",
-        "jsonschema>=2.6",
-        "pyld>=0.7.1",
-        "requests>=2.13.0",
-        "validators>=0.11.1",
-        "werkzeug>=0.11.11"
+        "jsonschema>=2.6.0",
+        "pyld>=1.0.3",
+        "requests>=2.18.4",
+        "tox>=3.0.0",
+        "validators>=0.12.1"
     ],
     "shebang": {
-        "#! /usr/bin/env python": 1
+        "#! /usr/bin/env python": 2
     }
 }

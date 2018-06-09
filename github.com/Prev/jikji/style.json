@@ -24,21 +24,22 @@
         "README.rst": false,
         "pytest.ini": false,
         "requirements.txt": true,
-        "setup.cfg": true,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": true,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 2,
         "css": 1,
         "html": 59,
-        "md": 80,
-        "py": 1680,
-        "txt": 5
+        "md": 79,
+        "py": 2115,
+        "sample": 640,
+        "txt": 5,
+        "yml": 18
     },
-    "pep8_infringement": 1413,
+    "pep8_infringement": 1767,
     "requirements": [
         "click>=5.0",
         "flask>=0.10",

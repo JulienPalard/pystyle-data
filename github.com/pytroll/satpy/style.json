@@ -11,10 +11,10 @@
         ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
-        "CHANGELOG.md": false,
+        "CHANGELOG.md": true,
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
-        "CONTRIBUTING.rst": false,
+        "CONTRIBUTING.rst": true,
         "LICENSE": false,
         "LICENSE.txt": true,
         "MANIFEST.in": true,
@@ -31,30 +31,34 @@
     },
     "license": "GPL-3.0",
     "lines_of_code": {
-        "cfg": 296,
-        "def": 887,
-        "feature": 62,
-        "in": 6,
-        "py": 24999,
-        "rst": 4275,
+        "cfg": 42,
+        "def": 914,
+        "feature": 269,
+        "in": 5,
+        "md": 264,
+        "py": 32982,
+        "rst": 6152,
+        "sample": 640,
         "txt": 674,
         "xml": 918,
-        "yaml": 7568,
-        "yml": 91
+        "yaml": 10665,
+        "yml": 187
     },
-    "pep8_infringement": 979,
+    "pep8_infringement": 1124,
     "requirements": [
+        "dask>=0.17.1",
         "numpy>=1.4.1",
         "pillow",
         "pykdtree",
-        "pyresample>=1.4.0",
+        "pyresample>=1.9.2",
         "pyyaml",
         "six",
-        "trollimage",
-        "trollsift"
+        "trollimage>=1.5.1",
+        "trollsift",
+        "xarray>=0.10.1"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 84,
-        "#!/usr/bin/python": 4
+        "#!/usr/bin/env python": 111,
+        "#!/usr/bin/python": 5
     }
 }

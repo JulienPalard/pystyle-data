@@ -8,7 +8,7 @@
         "tests/": false
     },
     "has_file": {
-        ".gitignore": false,
+        ".gitignore": true,
         "AUTHORS.md": false,
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
@@ -31,9 +31,10 @@
     },
     "license": null,
     "lines_of_code": {
-        "py": 113
+        "py": 215,
+        "sample": 640
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 28,
     "requirements": [],
     "shebang": {}
 }

@@ -13,12 +13,12 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
         "MANIFEST.in": false,
-        "Makefile": false,
+        "Makefile": true,
         "README": false,
         "README.md": false,
         "README.rst": true,
@@ -29,18 +29,25 @@
         "test-requirements.txt": false,
         "tox.ini": false
     },
-    "license": "GPL-3.0",
+    "license": "MPL-2.0",
     "lines_of_code": {
         "bat": 281,
-        "json": 151,
+        "html": 22,
+        "json": 280,
+        "md": 43,
         "pem": 52,
-        "py": 3644,
-        "rst": 464,
-        "txt": 4
+        "py": 4749,
+        "rst": 1001,
+        "sample": 640,
+        "txt": 7686,
+        "yml": 16
     },
     "pep8_infringement": 0,
     "requirements": [
-        "eventlet==0.21.0"
+        "eventlet==0.20.1",
+        "gevent>=1.1",
+        "simplejson==3.11.1",
+        "six==1.10.0"
     ],
     "shebang": {}
 }

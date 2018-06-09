@@ -34,9 +34,11 @@
         "c": 1588,
         "cfg": 0,
         "h": 56,
-        "py": 1613,
+        "py": 1619,
         "rst": 317,
-        "txt": 6
+        "sample": 640,
+        "txt": 6,
+        "yml": 18
     },
     "pep8_infringement": 8,
     "requirements": [

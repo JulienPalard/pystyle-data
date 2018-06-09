@@ -13,7 +13,7 @@
         "AUTHORS.rst": false,
         "CHANGELOG.md": false,
         "CHANGELOG.rst": false,
-        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.md": true,
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
@@ -33,8 +33,10 @@
     "lines_of_code": {
         "in": 1,
         "json": 41,
-        "md": 523,
+        "md": 608,
         "py": 1559,
+        "sample": 640,
+        "template": 5,
         "txt": 1323
     },
     "pep8_infringement": 163,

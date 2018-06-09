@@ -31,12 +31,16 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "": 3,
+        "50-master": 1,
+        "51-master": 1,
         "cfg": 2,
         "dockerfile": 52,
-        "md": 6,
-        "py": 4335
+        "md": 20,
+        "py": 4382,
+        "sample": 640
     },
-    "pep8_infringement": 223,
+    "pep8_infringement": 221,
     "requirements": [
         "ujson"
     ],

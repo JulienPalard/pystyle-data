@@ -40,9 +40,11 @@
         "py": 3083,
         "ris": 19,
         "rss": 17,
-        "txt": 3
+        "sample": 640,
+        "txt": 3,
+        "yml": 23
     },
-    "pep8_infringement": 1420,
+    "pep8_infringement": 1408,
     "requirements": [
         "django>=1.5.0",
         "pillow>=2.3.0"

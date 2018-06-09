@@ -31,11 +31,13 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "0": 1,
         "cfg": 2,
         "in": 1,
         "js": 64,
         "md": 40,
         "py": 215,
+        "sample": 640,
         "sublime-project": 32
     },
     "pep8_infringement": 28,

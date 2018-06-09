@@ -31,22 +31,26 @@
     },
     "license": null,
     "lines_of_code": {
+        "": 0,
         "LESSER": 165,
-        "ac": 168,
-        "am": 193,
-        "cpp": 8376,
-        "h": 5314,
-        "in": 54,
+        "ac": 194,
+        "am": 195,
+        "cpp": 9161,
+        "h": 5647,
+        "in": 64,
         "m4": 86,
-        "py": 4259,
-        "rst": 1862,
-        "sh": 58,
-        "txt": 14
+        "py": 4544,
+        "rst": 2150,
+        "sample": 640,
+        "sh": 50,
+        "txt": 22,
+        "yml": 137
     },
-    "pep8_infringement": 326,
+    "pep8_infringement": 327,
     "requirements": [
         "numpy>=1.9.2",
-        "six"
+        "six",
+        "trollius"
     ],
     "shebang": {
         "#!/usr/bin/env python": 7

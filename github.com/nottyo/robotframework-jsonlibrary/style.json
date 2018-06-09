@@ -34,13 +34,15 @@
         "html": 842,
         "json": 22,
         "md": 50,
-        "py": 319,
+        "py": 329,
         "robot": 40,
         "rst": 18,
+        "sample": 640,
         "sh": 1,
-        "txt": 4
+        "txt": 4,
+        "yml": 14
     },
-    "pep8_infringement": 27,
+    "pep8_infringement": 29,
     "requirements": [
         "coverage",
         "jsonpath-rw==1.4.0",

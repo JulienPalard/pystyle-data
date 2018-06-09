@@ -32,17 +32,19 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "md": 132,
-        "py": 409,
+        "md": 135,
+        "py": 1562,
+        "sample": 640,
         "txt": 21
     },
-    "pep8_infringement": 11,
+    "pep8_infringement": 73,
     "requirements": [
         "awscli",
         "boto",
         "boto3"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 7
+        "#!/usr/bin/env python": 12,
+        "#!/usr/bin/python": 2
     }
 }

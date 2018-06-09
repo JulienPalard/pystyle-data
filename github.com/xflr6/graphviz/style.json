@@ -15,8 +15,8 @@
         "CHANGELOG.rst": false,
         "CONTRIBUTING.md": false,
         "CONTRIBUTING.rst": false,
-        "LICENSE": true,
-        "LICENSE.txt": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
         "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
@@ -27,25 +27,24 @@
         "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
-        "tox.ini": false
+        "tox.ini": true
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 19,
+        "cfg": 25,
         "in": 7,
+        "ini": 7,
         "ipynb": 526,
-        "py": 2006,
-        "rst": 806,
-        "svg": 2076,
-        "txt": 9
+        "py": 2451,
+        "rst": 961,
+        "sample": 640,
+        "svg": 2116,
+        "txt": 324,
+        "yml": 15
     },
-    "pep8_infringement": 122,
+    "pep8_infringement": 70,
     "requirements": [
-        "coverage",
-        "flake8",
-        "nose",
-        "pep8-naming",
-        "wheel"
+        "Unknown (.[dev,test,docs])"
     ],
     "shebang": {
         "#!/usr/bin/env python": 16

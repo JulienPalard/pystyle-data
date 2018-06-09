@@ -3,7 +3,7 @@
         "doc/": false,
         "docs/": false,
         "examples/": false,
-        "src/": true,
+        "src/": false,
         "test/": false,
         "tests/": true
     },
@@ -17,29 +17,32 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": false,
         "LICENSE.txt": true,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
-        "setup.cfg": true,
+        "requirements.txt": false,
+        "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 5,
-        "md": 269,
-        "py": 1143,
-        "txt": 24
+        "in": 1,
+        "md": 201,
+        "py": 2344,
+        "sample": 640,
+        "txt": 24,
+        "yml": 17
     },
-    "pep8_infringement": 156,
+    "pep8_infringement": 196,
     "requirements": [
+        "logzero>=1.3.1",
         "requests>=2.4.2",
-        "six>=1.10.0",
+        "six",
         "unicodecsv>=0.14.1"
     ],
     "shebang": {

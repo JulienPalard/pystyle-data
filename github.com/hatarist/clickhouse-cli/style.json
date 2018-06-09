@@ -32,15 +32,15 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 2,
-        "md": 195,
-        "py": 3437,
-        "sample": 39,
+        "md": 214,
+        "py": 3720,
+        "sample": 695,
         "txt": 58
     },
-    "pep8_infringement": 122,
+    "pep8_infringement": 115,
     "requirements": [
         "click>=6.6",
-        "prompt-toolkit>=1.0.8",
+        "prompt-toolkit>=1.0.8,<2.0",
         "pygments>=2.1.3",
         "requests>=2.11.1",
         "sqlparse>=0.2.2"

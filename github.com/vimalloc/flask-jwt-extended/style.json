@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,18 +31,23 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "cfg": 2,
-        "ini": 13,
-        "md": 55,
-        "py": 4167,
-        "rst": 428,
-        "txt": 21
+        "0": 1,
+        "1": 1,
+        "cfg": 6,
+        "in": 1,
+        "ini": 19,
+        "md": 84,
+        "py": 5269,
+        "rst": 680,
+        "sample": 640,
+        "txt": 33,
+        "yml": 21
     },
-    "pep8_infringement": 131,
+    "pep8_infringement": 123,
     "requirements": [
         "flask",
         "pyjwt",
-        "simplekv"
+        "werkzeug>=0.14"
     ],
     "shebang": {}
 }

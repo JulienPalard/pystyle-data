@@ -31,15 +31,17 @@
     },
     "license": "AGPL-3.0",
     "lines_of_code": {
+        "": 3,
         "cfg": 2,
         "json": 449,
-        "md": 4,
+        "md": 73,
         "p": 65633,
         "py": 9022,
+        "sample": 640,
         "sh": 211,
         "sql": 5,
         "template": 8,
-        "txt": 689
+        "txt": 686
     },
     "pep8_infringement": 987,
     "requirements": [

@@ -20,8 +20,8 @@
         "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
-        "README.md": true,
-        "README.rst": false,
+        "README.md": false,
+        "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
         "setup.cfg": false,
@@ -31,10 +31,12 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "md": 160,
-        "py": 180
+        "91": 1,
+        "py": 163,
+        "rst": 187,
+        "sample": 640
     },
-    "pep8_infringement": 7,
+    "pep8_infringement": 5,
     "requirements": [
         "future",
         "requests"

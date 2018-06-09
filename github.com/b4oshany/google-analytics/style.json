@@ -36,7 +36,8 @@
         "md": 79,
         "py": 3047,
         "rst": 87,
-        "yml": 313
+        "sample": 640,
+        "yml": 321
     },
     "pep8_infringement": 244,
     "requirements": [

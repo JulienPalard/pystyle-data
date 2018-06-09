@@ -31,18 +31,21 @@
     },
     "license": "Apache-2.0",
     "lines_of_code": {
+        "": 9,
         "cfg": 14,
         "conf": 3,
         "css": 389,
         "html": 41,
         "in": 3,
         "ini": 20,
-        "md": 231,
-        "py": 7390,
+        "md": 245,
+        "py": 7932,
         "rst": 648,
-        "txt": 30
+        "sample": 640,
+        "txt": 30,
+        "yml": 17
     },
-    "pep8_infringement": 827,
+    "pep8_infringement": 888,
     "requirements": [
         "python-dateutil"
     ],

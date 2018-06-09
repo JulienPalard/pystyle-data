@@ -31,10 +31,13 @@
     },
     "license": "BSD-2-Clause",
     "lines_of_code": {
+        "": 16,
         "html": 146,
         "in": 3,
         "md": 124,
-        "py": 1489
+        "py": 1492,
+        "sample": 640,
+        "yml": 53
     },
     "pep8_infringement": 18,
     "requirements": [],

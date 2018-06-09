@@ -5,7 +5,7 @@
         "examples/": true,
         "src/": false,
         "test/": false,
-        "tests/": false
+        "tests/": true
     },
     "has_file": {
         ".gitignore": true,
@@ -31,15 +31,19 @@
     },
     "license": "MIT",
     "lines_of_code": {
-        "css": 913,
-        "html": 246,
-        "js": 3197,
-        "json": 2086,
-        "md": 481,
-        "scss": 208,
-        "sh": 11,
-        "snap": 744,
-        "svg": 80
+        "": 41,
+        "2": 1,
+        "css": 72,
+        "html": 156,
+        "js": 10006,
+        "json": 15115,
+        "md": 1600,
+        "sample": 640,
+        "scss": 1054,
+        "snap": 2109,
+        "svg": 64,
+        "xml": 9,
+        "yml": 36
     },
     "pep8_infringement": 0,
     "requirements": [],

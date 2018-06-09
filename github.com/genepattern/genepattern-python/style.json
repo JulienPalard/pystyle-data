@@ -4,7 +4,7 @@
         "docs/": false,
         "examples/": false,
         "src/": false,
-        "test/": false,
+        "test/": true,
         "tests/": false
     },
     "has_file": {
@@ -32,11 +32,13 @@
     "license": "BSD-3-Clause",
     "lines_of_code": {
         "cfg": 2,
-        "md": 60,
-        "py": 1217,
-        "txt": 39
+        "md": 64,
+        "py": 2176,
+        "sample": 640,
+        "txt": 29,
+        "yml": 12
     },
-    "pep8_infringement": 69,
+    "pep8_infringement": 133,
     "requirements": [],
     "shebang": {}
 }

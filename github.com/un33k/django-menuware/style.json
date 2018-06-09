@@ -31,10 +31,13 @@
     },
     "license": "MIT",
     "lines_of_code": {
+        "0": 1,
         "md": 307,
         "py": 593,
+        "sample": 640,
         "sh": 10,
-        "txt": 1
+        "txt": 1,
+        "yml": 30
     },
     "pep8_infringement": 24,
     "requirements": [

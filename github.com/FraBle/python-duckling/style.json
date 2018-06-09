@@ -33,10 +33,11 @@
     "lines_of_code": {
         "cfg": 6,
         "md": 260,
-        "py": 1806,
+        "py": 1996,
+        "sample": 640,
         "yml": 6
     },
-    "pep8_infringement": 51,
+    "pep8_infringement": 50,
     "requirements": [
         "jpype1",
         "python-dateutil",

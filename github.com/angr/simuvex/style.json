@@ -5,7 +5,7 @@
         "examples/": false,
         "src/": false,
         "test/": false,
-        "tests/": true
+        "tests/": false
     },
     "has_file": {
         ".gitignore": true,
@@ -17,13 +17,13 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": true,
+        "MANIFEST.in": false,
         "Makefile": false,
         "README": false,
         "README.md": true,
         "README.rst": false,
         "pytest.ini": false,
-        "requirements.txt": true,
+        "requirements.txt": false,
         "setup.cfg": false,
         "setup.py": true,
         "test-requirements.txt": false,
@@ -31,30 +31,13 @@
     },
     "license": "BSD-2-Clause",
     "lines_of_code": {
-        "c": 150,
-        "cpp": 1238,
-        "def": 29,
-        "h": 75,
-        "in": 3,
         "md": 5,
-        "py": 24669,
-        "txt": 9
+        "py": 285,
+        "sample": 640
     },
-    "pep8_infringement": 5117,
+    "pep8_infringement": 92,
     "requirements": [
-        "ana",
-        "archinfo",
-        "bintrees",
-        "cachetools",
-        "claripy",
-        "cooldict",
-        "dpkt-fix",
-        "enum34",
-        "pyvex",
-        "unicorn"
+        "angr"
     ],
-    "shebang": {
-        "#!/usr/bin/env python": 12,
-        "#!/usr/bin/python env": 1
-    }
+    "shebang": {}
 }

@@ -32,7 +32,8 @@
     "license": null,
     "lines_of_code": {
         "csv": 1472,
-        "md": 1362
+        "md": 1805,
+        "sample": 640
     },
     "pep8_infringement": 0,
     "requirements": [],

@@ -34,7 +34,8 @@
         "json": 37913,
         "ps1": 4,
         "py": 857,
-        "rst": 1
+        "rst": 1,
+        "sample": 640
     },
     "pep8_infringement": 247,
     "requirements": [],

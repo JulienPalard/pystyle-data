@@ -33,13 +33,14 @@
     "lines_of_code": {
         "bat": 263,
         "in": 1,
-        "ini": 17,
-        "py": 1286,
-        "rst": 438,
-        "txt": 2,
-        "yml": 1
+        "ini": 19,
+        "py": 1301,
+        "rst": 451,
+        "sample": 640,
+        "txt": 1,
+        "yml": 31
     },
-    "pep8_infringement": 104,
+    "pep8_infringement": 103,
     "requirements": [
         "mock",
         "pyodbc"

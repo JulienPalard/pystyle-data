@@ -35,20 +35,23 @@
         "in": 1,
         "ini": 12,
         "json": 64,
-        "md": 66,
-        "py": 247,
+        "md": 67,
+        "py": 267,
+        "sample": 640,
         "sh": 7,
-        "txt": 7
+        "txt": 8,
+        "yml": 7
     },
-    "pep8_infringement": 21,
+    "pep8_infringement": 29,
     "requirements": [
-        "cert-core>=0.0.17",
-        "configargparse==0.10.0",
-        "connexion>=1.0.109",
-        "flask-pymongo>=0.4.1",
+        "cert-schema>=2.0.7",
+        "configargparse>=0.12.0",
+        "connexion>=1.1.14",
+        "enum34>=1.1.6",
+        "flask-pymongo>=0.5.1",
         "simplekv>=0.10.0",
-        "swagger-parser>=0.1.10",
-        "tox>=2.3.1"
+        "swagger-parser>=1.0.0",
+        "tox>=2.7.0"
     ],
     "shebang": {}
 }

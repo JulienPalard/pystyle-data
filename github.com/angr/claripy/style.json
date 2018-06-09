@@ -17,7 +17,7 @@
         "CONTRIBUTING.rst": false,
         "LICENSE": true,
         "LICENSE.txt": false,
-        "MANIFEST.in": false,
+        "MANIFEST.in": true,
         "Makefile": false,
         "README": false,
         "README.md": true,
@@ -31,17 +31,20 @@
     },
     "license": "BSD-2-Clause",
     "lines_of_code": {
+        "in": 2,
         "md": 18,
-        "py": 18067,
-        "txt": 2,
-        "yml": 18
+        "py": 18614,
+        "sample": 640,
+        "txt": 3,
+        "yml": 35
     },
-    "pep8_infringement": 2908,
+    "pep8_infringement": 2959,
     "requirements": [
         "ana",
-        "angr-only-z3-custom==9002"
+        "future",
+        "z3-solver"
     ],
     "shebang": {
-        "#!/usr/bin/env python": 8
+        "#!/usr/bin/env python": 7
     }
 }

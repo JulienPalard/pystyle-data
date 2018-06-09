@@ -24,7 +24,7 @@
         "README.rst": true,
         "pytest.ini": false,
         "requirements.txt": false,
-        "setup.cfg": false,
+        "setup.cfg": true,
         "setup.py": true,
         "test-requirements.txt": false,
         "tox.ini": false
@@ -32,10 +32,11 @@
     "license": "MIT",
     "lines_of_code": {
         "cfg": 5,
-        "py": 340,
-        "rst": 28
+        "py": 384,
+        "rst": 36,
+        "sample": 640
     },
-    "pep8_infringement": 43,
+    "pep8_infringement": 44,
     "requirements": [],
     "shebang": {}
 }

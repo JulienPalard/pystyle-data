@@ -31,25 +31,30 @@
     },
     "license": "BSD-2-Clause",
     "lines_of_code": {
+        "": 2,
         "beats": 5,
+        "chords": 4,
         "in": 3,
+        "key": 1,
+        "md": 47,
         "mirex": 8,
         "notes": 9,
         "notes_in_beats": 24,
         "onsets": 16,
         "pxd": 15,
-        "py": 32194,
-        "pyx": 1239,
-        "rst": 1146,
+        "py": 36867,
+        "pyx": 1298,
+        "rst": 1218,
+        "sample": 640,
         "tempo": 3,
-        "txt": 218,
-        "yml": 62
+        "txt": 231,
+        "yml": 170
     },
-    "pep8_infringement": 47,
+    "pep8_infringement": 50,
     "requirements": [
-        "cython>=0.22.1",
+        "cython>=0.25",
         "numpy>=1.8.1",
-        "scipy>=0.14"
+        "scipy>=0.16"
     ],
     "shebang": {
         "#!/usr/bin/env python": 1

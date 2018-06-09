@@ -32,11 +32,12 @@
     "license": "AGPL-3.0",
     "lines_of_code": {
         "in": 1,
-        "md": 156,
-        "py": 1196,
+        "md": 157,
+        "py": 1222,
+        "sample": 640,
         "sh": 4
     },
-    "pep8_infringement": 177,
+    "pep8_infringement": 176,
     "requirements": [
         "requests"
     ],
