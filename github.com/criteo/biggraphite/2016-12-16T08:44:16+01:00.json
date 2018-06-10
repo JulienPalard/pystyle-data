@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": true,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 2,
+        "cfg": 19,
+        "cql": 11,
+        "csv": 43,
+        "in": 6,
+        "ini": 72,
+        "java": 162,
+        "md": 391,
+        "py": 9840,
+        "sample": 640,
+        "txt": 235,
+        "xml": 279,
+        "yml": 46
+    },
+    "pep8_infringement": 354,
+    "requirements": [
+        "cachetools",
+        "carbon (git+https://github.com/graphite-project/carbon.git@master)",
+        "cassandra-driver",
+        "enum34",
+        "graphite-web (git+https://github.com/graphite-project/graphite-web.git@master)",
+        "humanize",
+        "ipython",
+        "lmdb",
+        "parsedatetime",
+        "progressbar2",
+        "scales",
+        "sortedcontainers",
+        "whisper"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 46
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "R": 29,
+        "ipynb": 218210,
+        "md": 96,
+        "py": 3294,
+        "rst": 21,
+        "sample": 640,
+        "sh": 3,
+        "txt": 5,
+        "yml": 29
+    },
+    "pep8_infringement": 558,
+    "requirements": [
+        "dill>=0.2.6",
+        "lime>=0.1.1.20",
+        "pandas>=0.19",
+        "pathos==0.2.0",
+        "requests",
+        "scikit-learn>=0.18"
+    ],
+    "shebang": {}
+}

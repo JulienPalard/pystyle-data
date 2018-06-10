@@ -1,0 +1,49 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "": 4,
+        "cfg": 5,
+        "in": 7,
+        "js": 73,
+        "py": 18920,
+        "rst": 1079,
+        "sample": 640,
+        "yml": 174
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "calmjs.parse>=1.0.0,<2",
+        "setuptools>=12"
+    ],
+    "shebang": {}
+}

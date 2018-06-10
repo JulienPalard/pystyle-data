@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 36,
+        "conf": 5,
+        "css": 7,
+        "ini": 57,
+        "json": 2,
+        "md": 49,
+        "py": 4734,
+        "rst": 1343,
+        "sample": 640,
+        "sh": 39,
+        "txt": 14,
+        "yaml": 1082,
+        "yml": 23
+    },
+    "pep8_infringement": 49,
+    "requirements": [
+        "colorama",
+        "jsonpath-rw-ext>=1.0.0",
+        "pbr",
+        "pytest",
+        "pyyaml",
+        "six",
+        "testtools",
+        "urllib3>=1.11.0",
+        "wsgi-intercept>=1.2.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

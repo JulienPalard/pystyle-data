@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "": 87,
+        "c": 1097,
+        "cfg": 3,
+        "cmd": 47,
+        "coalang": 23,
+        "h": 78,
+        "in": 4,
+        "md": 2527,
+        "po": 35927,
+        "py": 19796,
+        "sample": 640,
+        "sh": 187,
+        "txt": 62,
+        "x": 0,
+        "xml": 110,
+        "y": 0,
+        "yml": 106,
+        "z": 0
+    },
+    "pep8_infringement": 466,
+    "requirements": [
+        "coverage",
+        "language-check",
+        "munkres3",
+        "pylint",
+        "setuptools"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 3
+    }
+}

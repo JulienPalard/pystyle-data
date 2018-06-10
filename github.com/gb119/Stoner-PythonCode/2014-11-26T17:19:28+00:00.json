@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "340": 209,
+        "bat": 190,
+        "cfg": 7,
+        "csv": 118,
+        "dat": 3637,
+        "dql": 430,
+        "eps": 338,
+        "fld": 504,
+        "ini": 305,
+        "md": 79,
+        "ovf": 409631,
+        "py": 14211,
+        "rst": 2506,
+        "sample": 640,
+        "sty": 243,
+        "tex": 1570,
+        "txt": 2656
+    },
+    "pep8_infringement": 8300,
+    "requirements": [
+        "h5py",
+        "lmfit",
+        "matplotlib>=1.1",
+        "numpy>=1.4",
+        "scipy>=0.12"
+    ],
+    "shebang": {}
+}

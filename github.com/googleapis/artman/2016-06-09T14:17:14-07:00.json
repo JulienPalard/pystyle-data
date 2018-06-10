@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "baseline": 53,
+        "go": 34,
+        "gradle": 0,
+        "ini": 32,
+        "proto": 8,
+        "py": 2518,
+        "rst": 415,
+        "sample": 640,
+        "sh": 147,
+        "txt": 12,
+        "yml": 8
+    },
+    "pep8_infringement": 47,
+    "requirements": [
+        "gcloud==0.10.0",
+        "google-apitools",
+        "kazoo>=2.2.1",
+        "oslo.utils>=3.4.0",
+        "pyyaml>=3.11",
+        "taskflow>=1.25.0,<2.0.0",
+        "yapf>=0.6.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

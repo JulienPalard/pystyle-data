@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "conf": 2,
+        "css": 51,
+        "html": 6,
+        "ini": 8,
+        "py": 5456,
+        "rst": 290,
+        "sample": 640,
+        "sh": 83,
+        "txt": 2,
+        "yml": 15
+    },
+    "pep8_infringement": 1535,
+    "requirements": [
+        "argparse",
+        "boto==2.34.0",
+        "delfick-error==1.6.1",
+        "filechunkio==1.6",
+        "humanize",
+        "input-algorithms==0.4.3.1",
+        "option-merge==0.9.1",
+        "pytz",
+        "pyyaml==3.10",
+        "radssh==1.0.1",
+        "rainbow-logging-handler==2.2.2",
+        "requests",
+        "six"
+    ],
+    "shebang": {}
+}

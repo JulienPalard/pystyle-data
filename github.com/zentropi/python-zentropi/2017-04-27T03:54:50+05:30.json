@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 78,
+        "cfg": 48,
+        "dic": 10095,
+        "in": 25,
+        "ini": 119,
+        "py": 3984,
+        "rst": 368,
+        "sample": 640,
+        "txt": 23,
+        "yml": 73
+    },
+    "pep8_infringement": 82,
+    "requirements": [
+        "click<7.0,>=6.7",
+        "fuzzywuzzy<0.20,>=0.15.0",
+        "parse<2.0,>=1.8.0",
+        "prompt-toolkit<1.1,==1.0.14",
+        "pybloom-live>=2.2.0,<2.3",
+        "pygments>=2.2.0,<2.3",
+        "sortedcontainers>=1.5.7,<1.6"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

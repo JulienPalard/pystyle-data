@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "CPAL-1.0",
+    "lines_of_code": {
+        "": 29,
+        "in": 4,
+        "ini": 39,
+        "js": 8,
+        "md": 21,
+        "py": 5344,
+        "sample": 640,
+        "sh": 2,
+        "yml": 60
+    },
+    "pep8_infringement": 7,
+    "requirements": [
+        "celery",
+        "django-ranged-response",
+        "gunicorn",
+        "pyro4",
+        "tai5-uan5-gian5-gi2-tsu1-liau7-khoo3>=3.1.13"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

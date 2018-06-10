@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "asc": 14508,
+        "dat": 1412,
+        "f": 10295,
+        "f90": 465,
+        "h": 13,
+        "in": 3,
+        "out": 663,
+        "py": 410,
+        "rst": 88,
+        "sample": 640,
+        "txt": 389,
+        "yml": 2
+    },
+    "pep8_infringement": 722,
+    "requirements": [
+        "astropy>=1.0",
+        "dateutil",
+        "matplotlib>=1.4",
+        "numpy",
+        "pandas"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 5
+    }
+}

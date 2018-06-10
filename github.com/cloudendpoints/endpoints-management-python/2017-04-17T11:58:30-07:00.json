@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cert": 27,
+        "cfg": 11,
+        "ini": 52,
+        "key": 27,
+        "py": 15209,
+        "rst": 233,
+        "sample": 640,
+        "txt": 20,
+        "yml": 11
+    },
+    "pep8_infringement": 762,
+    "requirements": [
+        "cachetools<2,>=1.0.0",
+        "dogpile.cache<0.7,>=0.6.1",
+        "enum34<2,>=1.1.6",
+        "future==0.16.0",
+        "google-apitools>=0.4.15,<0.5",
+        "oauth2client<2,>=1.5.2",
+        "ply<4.0,>=3.8",
+        "pyjwkest>=1.0.0,<=1.0.9",
+        "pylru>=1.0.9,<2.0",
+        "requests>=2.10.0,<3.0",
+        "strict-rfc3339>=0.7,<0.8",
+        "urllib3>=1.16,<2.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

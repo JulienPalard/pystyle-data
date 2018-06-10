@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "": 77,
+        "cfg": 46,
+        "css": 47,
+        "html": 107,
+        "in": 21,
+        "ini": 108,
+        "py": 285,
+        "rst": 509,
+        "sample": 640,
+        "txt": 14,
+        "yml": 81
+    },
+    "pep8_infringement": 10,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

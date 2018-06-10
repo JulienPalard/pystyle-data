@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": true,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "1": 1639,
+        "F90": 239,
+        "S": 44,
+        "agent": 66,
+        "c": 68344,
+        "cb": 1546,
+        "cc": 294,
+        "conf": 52,
+        "f90": 123,
+        "h": 39594,
+        "in": 201,
+        "lua": 7011,
+        "md": 9840,
+        "mk": 409,
+        "pl": 850,
+        "pm": 29409,
+        "ptt": 2409,
+        "py": 1323,
+        "sample": 640,
+        "sh": 93,
+        "tt": 225,
+        "txt": 40993,
+        "yml": 15
+    },
+    "pep8_infringement": 299,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

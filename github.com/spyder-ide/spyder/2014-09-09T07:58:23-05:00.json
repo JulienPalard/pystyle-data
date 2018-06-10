@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 52,
+        "bat": 12,
+        "css": 476,
+        "desktop": 28,
+        "html": 298,
+        "in": 13,
+        "ini": 992,
+        "js": 14303,
+        "md": 200,
+        "po": 10880,
+        "py": 93641,
+        "pyw": 72,
+        "rst": 1839,
+        "sample": 640,
+        "svg": 4836,
+        "txt": 90
+    },
+    "pep8_infringement": 7186,
+    "requirements": [
+        "pyqt4>=4.4",
+        "rope>=0.9.2",
+        "sphinx>=0.6.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "UPF": 73968,
+        "bat": 155,
+        "docs": 18,
+        "in": 347,
+        "out": 6310,
+        "py": 35620,
+        "rst": 5368,
+        "sample": 640,
+        "sh": 38,
+        "txt": 129,
+        "xml": 9547
+    },
+    "pep8_infringement": 11451,
+    "requirements": [
+        "amqp>=1.4",
+        "anyjson>=0.3",
+        "billiard",
+        "celery>=3.0",
+        "django<1.6,>=1.5.5",
+        "django-celery>=3.0",
+        "django-extensions>=0.9",
+        "django-tastypie>=0.11.0",
+        "ecdsa>=0.10",
+        "kombu",
+        "numpy",
+        "paramiko>=1.10",
+        "psycopg2",
+        "pysqlite>=2.6.3",
+        "pytz>=2013b",
+        "six>=1.5",
+        "supervisor>=3.0b1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 10,
+        "#!/usr/bin/python": 1
+    }
+}

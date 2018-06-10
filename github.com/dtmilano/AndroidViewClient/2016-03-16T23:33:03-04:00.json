@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 28,
+        "css": 322,
+        "epydoc": 149,
+        "html": 22552,
+        "iml": 10,
+        "java": 325,
+        "js": 293,
+        "md": 21,
+        "prefs": 11,
+        "properties": 6,
+        "py": 12910,
+        "sample": 640,
+        "sh": 20,
+        "txt": 382,
+        "xml": 108
+    },
+    "pep8_infringement": 3287,
+    "requirements": [
+        "requests",
+        "setuptools"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 30,
+        "#! /usr/bin/env shebang monkeyrunner -plugin $ANDROID_VIEW_CLIENT_HOME/bin/androidviewclient-$ANDROID_VIEW_CLIENT_VERSION.jar @!": 1,
+        "#!/usr/bin/env python": 2
+    }
+}

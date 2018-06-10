@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 129,
+        "cfg": 10,
+        "in": 2,
+        "md": 119,
+        "py": 2509,
+        "rst": 121,
+        "sample": 640,
+        "sh": 10,
+        "txt": 36
+    },
+    "pep8_infringement": 1593,
+    "requirements": [
+        "boto3>=1.3.1",
+        "botocore>=1.4.28",
+        "decorator>=4.0.10",
+        "docutils>=0.12",
+        "futures>=3.0.5",
+        "jmespath>=0.9.0",
+        "jsonpath-rw>=1.4.0",
+        "objectpath>=0.5",
+        "ply>=3.8",
+        "prettytable>=0.7.2",
+        "python-dateutil>=2.5.3",
+        "requests>=2.10.0",
+        "six>=1.10.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 22
+    }
+}

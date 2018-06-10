@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 61,
+        "bat": 242,
+        "cpp": 492,
+        "cxx": 5352,
+        "h": 193,
+        "i": 139,
+        "ipynb": 1002,
+        "md": 91,
+        "py": 2792,
+        "rst": 70,
+        "sample": 640,
+        "txt": 695
+    },
+    "pep8_infringement": 1028,
+    "requirements": [
+        "flowcytometrytools>=0.4",
+        "numexpr>=2.1",
+        "pandas>=0.15.0",
+        "seaborn>=0.5.0",
+        "traits>=4.0"
+    ],
+    "shebang": {}
+}

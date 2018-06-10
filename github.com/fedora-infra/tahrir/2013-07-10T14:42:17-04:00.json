@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "cfg": 27,
+        "conf": 14,
+        "css": 4640,
+        "example": 3,
+        "in": 5,
+        "ini": 225,
+        "js": 110,
+        "mak": 741,
+        "py": 933,
+        "rst": 162,
+        "sample": 640,
+        "svg": 10009,
+        "wsgi": 15
+    },
+    "pep8_infringement": 29,
+    "requirements": [
+        "dogpile.cache",
+        "pyramid",
+        "pyramid-tm",
+        "qrcode",
+        "sqlalchemy",
+        "tahrir-api>=0.2.0",
+        "transaction",
+        "velruse",
+        "weberror",
+        "zope.sqlalchemy"
+    ],
+    "shebang": {}
+}

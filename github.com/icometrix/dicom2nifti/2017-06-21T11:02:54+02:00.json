@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 281,
+        "bval": 12,
+        "bvec": 36,
+        "cfg": 13,
+        "css": 930,
+        "html": 7354,
+        "js": 13248,
+        "py": 5207,
+        "rst": 224,
+        "sample": 640,
+        "sh": 4,
+        "txt": 155
+    },
+    "pep8_infringement": 779,
+    "requirements": [
+        "future",
+        "nibabel",
+        "numpy",
+        "pydicom",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

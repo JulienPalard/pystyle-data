@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 4,
+        "R": 71,
+        "bat": 263,
+        "cls": 8,
+        "css": 715,
+        "edb": 11,
+        "gct": 1206,
+        "gmt": 56,
+        "html": 9261,
+        "in": 1,
+        "ipynb": 2337,
+        "js": 13135,
+        "py": 3307,
+        "r": 181,
+        "rnk": 23616,
+        "rst": 1237,
+        "sample": 640,
+        "sh": 67,
+        "svg": 685,
+        "txt": 38393,
+        "yml": 57
+    },
+    "pep8_infringement": 1364,
+    "requirements": [
+        "beautifulsoup4>=4.4.1",
+        "html5lib",
+        "lxml",
+        "matplotlib>=1.4.3",
+        "numpy>=1.13.0",
+        "pandas>=0.16",
+        "requests"
+    ],
+    "shebang": {
+        "#! python": 1,
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

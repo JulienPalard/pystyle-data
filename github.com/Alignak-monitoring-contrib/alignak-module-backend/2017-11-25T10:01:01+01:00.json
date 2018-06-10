@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "": 400,
+        "attr": 1,
+        "cert": 81,
+        "cfg": 5418,
+        "cfg_unused": 46,
+        "conf": 350,
+        "in": 6,
+        "ini": 218,
+        "json": 207,
+        "key": 28,
+        "old": 1,
+        "pack": 287,
+        "pem": 148,
+        "py": 8597,
+        "rst": 98,
+        "sample": 640,
+        "sh": 59,
+        "trig": 13,
+        "txt": 47,
+        "yml": 55
+    },
+    "pep8_infringement": 726,
+    "requirements": [
+        "alignak-backend-client"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 6
+    }
+}

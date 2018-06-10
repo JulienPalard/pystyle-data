@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 614,
+        "css": 91,
+        "html": 1054,
+        "in": 8,
+        "js": 1281,
+        "json": 44,
+        "map": 2,
+        "md": 1556,
+        "properties": 35,
+        "py": 21526,
+        "sample": 640,
+        "svg": 576,
+        "txt": 360,
+        "yaml": 10,
+        "yml": 71
+    },
+    "pep8_infringement": 2472,
+    "requirements": [
+        "beautifulsoup4==4.6.0",
+        "coverage==4.3.4",
+        "lxml==3.7.3",
+        "python-dateutil==2.6.0",
+        "setuptools==35.0.2",
+        "xmlrunner==1.7.7",
+        "yattag==1.8.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

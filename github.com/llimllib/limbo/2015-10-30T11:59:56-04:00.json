@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 4,
+        "ini": 12,
+        "md": 50,
+        "py": 2914,
+        "sample": 640,
+        "txt": 21,
+        "yaml": 15421,
+        "yml": 12
+    },
+    "pep8_infringement": 262,
+    "requirements": [
+        "beautifulsoup4==4.4.1",
+        "html5lib==0.9999999",
+        "pyfiglet==0.7.4",
+        "requests>=2.5",
+        "slackrtm==0.2.1",
+        "websocket-client==0.32.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

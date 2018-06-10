@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 21,
+        "ini": 17,
+        "py": 184,
+        "rst": 88,
+        "sample": 640,
+        "txt": 7,
+        "yaml": 17,
+        "yml": 11
+    },
+    "pep8_infringement": 1,
+    "requirements": [
+        "attrs",
+        "cached-property",
+        "click",
+        "click-log",
+        "defusedxml",
+        "grequests",
+        "requests",
+        "structlog",
+        "tqdm"
+    ],
+    "shebang": {}
+}

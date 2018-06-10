@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 21,
+        "cfg": 5,
+        "csv": 10546,
+        "in": 11,
+        "ini": 9,
+        "json": 305,
+        "md": 612,
+        "py": 3370,
+        "rst": 13,
+        "sample": 640,
+        "txt": 4429,
+        "yml": 28
+    },
+    "pep8_infringement": 27,
+    "requirements": [
+        "arrow==0.5.4",
+        "numpy==1.9.2",
+        "openpyxl>=2.2.1",
+        "pandas==0.16.0",
+        "parsley==1.2",
+        "unidecode==0.4.17",
+        "wheel==0.23.0",
+        "xlrd==0.9.3"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 25
+    }
+}

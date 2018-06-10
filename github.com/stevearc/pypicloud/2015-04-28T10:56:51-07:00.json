@@ -1,0 +1,73 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 17,
+        "cfg": 14,
+        "conf": 17,
+        "css": 31,
+        "html": 638,
+        "in": 3,
+        "ini": 84,
+        "jinja2": 212,
+        "js": 1073,
+        "map": 26,
+        "md": 40,
+        "nginx": 8,
+        "py": 7536,
+        "rst": 1813,
+        "sample": 640,
+        "sh": 72,
+        "svg": 414,
+        "txt": 29,
+        "yml": 12
+    },
+    "pep8_infringement": 18,
+    "requirements": [
+        "boto",
+        "distlib>=0.2.0",
+        "passlib",
+        "paste",
+        "pycrypto",
+        "pyramid",
+        "pyramid-beaker",
+        "pyramid-duh>=0.1.1",
+        "pyramid-jinja2",
+        "pyramid-tm",
+        "six",
+        "transaction",
+        "zope.sqlalchemy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

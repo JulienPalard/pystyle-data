@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "EPL-1.0",
+    "lines_of_code": {
+        "": 9,
+        "conf": 4,
+        "css_t": 28,
+        "html": 29,
+        "in": 2,
+        "ini": 21,
+        "py": 46212,
+        "rst": 3754,
+        "sample": 640,
+        "sh": 11,
+        "txt": 1,
+        "yml": 98
+    },
+    "pep8_infringement": 869,
+    "requirements": [
+        "cryptography>=1.5"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1,
+        "#!/usr/bin/env python3.5": 40
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 5,
+        "in": 1,
+        "ini": 23,
+        "md": 97,
+        "py": 5036,
+        "sample": 640,
+        "txt": 13,
+        "yaml": 39
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "cached-property",
+        "colorama",
+        "cracklib",
+        "dnspython3",
+        "ldap3",
+        "paramiko",
+        "pexpect<3.2.999",
+        "pycrypto",
+        "pymysql<0.6.7",
+        "pysnmp",
+        "pyyaml",
+        "redis",
+        "requests",
+        "sqlalchemy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 2
+    }
+}

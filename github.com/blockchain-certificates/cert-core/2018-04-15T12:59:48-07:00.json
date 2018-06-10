@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 1,
+        "ini": 13,
+        "json": 227,
+        "md": 96,
+        "py": 1076,
+        "sample": 640,
+        "sh": 7,
+        "txt": 12,
+        "yml": 7
+    },
+    "pep8_infringement": 129,
+    "requirements": [
+        "cert-schema>=2.1.5",
+        "configargparse>=0.12.0",
+        "connexion>=1.1.14",
+        "enum34>=1.1.6",
+        "flask-pymongo>=0.5.1",
+        "jsonschema>=2.6.0",
+        "python-dateutil>=2.6.1",
+        "pytz>=2017.2",
+        "requests>=2.18.4",
+        "simplekv>=0.10.0",
+        "tox>=3.0.0",
+        "validators>=0.12.1"
+    ],
+    "shebang": {}
+}

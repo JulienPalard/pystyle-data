@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 4,
+        "bat": 263,
+        "cfg": 2,
+        "css": 1247,
+        "html": 3622,
+        "js": 13036,
+        "log": 0,
+        "md": 7,
+        "py": 846,
+        "pyproj": 46,
+        "rst": 76,
+        "sample": 640,
+        "txt": 99
+    },
+    "pep8_infringement": 237,
+    "requirements": [
+        "networkx",
+        "numpy",
+        "scikit-learn"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

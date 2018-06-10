@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": true,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 32,
+        "7": 10,
+        "cfg": 8,
+        "conf": 348,
+        "in": 21,
+        "ini": 79,
+        "key": 86,
+        "md": 270,
+        "pem": 250,
+        "py": 6226,
+        "rst": 1149,
+        "sample": 640,
+        "service": 19,
+        "sh": 63,
+        "socket": 16,
+        "spec": 260,
+        "txt": 91,
+        "yml": 46
+    },
+    "pep8_infringement": 53,
+    "requirements": [
+        "cryptography",
+        "jwcrypto",
+        "requests",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/python": 1
+    }
+}

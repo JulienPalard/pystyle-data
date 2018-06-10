@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 52,
+        "bat": 242,
+        "cfg": 5,
+        "conf": 17,
+        "css": 90,
+        "css_t": 822,
+        "html": 111,
+        "in": 6,
+        "ini": 3,
+        "md": 51,
+        "py": 16563,
+        "rst": 978,
+        "sample": 640,
+        "sh": 14,
+        "txt": 11,
+        "yaml": 290,
+        "yml": 18
+    },
+    "pep8_infringement": 563,
+    "requirements": [
+        "boto>=2.38.0",
+        "click",
+        "future",
+        "psutil>=3.2.1",
+        "pytz",
+        "setproctitle",
+        "tabulate==0.7.3"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python2": 1
+    }
+}

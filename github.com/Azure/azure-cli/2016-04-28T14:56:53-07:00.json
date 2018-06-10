@@ -1,0 +1,73 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 21,
+        "7": 7,
+        "bat": 14,
+        "cfg": 6,
+        "in": 1,
+        "json": 578,
+        "md": 213,
+        "py": 8605,
+        "pyproj": 240,
+        "res": 16,
+        "rst": 195,
+        "sample": 640,
+        "sh": 12,
+        "sln": 20,
+        "txt": 80,
+        "yaml": 3219,
+        "yml": 19
+    },
+    "pep8_infringement": 1506,
+    "requirements": [
+        "Unknown (libs/adal-0.2.2.zip)",
+        "applicationinsights==0.10.0",
+        "argcomplete==1.1.0",
+        "azure==2.0.0rc1",
+        "jmespath",
+        "mock==1.3.0",
+        "pip",
+        "pylint==1.5.4",
+        "pyyaml==3.11",
+        "requests==2.9.1",
+        "six==1.10.0",
+        "vcrpy==1.7.4"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python3": 1,
+        "#!/usr/bin/env python": 9,
+        "#!/usr/bin/python": 1,
+        "\ufeff#!/usr/bin/env python": 1
+    }
+}

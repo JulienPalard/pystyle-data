@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "css": 69884,
+        "html": 258,
+        "js": 47377,
+        "json": 1719,
+        "md": 39,
+        "py": 1616,
+        "sample": 640,
+        "sql": 371,
+        "svg": 685,
+        "txt": 2
+    },
+    "pep8_infringement": 285,
+    "requirements": [
+        "mysql-python==1.2.5",
+        "web.py==0.38"
+    ],
+    "shebang": {}
+}

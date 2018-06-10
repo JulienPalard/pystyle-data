@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 24,
+        "c": 26911,
+        "cpp": 177858,
+        "csv": 105,
+        "desktop": 7,
+        "grc": 14261,
+        "h": 6220,
+        "libusbx": 504,
+        "md": 166,
+        "old": 330,
+        "pthreads-win32": 150,
+        "pxd": 839,
+        "py": 112135,
+        "pyx": 2331,
+        "qrc": 19,
+        "sample": 640,
+        "sh": 35,
+        "svg": 1329,
+        "txt": 177,
+        "ui": 11369,
+        "xml": 75,
+        "yml": 148
+    },
+    "pep8_infringement": 5356,
+    "requirements": [
+        "numpy",
+        "psutil",
+        "pyzmq"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2,
+        "#!/usr/bin/env python2": 10,
+        "#!/usr/bin/env python3": 2
+    }
+}

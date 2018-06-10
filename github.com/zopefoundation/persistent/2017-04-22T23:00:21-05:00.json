@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "ZPL-2.1",
+    "lines_of_code": {
+        "": 4,
+        "bat": 170,
+        "c": 3651,
+        "cfg": 27,
+        "h": 270,
+        "in": 20,
+        "ini": 66,
+        "py": 7728,
+        "rst": 1379,
+        "sample": 640,
+        "sh": 31,
+        "txt": 46,
+        "yml": 111
+    },
+    "pep8_infringement": 433,
+    "requirements": [
+        "zope.interface"
+    ],
+    "shebang": {}
+}

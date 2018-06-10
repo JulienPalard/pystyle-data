@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": true,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "c": 38,
+        "edl": 58,
+        "in": 0,
+        "md": 13,
+        "mel": 6048,
+        "py": 49975,
+        "sample": 640,
+        "ui": 1118,
+        "xml": 193
+    },
+    "pep8_infringement": 1589,
+    "requirements": [
+        "edl",
+        "edl",
+        "sqlalchemy",
+        "sqlalchemy",
+        "stalker",
+        "stalker",
+        "timecode",
+        "timecode"
+    ],
+    "shebang": {
+        "#!../../../bin/python": 1
+    }
+}

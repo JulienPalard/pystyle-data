@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 0,
+        "bat": 242,
+        "coffee": 522,
+        "css": 7951,
+        "html": 559,
+        "in": 2,
+        "ini": 35,
+        "js": 511,
+        "json": 54,
+        "less": 703,
+        "map": 1,
+        "po": 93,
+        "py": 3173,
+        "rst": 249,
+        "sample": 640,
+        "svg": 504,
+        "txt": 31,
+        "yml": 18
+    },
+    "pep8_infringement": 136,
+    "requirements": [
+        "django",
+        "django-angular",
+        "django-crispy-forms",
+        "setuptools"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

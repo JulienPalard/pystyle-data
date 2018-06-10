@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 56,
+        "css": 2878,
+        "html": 146,
+        "in": 3,
+        "ini": 24,
+        "js": 29801,
+        "md": 22,
+        "py": 5141,
+        "rst": 987,
+        "sample": 640,
+        "sh": 34,
+        "txt": 16,
+        "yaml": 1366,
+        "yml": 28
+    },
+    "pep8_infringement": 445,
+    "requirements": [
+        "flask>=0.10.1",
+        "jsonschema>=2.5.1",
+        "pyyaml>=3.11",
+        "requests>=2.9.1",
+        "six>=1.7",
+        "strict-rfc3339>=0.6",
+        "swagger-spec-validator>=2.0.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 8
+    }
+}

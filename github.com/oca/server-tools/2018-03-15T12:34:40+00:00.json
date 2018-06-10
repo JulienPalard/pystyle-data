@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "": 2,
+        "0": 2,
+        "cfg": 20,
+        "csv": 20,
+        "md": 21,
+        "po": 109514,
+        "pot": 769,
+        "py": 4968,
+        "rst": 933,
+        "sample": 640,
+        "svg": 51,
+        "txt": 3,
+        "xml": 1106,
+        "yml": 46
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "checksumdir",
+        "pysftp",
+        "raven"
+    ],
+    "shebang": {}
+}

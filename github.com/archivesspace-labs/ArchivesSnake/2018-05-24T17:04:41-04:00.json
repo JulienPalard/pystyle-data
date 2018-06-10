@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 4,
+        "bat": 36,
+        "cfg": 2,
+        "css": 741,
+        "html": 5659,
+        "ini": 2,
+        "js": 23424,
+        "lock": 742,
+        "md": 866,
+        "py": 1021,
+        "rst": 72,
+        "sample": 640,
+        "svg": 685,
+        "txt": 85,
+        "yaml": 286,
+        "yml": 3
+    },
+    "pep8_infringement": 187,
+    "requirements": [
+        "attrs",
+        "boltons",
+        "more-itertools",
+        "pyyaml",
+        "requests",
+        "structlog"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

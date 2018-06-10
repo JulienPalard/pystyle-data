@@ -1,0 +1,49 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 28,
+        "py": 1083,
+        "sample": 640,
+        "txt": 6
+    },
+    "pep8_infringement": 90,
+    "requirements": [
+        "docopt>=0.6.2",
+        "numpy>=1.12.0",
+        "regex>=2017.4.29",
+        "scikit-learn>=0.18.1",
+        "scipy>=0.18.1",
+        "tensorflow>=1.0.1"
+    ],
+    "shebang": {}
+}

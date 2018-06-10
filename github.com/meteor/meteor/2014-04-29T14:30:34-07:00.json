@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "X11",
+    "lines_of_code": {
+        "": 73,
+        "coffee": 727,
+        "css": 9664,
+        "html": 8724,
+        "install": 1,
+        "js": 149055,
+        "json": 622,
+        "less": 682,
+        "lessimport": 2,
+        "litcoffee": 6,
+        "md": 3553,
+        "noload": 113,
+        "notregistered": 1,
+        "py": 306,
+        "sample": 640,
+        "serveme": 1,
+        "sh": 1396,
+        "spec": 40,
+        "styl": 21,
+        "txt": 176453
+    },
+    "pep8_infringement": 4,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python2.7": 1
+    }
+}

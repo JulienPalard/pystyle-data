@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 20,
+        "cfg": 38,
+        "html": 25,
+        "in": 12,
+        "ini": 58,
+        "js": 307,
+        "py": 13898,
+        "rst": 407,
+        "sample": 640,
+        "txt": 13,
+        "yml": 56
+    },
+    "pep8_infringement": 1220,
+    "requirements": [
+        "artifactory",
+        "click==6.7",
+        "configparser",
+        "jinja2==2.9.6",
+        "networkx==1.11",
+        "numpy",
+        "ols-client>=0.0.8",
+        "pandas",
+        "pybel>=0.11.1",
+        "requests==2.18.4",
+        "scipy",
+        "six==1.11.0",
+        "sqlalchemy==1.1.15"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

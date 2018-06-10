@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "": 18,
+        "conf": 9,
+        "css": 70,
+        "css_t": 394,
+        "html": 54,
+        "in": 6,
+        "ini": 33,
+        "md": 13,
+        "py": 15592,
+        "pym": 369,
+        "rst": 853,
+        "sample": 640,
+        "txt": 184,
+        "yml": 21
+    },
+    "pep8_infringement": 1650,
+    "requirements": [],
+    "shebang": {
+        "#! ['class ObjectDoesNotExist']": 1,
+        "#!/usr/bin/env python": 5
+    }
+}

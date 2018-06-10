@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 27,
+        "bat": 36,
+        "cfg": 115,
+        "in": 1,
+        "json": 3,
+        "md": 5,
+        "py": 6754,
+        "rst": 322,
+        "sample": 640,
+        "sh": 152,
+        "tf": 0,
+        "txt": 48,
+        "yaml": 38,
+        "yml": 92
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "boto3~=1.4",
+        "dialogue.multi-method==0.0.4",
+        "gitpython==2.1.1",
+        "requests~=2.13",
+        "ruamel.yaml==0.15.34",
+        "singledispatch",
+        "tqdm~=4.11"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

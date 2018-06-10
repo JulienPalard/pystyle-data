@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 4,
+        "bat": 190,
+        "cfg": 8,
+        "html": 33,
+        "in": 5,
+        "ini": 11,
+        "json": 23330,
+        "py": 17308,
+        "rst": 8172,
+        "sample": 640,
+        "txt": 10,
+        "yml": 21
+    },
+    "pep8_infringement": 168,
+    "requirements": [
+        "botocore>=1.8.36,<1.9.0",
+        "jmespath<1.0.0,>=0.7.1",
+        "s3transfer<0.2.0,>=0.1.10"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

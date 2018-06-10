@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 4,
+        "cfg": 2,
+        "ini": 24,
+        "json": 25,
+        "md": 283,
+        "py": 3182,
+        "sample": 640,
+        "txt": 13,
+        "yml": 6
+    },
+    "pep8_infringement": 27,
+    "requirements": [
+        "enum34>=1.1.6",
+        "netifaces",
+        "paho-mqtt",
+        "pycryptodome",
+        "requests<3,>=2",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

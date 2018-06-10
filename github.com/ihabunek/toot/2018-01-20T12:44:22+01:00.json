@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 3,
+        "cfg": 5,
+        "md": 150,
+        "py": 2579,
+        "rst": 167,
+        "sample": 640,
+        "txt": 7,
+        "yml": 13
+    },
+    "pep8_infringement": 66,
+    "requirements": [
+        "beautifulsoup4>=4.5.0,<5.0",
+        "requests>=2.13,<3.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

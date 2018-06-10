@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 21,
+        "bat": 242,
+        "cfg": 14,
+        "in": 11,
+        "ini": 18,
+        "md": 15,
+        "py": 690,
+        "rst": 248,
+        "sample": 640,
+        "txt": 10,
+        "yml": 21
+    },
+    "pep8_infringement": 54,
+    "requirements": [
+        "pyyaml"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

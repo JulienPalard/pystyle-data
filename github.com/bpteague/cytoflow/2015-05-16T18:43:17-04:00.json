@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 62,
+        "bat": 242,
+        "cpp": 492,
+        "cxx": 5352,
+        "flow": 1443,
+        "h": 193,
+        "i": 139,
+        "in": 5,
+        "ini": 3,
+        "ipynb": 1122,
+        "md": 92,
+        "py": 8663,
+        "rst": 594,
+        "sample": 640,
+        "svg": 4603,
+        "txt": 712
+    },
+    "pep8_infringement": 2674,
+    "requirements": [
+        "envisage>=4.0",
+        "flowcytometrytools>=0.4",
+        "numexpr>=2.1",
+        "pandas>=0.15.0",
+        "pyface>=4.0",
+        "seaborn>=0.5.0"
+    ],
+    "shebang": {}
+}

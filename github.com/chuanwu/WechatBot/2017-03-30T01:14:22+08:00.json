@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "ini": 4,
+        "md": 87,
+        "py": 832,
+        "rst": 25,
+        "sample": 640,
+        "txt": 12,
+        "yml": 7
+    },
+    "pep8_infringement": 85,
+    "requirements": [
+        "anyjson==0.3.3",
+        "beautifulsoup4==4.5.1",
+        "editdistance==0.3.1",
+        "enum34==1.1.6",
+        "pillow==4.0.0",
+        "pypng==0.0.18",
+        "pytest==3.0.7",
+        "qrcode==5.3",
+        "redis==2.10.5",
+        "requests==2.7.0",
+        "simplejson==3.7.3",
+        "ujson==1.34"
+    ],
+    "shebang": {}
+}

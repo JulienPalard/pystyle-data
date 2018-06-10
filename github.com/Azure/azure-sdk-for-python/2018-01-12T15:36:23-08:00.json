@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 19,
+        "bat": 242,
+        "cfg": 239,
+        "config": 41,
+        "css": 6878,
+        "html": 1168,
+        "in": 151,
+        "js": 19234,
+        "json": 16136,
+        "map": 1,
+        "md": 83,
+        "py": 764749,
+        "pyproj": 3051,
+        "rst": 13390,
+        "sample": 640,
+        "sln": 58,
+        "svg": 228,
+        "txt": 45,
+        "yaml": 2678190,
+        "yml": 71
+    },
+    "pep8_infringement": 58782,
+    "requirements": [
+        "futures",
+        "msrestazure<0.5.0,>=0.4.0",
+        "pyopenssl",
+        "python-dateutil"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 84,
+        "\ufeff#!/usr/bin/env python": 1
+    }
+}

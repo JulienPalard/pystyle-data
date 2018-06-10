@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "bat": 4,
+        "cfg": 16,
+        "css": 12,
+        "html": 135,
+        "in": 2,
+        "js": 280,
+        "md": 76,
+        "py": 4579,
+        "sample": 640,
+        "sh": 25,
+        "txt": 9,
+        "yaml": 24,
+        "yml": 26
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "django>=1.8.3,<1.9.0",
+        "django-autoconfig>=0.3.6,<1.0.0",
+        "django-js-reverse",
+        "eventlet",
+        "flask",
+        "flask-socketio",
+        "pykube",
+        "requests",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 7
+    }
+}

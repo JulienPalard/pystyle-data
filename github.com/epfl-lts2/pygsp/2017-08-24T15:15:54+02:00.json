@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bib": 200,
+        "py": 8412,
+        "rst": 762,
+        "sample": 640,
+        "txt": 58,
+        "yml": 28
+    },
+    "pep8_infringement": 149,
+    "requirements": [
+        "coverage",
+        "coveralls",
+        "flake8",
+        "matplotlib",
+        "numpy",
+        "numpydoc",
+        "pyflann3",
+        "pyopengl",
+        "pyqt5",
+        "pyqtgraph",
+        "pyside",
+        "scikit-image",
+        "scipy",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "sphinxcontrib-bibtex",
+        "twine",
+        "wheel"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

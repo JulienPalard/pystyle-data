@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 3,
+        "html": 788,
+        "in": 4,
+        "js": 98,
+        "json": 32,
+        "pot": 460,
+        "py": 2264,
+        "rst": 102,
+        "sample": 640,
+        "txt": 221,
+        "yml": 13
+    },
+    "pep8_infringement": 13,
+    "requirements": [
+        "azure-storage==0.32.0",
+        "bcrypt==3.1.0",
+        "flask==0.11.1",
+        "flask-babel==0.11.1",
+        "flask-migrate==1.8.0",
+        "flask-script==2.0.5",
+        "flask-security==1.7.5",
+        "flask-sqlalchemy==2.1",
+        "flask-testing==0.5.0",
+        "flask-wtf==0.12",
+        "gunicorn==19.6.0",
+        "requests==2.13.0",
+        "sqlalchemy==1.1.4",
+        "typing==3.6.1",
+        "tzlocal==1.2.2",
+        "wtforms==2.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 21,
+        "md": 111,
+        "py": 4884,
+        "rst": 1441,
+        "sample": 640,
+        "tpl": 200,
+        "txt": 27,
+        "yaml": 23,
+        "yml": 37
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "gcloud-requests==1.1.9",
+        "google-cloud-datastore>=1.0,<1.1",
+        "msgpack-python==0.4.8",
+        "python-dateutil==2.6.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

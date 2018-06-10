@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 15,
+        "c": 1381,
+        "cfg": 15,
+        "f": 2804,
+        "h": 149,
+        "in": 2,
+        "ini": 34,
+        "pxd": 87,
+        "py": 3413,
+        "pyx": 968,
+        "rst": 176,
+        "sample": 640,
+        "sh": 52,
+        "txt": 29,
+        "yml": 26
+    },
+    "pep8_infringement": 33,
+    "requirements": [
+        "flake8",
+        "pep8",
+        "pytest-cov",
+        "sphinx",
+        "tox",
+        "wheel"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

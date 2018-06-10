@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "ini": 50,
+        "json": 1347,
+        "py": 1647,
+        "rst": 84,
+        "sample": 640,
+        "txt": 118,
+        "yml": 29
+    },
+    "pep8_infringement": 87,
+    "requirements": [
+        "bio2bel",
+        "bio2bel-chebi>=0.0.4",
+        "bio2bel-hgnc>=0.0.4",
+        "click",
+        "flask",
+        "flask-admin",
+        "pandas",
+        "pybel>=0.10.1",
+        "sqlalchemy==1.1.15",
+        "tqdm"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 6,
+        "ini": 2,
+        "json": 2120,
+        "md": 2,
+        "py": 7516,
+        "sample": 640,
+        "txt": 12
+    },
+    "pep8_infringement": 543,
+    "requirements": [
+        "Unknown (https://github.com/dutradda/falcon/tarball/master)",
+        "cython==0.24.1",
+        "jsonschema==2.5.1",
+        "msgpack-python==0.4.8",
+        "sqlalchemy==1.1.0b3"
+    ],
+    "shebang": {}
+}

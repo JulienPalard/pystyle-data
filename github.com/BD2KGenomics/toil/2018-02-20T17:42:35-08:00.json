@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 5,
+        "csv": 3,
+        "cwl": 161,
+        "fasta": 11,
+        "fastq": 12,
+        "json": 2600,
+        "md": 583,
+        "mtail": 41,
+        "py": 46251,
+        "rst": 4281,
+        "sample": 640,
+        "sh": 716,
+        "tsv": 3,
+        "txt": 33,
+        "yml": 266
+    },
+    "pep8_infringement": 7809,
+    "requirements": [
+        "bd2k-python-lib>=1.14a1.dev35",
+        "dill==0.2.5",
+        "docker==2.5.1",
+        "future",
+        "requests==2.18.4",
+        "six>=1.10.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

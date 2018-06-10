@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": true,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "conf": 14,
+        "html": 764,
+        "in": 3,
+        "js": 17755,
+        "json": 465,
+        "map": 2,
+        "md": 357,
+        "py": 9397,
+        "rng": 126,
+        "rst": 169,
+        "sample": 640,
+        "sh": 102,
+        "txt": 1179,
+        "wsgi": 24,
+        "xml": 107,
+        "xsd": 75,
+        "yml": 21
+    },
+    "pep8_infringement": 250,
+    "requirements": [
+        "flask",
+        "mock",
+        "pillow",
+        "python-magic"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3,
+        "#!/usr/bin/env python2.6": 1
+    }
+}

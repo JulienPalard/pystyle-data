@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 242,
+        "cfg": 19,
+        "csv": 1432,
+        "in": 13,
+        "ini": 24,
+        "ipynb": 5468,
+        "json": 1,
+        "py": 1253,
+        "rst": 312,
+        "sample": 640,
+        "sh": 4,
+        "txt": 26,
+        "yaml": 40,
+        "yml": 31
+    },
+    "pep8_infringement": 193,
+    "requirements": [
+        "click>=6.0",
+        "dedupe",
+        "dedupe-variable-name",
+        "numpy",
+        "pandas",
+        "psycopg2",
+        "pyyaml"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

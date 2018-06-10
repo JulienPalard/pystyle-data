@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 18,
+        "cfg": 11,
+        "crt": 53,
+        "css": 13,
+        "csv": 4,
+        "dat": 1,
+        "in": 1,
+        "json": 775,
+        "jsonl": 3,
+        "key": 84,
+        "md": 528,
+        "pem": 44,
+        "py": 57898,
+        "rst": 5596,
+        "sample": 640,
+        "sh": 27,
+        "txt": 1529,
+        "yml": 115
+    },
+    "pep8_infringement": 4978,
+    "requirements": [
+        "lmdb>=0.92",
+        "msgpack-python>=0.4.2",
+        "pyopenssl>=16.2.0",
+        "regex>=2017.9.23",
+        "tornado>=3.2.2",
+        "xxhash>=1.0.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 9,
+        "#!/usr/bin/env python3": 2
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 2,
+        "iml": 9,
+        "in": 4,
+        "ini": 39,
+        "json": 78,
+        "md": 78,
+        "py": 1327,
+        "sample": 640,
+        "yaml": 355,
+        "yml": 22
+    },
+    "pep8_infringement": 56,
+    "requirements": [
+        "datapackage>=1.0.2",
+        "datapackage-pipelines>=1.5.0",
+        "datapackage-pipelines-aws",
+        "os-package-registry>=0.0.13",
+        "six>=1.9"
+    ],
+    "shebang": {}
+}

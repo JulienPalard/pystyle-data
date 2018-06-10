@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "csv": 39900,
+        "in": 11,
+        "md": 117,
+        "py": 3761,
+        "sample": 640,
+        "sh": 132,
+        "txt": 701
+    },
+    "pep8_infringement": 3339,
+    "requirements": [
+        "futures==2.2.0",
+        "nltk==3.0",
+        "pandas==0.19.2",
+        "pyparsing==1.5.6",
+        "pytest==3.0.6",
+        "python-dateutil==2.4.1",
+        "pytz==2016.7",
+        "scikit-learn==0.18.1",
+        "scipy==0.18.1",
+        "six==1.10.0"
+    ],
+    "shebang": {}
+}

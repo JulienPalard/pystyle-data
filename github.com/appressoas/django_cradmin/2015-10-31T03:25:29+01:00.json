@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 17,
+        "coffee": 4555,
+        "css": 15050,
+        "html": 2512,
+        "iml": 48,
+        "in": 17,
+        "ini": 43,
+        "js": 12169,
+        "json": 64,
+        "less": 2792,
+        "map": 9,
+        "md": 5,
+        "po": 1695,
+        "py": 17587,
+        "rst": 2566,
+        "sample": 640,
+        "sh": 3,
+        "svg": 794,
+        "txt": 66,
+        "xml": 190,
+        "yml": 19
+    },
+    "pep8_infringement": 1421,
+    "requirements": [
+        "django",
+        "django-crispy-forms",
+        "django-multiupload",
+        "future",
+        "html2text",
+        "htmls",
+        "jinja2",
+        "pytz",
+        "setuptools"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

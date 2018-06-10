@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": true,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "VER": 1,
+        "asciidoc": 6414,
+        "cfg": 12,
+        "cpio": 48,
+        "in": 14,
+        "ini": 46,
+        "install": 4,
+        "py": 12679,
+        "sample": 640,
+        "sh": 46,
+        "txt": 8,
+        "yaml": 1283,
+        "yml": 43
+    },
+    "pep8_infringement": 1874,
+    "requirements": [
+        "dtfabric>=20170524",
+        "libfwsi-python>=20150606",
+        "liblnk-python>=20150830",
+        "libolecf-python>=20151223",
+        "mock",
+        "pip>=7.0.0",
+        "pytest",
+        "pyyaml>=3.10"
+    ],
+    "shebang": {
+        "#!/usr/bin/python": 13
+    }
+}

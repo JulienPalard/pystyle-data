@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": true,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 490,
+        "VER": 1,
+        "asciidoc": 10427,
+        "cfg": 15,
+        "cpio": 48,
+        "in": 15,
+        "ini": 85,
+        "install": 6,
+        "py": 11957,
+        "sample": 640,
+        "sh": 191,
+        "txt": 8,
+        "yaml": 4721,
+        "yml": 71
+    },
+    "pep8_infringement": 2286,
+    "requirements": [
+        "backports.lzma",
+        "dfdatetime>=20180510",
+        "dtfabric>=20180522",
+        "libfwsi-python>=20150606",
+        "liblnk-python>=20150830",
+        "libolecf-python>=20151223",
+        "pip>=7.0.0",
+        "pyyaml>=3.10"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 19
+    }
+}

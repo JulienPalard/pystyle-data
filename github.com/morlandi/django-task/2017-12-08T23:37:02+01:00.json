@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 34,
+        "bat": 242,
+        "cfg": 21,
+        "css": 29,
+        "html": 110,
+        "in": 6,
+        "ini": 20,
+        "js": 82,
+        "md": 44,
+        "py": 1947,
+        "rst": 468,
+        "sample": 640,
+        "txt": 18,
+        "yml": 30
+    },
+    "pep8_infringement": 191,
+    "requirements": [
+        "django>=1.8.0",
+        "django-rq>=0.9.5"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

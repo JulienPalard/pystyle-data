@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 1,
+        "4": 14,
+        "5": 14,
+        "cfg": 16,
+        "csv": 274,
+        "json": 1,
+        "md": 92,
+        "py": 1111,
+        "rst": 109,
+        "sample": 640,
+        "sh": 167,
+        "sql": 21,
+        "txt": 3,
+        "xml": 108,
+        "yaml": 13,
+        "yml": 193
+    },
+    "pep8_infringement": 150,
+    "requirements": [
+        "apache-airflow>=1.8.1",
+        "defusedxml",
+        "pandas",
+        "psycopg2>=2.7.1",
+        "sqlalchemy>=1.1.6",
+        "xlrd"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 12,
+        "cfg": 7,
+        "css": 115,
+        "html": 465,
+        "in": 3,
+        "ini": 45,
+        "js": 333,
+        "py": 360,
+        "rst": 4,
+        "sample": 640,
+        "yml": 36
+    },
+    "pep8_infringement": 7,
+    "requirements": [
+        "django>=1.8",
+        "django-bower>=5.2.0",
+        "django-compressor>=2.1.1",
+        "django-crispy-forms>=1.6",
+        "django-lbutils>=1.0.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

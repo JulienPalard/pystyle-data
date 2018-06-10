@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 20,
+        "csv": 375153,
+        "in": 2,
+        "ipynb": 2813,
+        "md": 42,
+        "py": 2087,
+        "sample": 640,
+        "txt": 3702,
+        "yml": 33
+    },
+    "pep8_infringement": 1359,
+    "requirements": [
+        "fancyimpute>=0.2.0",
+        "ipython>=3.2.0",
+        "matplotlib>=1.4.3",
+        "nose>=1.3.7",
+        "numpy>=1.9.2",
+        "pandas>=0.18.0",
+        "scikit-bio==0.5.1",
+        "scikit-learn==0.18.1",
+        "scipy>=0.15.1",
+        "seaborn>=0.7.1",
+        "statsmodels>=0.8.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 5,
+        "ini": 34,
+        "install": 2,
+        "json": 1360,
+        "md": 41,
+        "py": 8801,
+        "sample": 640,
+        "txt": 12,
+        "yaml": 411,
+        "yml": 9
+    },
+    "pep8_infringement": 16,
+    "requirements": [
+        "bson",
+        "coveralls",
+        "nose",
+        "nose-cov",
+        "pep8>=1.5.6",
+        "pyflakes>=0.8.1",
+        "pyyaml==3.10",
+        "requests-oauthlib",
+        "setuptools",
+        "sphinx-rtd-theme",
+        "tox",
+        "urwid"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5,
+        "#!/usr/bin/env python3": 1,
+        "#!/usr/bin/python3": 2
+    }
+}

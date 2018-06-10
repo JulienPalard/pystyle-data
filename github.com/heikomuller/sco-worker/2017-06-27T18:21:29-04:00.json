@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "json": 274,
+        "md": 108,
+        "py": 1524,
+        "sample": 640,
+        "txt": 8
+    },
+    "pep8_infringement": 162,
+    "requirements": [
+        "neuropythy>=\"0.2.26\"",
+        "pika",
+        "pimms>=\"0.1.8\"",
+        "scikit-image",
+        "sco-client",
+        "sco-datastore>=\"0.6.0\"",
+        "sco-engine",
+        "sco-models>=0.2.0"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 1,
+        "#!venv/bin/python": 1
+    }
+}

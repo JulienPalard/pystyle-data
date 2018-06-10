@@ -1,0 +1,69 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 4,
+        "css": 4037,
+        "html": 15599,
+        "ipynb": 14084,
+        "js": 15190,
+        "lock": 1161,
+        "md": 212,
+        "mplstyle": 28,
+        "py": 3930,
+        "rst": 3255,
+        "sample": 640,
+        "scss": 5284,
+        "svg": 4887,
+        "toml": 60,
+        "txt": 3255,
+        "yml": 19
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "bokeh",
+        "coolname",
+        "holoviews",
+        "numpy",
+        "path.py",
+        "pendulum",
+        "scipy",
+        "streamz",
+        "sympy",
+        "theano",
+        "xarray"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 21,
+        "#!/usr/bin/env python3": 1
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "dockerfile": 37,
+        "in": 3,
+        "key": 13,
+        "lock": 112,
+        "log": 0,
+        "md": 1019,
+        "py": 15369,
+        "rs": 749,
+        "sample": 640,
+        "sh": 110,
+        "sovrin": 100,
+        "toml": 17,
+        "txt": 1,
+        "yml": 40
+    },
+    "pep8_infringement": 644,
+    "requirements": [
+        "anoncreds-dev==0.3.8",
+        "sovrin-common-dev==0.2.51"
+    ],
+    "shebang": {
+        "# #! /usr/bin/env python3": 1,
+        "#! /usr/bin/env python3": 1,
+        "#!/usr/bin/env python": 1
+    }
+}

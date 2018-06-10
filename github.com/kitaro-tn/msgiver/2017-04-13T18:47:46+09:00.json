@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "in": 3,
+        "py": 405,
+        "rst": 119,
+        "sample": 640,
+        "txt": 25,
+        "yml": 11
+    },
+    "pep8_infringement": 45,
+    "requirements": [
+        "argh==0.26.2",
+        "args==0.1.0",
+        "clint==0.5.1",
+        "coverage==4.3.4",
+        "pathtools==0.1.2",
+        "pep8==1.7.0",
+        "pkginfo==1.4.1",
+        "ply==3.10",
+        "pyyaml==3.12",
+        "requests==2.13.0",
+        "requests-toolbelt==0.7.1",
+        "six==1.10.0",
+        "twine==1.8.1",
+        "watchdog==0.8.3"
+    ],
+    "shebang": {}
+}

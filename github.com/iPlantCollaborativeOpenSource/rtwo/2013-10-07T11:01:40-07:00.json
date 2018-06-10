@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "dist": 43,
+        "md": 51,
+        "py": 5567,
+        "sample": 640,
+        "txt": 10
+    },
+    "pep8_infringement": 237,
+    "requirements": [
+        "apache-libcloud-0.14.0-dev (git+git://github.com/apache/libcloud.git)",
+        "httplib2==0.8",
+        "paramiko==1.11.0",
+        "pycommands (git+git://github.com/iPlantCollaborativeOpenSource/pycommands.git)",
+        "python-glanceclient (git+git://github.com/openstack/python-glanceclient.git)",
+        "python-keystoneclient (git+git://github.com/openstack/python-keystoneclient.git)",
+        "python-neutronclient (git+git://github.com/openstack/python-neutronclient.git)",
+        "python-novaclient (git+git://github.com/openstack/python-novaclient.git)",
+        "rfive (git+git://github.com/iPlantCollaborativeOpenSource/rfive.git)",
+        "threepio (git+git://github.com/jmatt/threepio.git)"
+    ],
+    "shebang": {}
+}

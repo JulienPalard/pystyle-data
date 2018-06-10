@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": true,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "py": 4913,
+        "rc": 301,
+        "sample": 640,
+        "sublime-build": 27,
+        "sublime-keymap": 8,
+        "sublime-project": 24,
+        "sublime-settings": 15,
+        "tmLanguage": 1973,
+        "tmTheme": 417,
+        "yu": 308,
+        "yu-c": 463,
+        "yu-h": 26,
+        "yu-py": 21
+    },
+    "pep8_infringement": 4904,
+    "requirements": [],
+    "shebang": {}
+}

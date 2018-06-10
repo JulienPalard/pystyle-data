@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "am": 18,
+        "c": 3437,
+        "cpp": 2235,
+        "fa": 230744,
+        "fai": 9618,
+        "fq": 8016,
+        "h": 1164,
+        "hpp": 198,
+        "in": 386,
+        "info": 478,
+        "md": 14569,
+        "mk": 191,
+        "newick": 10,
+        "py": 5259,
+        "pyx": 11,
+        "sample": 640,
+        "sh": 108,
+        "tex": 4669,
+        "texi": 530,
+        "txt": 7945,
+        "yml": 52
+    },
+    "pep8_infringement": 5175,
+    "requirements": [],
+    "shebang": {
+        "#! /usr/bin/env python3": 28,
+        "#!/usr/bin/env python": 1
+    }
+}

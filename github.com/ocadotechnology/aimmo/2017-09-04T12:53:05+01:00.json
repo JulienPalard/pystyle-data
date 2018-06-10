@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "cfg": 25,
+        "conf": 15,
+        "css": 12,
+        "html": 203,
+        "in": 2,
+        "js": 395,
+        "json": 99,
+        "md": 144,
+        "py": 9354,
+        "sample": 640,
+        "sh": 28,
+        "txt": 29,
+        "yaml": 66,
+        "yml": 28
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "django<1.9.0,>=1.8.3",
+        "django-autoconfig<1.0.0,>=0.3.6",
+        "django-forms-bootstrap",
+        "django-js-reverse",
+        "eventlet",
+        "flask",
+        "flask-socketio",
+        "pykube",
+        "requests",
+        "six"
+    ],
+    "shebang": {
+        "#!/user/bin/env python": 1,
+        "#!/usr/bin/env python": 10
+    }
+}

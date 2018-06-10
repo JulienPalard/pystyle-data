@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 20,
+        "bat": 190,
+        "cfg": 8,
+        "in": 16,
+        "java": 23735,
+        "md": 7,
+        "py": 33788,
+        "rst": 1241,
+        "sample": 640,
+        "txt": 23,
+        "xml": 366,
+        "yml": 28
+    },
+    "pep8_infringement": 810,
+    "requirements": [
+        "apipkg==1.4",
+        "cricket",
+        "execnet==1.4.1",
+        "py==1.4.31",
+        "pytest==2.9.2",
+        "pytest-xdist==1.14",
+        "sphinx",
+        "sphinx-rtd-theme"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

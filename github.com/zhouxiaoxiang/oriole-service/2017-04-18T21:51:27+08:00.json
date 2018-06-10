@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 15,
+        "bat": 33,
+        "cfg": 18,
+        "css": 1228,
+        "html": 1420,
+        "in": 6,
+        "js": 12962,
+        "md": 37,
+        "py": 891,
+        "rst": 284,
+        "sample": 640,
+        "txt": 180,
+        "yml": 29
+    },
+    "pep8_infringement": 11,
+    "requirements": [
+        "mockredispy>=2.9.3",
+        "mogo>=0.4.0",
+        "mongomock>=3.7.0",
+        "mysqlclient>=1.3.9",
+        "nameko-sqlalchemy>=0.0.4",
+        "pymysql>=0.7.9",
+        "pytest>=3.0.4",
+        "pyyaml>=3.12",
+        "redis>=2.10.5",
+        "sphinx>=1.5b1",
+        "zope.sqlalchemy>=0.7.7"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

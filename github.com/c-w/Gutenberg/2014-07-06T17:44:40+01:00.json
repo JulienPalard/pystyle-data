@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 2,
+        "md": 10,
+        "py": 972,
+        "sample": 640,
+        "txt": 9
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "argparse==1.2.1",
+        "astroid==1.1.1",
+        "beautifulsoup4==4.3.2",
+        "logilab-common==0.61.0",
+        "nose==1.3.3",
+        "pylint==1.2.1",
+        "requests==2.3.0",
+        "sqlalchemy==0.9.4",
+        "wsgiref==0.1.2"
+    ],
+    "shebang": {}
+}

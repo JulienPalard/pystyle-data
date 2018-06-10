@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "MD": 12,
+        "c": 60,
+        "cpp": 105,
+        "css": 128,
+        "go": 51,
+        "h": 63,
+        "html": 433,
+        "in": 1,
+        "ini": 13,
+        "js": 6,
+        "md": 10,
+        "py": 1886,
+        "sample": 640,
+        "yml": 65
+    },
+    "pep8_infringement": 201,
+    "requirements": [
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "progressbar2",
+        "pyqtgraph",
+        "pyserial",
+        "requests",
+        "seaborn",
+        "tornado"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

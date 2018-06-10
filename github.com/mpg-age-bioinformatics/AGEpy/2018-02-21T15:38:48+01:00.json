@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "html": 10,
+        "md": 3002,
+        "py": 3600,
+        "rst": 22,
+        "sample": 640,
+        "txt": 14,
+        "yml": 34
+    },
+    "pep8_infringement": 3604,
+    "requirements": [
+        "biomart",
+        "client",
+        "ipaddress",
+        "matplotlib",
+        "numpy>=1.9.2",
+        "pandas>=0.15.2",
+        "paramiko",
+        "pybedtools",
+        "requests==2.10.0",
+        "seaborn",
+        "suds",
+        "wand",
+        "xlrd",
+        "xlsxwriter"
+    ],
+    "shebang": {}
+}

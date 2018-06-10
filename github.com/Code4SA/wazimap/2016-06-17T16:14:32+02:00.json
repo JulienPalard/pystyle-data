@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 2,
+        "bat": 263,
+        "cfg": 3,
+        "css": 5886,
+        "html": 6559,
+        "js": 28229,
+        "json": 512,
+        "py": 7074,
+        "rst": 843,
+        "sample": 640,
+        "svg": 254,
+        "txt": 1
+    },
+    "pep8_infringement": 1801,
+    "requirements": [
+        "boto>=2.27.0",
+        "dj-database-url>=0.4.0",
+        "django>=1.8.0",
+        "django-cors-headers>=1.1.0",
+        "django-pipeline>=1.6.4",
+        "ecdsa>=0.11",
+        "futures>=3.0.4",
+        "paramiko<2,>=1.12.3",
+        "psycopg2>=2.5.2",
+        "requests>=1.2.0",
+        "sqlalchemy>=0.9.4",
+        "unicodecsv>=0.9.4",
+        "whitenoise>=1.0.6",
+        "wsgiref>=0.1.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

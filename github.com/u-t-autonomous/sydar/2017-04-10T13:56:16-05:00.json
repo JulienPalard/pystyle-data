@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "bib": 7,
+        "cls": 4590,
+        "in": 1,
+        "m": 1472,
+        "miu": 290,
+        "py": 2516,
+        "rst": 6,
+        "sample": 640,
+        "tex": 197
+    },
+    "pep8_infringement": 831,
+    "requirements": [
+        "numpy",
+        "pyparsing",
+        "scipy"
+    ],
+    "shebang": {}
+}

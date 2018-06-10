@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "": 17,
+        "cfg": 34,
+        "csv": 111030,
+        "in": 8,
+        "ipynb": 365,
+        "json": 628015,
+        "md": 443,
+        "ofp": 41,
+        "po": 89,
+        "pot": 35,
+        "py": 38950,
+        "sample": 640,
+        "sh": 55,
+        "txt": 71,
+        "xml": 28215,
+        "yaml": 433816,
+        "yml": 27
+    },
+    "pep8_infringement": 13835,
+    "requirements": [
+        "babel>=0.9.4",
+        "biryani>=0.10.4",
+        "numpy>=1.11",
+        "openfisca-core<4.0,>=3.0.0",
+        "pyyaml>=3.10",
+        "requests>=2.8"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 24
+    }
+}

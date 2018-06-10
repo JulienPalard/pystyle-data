@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "css": 3799,
+        "html": 785,
+        "in": 5,
+        "js": 2488,
+        "md": 85,
+        "py": 13180,
+        "rc": 262,
+        "sample": 640,
+        "sh": 204,
+        "svg": 685,
+        "yml": 88
+    },
+    "pep8_infringement": 1753,
+    "requirements": [
+        "amqp",
+        "jinja2",
+        "mock",
+        "psutil",
+        "pylint",
+        "pymongo",
+        "setproctitle",
+        "six",
+        "synergy-flow",
+        "synergy-odm",
+        "werkzeug",
+        "xmlrunner"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

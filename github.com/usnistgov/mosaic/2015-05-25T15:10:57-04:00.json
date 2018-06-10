@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 32,
+        "0": 2,
+        "TXT": 11,
+        "csv": 127147,
+        "in": 5,
+        "ipf": 100,
+        "json": 231,
+        "m": 310,
+        "prm": 247,
+        "py": 10275,
+        "rst": 182,
+        "sample": 640,
+        "sh": 13,
+        "spec": 58,
+        "txt": 38,
+        "ui": 2451
+    },
+    "pep8_infringement": 12031,
+    "requirements": [
+        "cython==0.20.1",
+        "lmfit==0.7.4",
+        "matplotlib==1.3.1",
+        "numpy==1.8.1",
+        "pywavelets==0.2.2",
+        "scipy==0.15.0",
+        "uncertainties==2.4.6"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

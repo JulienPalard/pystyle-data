@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 4,
+        "bat": 36,
+        "cfg": 11,
+        "html": 112,
+        "in": 7,
+        "ini": 7,
+        "md": 243,
+        "py": 1701,
+        "rst": 291,
+        "sample": 640,
+        "sh": 26,
+        "svg": 16,
+        "txt": 8,
+        "yml": 16
+    },
+    "pep8_infringement": 8,
+    "requirements": [
+        "django>=1.8,<2",
+        "pyjwt>=1.4.2",
+        "requests>=2.11.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

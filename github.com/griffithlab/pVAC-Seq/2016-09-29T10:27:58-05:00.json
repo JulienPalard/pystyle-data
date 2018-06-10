@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "NPOSL-3.0",
+    "lines_of_code": {
+        "bam_readcount": 1431,
+        "bat": 281,
+        "fa": 3408,
+        "fasta": 272,
+        "fpkm_tracking": 776991,
+        "html": 377,
+        "key": 1862,
+        "md": 34,
+        "pm": 72,
+        "py": 4383,
+        "rst": 288,
+        "sample": 640,
+        "split_1-48": 384,
+        "tsv": 189523,
+        "tsv_1-48": 62912,
+        "vcf": 2772,
+        "yaml": 8,
+        "yml": 33
+    },
+    "pep8_infringement": 1166,
+    "requirements": [
+        "pyvcf",
+        "pyyaml",
+        "requests"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

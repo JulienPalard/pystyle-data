@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 16,
+        "bat": 242,
+        "cfg": 87,
+        "filter": 147,
+        "in": 7,
+        "ini": 68,
+        "log": 30,
+        "pattern": 3,
+        "py": 7891,
+        "rst": 1786,
+        "sample": 640,
+        "sh": 24,
+        "txt": 22,
+        "yaml": 35,
+        "yml": 43
+    },
+    "pep8_infringement": 28,
+    "requirements": [
+        "future>=0.15.2,<0.17",
+        "gunicorn>=19.5.0,<20.0",
+        "ipaddress>=1.0.16,<2.0",
+        "raven>=5.27.0,<7.0",
+        "requests<3.0,>=2.10.0",
+        "statsd>=3.2.1,<4.0",
+        "werkzeug<0.15,>=0.11.5"
+    ],
+    "shebang": {
+        "#!../../env/bin/python": 1,
+        "#!/usr/bin/env python": 2
+    }
+}

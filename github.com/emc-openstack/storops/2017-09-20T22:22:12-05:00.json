@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "html": 107,
+        "in": 9,
+        "ini": 58,
+        "json": 81107,
+        "md": 40,
+        "py": 40616,
+        "rst": 441,
+        "sample": 640,
+        "sh": 52,
+        "spec": 216,
+        "txt": 71375,
+        "xml": 4906,
+        "yaml": 3811,
+        "yml": 92
+    },
+    "pep8_infringement": 20,
+    "requirements": [
+        "bitmath>=1.3.0",
+        "cachez>=0.1.0",
+        "enum34",
+        "persist-queue>=0.2.3",
+        "python-dateutil>=2.4.2",
+        "pyyaml>=3.10",
+        "requests>=2.8.1,!=2.9.0",
+        "retryz>=0.1.8",
+        "six>=1.9.0"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,73 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 88,
+        "BROKEN": 16,
+        "asc": 36,
+        "css": 627,
+        "data": 425,
+        "dtd": 11,
+        "h": 342,
+        "htc": 42,
+        "html": 526,
+        "in": 18,
+        "ini": 17,
+        "js": 552,
+        "mgp": 122,
+        "pxd": 2499,
+        "pxi": 13916,
+        "py": 36680,
+        "pyx": 5479,
+        "rng": 1238,
+        "rst": 67,
+        "sample": 640,
+        "sch": 8,
+        "supp": 471,
+        "txt": 19230,
+        "xml": 40,
+        "xsd": 28,
+        "xsl": 4047,
+        "xslt": 27,
+        "yml": 23
+    },
+    "pep8_infringement": 3782,
+    "requirements": [
+        "cython>=0.20"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 1,
+        "#!/usr/bin/env python": 3,
+        "#!/usr/bin/python": 2,
+        "#!python": 1
+    }
+}

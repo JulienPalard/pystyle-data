@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 248,
+        "cfg": 28,
+        "css": 120233,
+        "html": 36905,
+        "js": 96857,
+        "json": 807,
+        "less": 18683,
+        "map": 4,
+        "md": 3292,
+        "ms": 3,
+        "owl": 568,
+        "py": 2710,
+        "rdf": 606,
+        "sample": 640,
+        "scss": 18683,
+        "sh": 37,
+        "svg": 745,
+        "ttl": 3617,
+        "txt": 3,
+        "yml": 80
+    },
+    "pep8_infringement": 759,
+    "requirements": [
+        "django",
+        "ontospy",
+        "pygments"
+    ],
+    "shebang": {
+        "#!/usr/bin/python": 1
+    }
+}

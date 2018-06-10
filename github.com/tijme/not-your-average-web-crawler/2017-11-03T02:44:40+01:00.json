@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 1,
+        "bat": 36,
+        "css": 318,
+        "html": 140,
+        "in": 4,
+        "js": 85,
+        "php": 134,
+        "py": 4454,
+        "rst": 1458,
+        "sample": 640,
+        "svg": 313,
+        "txt": 7,
+        "yml": 26
+    },
+    "pep8_infringement": 466,
+    "requirements": [
+        "beautifulsoup4==4.6.0",
+        "lxml==4.0.0",
+        "requests==2.18.4",
+        "requests-toolbelt==0.8.0",
+        "sphinx==1.5.5",
+        "sphinx-better-theme==0.13",
+        "sphinxcontrib-napoleon==0.6.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 29,
+        "bat": 36,
+        "cfg": 6,
+        "cmd": 88,
+        "css": 5,
+        "html": 149,
+        "in": 1,
+        "ini": 0,
+        "js": 3631,
+        "json": 212,
+        "map": 2,
+        "md": 19,
+        "ps1": 229,
+        "py": 4695,
+        "rst": 1572,
+        "sample": 640,
+        "sh": 9,
+        "txt": 436,
+        "yapf": 8,
+        "yml": 164
+    },
+    "pep8_infringement": 243,
+    "requirements": [
+        "colorama<1.0,>=0.3",
+        "fs<3.0,>=2.0",
+        "psutil<6.0,>=5.2",
+        "requests<3.0,>=2.0",
+        "stevedore<2.0,>=1.21"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

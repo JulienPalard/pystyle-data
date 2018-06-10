@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 82,
+        "py": 1594,
+        "sample": 640,
+        "sh": 29,
+        "txt": 9,
+        "xml": 191729
+    },
+    "pep8_infringement": 175,
+    "requirements": [
+        "Unknown (git+https://github.com/miurahr/pykakasi)",
+        "docopt>=0.6.2",
+        "jieba>=0.38",
+        "numpy>=1.12.0",
+        "pinyin>=0.4.0",
+        "regex>=2017.2.8",
+        "scikit-learn>=0.18.1",
+        "scipy>=0.18.1",
+        "tensorflow>=1.0.1"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 281,
+        "cc": 9665,
+        "cfg": 243,
+        "cpp": 4889,
+        "css": 327,
+        "csv": 3001,
+        "dat": 8,
+        "h": 5754,
+        "html": 5,
+        "hxx": 424,
+        "i": 138,
+        "in": 10,
+        "inc": 47,
+        "log": 680,
+        "md": 302,
+        "py": 3499,
+        "rst": 1054,
+        "sample": 640,
+        "sh": 1,
+        "table": 9,
+        "txt": 7,
+        "yaml": 67
+    },
+    "pep8_infringement": 247,
+    "requirements": [
+        "astrocalc",
+        "docopt",
+        "fundamentals",
+        "hmpty",
+        "pyyaml"
+    ],
+    "shebang": {
+        "#!/usr/local/bin/python": 6
+    }
+}

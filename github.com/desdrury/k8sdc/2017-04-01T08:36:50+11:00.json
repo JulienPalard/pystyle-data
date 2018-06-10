@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "": 210,
+        "cfg": 17,
+        "in": 7,
+        "j2": 469,
+        "json": 92,
+        "md": 1616,
+        "pem": 23,
+        "pub": 1,
+        "py": 891,
+        "rst": 10,
+        "sample": 640,
+        "service": 124,
+        "sh": 38,
+        "socket": 12,
+        "txt": 5,
+        "yaml": 7299,
+        "yml": 778
+    },
+    "pep8_infringement": 299,
+    "requirements": [
+        "ansible>=2.2.1.0",
+        "docopt>=0.6.2",
+        "flake8>=3.0.4",
+        "jinja2>=2.8",
+        "pprintpp>=0.2.3"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

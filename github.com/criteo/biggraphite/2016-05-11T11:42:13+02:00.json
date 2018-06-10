@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": true,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 2,
+        "cfg": 19,
+        "in": 6,
+        "ini": 79,
+        "md": 20,
+        "py": 1168,
+        "sample": 640,
+        "txt": 208,
+        "yml": 26
+    },
+    "pep8_infringement": 97,
+    "requirements": [
+        "cassandra-driver",
+        "progressbar2",
+        "six",
+        "statistics",
+        "whisper"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 6
+    }
+}

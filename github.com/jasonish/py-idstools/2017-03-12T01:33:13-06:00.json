@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "conf": 41,
+        "config": 41,
+        "in": 26,
+        "map": 18795,
+        "md5": 1,
+        "py": 8864,
+        "rst": 1133,
+        "sample": 640,
+        "txt": 23,
+        "yml": 9
+    },
+    "pep8_infringement": 369,
+    "requirements": [
+        "python-dateutil",
+        "sphinx",
+        "sphinxcontrib-programoutput"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 1
+    }
+}

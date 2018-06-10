@@ -1,0 +1,73 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 34,
+        "css": 1841,
+        "d": 113,
+        "html": 4028,
+        "in": 4,
+        "ini": 123,
+        "js": 22676,
+        "json": 9173,
+        "md": 16,
+        "po": 33467,
+        "py": 21232,
+        "rst": 4569,
+        "sample": 640,
+        "scss": 6161,
+        "sh": 254,
+        "svg": 7791,
+        "txt": 134,
+        "xml": 13,
+        "yml": 40
+    },
+    "pep8_infringement": 2732,
+    "requirements": [
+        "beautifulsoup4>=4.3.2",
+        "django>=1.6.2,<1.7",
+        "django-compressor>=1.4",
+        "django-libsass>=0.2",
+        "django-modelcluster>=0.3",
+        "django-taggit==0.11.2",
+        "django-treebeard==2.0",
+        "html5lib==0.999",
+        "pillow>=2.3.0",
+        "requests==2.3.0",
+        "six==1.7.3",
+        "south>=0.8.4",
+        "unidecode>=0.04.14"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

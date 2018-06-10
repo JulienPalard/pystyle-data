@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": true,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 263,
+        "in": 7,
+        "ini": 16,
+        "md": 281,
+        "py": 5177,
+        "rst": 171,
+        "sample": 640,
+        "spec": 72,
+        "txt": 6,
+        "yml": 95
+    },
+    "pep8_infringement": 6,
+    "requirements": [
+        "numpydoc>=0.7",
+        "openpyxl>=2.5.0",
+        "pymzml (git+https://github.com/naderm/pymzML)",
+        "requests>=2.18.4",
+        "scipy>=1.0.1"
+    ],
+    "shebang": {}
+}

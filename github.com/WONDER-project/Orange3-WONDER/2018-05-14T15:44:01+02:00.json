@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "FTinfo": 191,
+        "c": 73083,
+        "csv": 6342,
+        "dat": 214,
+        "in": 13,
+        "md": 6,
+        "not": 533,
+        "np": 533,
+        "ows": 539,
+        "py": 12026,
+        "pyx": 1773,
+        "raw": 4686,
+        "sample": 640,
+        "txt": 679,
+        "xy": 6531,
+        "xye": 4686,
+        "xyz": 533,
+        "xyz2": 533
+    },
+    "pep8_infringement": 3418,
+    "requirements": [
+        "matplotlib",
+        "numpy",
+        "orange3>=3.13",
+        "scipy",
+        "silx"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

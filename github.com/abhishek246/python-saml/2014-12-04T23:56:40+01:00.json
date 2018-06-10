@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 4,
+        "base64": 735,
+        "cfg": 2,
+        "crt": 32,
+        "css": 858,
+        "html": 7570,
+        "in": 6,
+        "js": 12404,
+        "json": 377,
+        "key": 61,
+        "md": 985,
+        "py": 8436,
+        "rc": 108,
+        "sample": 640,
+        "txt": 108,
+        "xml": 589,
+        "xsd": 2690,
+        "yml": 18
+    },
+    "pep8_infringement": 873,
+    "requirements": [
+        "defusedxml==0.4.1",
+        "dm.xmlsec.binding==1.3.1",
+        "isodate==0.5.0",
+        "m2crypto==0.22.3"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 1,
+        "#!/usr/bin/env python": 1
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 25,
+        "in": 21,
+        "ini": 129,
+        "md": 33,
+        "py": 1282,
+        "sample": 640,
+        "txt": 34,
+        "yaml": 53,
+        "yml": 184
+    },
+    "pep8_infringement": 3,
+    "requirements": [
+        "jupyter-core",
+        "notebook>=4.0",
+        "setuptools",
+        "tornado",
+        "traitlets"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

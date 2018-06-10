@@ -1,0 +1,47 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "in": 9,
+        "md": 157,
+        "py": 1419,
+        "rst": 203,
+        "sample": 640,
+        "sh": 122
+    },
+    "pep8_infringement": 338,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env GoodTests.py": 1,
+        "#!/usr/bin/env python": 3
+    }
+}

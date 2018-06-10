@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 10,
+        "authz": 30,
+        "bat": 190,
+        "cfg": 2,
+        "creq": 247,
+        "in": 5,
+        "ini": 15,
+        "json": 228129,
+        "pem": 5026,
+        "py": 49009,
+        "req": 134,
+        "rst": 604,
+        "sample": 640,
+        "sreq": 164,
+        "sts": 120,
+        "txt": 22,
+        "xml": 15085,
+        "yml": 12
+    },
+    "pep8_infringement": 82643,
+    "requirements": [
+        "docutils>=0.10",
+        "jmespath==0.7.1",
+        "python-dateutil>=2.1,<3.0.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env": 7,
+        "#!/usr/bin/env python": 5
+    }
+}

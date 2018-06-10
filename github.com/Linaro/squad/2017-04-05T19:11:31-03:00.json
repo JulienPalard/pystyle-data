@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 20,
+        "cfg": 4,
+        "css": 29,
+        "csv": 4,
+        "html": 674,
+        "in": 14,
+        "js": 15131,
+        "json": 14,
+        "log": 1,
+        "py": 4077,
+        "rst": 342,
+        "sample": 640,
+        "txt": 11,
+        "yml": 41
+    },
+    "pep8_infringement": 116,
+    "requirements": [
+        "django>=1.10",
+        "gunicorn",
+        "python-dateutil",
+        "sqlparse",
+        "whitenoise"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

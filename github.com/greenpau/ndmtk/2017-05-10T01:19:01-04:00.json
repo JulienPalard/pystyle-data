@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 8,
+        "conf": 24,
+        "j2": 797,
+        "key": 1,
+        "md": 1920,
+        "py": 4619,
+        "rst": 1364,
+        "sample": 640,
+        "sh": 50,
+        "txt": 1350,
+        "yml": 3061
+    },
+    "pep8_infringement": 2490,
+    "requirements": [
+        "ansible>=2.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

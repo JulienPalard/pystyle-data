@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 42,
+        "iml": 14,
+        "json": 9804,
+        "md": 295,
+        "prefs": 20,
+        "py": 3169,
+        "sample": 640,
+        "txt": 3363,
+        "xml": 993
+    },
+    "pep8_infringement": 327,
+    "requirements": [
+        "editdistance>=0.3.1",
+        "flask>=0.12",
+        "geopy>=1.11.0",
+        "nltk>=3.1.2",
+        "parsedatetime>=2.2",
+        "pycorenlp>=0.3.0",
+        "requests",
+        "xmltodict"
+    ],
+    "shebang": {}
+}

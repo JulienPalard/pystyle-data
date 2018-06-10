@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "ini": 6,
+        "py": 4137,
+        "rst": 39,
+        "sample": 640,
+        "txt": 12
+    },
+    "pep8_infringement": 283,
+    "requirements": [
+        "colorama",
+        "coverage",
+        "detox",
+        "flake8",
+        "nose",
+        "prettytable",
+        "psutil",
+        "pytest",
+        "ruamel.yaml",
+        "simplejson",
+        "six",
+        "tox"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

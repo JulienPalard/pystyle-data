@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause-LBNL",
+    "lines_of_code": {
+        "": 13,
+        "Fe3O4": 105362,
+        "cfg": 15,
+        "css": 14461,
+        "html": 432,
+        "in": 9,
+        "ini": 13,
+        "js": 16367,
+        "json": 70,
+        "less": 969,
+        "md": 4,
+        "py": 13095,
+        "rst": 5936,
+        "sample": 640,
+        "scss": 969,
+        "sh": 20,
+        "svg": 414,
+        "txt": 174,
+        "yaml": 498,
+        "yml": 33
+    },
+    "pep8_infringement": 1947,
+    "requirements": [
+        "flask>=0.11.1",
+        "flask-paginate>=0.4.5",
+        "gunicorn>=19.6.0",
+        "jinja2>=2.8.0",
+        "monty>=0.8.1",
+        "pymongo>=3.3.0",
+        "python-dateutil>=2.5.3",
+        "pyyaml>=3.11.0",
+        "six>=1.10.0",
+        "tabulate>=0.7.5"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

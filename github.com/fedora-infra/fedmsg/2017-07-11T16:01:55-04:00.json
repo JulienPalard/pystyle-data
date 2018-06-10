@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "LGPL-2.1",
+    "lines_of_code": {
+        "": 12,
+        "attr": 1,
+        "cfg": 5,
+        "cnf": 1390,
+        "cnf-old-copy": 285,
+        "conf": 703,
+        "crt": 3422,
+        "csr": 628,
+        "css": 17,
+        "db": 1,
+        "html": 22,
+        "in": 14,
+        "ini": 63,
+        "init": 345,
+        "key": 791,
+        "old": 46,
+        "pem": 3410,
+        "php": 267,
+        "py": 9418,
+        "rst": 5005,
+        "sample": 640,
+        "service": 56,
+        "sh": 21,
+        "txt": 160,
+        "yml": 72
+    },
+    "pep8_infringement": 145,
+    "requirements": [
+        "arrow",
+        "cryptography",
+        "kitchen",
+        "pyzmq",
+        "requests",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

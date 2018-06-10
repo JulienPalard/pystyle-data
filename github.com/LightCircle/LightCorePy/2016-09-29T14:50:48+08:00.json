@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "html": 1,
+        "md": 141,
+        "py": 5116,
+        "rst": 13,
+        "sample": 640,
+        "txt": 26
+    },
+    "pep8_infringement": 184,
+    "requirements": [
+        "apscheduler==3.2.0",
+        "flask==0.11.1",
+        "flask-uwsgi-websocket==0.5.3",
+        "inflect==0.2.5",
+        "jinja2==2.8",
+        "pycrypto==2.6.1",
+        "pymongo==3.3.0",
+        "python-dateutil==2.5.3",
+        "uwsgi==2.0.13.1"
+    ],
+    "shebang": {}
+}

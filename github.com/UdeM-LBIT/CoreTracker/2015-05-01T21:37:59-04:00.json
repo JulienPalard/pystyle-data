@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "ali": 20247,
+        "conf": 50,
+        "css": 1405,
+        "fasta": 8797,
+        "fasta_": 1139,
+        "html": 80,
+        "html?C=D;O=A": 27,
+        "html?C=D;O=D": 27,
+        "html?C=M;O=A": 27,
+        "html?C=M;O=D": 27,
+        "html?C=N;O=A": 27,
+        "html?C=N;O=D": 27,
+        "html?C=S;O=A": 27,
+        "html?C=S;O=D": 27,
+        "js": 763,
+        "md": 2,
+        "nw": 2,
+        "phylip": 9054,
+        "py": 3052,
+        "sample": 640,
+        "txt": 4
+    },
+    "pep8_infringement": 1807,
+    "requirements": [],
+    "shebang": {
+        "#! /usr/bin/env python": 1
+    }
+}

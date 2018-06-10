@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "bat": 242,
+        "cfg": 0,
+        "py": 6311,
+        "rst": 547,
+        "sample": 640,
+        "svg": 22,
+        "yml": 8
+    },
+    "pep8_infringement": 571,
+    "requirements": [
+        "mfisp-boxdetection",
+        "molyso",
+        "nd2file",
+        "networkx",
+        "numexpr",
+        "numpy",
+        "pandas",
+        "scikit-image>=0.12",
+        "scipy",
+        "tables",
+        "tifffile",
+        "tqdm",
+        "tunable"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

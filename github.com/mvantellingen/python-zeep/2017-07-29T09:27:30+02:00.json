@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 20,
+        "bat": 263,
+        "cfg": 39,
+        "html": 18,
+        "in": 19,
+        "ini": 30,
+        "md": 17,
+        "pem": 112,
+        "py": 25318,
+        "rst": 1216,
+        "sample": 640,
+        "txt": 1,
+        "wsdl": 1001,
+        "xsd": 916,
+        "yml": 101
+    },
+    "pep8_infringement": 503,
+    "requirements": [
+        "appdirs>=1.4.0",
+        "cached-property>=1.3.0",
+        "defusedxml>=0.4.1",
+        "isodate>=0.5.4",
+        "lxml>=3.0.0",
+        "pytz",
+        "requests>=2.7.0",
+        "requests-toolbelt>=0.7.1",
+        "six>=1.9.0"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "md": 41,
+        "py": 1001,
+        "sample": 640,
+        "txt": 13
+    },
+    "pep8_infringement": 61,
+    "requirements": [
+        "click==6.6",
+        "colorlog==2.10.0",
+        "decorator==4.0.9",
+        "ipython==4.1.2",
+        "ipython-genutils==0.1.0",
+        "ordereddict==1.1",
+        "path.py==8.1.2",
+        "pickleshare==0.6",
+        "psycopg2==2.6.1",
+        "python-dotenv==0.4.0",
+        "pywin32==220",
+        "simplegeneric==0.8.1",
+        "traitlets==4.2.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!C:\\Python27\\python.exe": 1
+    }
+}

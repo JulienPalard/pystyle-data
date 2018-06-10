@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 9,
+        "bat": 281,
+        "cfg": 11,
+        "csv": 5,
+        "html": 8,
+        "in": 3,
+        "md": 141,
+        "po": 482,
+        "pot": 469,
+        "py": 17690,
+        "rst": 4430,
+        "sample": 640,
+        "txt": 2,
+        "yml": 158
+    },
+    "pep8_infringement": 996,
+    "requirements": [
+        "bcolz>=1.1.0",
+        "click>=6.6",
+        "dill==0.2.5",
+        "jsonpickle==0.9.4",
+        "line-profiler>=2.0",
+        "logbook==1.0.0",
+        "matplotlib>=1.5.1",
+        "numpy>=1.11.1",
+        "pandas>=0.18.1",
+        "pytest>=2.9.2",
+        "python-dateutil>=2.5.3",
+        "pytz>=2016.4",
+        "ruamel.yaml>=0.13.14",
+        "simplejson>=3.10.0",
+        "six>=1.10.0",
+        "xlsxwriter>=0.9.6"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 6,
+        "#!/usr/bin/env python3": 1
+    }
+}

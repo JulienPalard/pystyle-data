@@ -1,0 +1,64 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "in": 0,
+        "json": 1020,
+        "md": 253,
+        "pxd": 1559,
+        "py": 4882,
+        "pyx": 6676,
+        "rst": 2312,
+        "sample": 640,
+        "sed": 82,
+        "sh": 18,
+        "tokens": 4,
+        "txt": 98,
+        "yml": 21
+    },
+    "pep8_infringement": 333,
+    "requirements": [
+        "cymem>=1.11",
+        "murmurhash",
+        "numpy",
+        "plac",
+        "preshed==0.37",
+        "six",
+        "thinc==3.2",
+        "ujson",
+        "unidecode",
+        "wget"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 6
+    }
+}

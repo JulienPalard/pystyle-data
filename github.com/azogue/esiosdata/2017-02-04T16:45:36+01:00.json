@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 32,
+        "html": 148,
+        "in": 9,
+        "ipynb": 2267,
+        "md": 129,
+        "py": 2700,
+        "sample": 640
+    },
+    "pep8_infringement": 465,
+    "requirements": [
+        "dataweb",
+        "jinja2",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pytz",
+        "seaborn",
+        "termcolor"
+    ],
+    "shebang": {}
+}

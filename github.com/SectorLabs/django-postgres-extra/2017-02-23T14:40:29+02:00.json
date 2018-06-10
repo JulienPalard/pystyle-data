@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 20,
+        "cfg": 7,
+        "ini": 8,
+        "py": 1960,
+        "rst": 165,
+        "sample": 640,
+        "txt": 25,
+        "yaml": 14,
+        "yml": 35
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "coverage==4.2",
+        "dj-database-url==0.4.1",
+        "django==1.10.2",
+        "django-coverage-plugin==1.3.1",
+        "enforce==0.3.2",
+        "flake8==3.0.4",
+        "pep8==1.7.0",
+        "psycopg2==2.6.2",
+        "pylint==1.6.4",
+        "pylint-celery==0.3",
+        "pylint-common==0.2.2",
+        "pylint-django==0.7.2",
+        "pylint-plugin-utils==0.2.4",
+        "pytest==3.0.6",
+        "pytest-benchmark==3.0.0",
+        "pytest-cov==2.4.0",
+        "pytest-django==3.1.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

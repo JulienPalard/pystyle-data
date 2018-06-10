@@ -1,0 +1,72 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "bat": 190,
+        "cfg": 59,
+        "conf": 52,
+        "css": 278,
+        "csv": 11384,
+        "dat": 20,
+        "geojson": 527,
+        "html": 1029,
+        "in": 11,
+        "inc": 110,
+        "ini": 7231,
+        "ipynb": 1035,
+        "js": 26315,
+        "map": 2,
+        "md": 2005,
+        "patch": 17,
+        "py": 42099,
+        "rst": 13704,
+        "sample": 640,
+        "service": 53,
+        "sh": 1567,
+        "source": 5,
+        "sql": 61,
+        "txt": 14439,
+        "xml": 710369,
+        "yml": 23
+    },
+    "pep8_infringement": 348,
+    "requirements": [
+        "decorator",
+        "numpy",
+        "openquake.hazardlib",
+        "psutil>=0.4.1",
+        "scipy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

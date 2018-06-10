@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "cfg": 7,
+        "md": 153,
+        "py": 1641,
+        "sample": 640,
+        "svg": 9,
+        "yml": 46
+    },
+    "pep8_infringement": 173,
+    "requirements": [
+        "autologging",
+        "dicttoxml",
+        "flask",
+        "flask-classful",
+        "inflect",
+        "markupsafe",
+        "neomodel",
+        "pyaml",
+        "requests",
+        "webargs"
+    ],
+    "shebang": {}
+}

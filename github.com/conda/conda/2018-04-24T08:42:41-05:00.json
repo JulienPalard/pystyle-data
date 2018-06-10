@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 94,
+        "cfg": 62,
+        "csh": 42,
+        "fish": 155,
+        "in": 6,
+        "ipynb": 14,
+        "json": 113642,
+        "md": 3109,
+        "plan": 19,
+        "py": 61764,
+        "rst": 406,
+        "sample": 640,
+        "sh": 540,
+        "txt": 128,
+        "xsh": 80,
+        "yaml": 105,
+        "yml": 291
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "enum34",
+        "futures",
+        "menuinst",
+        "pycosat>=0.6.3",
+        "requests>=2.12.4"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

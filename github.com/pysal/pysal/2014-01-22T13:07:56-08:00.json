@@ -1,0 +1,70 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "cfg": 6,
+        "css": 510,
+        "csv": 351,
+        "dat": 232,
+        "dbf": 34,
+        "dot": 26,
+        "gal": 12391,
+        "gwt": 2803,
+        "html": 699,
+        "in": 2,
+        "ipynb": 18874,
+        "json": 104,
+        "md": 195,
+        "mtx": 237,
+        "prj": 11,
+        "py": 70149,
+        "qpj": 1,
+        "sample": 640,
+        "sh": 438,
+        "txt": 9168,
+        "wkt": 78,
+        "xml": 549,
+        "xsl": 496,
+        "yml": 38
+    },
+    "pep8_infringement": 17248,
+    "requirements": [
+        "scipy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2,
+        "#!/usr/bin/env python3": 1,
+        "#!/usr/bin/python": 3,
+        "#!/usr/env python": 1,
+        "#!python": 1
+    }
+}

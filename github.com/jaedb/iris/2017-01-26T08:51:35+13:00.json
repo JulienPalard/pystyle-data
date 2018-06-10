@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 30,
+        "cfg": 5,
+        "conf": 4,
+        "html": 30,
+        "in": 2,
+        "js": 11402,
+        "json": 47,
+        "md": 266,
+        "php": 201,
+        "py": 713,
+        "sample": 640,
+        "scss": 4212,
+        "sh": 26,
+        "svg": 995,
+        "yml": 12
+    },
+    "pep8_infringement": 366,
+    "requirements": [
+        "configobj",
+        "mopidy>=2.0",
+        "mopidy-local-images>=1.0",
+        "pylast",
+        "setuptools>=3.3",
+        "spotipy"
+    ],
+    "shebang": {}
+}

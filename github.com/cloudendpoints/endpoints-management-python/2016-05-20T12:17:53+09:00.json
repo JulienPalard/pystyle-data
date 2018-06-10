@@ -1,0 +1,49 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "ini": 35,
+        "py": 5322,
+        "rst": 216,
+        "sample": 640,
+        "txt": 7
+    },
+    "pep8_infringement": 31,
+    "requirements": [
+        "google-apitools<0.5,>=0.4.15",
+        "oauth2client<2,>=1.5.2",
+        "strict-rfc3339<0.8,>=0.7"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

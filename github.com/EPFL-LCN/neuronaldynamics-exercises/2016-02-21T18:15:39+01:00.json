@@ -1,0 +1,52 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "in": 6,
+        "md": 7,
+        "py": 498,
+        "rst": 186,
+        "sample": 640,
+        "tex": 42,
+        "txt": 346,
+        "yml": 35
+    },
+    "pep8_infringement": 36,
+    "requirements": [
+        "brian2>=2.0b4",
+        "matplotlib",
+        "numpy",
+        "scipy"
+    ],
+    "shebang": {}
+}

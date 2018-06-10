@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "f90": 499,
+        "in": 5,
+        "py": 2762,
+        "pyf": 20,
+        "rst": 158,
+        "sample": 640,
+        "txt": 690,
+        "yml": 47
+    },
+    "pep8_infringement": 995,
+    "requirements": [
+        "Unknown (git+ssh://git@github.com/metocean/cf-json)",
+        "attrdict",
+        "dask",
+        "dbfread",
+        "netcdf4",
+        "nose",
+        "numpy",
+        "pandas",
+        "python-dateutil",
+        "ruamel.yaml",
+        "scipy",
+        "sortedcontainers",
+        "sympy",
+        "toolz",
+        "unittest",
+        "xarray>=0.10.0"
+    ],
+    "shebang": {}
+}

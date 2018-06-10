@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 8,
+        "A99": 37,
+        "B99": 24,
+        "cfg": 19,
+        "cmd": 47,
+        "css": 10,
+        "edgelist": 1701,
+        "html": 12,
+        "in": 30,
+        "inc": 108,
+        "js": 119,
+        "mbox": 84,
+        "md": 60,
+        "ps1": 101,
+        "py": 110806,
+        "rst": 9039,
+        "sample": 640,
+        "sh": 197,
+        "txt": 93,
+        "yml": 198
+    },
+    "pep8_infringement": 7872,
+    "requirements": [
+        "decorator>=4.1.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 103
+    }
+}

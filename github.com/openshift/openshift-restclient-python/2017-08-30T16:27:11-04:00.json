@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 292,
+        "cfg": 23,
+        "ini": 90,
+        "j2": 58,
+        "json": 73959,
+        "md": 67359,
+        "py": 150138,
+        "rst": 61,
+        "sample": 640,
+        "sh": 235,
+        "spec": 132,
+        "txt": 13,
+        "xml": 54,
+        "yml": 393
+    },
+    "pep8_infringement": 16230,
+    "requirements": [
+        "dictdiffer",
+        "jinja2",
+        "kubernetes~=1.0.0",
+        "python-string-utils",
+        "ruamel.yaml<0.15",
+        "six"
+    ],
+    "shebang": {}
+}

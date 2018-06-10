@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 17,
+        "cfg": 10,
+        "csv": 36682,
+        "in": 9,
+        "ipynb": 365,
+        "json": 139928,
+        "md": 1956,
+        "py": 39463,
+        "sample": 640,
+        "sh": 39,
+        "txt": 661,
+        "xml": 635,
+        "yaml": 268385,
+        "yml": 33
+    },
+    "pep8_infringement": 9168,
+    "requirements": [
+        "numpy>=1.11,<1.13",
+        "openfisca-core<22,>=21.2.1",
+        "pyyaml>=3.10",
+        "requests>=2.8"
+    ],
+    "shebang": {
+        "#! /usr/bin/env python": 14
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "bat": 263,
+        "in": 3,
+        "ipynb": 2073,
+        "py": 4200,
+        "rst": 610,
+        "sample": 640,
+        "sh": 7,
+        "txt": 5
+    },
+    "pep8_infringement": 1571,
+    "requirements": [
+        "cython",
+        "genometools>=1.2rc2",
+        "goparser>=1.1",
+        "matplotlib",
+        "networkx",
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "setuptools",
+        "xlmhg>=1.1rc3",
+        "xlsxwriter"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python2.7": 7
+    }
+}

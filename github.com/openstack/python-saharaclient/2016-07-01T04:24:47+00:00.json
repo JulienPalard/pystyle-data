@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 13,
+        "cfg": 103,
+        "conf": 18,
+        "html": 15,
+        "in": 9,
+        "ini": 74,
+        "py": 15017,
+        "rst": 499,
+        "sample": 640,
+        "sh": 199,
+        "txt": 34,
+        "yaml": 83
+    },
+    "pep8_infringement": 72,
+    "requirements": [
+        "babel>=2.3.4",
+        "keystoneauth1>=2.7.0",
+        "osc-lib>=0.1.0",
+        "oslo.i18n>=2.1.0",
+        "oslo.log>=1.14.0",
+        "oslo.serialization>=1.10.0",
+        "oslo.utils>=3.14.0",
+        "pbr>=1.6",
+        "prettytable>=0.7,<0.8",
+        "python-keystoneclient!=2.1.0,>=1.7.0,!=1.8.0",
+        "requests>=2.10.0",
+        "six>=1.9.0"
+    ],
+    "shebang": {}
+}

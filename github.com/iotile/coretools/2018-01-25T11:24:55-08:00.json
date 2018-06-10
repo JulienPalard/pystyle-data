@@ -1,0 +1,66 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 852,
+        "c": 1870,
+        "cfg": 6,
+        "h": 1211,
+        "html": 149,
+        "in": 10,
+        "ini": 127,
+        "json": 1997,
+        "ld": 122,
+        "md": 2851,
+        "mib": 88,
+        "py": 89181,
+        "rst": 3115,
+        "sample": 640,
+        "sgf": 359,
+        "tpl": 19,
+        "txt": 2514,
+        "yml": 44
+    },
+    "pep8_infringement": 14182,
+    "requirements": [
+        "cmdln>=2.0.0",
+        "pip",
+        "requests>=2.4.2",
+        "setuptools>=30.2.0",
+        "tox",
+        "twine>=1.8.1",
+        "wheel"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

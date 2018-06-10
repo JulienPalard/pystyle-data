@@ -1,0 +1,70 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 108,
+        "ini": 23,
+        "j2": 385,
+        "js": 102,
+        "json": 33,
+        "jsx": 1169,
+        "md": 193,
+        "py": 3460,
+        "rst": 766,
+        "sample": 640,
+        "txt": 17,
+        "yml": 103
+    },
+    "pep8_infringement": 106,
+    "requirements": [
+        "click",
+        "codecov",
+        "eventlet",
+        "flask-socketio",
+        "future",
+        "jinja2",
+        "markdown",
+        "msgpack-python",
+        "numpy",
+        "pandas",
+        "plotlywrapper",
+        "pydocstyle",
+        "pylint",
+        "pytest",
+        "pytest-cov",
+        "pytest-pylint",
+        "selenium"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 8
+    }
+}

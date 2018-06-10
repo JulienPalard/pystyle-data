@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 5,
+        "in": 4,
+        "js": 191,
+        "json": 36,
+        "md": 191,
+        "meta": 10,
+        "py": 2221,
+        "rst": 57,
+        "sample": 640,
+        "sh": 214,
+        "txt": 17,
+        "yaml": 1198
+    },
+    "pep8_infringement": 5,
+    "requirements": [
+        "docker",
+        "six",
+        "termcolor",
+        "tosca-parser"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

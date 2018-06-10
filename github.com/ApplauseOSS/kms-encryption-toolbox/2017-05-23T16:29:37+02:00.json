@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 7,
+        "ini": 31,
+        "md": 196,
+        "py": 137,
+        "sample": 640,
+        "sh": 15,
+        "txt": 9
+    },
+    "pep8_infringement": 23,
+    "requirements": [
+        "attrs<17.0.0,>=16.3.0",
+        "aws-encryption-sdk>=1.2.0",
+        "cffi>=1.10.0",
+        "click>=6.6",
+        "cryptography>=1.8.1"
+    ],
+    "shebang": {}
+}

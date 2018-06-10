@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "ZPL-2.1",
+    "lines_of_code": {
+        "cfg": 272,
+        "in": 5,
+        "py": 7445,
+        "rst": 209,
+        "sample": 640,
+        "txt": 607,
+        "yml": 14
+    },
+    "pep8_infringement": 228,
+    "requirements": [
+        "psycopg2",
+        "repoze.lru",
+        "setuptools",
+        "sqlobject",
+        "transaction>=1.1.0",
+        "zope.dottedname",
+        "zope.exceptions>=3.7.1",
+        "zope.interface",
+        "zope.schema"
+    ],
+    "shebang": {}
+}

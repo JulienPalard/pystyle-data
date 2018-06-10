@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MPL-2.0",
+    "lines_of_code": {
+        "": 30,
+        "cfg": 10,
+        "cmd": 91,
+        "csv": 6,
+        "in": 17,
+        "log": 12,
+        "md": 52,
+        "py": 6407,
+        "sample": 640,
+        "spec": 63,
+        "txt": 1747,
+        "xml": 112,
+        "yml": 864
+    },
+    "pep8_infringement": 235,
+    "requirements": [
+        "apwgsdk",
+        "arrow>=0.6.0",
+        "chardet>=2.3.0",
+        "csirtg-indicator",
+        "csirtg-mail<1.0,>=0.0.0a1",
+        "feedparser>=5.2.1",
+        "ipaddress>=1.0.16",
+        "nltk<3.3,>=3.2",
+        "pyaml>=15.8.2",
+        "python-magic>=0.4.6",
+        "requests>=2.6.0",
+        "sqlalchemy>=1.0.14,<1.1",
+        "tornado>=4.4"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

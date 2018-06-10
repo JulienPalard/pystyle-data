@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 0,
+        "bat": 190,
+        "cfg": 42,
+        "conf": 191,
+        "crt": 21,
+        "css": 402,
+        "html": 656,
+        "http": 630,
+        "in": 16,
+        "ini": 350,
+        "ini_tmpl": 60,
+        "js": 46,
+        "key": 27,
+        "md": 177,
+        "py": 19366,
+        "rst": 3228,
+        "sample": 640,
+        "svg": 119,
+        "txt": 45,
+        "xml": 131,
+        "yml": 16
+    },
+    "pep8_infringement": 1604,
+    "requirements": [
+        "sphinx",
+        "sphinx-rtd-theme"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5,
+        "#!python": 1
+    }
+}

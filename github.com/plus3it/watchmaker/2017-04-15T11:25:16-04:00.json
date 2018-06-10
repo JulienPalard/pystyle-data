@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": true,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 440,
+        "cfg": 48,
+        "cmd": 43,
+        "in": 20,
+        "ini": 63,
+        "json": 460,
+        "md": 908,
+        "ps1": 146,
+        "py": 2680,
+        "rst": 1,
+        "sample": 640,
+        "template": 4162,
+        "txt": 20,
+        "yaml": 50,
+        "yml": 171
+    },
+    "pep8_infringement": 1,
+    "requirements": [
+        "argparse",
+        "futures",
+        "pyyaml",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 4
+    }
+}

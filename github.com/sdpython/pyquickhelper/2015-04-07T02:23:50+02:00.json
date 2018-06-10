@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 95,
+        "css": 1719,
+        "doc": 20,
+        "html": 330,
+        "ipynb": 4811,
+        "js": 1747,
+        "py": 20161,
+        "rst": 1642,
+        "sample": 640,
+        "sh": 18,
+        "test": 170,
+        "txt": 324,
+        "yml": 7
+    },
+    "pep8_infringement": 991,
+    "requirements": [
+        "autopep8",
+        "dateutils",
+        "docutils",
+        "ipython",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pymyinstall",
+        "requests",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1,
+        "#!C:\\Python32\\python.exe": 1
+    }
+}

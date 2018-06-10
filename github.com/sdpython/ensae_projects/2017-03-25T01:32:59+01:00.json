@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 10,
+        "css": 11,
+        "html": 69,
+        "ipynb": 28068,
+        "md": 9,
+        "py": 6000,
+        "rst": 1119,
+        "sample": 640,
+        "sh": 3,
+        "txt": 40581,
+        "xml": 48,
+        "yaml": 107,
+        "yml": 111
+    },
+    "pep8_infringement": 258,
+    "requirements": [
+        "jupyter",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pyensae",
+        "pymyinstall",
+        "pyquickhelper",
+        "pyrsslocal",
+        "scikit-learn"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 3,
+        "in": 6,
+        "md": 3,
+        "py": 3114,
+        "sample": 640,
+        "txt": 201
+    },
+    "pep8_infringement": 342,
+    "requirements": [
+        "beautifulsoup4>=3.5.0.0",
+        "flask>=0.12.0",
+        "flask-sqlalchemy>=2.0",
+        "geoip2>=2.4.2",
+        "ipy>=0.83",
+        "jinja2>=2.9.0",
+        "lxml>=3.7.0",
+        "pillow>=4.0.0",
+        "pymarkovchain>=1.8",
+        "python-dateutil>=2.6.0",
+        "pytz>=2017.2",
+        "sqlalchemy>=1.1.0"
+    ],
+    "shebang": {}
+}

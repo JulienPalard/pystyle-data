@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "": 0,
+        "bat": 281,
+        "cfg": 2,
+        "cnf": 20,
+        "in": 5,
+        "json": 6,
+        "md": 46,
+        "py": 6304,
+        "rst": 937,
+        "sample": 640,
+        "sh": 71,
+        "sql": 2109,
+        "svg": 33633,
+        "txt": 23,
+        "yaml": 79,
+        "yml": 201
+    },
+    "pep8_infringement": 7686,
+    "requirements": [
+        "argparse>=1.2.1",
+        "daemonize>=2.4.7",
+        "mysql-replication>=0.15",
+        "psycopg2>=2.7.3",
+        "pymysql>=0.7.11",
+        "pyyaml>=3.12",
+        "rollbar>=0.13.17",
+        "tabulate>=0.8.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 4
+    }
+}

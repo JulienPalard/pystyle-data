@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "ISC",
+    "lines_of_code": {
+        "": 2,
+        "in": 1,
+        "md": 245,
+        "py": 2002,
+        "rst": 289,
+        "sample": 640,
+        "yml": 23
+    },
+    "pep8_infringement": 313,
+    "requirements": [
+        "addressable>=1",
+        "click==3.3",
+        "flask==0.10",
+        "google-api-python-client==1.3",
+        "inspector>=0.2",
+        "keyring==4",
+        "oauth2client==1.3",
+        "python-dateutil==1.5",
+        "pyyaml>=3"
+    ],
+    "shebang": {}
+}

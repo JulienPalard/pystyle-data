@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "css": 1108,
+        "html": 159,
+        "in": 9,
+        "ini": 5,
+        "js": 0,
+        "md": 306,
+        "png": 0,
+        "py": 1760,
+        "sample": 640,
+        "txt": 34,
+        "xml": 33,
+        "yaml": 36
+    },
+    "pep8_infringement": 26,
+    "requirements": [
+        "ashes>=0.7.4",
+        "boltons==15.0.1",
+        "hematite==0.0.2",
+        "html5lib==0.999999",
+        "lithoxyl",
+        "markdown==2.6.2",
+        "pygments==1.6",
+        "python-dateutil==2.2",
+        "pyyaml==3.11"
+    ],
+    "shebang": {}
+}

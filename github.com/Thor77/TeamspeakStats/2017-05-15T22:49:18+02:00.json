@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 11,
+        "broken": 3,
+        "groups": 3,
+        "identmap_wrong_identifier": 7,
+        "ini": 3,
+        "jinja2": 75,
+        "json": 4,
+        "log": 11,
+        "py": 1253,
+        "rst": 253,
+        "sample": 640,
+        "stopped": 4,
+        "txt": 4,
+        "utf8": 2,
+        "yml": 26
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "jinja2>=2.8"
+    ],
+    "shebang": {}
+}

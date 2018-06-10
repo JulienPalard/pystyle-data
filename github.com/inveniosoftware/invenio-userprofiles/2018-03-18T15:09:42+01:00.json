@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 57,
+        "bat": 263,
+        "cfg": 40,
+        "html": 155,
+        "in": 31,
+        "ini": 36,
+        "po": 633,
+        "py": 2321,
+        "rst": 310,
+        "sample": 640,
+        "sh": 78,
+        "txt": 23,
+        "yml": 77
+    },
+    "pep8_infringement": 59,
+    "requirements": [
+        "flask>=0.11.1",
+        "flask-babelex>=0.9.3",
+        "flask-breadcrumbs>=0.3.0",
+        "flask-mail>=0.9.1",
+        "flask-menu>=0.4.0",
+        "flask-wtf>=0.13.1",
+        "invenio-accounts>=1.0.0b3",
+        "wtforms>=2.0.1"
+    ],
+    "shebang": {}
+}

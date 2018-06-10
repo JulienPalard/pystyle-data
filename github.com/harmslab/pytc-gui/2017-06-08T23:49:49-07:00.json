@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Unlicense",
+    "lines_of_code": {
+        "1": 904,
+        "6": 38,
+        "6-config": 69,
+        "6m-config": 69,
+        "DH": 808,
+        "bat": 36,
+        "cnf": 350,
+        "dmg": 3,
+        "exe": 6,
+        "info": 7952,
+        "iss": 44,
+        "md": 31,
+        "pem": 10052,
+        "pl": 188,
+        "plist": 48,
+        "py": 3730,
+        "qss": 13,
+        "rst": 536,
+        "sample": 640,
+        "sh": 205,
+        "svg": 265,
+        "txt": 32,
+        "yml": 31
+    },
+    "pep8_infringement": 728,
+    "requirements": [
+        "pyqt5",
+        "pytc-fitter",
+        "seaborn"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

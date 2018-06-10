@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 6,
+        "html": 220,
+        "in": 4,
+        "md": 181,
+        "py": 967,
+        "rst": 11,
+        "sample": 640,
+        "txt": 5,
+        "yml": 9
+    },
+    "pep8_infringement": 125,
+    "requirements": [
+        "django>=2.0",
+        "django-braces>=1.11.0",
+        "django-crispy-forms>=1.6.1",
+        "django-extensions>=1.7.7",
+        "warrant>=0.2.0"
+    ],
+    "shebang": {}
+}

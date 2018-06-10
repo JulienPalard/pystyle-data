@@ -1,0 +1,65 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 16,
+        "bat": 263,
+        "cfg": 6,
+        "enc": 1,
+        "in": 2,
+        "ipy": 139,
+        "md": 136,
+        "py": 19857,
+        "rst": 6375,
+        "sample": 640,
+        "svg": 3,
+        "txt": 38,
+        "yml": 79
+    },
+    "pep8_infringement": 199,
+    "requirements": [
+        "cycler",
+        "event-model",
+        "historydict",
+        "jsonschema",
+        "matplotlib",
+        "numpy",
+        "super-state-machine",
+        "toolz",
+        "tqdm",
+        "traitlets"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

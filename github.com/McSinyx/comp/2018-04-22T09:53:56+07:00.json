@@ -1,0 +1,52 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "1": 261,
+        "in": 1,
+        "ini": 21,
+        "json": 191,
+        "po": 156,
+        "py": 409,
+        "rst": 297,
+        "sample": 640,
+        "yml": 17
+    },
+    "pep8_infringement": 22,
+    "requirements": [
+        "python-mpv",
+        "youtube-dl"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

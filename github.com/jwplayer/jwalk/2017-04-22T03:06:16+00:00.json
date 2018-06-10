@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 4,
+        "bat": 281,
+        "cfg": 20,
+        "edgelist": 78,
+        "gzip": 26,
+        "in": 5,
+        "ini": 46,
+        "py": 1020,
+        "pyx": 77,
+        "rst": 193,
+        "sample": 640,
+        "txt": 22,
+        "yml": 28
+    },
+    "pep8_infringement": 5,
+    "requirements": [
+        "cython",
+        "gensim>=2.0.0",
+        "joblib",
+        "numpy",
+        "scipy",
+        "setuptools-scm>=1.15.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 1
+    }
+}

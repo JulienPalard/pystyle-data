@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "html": 842,
+        "json": 22,
+        "md": 50,
+        "py": 319,
+        "robot": 40,
+        "rst": 18,
+        "sample": 640,
+        "sh": 1,
+        "txt": 4,
+        "yml": 14
+    },
+    "pep8_infringement": 27,
+    "requirements": [
+        "coverage",
+        "jsonpath-rw==1.4.0",
+        "jsonpath-rw-ext>=0.1.9",
+        "robotframework>=3.0",
+        "tox"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 3
+    }
+}

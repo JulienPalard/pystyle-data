@@ -1,0 +1,52 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 10,
+        "0": 2,
+        "html": 179,
+        "in": 2,
+        "js": 200,
+        "md": 789,
+        "py": 278,
+        "sample": 640,
+        "txt": 3,
+        "yml": 23
+    },
+    "pep8_infringement": 28,
+    "requirements": [
+        "mock",
+        "opal (git+git://github.com/openhealthcare/opal.git@v0.8.0)",
+        "python-dateutil==2.4.2"
+    ],
+    "shebang": {}
+}

@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 35,
+        "conf": 5,
+        "ini": 42,
+        "json": 1,
+        "py": 2000,
+        "rst": 544,
+        "sample": 640,
+        "sh": 26,
+        "txt": 13,
+        "yaml": 608,
+        "yml": 15
+    },
+    "pep8_infringement": 50,
+    "requirements": [
+        "httplib2",
+        "jsonpath-rw",
+        "pbr",
+        "pyyaml",
+        "six",
+        "testtools",
+        "wsgi-intercept"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

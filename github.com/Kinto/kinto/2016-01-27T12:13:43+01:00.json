@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 13,
+        "cfg": 5,
+        "css": 64,
+        "html": 98,
+        "in": 2,
+        "ini": 232,
+        "js": 10,
+        "json": 355,
+        "py": 3764,
+        "rst": 7670,
+        "sample": 640,
+        "svg": 860,
+        "tpl": 145,
+        "txt": 39,
+        "wsgi": 23,
+        "yml": 45
+    },
+    "pep8_infringement": 1,
+    "requirements": [
+        "cliquet>=2.14,<3",
+        "jsonschema",
+        "waitress"
+    ],
+    "shebang": {}
+}

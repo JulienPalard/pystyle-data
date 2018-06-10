@@ -1,0 +1,52 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "": 14,
+        "cfg": 12,
+        "md": 146,
+        "py": 1669,
+        "sample": 640,
+        "yml": 35
+    },
+    "pep8_infringement": 77,
+    "requirements": [
+        "microcosm>=0.17.2",
+        "microcosm-flask>=0.70.0",
+        "microcosm-logging>>0.13.0",
+        "microcosm-postgres>=0.23.0",
+        "microcosm-pubsub>=0.28.1"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": true,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": true,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "c": 190,
+        "cpp": 166,
+        "css": 2477,
+        "f90": 28,
+        "go": 13,
+        "in": 4,
+        "js": 2926,
+        "json": 62,
+        "jsx": 2864,
+        "lock": 3580,
+        "map": 1,
+        "md": 344,
+        "pug": 245,
+        "py": 618,
+        "rs": 34,
+        "rst": 237,
+        "sample": 640,
+        "svg": 55,
+        "txt": 9,
+        "yml": 42
+    },
+    "pep8_infringement": 56,
+    "requirements": [
+        "eventlet>=0.20.1",
+        "flask>=0.12.2",
+        "flask-socketio>=2.9.0",
+        "gevent>=1.2.2",
+        "pygdbmi>=0.7.3.3",
+        "pygments>=2.2.0",
+        "pypugjs>=4.2.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 24,
+        "bat": 242,
+        "cfg": 28,
+        "in": 13,
+        "ini": 21,
+        "md": 15,
+        "py": 619,
+        "rst": 257,
+        "sample": 640,
+        "sh": 14,
+        "txt": 11,
+        "yml": 17
+    },
+    "pep8_infringement": 47,
+    "requirements": [
+        "aiodns>=1.1.1",
+        "aiohttp>=1.2.0",
+        "beautifulsoup4>=4.5.1",
+        "cchardet>=1.1.1",
+        "click>=6.0",
+        "lxml>=3.7.0",
+        "tqdm>=4.10.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 4
+    }
+}

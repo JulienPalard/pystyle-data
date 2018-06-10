@@ -1,0 +1,58 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "R": 553,
+        "in": 1,
+        "ini": 12,
+        "ipynb": 585,
+        "md": 91,
+        "py": 2033,
+        "rst": 193,
+        "sample": 640,
+        "txt": 9,
+        "yaml": 58
+    },
+    "pep8_infringement": 83,
+    "requirements": [
+        "celery",
+        "docopt",
+        "flask",
+        "flask-jsonpify",
+        "mediawiki-utilities",
+        "pylru",
+        "redis",
+        "revscoring",
+        "stopit"
+    ],
+    "shebang": {}
+}

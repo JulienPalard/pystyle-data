@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "conf": 72,
+        "crt": 32,
+        "csr": 28,
+        "html": 118,
+        "in": 2,
+        "init": 156,
+        "key": 105,
+        "license": 38,
+        "mbox": 113,
+        "md": 27,
+        "message": 48,
+        "private": 15,
+        "py": 17406,
+        "py__": 0,
+        "rst": 27,
+        "sample": 640,
+        "txt": 2
+    },
+    "pep8_infringement": 19688,
+    "requirements": [
+        "beautifulsoup4",
+        "pyclamd",
+        "pypdf2",
+        "python-magic"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 11,
+        "#!/usr/bin/python3": 1
+    }
+}

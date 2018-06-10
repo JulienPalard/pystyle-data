@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 27,
+        "cfg": 29,
+        "cgi": 11,
+        "cmd": 11,
+        "in": 26,
+        "ini": 133,
+        "md": 101,
+        "postgres": 3,
+        "py": 11797,
+        "rst": 484,
+        "sample": 640,
+        "txt": 42,
+        "wsgi": 35,
+        "yml": 52
+    },
+    "pep8_infringement": 475,
+    "requirements": [
+        "flask",
+        "future",
+        "injector==0.12.1",
+        "requests>=2.7",
+        "sqlalchemy>=1",
+        "typing>=3.5",
+        "werkzeug>=0.12"
+    ],
+    "shebang": {}
+}

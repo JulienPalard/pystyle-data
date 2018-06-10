@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "GPL-3.0",
+    "lines_of_code": {
+        "": 8,
+        "bob": 305,
+        "cfg": 149,
+        "conf": 24,
+        "ini": 36,
+        "log": 14,
+        "po": 0,
+        "py": 1565,
+        "rst": 363,
+        "sample": 640,
+        "yml": 29
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "bobtemplates.odoo",
+        "bumpversion",
+        "click",
+        "colorama",
+        "configparser",
+        "flake8",
+        "lxml",
+        "pip>=9.0.1",
+        "pylint-odoo",
+        "setuptools<31,>=20",
+        "wheel>=0.29"
+    ],
+    "shebang": {}
+}

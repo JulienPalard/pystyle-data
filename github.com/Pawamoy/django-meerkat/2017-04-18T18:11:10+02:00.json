@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": true,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "ISC",
+    "lines_of_code": {
+        "": 79,
+        "cfg": 50,
+        "html": 187,
+        "in": 27,
+        "ini": 142,
+        "py": 2921,
+        "rst": 199,
+        "sample": 640,
+        "sh": 71,
+        "txt": 35,
+        "yapf": 155,
+        "yml": 102
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "django-fake-model==0.1.4",
+        "pytest==3.0.7",
+        "pytest-cov==2.4.0",
+        "pytest-django==3.1.2",
+        "pytest-travis-fold==1.2.0",
+        "tox==2.7.0"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 14,
+        "bat": 242,
+        "cfg": 16,
+        "in": 13,
+        "ini": 54,
+        "py": 782,
+        "rst": 415,
+        "sample": 640,
+        "txt": 130,
+        "yml": 57
+    },
+    "pep8_infringement": 72,
+    "requirements": [
+        "pyramid>=1.9.dev0",
+        "zope.interface"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

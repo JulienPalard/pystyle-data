@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": true,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "c": 1373,
+        "cc": 51818,
+        "cmake": 1176,
+        "data": 150,
+        "gmm": 1536,
+        "h": 32110,
+        "in": 1931,
+        "lst": 76,
+        "names": 63,
+        "out": 422,
+        "pos": 59,
+        "py": 26492,
+        "rst": 3914,
+        "sample": 640,
+        "sh": 32,
+        "svg": 4763,
+        "svmdata": 420,
+        "svmmodel": 353,
+        "tensor": 2,
+        "txt": 40954,
+        "xml": 368
+    },
+    "pep8_infringement": 16375,
+    "requirements": [],
+    "shebang": {
+        "#!/usr/bin/env python": 148
+    }
+}

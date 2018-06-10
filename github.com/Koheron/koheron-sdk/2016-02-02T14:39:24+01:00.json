@@ -1,0 +1,62 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 1,
+        "c": 467,
+        "conf": 46,
+        "config": 9,
+        "cpp": 815,
+        "dts": 63,
+        "h": 40,
+        "hpp": 483,
+        "j2": 43,
+        "md": 65,
+        "patch": 620,
+        "py": 680,
+        "sample": 640,
+        "sh": 369,
+        "tcl": 2618,
+        "txt": 13,
+        "v": 814,
+        "xdc": 224,
+        "yml": 114
+    },
+    "pep8_infringement": 137,
+    "requirements": [
+        "jinja2",
+        "pyyaml"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

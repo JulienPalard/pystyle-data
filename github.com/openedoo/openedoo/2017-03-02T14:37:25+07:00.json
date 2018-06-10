@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "example": 42,
+        "in": 4,
+        "json": 34,
+        "md": 72,
+        "py": 2764,
+        "rst": 72,
+        "sample": 640,
+        "sh": 25,
+        "txt": 1,
+        "yaml": 16,
+        "yml": 11
+    },
+    "pep8_infringement": 1780,
+    "requirements": [
+        "alembic",
+        "click",
+        "flask",
+        "flask-migrate",
+        "flask-script",
+        "flask-script",
+        "gitdb2",
+        "gitpython",
+        "itsdangerous",
+        "jinja2",
+        "mysql-python",
+        "openedoo-script-test",
+        "redis",
+        "smmap2",
+        "sqlalchemy",
+        "werkzeug"
+    ],
+    "shebang": {
+        "#!/bin/python": 2
+    }
+}

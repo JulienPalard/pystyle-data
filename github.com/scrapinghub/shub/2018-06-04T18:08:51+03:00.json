@@ -1,0 +1,61 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 26,
+        "css": 5,
+        "in": 14,
+        "ini": 30,
+        "md": 34,
+        "py": 8746,
+        "rst": 1303,
+        "sample": 640,
+        "txt": 47,
+        "yml": 145
+    },
+    "pep8_infringement": 83,
+    "requirements": [
+        "click",
+        "docker-py",
+        "pip",
+        "pyyaml",
+        "requests",
+        "retrying",
+        "scrapinghub>=1.9.0",
+        "six>=1.7.0",
+        "tqdm"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 6
+    }
+}

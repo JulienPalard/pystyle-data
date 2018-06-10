@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 263,
+        "cfg": 2,
+        "css": 27,
+        "md": 2,
+        "py": 504,
+        "rst": 694,
+        "sample": 640,
+        "txt": 4
+    },
+    "pep8_infringement": 79,
+    "requirements": [
+        "aiohttp",
+        "namedlist",
+        "python-dateutil",
+        "simplejson"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

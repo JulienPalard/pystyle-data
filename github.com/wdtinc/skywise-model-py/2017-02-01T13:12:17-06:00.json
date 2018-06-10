@@ -1,0 +1,50 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": false,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": true,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "json": 404,
+        "md": 15,
+        "py": 1092,
+        "rst": 13,
+        "sample": 640,
+        "txt": 5,
+        "yml": 15
+    },
+    "pep8_infringement": 104,
+    "requirements": [
+        "skywise-rest-client",
+        "voluptuous"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

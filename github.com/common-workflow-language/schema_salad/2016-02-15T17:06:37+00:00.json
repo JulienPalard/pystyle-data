@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "ini": 19,
+        "md": 368,
+        "owl": 51294,
+        "py": 2080,
+        "rst": 75,
+        "sample": 640,
+        "txt": 202,
+        "yml": 833
+    },
+    "pep8_infringement": 249,
+    "requirements": [
+        "avro",
+        "mistune",
+        "pyyaml",
+        "rdflib>=4.2.0",
+        "rdflib-jsonld>=0.3.0",
+        "requests"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

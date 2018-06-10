@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-2-Clause",
+    "lines_of_code": {
+        "": 20,
+        "cfg": 39,
+        "css": 66072,
+        "html": 65,
+        "in": 26,
+        "js": 281,
+        "json": 1521,
+        "md": 3716,
+        "py": 40712,
+        "rst": 2811,
+        "sample": 640,
+        "sql": 72,
+        "svg": 284,
+        "tmpl": 43,
+        "txt": 24,
+        "yaml": 141,
+        "yml": 49
+    },
+    "pep8_infringement": 941,
+    "requirements": [
+        "aioconsole",
+        "aiohttp<2.4.0,>=2.3.6",
+        "aiotask-context",
+        "asyncpg",
+        "cffi",
+        "jsonschema",
+        "pycrypto",
+        "pyjwt",
+        "python-dateutil",
+        "pyyaml",
+        "setuptools",
+        "ujson",
+        "zope.interface"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 2,
+        "c": 2360,
+        "css": 598,
+        "h": 175,
+        "html": 570,
+        "in": 3,
+        "js": 643,
+        "json": 15,
+        "m4": 104,
+        "markdown": 980,
+        "md": 17,
+        "mk": 175,
+        "py": 9924,
+        "re": 159,
+        "sample": 640,
+        "svg": 68,
+        "txt": 1116
+    },
+    "pep8_infringement": 9,
+    "requirements": [
+        "future",
+        "lxml",
+        "pygraphviz>=1.3.rc2",
+        "pyyaml",
+        "schema",
+        "sqlalchemy>=1.0.8",
+        "toposort==1.4",
+        "wheezy.template==0.1.167"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2,
+        "#!/usr/bin/python": 1
+    }
+}

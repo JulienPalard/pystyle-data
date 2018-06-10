@@ -1,0 +1,59 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 0,
+        "cfg": 13,
+        "css": 5133,
+        "html": 30853,
+        "ini": 3,
+        "ipynb": 2013,
+        "js": 9924,
+        "json": 89,
+        "md": 1338,
+        "py": 770,
+        "rst": 329,
+        "sample": 640,
+        "scss": 2632,
+        "txt": 34,
+        "yml": 27
+    },
+    "pep8_infringement": 9,
+    "requirements": [
+        "matplotlib",
+        "numpy",
+        "scipy"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

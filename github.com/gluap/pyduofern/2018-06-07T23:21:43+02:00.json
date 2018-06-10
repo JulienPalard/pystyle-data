@@ -1,0 +1,53 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "1207247": 41,
+        "6005006": 56,
+        "8626764": 29,
+        "ini": 12,
+        "json": 19,
+        "py": 3316,
+        "rst": 197,
+        "sample": 640,
+        "txt": 280,
+        "yml": 12
+    },
+    "pep8_infringement": 275,
+    "requirements": [
+        "pyserial",
+        "pyserial-asyncio"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 10
+    }
+}

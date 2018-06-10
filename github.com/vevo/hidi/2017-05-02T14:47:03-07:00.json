@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "Apache-2.0",
+    "lines_of_code": {
+        "cfg": 2,
+        "csv": 9519,
+        "ini": 11,
+        "py": 1331,
+        "rst": 221,
+        "sample": 640,
+        "txt": 15,
+        "yml": 8
+    },
+    "pep8_infringement": 1,
+    "requirements": [
+        "futures>=3.1.0",
+        "nimfa>=1.1.0",
+        "numpy>=1.8.0",
+        "pandas>=0.17.0",
+        "pyvalid>=0.6",
+        "scikit-learn>=0.17.0",
+        "scipy>=0.16.0",
+        "sphinx==1.5.5",
+        "sphinx-autobuild==0.6.0",
+        "sphinx-rtd-theme==0.2.4",
+        "sphinxcontrib-fulltoc==1.2.0",
+        "tox==2.7.0",
+        "tqdm>=4.0.0"
+    ],
+    "shebang": {}
+}

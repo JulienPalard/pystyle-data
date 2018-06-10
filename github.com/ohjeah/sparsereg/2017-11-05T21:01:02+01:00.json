@@ -1,0 +1,51 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "LGPL-3.0",
+    "lines_of_code": {
+        "cfg": 6,
+        "in": 3,
+        "py": 3529,
+        "rst": 29,
+        "sample": 640,
+        "txt": 5,
+        "yml": 28
+    },
+    "pep8_infringement": 0,
+    "requirements": [
+        "joblib",
+        "numpy",
+        "scikit-learn>=0.19",
+        "sympy",
+        "toolz"
+    ],
+    "shebang": {}
+}

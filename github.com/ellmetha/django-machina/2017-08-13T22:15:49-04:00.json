@@ -1,0 +1,71 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": true,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": true,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "BSD-3-Clause",
+    "lines_of_code": {
+        "": 171,
+        "bat": 242,
+        "cfg": 26,
+        "css": 10541,
+        "html": 3815,
+        "in": 11,
+        "ini": 103,
+        "js": 61342,
+        "json": 3497,
+        "kyz": 0,
+        "less": 11298,
+        "lock": 43,
+        "map": 13,
+        "md": 513,
+        "nuspec": 56,
+        "po": 7210,
+        "ps1": 8,
+        "py": 19370,
+        "rst": 1792,
+        "sample": 640,
+        "scss": 1612,
+        "svg": 25972,
+        "txt": 168,
+        "yml": 175
+    },
+    "pep8_infringement": 1437,
+    "requirements": [
+        "django>=1.8",
+        "django-haystack>=2.1",
+        "django-mptt>=0.8",
+        "django-widget-tweaks>=1.4",
+        "markdown2>=2.3",
+        "pillow>=2.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

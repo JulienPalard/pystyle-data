@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": true,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 19,
+        "cfg": 17,
+        "in": 2,
+        "ini": 22,
+        "json": 1,
+        "py": 28502,
+        "rst": 878,
+        "sample": 640,
+        "sh": 24,
+        "thrift": 599,
+        "txt": 48,
+        "yml": 31
+    },
+    "pep8_infringement": 5648,
+    "requirements": [
+        "contextlib2",
+        "crcmod",
+        "futures",
+        "threadloop>=0.5,<0.6",
+        "thriftrw>=0.3,<0.4",
+        "tornado<5.0,>=4.0",
+        "toro<0.9,>=0.8"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

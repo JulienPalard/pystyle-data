@@ -1,0 +1,60 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 22,
+        "c": 8938,
+        "cfg": 389,
+        "in": 2,
+        "lyx": 105,
+        "md": 113,
+        "py": 8242,
+        "pyx": 134,
+        "rst": 173,
+        "sample": 640,
+        "txt": 26609,
+        "yml": 73
+    },
+    "pep8_infringement": 3014,
+    "requirements": [
+        "ase>=3.9",
+        "colorama",
+        "h5py>=2.6",
+        "matplotlib>=1.5",
+        "numba",
+        "numpy>=1.11",
+        "pyyaml>=3.12",
+        "scipy>=0.18",
+        "tqdm>=4.8"
+    ],
+    "shebang": {}
+}

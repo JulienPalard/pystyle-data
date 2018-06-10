@@ -1,0 +1,68 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 0,
+        "11": 6,
+        "12": 55,
+        "14": 1,
+        "15": 4,
+        "16": 4914,
+        "2": 24,
+        "3": 81,
+        "8": 6,
+        "9": 24,
+        "f": 21008,
+        "py": 203,
+        "ref": 29821,
+        "rst": 69,
+        "sample": 640,
+        "txt": 5488,
+        "yml": 42
+    },
+    "pep8_infringement": 169,
+    "requirements": [
+        "matplotlib",
+        "nose",
+        "numpy",
+        "python-dateutil",
+        "pytz",
+        "seaborn",
+        "setuptools",
+        "six",
+        "xarray"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1,
+        "#!/usr/bin/env python3": 3
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": false,
+        "src/": false,
+        "test/": true,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": false,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "bat": 51,
+        "cfg": 6,
+        "in": 11,
+        "ini": 8,
+        "py": 3933,
+        "rst": 300,
+        "sample": 640,
+        "txt": 478,
+        "yml": 57
+    },
+    "pep8_infringement": 15,
+    "requirements": [
+        "enum34",
+        "ipaddress",
+        "mbstrdecoder>=0.2.3",
+        "path.py",
+        "pytest",
+        "pytest-cov",
+        "python-dateutil>=2.7.2",
+        "pytz>=2018.4",
+        "readmemaker>=0.5.0",
+        "six>=1.11",
+        "sphinx",
+        "sphinx-rtd-theme",
+        "tox"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

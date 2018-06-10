@@ -1,0 +1,55 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 8,
+        "in": 3,
+        "ini": 9,
+        "md": 261,
+        "py": 550,
+        "sample": 640,
+        "txt": 15,
+        "yml": 1366
+    },
+    "pep8_infringement": 45,
+    "requirements": [
+        "dateparser",
+        "pdfminer.six",
+        "pillow",
+        "pytesseract",
+        "pyyaml",
+        "unidecode"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 1
+    }
+}

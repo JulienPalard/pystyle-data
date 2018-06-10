@@ -1,0 +1,57 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": false,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "": 4,
+        "json": 16,
+        "py": 940,
+        "rst": 26,
+        "sample": 640,
+        "sh": 23,
+        "txt": 10,
+        "yaml": 19,
+        "yml": 31
+    },
+    "pep8_infringement": 24,
+    "requirements": [
+        "botstory==0.0.46",
+        "gunicorn==19.6.0",
+        "inflection==0.3.1",
+        "pytest==3.0.4",
+        "pytest-aiohttp==0.1.2",
+        "pytest-asyncio==0.5.0",
+        "pytest-catchlog==1.2.2",
+        "pytest-cov==2.4.0",
+        "pytest-mock==1.4.0"
+    ],
+    "shebang": {}
+}

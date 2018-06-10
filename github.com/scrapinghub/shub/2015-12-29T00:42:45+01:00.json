@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "cfg": 10,
+        "ini": 22,
+        "md": 28,
+        "py": 2236,
+        "rst": 102,
+        "sample": 640,
+        "sh": 15,
+        "txt": 7,
+        "yml": 21
+    },
+    "pep8_infringement": 20,
+    "requirements": [
+        "click",
+        "hubstorage",
+        "requests",
+        "ruamel.yaml",
+        "scrapinghub",
+        "six"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 5
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": false
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": false,
+        "LICENSE.txt": true,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": "MIT",
+    "lines_of_code": {
+        "cfg": 2,
+        "glsl": 192,
+        "in": 4,
+        "ini": 42,
+        "md": 28,
+        "py": 2319,
+        "rst": 340,
+        "sample": 640,
+        "txt": 27,
+        "yml": 12
+    },
+    "pep8_infringement": 144,
+    "requirements": [
+        "glfw==1.4.0",
+        "pillow==4.0.0",
+        "pygame==1.9.3",
+        "pyopengl==3.1.0",
+        "pyrr==0.8.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}

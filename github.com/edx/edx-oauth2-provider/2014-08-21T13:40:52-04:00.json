@@ -1,0 +1,49 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": false,
+        "examples/": false,
+        "src/": false,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": false,
+        "Makefile": false,
+        "README": false,
+        "README.md": true,
+        "README.rst": false,
+        "pytest.ini": false,
+        "requirements.txt": true,
+        "setup.cfg": false,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": false
+    },
+    "license": "AGPL-3.0",
+    "lines_of_code": {
+        "": 299,
+        "html": 37,
+        "md": 23,
+        "py": 726,
+        "sample": 640,
+        "txt": 5
+    },
+    "pep8_infringement": 59,
+    "requirements": [
+        "django>=1.4.12",
+        "django-oauth2-provider (git+https://github.com/edx/django-oauth2-provider.git@0250c1c0fad965d95723a69967e21b5529b37611)"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python": 2
+    }
+}

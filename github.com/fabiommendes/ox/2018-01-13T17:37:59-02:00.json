@@ -1,0 +1,54 @@
+{
+    "has_dir": {
+        "doc/": false,
+        "docs/": true,
+        "examples/": true,
+        "src/": true,
+        "test/": false,
+        "tests/": true
+    },
+    "has_file": {
+        ".gitignore": true,
+        "AUTHORS.md": false,
+        "AUTHORS.rst": false,
+        "CHANGELOG.md": false,
+        "CHANGELOG.rst": false,
+        "CONTRIBUTING.md": false,
+        "CONTRIBUTING.rst": false,
+        "LICENSE": true,
+        "LICENSE.txt": false,
+        "MANIFEST.in": true,
+        "Makefile": false,
+        "README": false,
+        "README.md": false,
+        "README.rst": true,
+        "pytest.ini": true,
+        "requirements.txt": true,
+        "setup.cfg": true,
+        "setup.py": true,
+        "test-requirements.txt": false,
+        "tox.ini": true
+    },
+    "license": null,
+    "lines_of_code": {
+        "": 32,
+        "bat": 263,
+        "cfg": 15,
+        "in": 6,
+        "ini": 77,
+        "py": 5237,
+        "rst": 1214,
+        "sample": 640,
+        "txt": 1,
+        "yml": 27
+    },
+    "pep8_infringement": 80,
+    "requirements": [
+        "lazyutils",
+        "ply",
+        "sidekick>=0.0.2"
+    ],
+    "shebang": {
+        "#!/usr/bin/env python3": 1
+    }
+}
